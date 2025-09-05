@@ -5,6 +5,39 @@ import numpy as np
 
 
 ##########
+##  Knowledge Distillation
+##########
+
+class KnowledgeDistillationLoss(nn.Module):
+    """Knowledge Distillation Loss with temperature scaling"""
+    def __init__(self, temperature=4.0, alpha=0.7):
+        super(KnowledgeDistillationLoss, self).__init__()
+        self.temperature = temperature
+        self.alpha = alpha
+        self.kl_div = nn.KLDivLoss(reduction='batchmean')
+        self.ce_loss = nn.CrossEntropyLoss()
+    
+    def forward(self, student_logits, teacher_logits, labels):
+        # Soft targets from teacher
+        teacher_probs = F.softmax(teacher_logits / self.temperature, dim=1)
+        student_log_probs = F.log_softmax(student_logits / self.temperature, dim=1)
+        
+        # KL divergence loss (scaled by temperature^2)
+        kd_loss = self.kl_div(student_log_probs, teacher_probs) * (self.temperature ** 2)
+        
+        # Standard cross-entropy loss
+        ce_loss = self.ce_loss(student_logits, labels)
+        
+        # Combined loss
+        return self.alpha * kd_loss + (1 - self.alpha) * ce_loss
+
+def distillation_loss(student_output, teacher_output, labels, temperature=4.0, alpha=0.7):
+    """Standalone knowledge distillation loss function"""
+    kd_criterion = KnowledgeDistillationLoss(temperature=temperature, alpha=alpha)
+    return kd_criterion(student_output, teacher_output, labels)
+
+
+##########
 ##  ReAct
 ##########
 '''
@@ -152,7 +185,8 @@ class BinaryConv2d(nn.Conv2d):
 class PGBinaryConv2d(nn.Conv2d):
     def __init__(self, in_channels, out_channels, kernel_size, stride=1,
                  padding=0, dilation=1, groups=1, bias=False,
-                 padding_mode='zeros', sparse_bp=True, init=-1.0):
+                 padding_mode='zeros', sparse_bp=True, init=-1.0, 
+                 adaptive_pg=False, target_sparsity=0.15):
         super(PGBinaryConv2d, self).__init__(in_channels, out_channels,
                                        kernel_size, stride,
                                        padding, dilation, groups,
@@ -166,6 +200,17 @@ class PGBinaryConv2d(nn.Conv2d):
         '''
         self.threshold = nn.Parameter(torch.ones(1, out_channels, 1, 1)*init)
 
+        ''' Adaptive PG: learnable gate vector '''
+        self.adaptive_pg = adaptive_pg
+        self.target_sparsity = target_sparsity
+        if adaptive_pg:
+            # Learnable gate vector g ∈ [0,1]^Cout (sigmoid)
+            self.gate_logits = nn.Parameter(torch.randn(out_channels) * 0.1)
+            # Temperature for annealing
+            self.register_buffer('temperature', torch.tensor(1.0))
+            # Threshold for hard decisions
+            self.register_buffer('hard_threshold', torch.tensor(0.5))
+
         ''' number of output features '''
         self.num_out = torch.zeros(1)
         ''' number of output features computed at high precision '''
@@ -177,18 +222,68 @@ class PGBinaryConv2d(nn.Conv2d):
                            self.binarize(self.weight),
                            self.bias, self.stride, self.padding,
                            self.dilation, self.groups) * 2.0 / 3.0
-        ''' Calculate the mask '''
-        mask = self.gt(torch.sigmoid(5.0*(out_msb-self.threshold)), 0.5)
-        ''' update report '''
-        self.num_out.fill_( mask.numel() )
-        self.num_high.fill_( (mask>0).sum().item() )
-        ''' full convolution '''
-        out_full = F.conv2d(input,
-                           self.binarize(self.weight),
-                           self.bias, self.stride, self.padding,
-                           self.dilation, self.groups)
-        ''' combine outputs '''
-        return (1-mask) * out_msb + mask * out_full
+        
+        if self.adaptive_pg:
+            # Adaptive PG: use learnable gates to determine which channels get 2-bit
+            gates = torch.sigmoid(self.gate_logits / self.temperature)  # [out_channels]
+            
+            # Straight-through estimator for hard threshold
+            hard_gates = (gates > self.hard_threshold).float()
+            gates_ste = hard_gates.detach() + gates - gates.detach()
+            
+            # Expand gates to match output dimensions [1, out_channels, 1, 1]
+            channel_mask = gates_ste.view(1, -1, 1, 1)
+            
+            ''' update report '''
+            self.num_out.fill_( out_msb.numel() )
+            self.num_high.fill_( (channel_mask > 0).sum().item() * out_msb.shape[2] * out_msb.shape[3] * out_msb.shape[0] )
+            
+            ''' full convolution only for selected channels '''
+            out_full = F.conv2d(input,
+                               self.binarize(self.weight),
+                               self.bias, self.stride, self.padding,
+                               self.dilation, self.groups)
+            
+            ''' combine outputs: channels with gate>threshold get full precision '''
+            return (1-channel_mask) * out_msb + channel_mask * out_full
+        else:
+            # Original PG logic
+            ''' Calculate the mask '''
+            mask = self.gt(torch.sigmoid(5.0*(out_msb-self.threshold)), 0.5)
+            ''' update report '''
+            self.num_out.fill_( mask.numel() )
+            self.num_high.fill_( (mask>0).sum().item() )
+            ''' full convolution '''
+            out_full = F.conv2d(input,
+                               self.binarize(self.weight),
+                               self.bias, self.stride, self.padding,
+                               self.dilation, self.groups)
+            ''' combine outputs '''
+            return (1-mask) * out_msb + mask * out_full
+    
+    def get_sparsity_loss(self):
+        """Return L1 penalty on gate vector for sparsity regularization"""
+        if self.adaptive_pg:
+            gates = torch.sigmoid(self.gate_logits)
+            return torch.mean(gates)
+        return 0.0
+    
+    def set_temperature(self, temp):
+        """Set temperature for gate annealing"""
+        if self.adaptive_pg:
+            self.temperature.fill_(temp)
+    
+    def get_gate_stats(self):
+        """Get statistics about gate activations"""
+        if self.adaptive_pg:
+            gates = torch.sigmoid(self.gate_logits)
+            active_fraction = (gates > self.hard_threshold).float().mean().item()
+            return {
+                'active_fraction': active_fraction,
+                'gate_mean': gates.mean().item(),
+                'gate_std': gates.std().item()
+            }
+        return {}
 
 
 ##########
