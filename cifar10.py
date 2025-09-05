@@ -58,7 +58,8 @@ parser.add_argument('--teacher_path', '-tp', type=str, default=None,
 
 args = parser.parse_args()
 _ARCH = candidates[args.model_id]
-drop_last = True if 'binput' in _ARCH else False
+# All our models use binary input encoder, so need drop_last=True
+drop_last = True if ('binput' in _ARCH or 'adaptive' in _ARCH) else False
 
 
 #----------------------------

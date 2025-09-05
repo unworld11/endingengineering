@@ -293,28 +293,27 @@ class PGBinaryConv2d(nn.Conv2d):
 class InputEncoder(nn.Module):
     '''
     Encode the input images to bipolar strings using thermometer encoding.
-    Request:
-        Know the input size beforehand.
+    Handles dynamic batch sizes during training.
     '''
     def __init__(self, input_size, resolution):
         super(InputEncoder, self).__init__()
         self.n, self.c, self.h, self.w = input_size
         self.resolution = int(resolution)
         self.b = int(round(255.0/self.resolution))
-        placeholder = torch.ones(self.n, self.c, self.b, self.h, self.w, \
-                                      dtype=torch.float32).cuda() if \
-                           torch.cuda.is_available() else \
-                           torch.ones(self.n, self.c, self.b, self.h, self.w, \
-                                      dtype=torch.float32)
-        placeholder *= torch.arange(self.b).view(1,1,-1,1,1).cuda() if \
-                            torch.cuda.is_available() else \
-                            torch.arange(self.b).view(1,1,-1,1,1)
-        self.register_buffer('placeholder', placeholder)
+        
+        # Create a template placeholder that can be expanded dynamically
+        template = torch.arange(self.b, dtype=torch.float32).view(1, 1, -1, 1, 1)
+        self.register_buffer('template', template)
 
     def forward(self, x):
-        x = (x * 255.0).view(-1, self.c, 1, self.h, self.w)
-        output = (self.placeholder < torch.round(x/self.resolution)).float()
+        batch_size = x.size(0)
+        x = (x * 255.0).view(batch_size, self.c, 1, self.h, self.w)
+        
+        # Expand template to match current batch size
+        placeholder = self.template.expand(batch_size, self.c, self.b, self.h, self.w)
+        
+        output = (placeholder < torch.round(x/self.resolution)).float()
         output *= 2.0
         output -= 1.0
-        return output.view(-1, self.b*self.c, self.h, self.w).detach()
+        return output.view(batch_size, self.b*self.c, self.h, self.w).detach()
 
