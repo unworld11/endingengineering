@@ -55,6 +55,12 @@ parser.add_argument('--kd_alpha', '-alpha', type=float, default=0.7,
                     help='alpha for knowledge distillation loss weighting')
 parser.add_argument('--teacher_path', '-tp', type=str, default=None,
                     help='path to pretrained teacher model')
+parser.add_argument('--entropy_weight', '-ew', type=float, default=0.0,
+                    help='weight for gate entropy regularization (encourage 0/1 gates)')
+parser.add_argument('--pg_kd', action='store_true',
+                    help='enable PG-only feature KD on upgraded channels')
+parser.add_argument('--pg_kd_weight', type=float, default=0.5,
+                    help='weight for PG-only feature KD loss (feature MSE)')
 
 args = parser.parse_args()
 _ARCH = candidates[args.model_id]
@@ -141,6 +147,32 @@ def train_model(trainloader, testloader, net,
         teacher_net.eval()  # Teacher always in eval mode
         print(f"Using Knowledge Distillation with T={args.kd_temperature}, alpha={args.kd_alpha}")
 
+    # PG-only KD feature hooks (student and teacher) when enabled
+    use_pg_kd = bool(args.pg_kd)
+    student_feats = {}
+    teacher_feats = {}
+    student_handles = []
+    teacher_handles = []
+
+    def register_pg_feature_hooks(model, is_teacher=False):
+        feats = teacher_feats if is_teacher else student_feats
+        handles = teacher_handles if is_teacher else student_handles
+
+        def make_hook(name):
+            def hook(module, inp, out):
+                feats[name] = out.detach() if is_teacher else out
+            return hook
+
+        for name, module in model.named_modules():
+            if isinstance(module, q.PGBinaryConv2d) and getattr(module, 'adaptive_pg', False):
+                handles.append(module.register_forward_hook(make_hook(name)))
+
+    if use_pg_kd and teacher_net is not None:
+        import utils.quantization as q
+        register_pg_feature_hooks(net, is_teacher=False)
+        register_pg_feature_hooks(teacher_net, is_teacher=True)
+        print("Enabled PG-only feature KD with hooks on adaptive PG layers.")
+
     best_acc = 0.0
     best_model = copy.deepcopy(net.state_dict())
 
@@ -196,6 +228,36 @@ def train_model(trainloader, testloader, net,
                 if 'adaptive-pg' in _ARCH and hasattr(net, 'get_sparsity_loss'):
                     sparsity_loss = net.get_sparsity_loss()
                     loss += args.sparsity_weight * sparsity_loss
+
+                # Gate entropy regularizer (encourage crisper 0/1 gates)
+                if 'adaptive-pg' in _ARCH and hasattr(net, 'get_entropy_loss') and args.entropy_weight > 0.0:
+                    entropy_loss = net.get_entropy_loss()
+                    loss += args.entropy_weight * entropy_loss
+
+                # PG-only feature KD (feature MSE on upgraded channels only)
+                if use_pg_kd and teacher_net is not None and student_feats and teacher_feats:
+                    pg_kd_loss = 0.0
+                    count = 0
+                    for name, s_feat in student_feats.items():
+                        if name in teacher_feats:
+                            t_feat = teacher_feats[name]
+                            # Resize teacher feats if DataParallel wraps
+                            if t_feat.size() != s_feat.size():
+                                # Best-effort: center crop or interpolate spatial dims
+                                _, _, h, w = s_feat.size()
+                                t_feat = torch.nn.functional.interpolate(t_feat, size=(h, w), mode='bilinear', align_corners=False)
+                            # Build channel mask from current module's hard gates
+                            module = dict(net.named_modules())[name]
+                            if hasattr(module, 'get_hard_gates'):
+                                hard = module.get_hard_gates()
+                                if hard is not None:
+                                    mask = hard.view(1, -1, 1, 1).to(s_feat.device)
+                                    # MSE only on upgraded channels
+                                    diff = (s_feat - t_feat) * mask
+                                    pg_kd_loss = pg_kd_loss + torch.mean(diff * diff)
+                                    count += 1
+                    if count > 0:
+                        loss += args.pg_kd_weight * (pg_kd_loss / count)
             
             loss.backward()
             optimizer.step()

@@ -268,6 +268,17 @@ class PGBinaryConv2d(nn.Conv2d):
             return torch.mean(gates)
         return 0.0
     
+    def get_entropy_loss(self):
+        """Return mean binary entropy of gates to push decisions away from 0.5.
+        Minimizing this term encourages crisper 0/1 gates.
+        """
+        if self.adaptive_pg:
+            gates = torch.sigmoid(self.gate_logits)
+            eps = 1e-8
+            entropy = -(gates * torch.log(gates + eps) + (1.0 - gates) * torch.log(1.0 - gates + eps))
+            return torch.mean(entropy)
+        return 0.0
+    
     def set_temperature(self, temp):
         """Set temperature for gate annealing"""
         if self.adaptive_pg:
@@ -284,6 +295,13 @@ class PGBinaryConv2d(nn.Conv2d):
                 'gate_std': gates.std().item()
             }
         return {}
+
+    def get_hard_gates(self):
+        """Return hard 0/1 gates per output channel based on current logits."""
+        if self.adaptive_pg:
+            gates = torch.sigmoid(self.gate_logits)
+            return (gates > self.hard_threshold).float()
+        return None
 
 
 ##########

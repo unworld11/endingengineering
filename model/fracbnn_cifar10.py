@@ -131,6 +131,16 @@ class ResNet(nn.Module):
                 count += 1
         return total_loss / count if count > 0 else 0.0
     
+    def get_entropy_loss(self):
+        """Collect entropy loss from all adaptive PG layers"""
+        total_loss = 0.0
+        count = 0
+        for module in self.modules():
+            if isinstance(module, q.PGBinaryConv2d) and module.adaptive_pg:
+                total_loss += module.get_entropy_loss()
+                count += 1
+        return total_loss / count if count > 0 else 0.0
+    
     def set_temperature(self, temp):
         """Set temperature for all adaptive PG layers"""
         for module in self.modules():
