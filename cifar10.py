@@ -63,6 +63,12 @@ parser.add_argument('--pg_kd_weight', type=float, default=0.5,
                     help='weight for PG-only feature KD loss (feature MSE)')
 
 args = parser.parse_args()
+
+# Validate model_id
+if args.model_id < 0 or args.model_id >= len(candidates):
+    raise ValueError(f"Invalid model_id={args.model_id}. Must be in range [0, {len(candidates)-1}]. "
+                     f"Available models: {', '.join([f'{i}={c}' for i, c in enumerate(candidates)])}")
+
 _ARCH = candidates[args.model_id]
 # All our models use binary input encoder, so need drop_last=True
 drop_last = True if ('binput' in _ARCH or 'adaptive' in _ARCH) else False
@@ -81,9 +87,13 @@ def load_cifar10():
     ]
     transform_test_list = [transforms.ToTensor()]
 
-    if 'binput' not in _ARCH:
+    # Don't normalize for models with binary input encoder (binput and adaptive-pg)
+    if 'binput' not in _ARCH and 'adaptive' not in _ARCH:
         transform_train_list.append(normalize)
         transform_test_list.append(normalize)
+        print("Using normalized inputs (ImageNet stats) for data preprocessing")
+    else:
+        print("Using raw [0,1] inputs for binary input encoder (no normalization)")
 
     transform_train = transforms.Compose(transform_train_list)
     transform_test = transforms.Compose(transform_test_list)
@@ -138,6 +148,7 @@ def train_model(trainloader, testloader, net,
     
     # Knowledge distillation setup
     use_kd = teacher_net is not None and 'kd' in _ARCH
+    normalize_teacher_inputs = False
     if use_kd:
         import utils.quantization as q
         kd_criterion = q.KnowledgeDistillationLoss(
@@ -146,6 +157,13 @@ def train_model(trainloader, testloader, net,
         ).to(device)
         teacher_net.eval()  # Teacher always in eval mode
         print(f"Using Knowledge Distillation with T={args.kd_temperature}, alpha={args.kd_alpha}")
+        
+        # Pre-compute normalization tensors for teacher (if student uses binary input)
+        if 'adaptive' in _ARCH or 'binput' in _ARCH:
+            normalize_teacher_inputs = True
+            normalize_mean = torch.tensor([0.485, 0.456, 0.406]).view(1, 3, 1, 1).to(device)
+            normalize_std = torch.tensor([0.229, 0.224, 0.225]).view(1, 3, 1, 1).to(device)
+            print("Teacher will receive normalized inputs, student receives raw [0,1] inputs")
 
     # PG-only KD feature hooks (student and teacher) when enabled
     use_pg_kd = bool(args.pg_kd)
@@ -209,7 +227,12 @@ def train_model(trainloader, testloader, net,
             if use_kd:
                 # Knowledge distillation loss
                 with torch.no_grad():
-                    teacher_outputs = teacher_net(inputs)
+                    if normalize_teacher_inputs:
+                        # Teacher needs normalized inputs, student uses raw [0,1] inputs
+                        teacher_inputs = (inputs - normalize_mean) / normalize_std
+                    else:
+                        teacher_inputs = inputs
+                    teacher_outputs = teacher_net(teacher_inputs)
                 loss = kd_criterion(outputs, teacher_outputs, labels)
             else:
                 # Standard cross-entropy loss
@@ -470,8 +493,13 @@ def main():
             print(f"Loading pretrained teacher from {args.teacher_path}")
             teacher_state = torch.load(args.teacher_path)
             teacher_net.load_state_dict(teacher_state, strict=False)
+            print("✓ Successfully loaded pretrained teacher weights")
         else:
-            print("Warning: No pretrained teacher provided. Using random initialization.")
+            print("="*60)
+            print("⚠️  WARNING: No pretrained teacher provided!")
+            print("   Using randomly initialized teacher for KD.")
+            print("   For best results, pretrain a teacher model first or use --teacher_path")
+            print("="*60)
         
         if torch.cuda.device_count() > 1:
             teacher_net = nn.DataParallel(teacher_net)

@@ -97,7 +97,11 @@ class ResNet(nn.Module):
         self.adaptive_pg = adaptive_pg
         self.target_sparsity = target_sparsity
 
-        ''' The input layer is binarized! '''
+        ''' 
+        IMPORTANT: This model uses a binary input encoder that expects 
+        unnormalized inputs in range [0, 1]. Do NOT apply ImageNet normalization!
+        The encoder will convert [0,1] inputs to thermometer-coded binary representations.
+        '''
         self.conv1 = q.BinaryConv2d(96, 16, kernel_size=3, stride=1, padding=1, bias=False)
         self.bn1 = nn.BatchNorm2d(16)
         self.layer1 = self._make_layer(block, 16, num_blocks[0], stride=1)
@@ -210,7 +214,13 @@ class FPBasicBlock(nn.Module):
 
 
 class FPResNet(nn.Module):
-    """Full precision ResNet teacher model"""
+    """
+    Full precision ResNet teacher model for knowledge distillation.
+    
+    IMPORTANT: This model expects normalized inputs using ImageNet statistics:
+    mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225]
+    Input range should be approximately [-2, 2] after normalization.
+    """
     def __init__(self, block, num_blocks, num_classes=10):
         super(FPResNet, self).__init__()
         self.in_planes = 16
