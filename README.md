@@ -77,6 +77,14 @@ Please refer to the paper for details such as hyperparameters.
 | CIFAR-10      | 1/1.4 (PG)      | Yes               | 89.1      |
 | ImageNet      | 1/1.4 (PG)      | Yes               | 71.7      |
 
+## Relation to Precision Gating (PG)
+
+- **Focus**: FracBNN targets binary weights with fractional activations for FPGA efficiency; PG is a model-agnostic dual-precision activation scheme.
+- **Integration**: We embed PG-style dynamic dual-precision activations inside binarized-weight convolutions via `PGBinaryConv2d`, achieving effective W/A ≈ 1/1.4 while keeping weights binary.
+- **Granularity**: Supports spatial PG and optional channel-wise adaptive PG (learnable gates with temperature, sparsity/entropy regularizers) to control high-precision compute.
+- **Input layer**: Thermometer-encoded, binarized input via `InputEncoder`, which is outside PG’s original scope.
+- **Hardware**: End-to-end FPGA HLS implementations for CIFAR-10/ImageNet accompany the method.
+
 ## CIFAR-10 Accelerator
 
 ### Compile the HLS code
