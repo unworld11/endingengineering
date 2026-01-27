@@ -1,0 +1,190 @@
+<profile>
+
+<section name = "Vivado HLS Report for 'binary_conv3x3_tile'" level="0">
+<item name = "Date">Sat Jan 24 16:29:26 2026
+</item>
+<item name = "Version">2019.2 (Build 2704478 on Wed Nov 06 22:10:23 MST 2019)</item>
+<item name = "Project">bnn.prj</item>
+<item name = "Solution">solution1</item>
+<item name = "Product family">zynquplus</item>
+<item name = "Target device">xczu3eg-sbva484-1-e</item>
+</section>
+
+<section name = "Performance Estimates" level="0">
+<item name = "Timing">
+<section name = "" level="1">
+<item name = "Summary"><table name="" hasTotal="0">
+<keys size="4">Clock, Target, Estimated, Uncertainty</keys>
+<column name="ap_clk">4.00 ns, 4.346 ns, 0.50 ns</column>
+</table>
+</item>
+</section>
+</item>
+<item name = "Latency">
+<section name = "" level="1">
+<item name = "Summary"><table name="" hasTotal="0">
+<keys size="8">, min, max, min, max, min, max, Type</keys>
+<column name="">96, 1104, 0.417 us, 4.798 us, 96, 1104, none</column>
+</table>
+</item>
+<item name = "Detail">
+<section name = "" level="1">
+<item name = "Instance"><table name="" hasTotal="0">
+<keys size="9">Instance, Module, min, max, min, max, min, max, Type</keys>
+<column name="grp_compute_engine_64_fu_5304">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5310">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5316">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5322">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5328">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5334">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5340">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5346">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5352">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5358">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5364">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5370">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5376">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5382">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5388">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5394">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5400">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5406">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5412">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5418">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5424">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5430">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5436">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5442">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5448">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5454">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5460">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5466">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5472">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5478">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5484">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5490">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5496">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5502">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5508">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5514">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5520">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5526">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5532">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5538">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5544">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5550">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5556">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5562">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5568">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5574">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5580">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5586">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5592">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5598">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5604">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5610">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5616">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5622">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5628">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5634">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5640">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5646">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5652">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5658">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5664">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5670">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5676">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5682">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5688">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5694">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5700">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5706">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5712">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5718">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5724">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5730">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5736">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5742">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5748">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5754">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5760">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5766">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5772">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5778">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5784">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5790">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5796">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5802">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5808">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5814">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5820">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5826">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5832">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5838">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5844">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5850">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5856">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5862">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5868">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5874">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5880">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5886">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5892">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5898">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5904">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5910">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5916">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5922">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5928">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5934">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5940">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5946">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5952">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5958">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5964">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5970">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5976">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5982">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5988">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_5994">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6000">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6006">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6012">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6018">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6024">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6030">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6036">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6042">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6048">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6054">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6060">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6066">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6072">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6078">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6084">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6090">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6096">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6102">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6108">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6114">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6120">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6126">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6132">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6138">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6144">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6150">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6156">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6162">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+</table>
+</item>
+<item name = "Loop"><table name="" hasTotal="0">
+<keys size="8">Loop Name, min, max, Latency, achieved, target, Count, Pipelined</keys>
+<column name="- Loop 1">93, 1101, 14, 1, 1, 81 ~ 1089, yes</column>
+</table>
+</item>
+</section>
+</item>
+</section>
+</item>
+</section>
+</profile>

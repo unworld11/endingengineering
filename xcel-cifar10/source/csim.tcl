@@ -11,6 +11,8 @@ add_files pgconv.h
 add_files layer.h
 add_files dimension_def.h
 add_files conv_weights.h
+add_files gate_mask.h
+add_files gate_mask.cc
 add_files bnn_tiled.cc
 add_files bnn.h
 add_files -tb weights_tb.h -cflags "-Wno-unknown-pragmas" -csimflags "-Wno-unknown-pragmas"

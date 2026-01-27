@@ -3,14 +3,34 @@
 
 using namespace std;
 
+#ifndef __SYNTHESIS__
+#include <iostream>
+#endif
+
+
+// --------------------------------------------------
+// Global gate pointer for Adaptive PG
+// --------------------------------------------------
+int gate_idx = 0;
+int enabled_gates_count = 0;
+
 //--------------------
 //  Top Function 
 //--------------------
 void FracNet_T(
-		uint64 image[3][32][32],
-		float output[10]
+        uint64 image[3][32][32],
+        float output[10]
 )
 {
+    // 🔴 REQUIRED: reset gate index ONCE per inference
+    gate_idx = 0;
+    enabled_gates_count = 0;
+
+#ifndef __SYNTHESIS__
+    cout << "Hardware: Starting FracNet_T" << endl;
+#endif
+
+
 #pragma HLS INTERFACE m_axi depth=3072 port=image offset=slave bundle=IMG
 #pragma HLS INTERFACE m_axi depth=10 port=output offset=slave bundle=RESULT
 #pragma HLS INTERFACE s_axilite port=return bundle=CTRL
@@ -19,37 +39,37 @@ void FracNet_T(
 #pragma HLS ALLOCATION instances=bn_relu_shortcut limit=1 function
 #pragma HLS ALLOCATION instances=quant_and_pack limit=1 function
 
-	uint64 msb_fmap[3][WIDTH][WIDTH];
+    uint64 msb_fmap[3][WIDTH][WIDTH];
 #pragma HLS ARRAY_PARTITION variable=msb_fmap complete dim=1
 #pragma HLS ARRAY_PARTITION variable=lsb_fmap complete dim=1
 
-	FIX_FM_acc out_buf_0[CHANNEL_OUT/CHANNEL_OUT_T][CHANNEL_OUT_T][WIDTH][WIDTH];
-	int16 out_buf_t0[CHANNEL_OUT_T][WIDTH][WIDTH];
-	int16 out_buf_t1[CHANNEL_OUT_T][WIDTH][WIDTH];
+    FIX_FM_acc out_buf_0[CHANNEL_OUT/CHANNEL_OUT_T][CHANNEL_OUT_T][WIDTH][WIDTH];
+    int16 out_buf_t0[CHANNEL_OUT_T][WIDTH][WIDTH];
+    int16 out_buf_t1[CHANNEL_OUT_T][WIDTH][WIDTH];
 #pragma HLS ARRAY_PARTITION variable=out_buf_0 complete dim=1
 #pragma HLS ARRAY_PARTITION variable=out_buf_0 complete dim=2
 #pragma HLS ARRAY_PARTITION variable=out_buf_t0 complete dim=1
 #pragma HLS ARRAY_PARTITION variable=out_buf_t1 complete dim=1
 
     /* Initialize the buffers to 0 */
-	global_buffer_init_0:
-	for (int i = 0; i < WIDTH; i ++){
-		for (int j = 0; j < WIDTH; j ++){
+    global_buffer_init_0:
+    for (int i = 0; i < WIDTH; i++) {
+        for (int j = 0; j < WIDTH; j++) {
 #pragma HLS PIPELINE
-			for (int k = 0; k < 3; k ++) {
-				msb_fmap[k][i][j] = 0;
-			}
-			for (int c = 0; c < CHANNEL_OUT/CHANNEL_OUT_T; c ++){
-				for (int k = 0; k < CHANNEL_OUT_T; k ++) {
-					out_buf_0[c][k][i][j] = 0;
-				}
-			}
-			for (int k = 0; k < CHANNEL_OUT_T; k ++) {
-				out_buf_t0[k][i][j] = 0;
-				out_buf_t1[k][i][j] = 0;
-			}
-		}
-	}
+            for (int k = 0; k < 3; k++) {
+                msb_fmap[k][i][j] = 0;
+            }
+            for (int c = 0; c < CHANNEL_OUT/CHANNEL_OUT_T; c++) {
+                for (int k = 0; k < CHANNEL_OUT_T; k++) {
+                    out_buf_0[c][k][i][j] = 0;
+                }
+            }
+            for (int k = 0; k < CHANNEL_OUT_T; k++) {
+                out_buf_t0[k][i][j] = 0;
+                out_buf_t1[k][i][j] = 0;
+            }
+        }
+    }
 
 	int H_fmap_in, H_fmap_out, in_channels, in_channels_after_pack; 
     int out_channels, out_channel_start, stride, conv_weight_ptr;
@@ -81,13 +101,17 @@ void FracNet_T(
 	conv_weight_ptr = 0;
 
     LOOP_Conv1:
+#ifndef __SYNTHESIS__
+    cout << "Hardware: Executing LOOP_Conv1" << endl;
+#endif
+
     for (int c_out = 0; c_out < out_channels/OUT_CHANNEL_PARALLELISM; c_out ++){
         int c_in = 0;
         pg_conv3x3_tile(
                 msb_fmap[c_in], msb_fmap[(c_in+1)%CHANNEL_IN], conv_weight_all[conv_weight_ptr],
                 out_buf_t0, out_buf_t1,
                 layer1_0_conv1_threshold_fix[c_out],
-                c_in, in_channels, H_fmap_out
+                c_in, in_channels, H_fmap_out, false
         );
         conv_weight_ptr += 1;
         c_in = 1;
@@ -95,7 +119,7 @@ void FracNet_T(
                 msb_fmap[c_in], msb_fmap[(c_in+1)%CHANNEL_IN], conv_weight_all[conv_weight_ptr],
                 out_buf_t0, out_buf_t1,
                 layer1_0_conv1_threshold_fix[c_out],
-                c_in, in_channels, H_fmap_out
+                c_in, in_channels, H_fmap_out, false
         );
         conv_weight_ptr += 1;
         c_in = 2;
@@ -103,7 +127,7 @@ void FracNet_T(
                 msb_fmap[c_in], msb_fmap[(c_in+1)%CHANNEL_IN], conv_weight_all[conv_weight_ptr],
                 out_buf_t0, out_buf_t1,
                 layer1_0_conv1_threshold_fix[c_out],
-                c_in, in_channels, H_fmap_out
+                c_in, in_channels, H_fmap_out, false
         );
         conv_weight_ptr += 1;
 
@@ -130,13 +154,17 @@ void FracNet_T(
 	//////////// layer1_0 PG1 /////////////////////
 	quant_and_pack(out_buf_0, msb_fmap, H_fmap_in, in_channels);
 	LOOP_layer1_0_PGConv1:
+#ifndef __SYNTHESIS__
+    cout << "Hardware: Executing Layer 1" << endl;
+#endif
+
 	for (int c_out = 0; c_out < out_channels/OUT_CHANNEL_PARALLELISM; c_out ++) {
 		int c_in = 0;
 		pg_conv3x3_tile(
 				msb_fmap[c_in], msb_fmap[(c_in+1)%CHANNEL_IN], conv_weight_all[conv_weight_ptr],
 				out_buf_t0, out_buf_t1,
                 layer1_0_conv1_threshold_fix[c_out],
-				c_in, in_channels, H_fmap_out
+				c_in, in_channels, H_fmap_out, true
 		);
 		conv_weight_ptr += 1;
 		bn_relu_shortcut(
@@ -164,7 +192,7 @@ void FracNet_T(
 				msb_fmap[c_in], msb_fmap[(c_in+1)%CHANNEL_IN], conv_weight_all[conv_weight_ptr],
 				out_buf_t0, out_buf_t1,
 				layer1_0_conv2_threshold_fix[c_out],
-				c_in, in_channels, H_fmap_out
+				c_in, in_channels, H_fmap_out, true
 		);
 		conv_weight_ptr += 1;
 		bn_relu_shortcut(
@@ -192,7 +220,7 @@ void FracNet_T(
 				msb_fmap[c_in], msb_fmap[(c_in+1)%CHANNEL_IN], conv_weight_all[conv_weight_ptr],
 				out_buf_t0, out_buf_t1,
 				layer1_1_conv1_threshold_fix[c_out],
-				c_in, in_channels, H_fmap_out
+				c_in, in_channels, H_fmap_out, true
 		);
 		conv_weight_ptr += 1;
 		bn_relu_shortcut(
@@ -220,7 +248,7 @@ void FracNet_T(
 				msb_fmap[c_in], msb_fmap[(c_in+1)%CHANNEL_IN], conv_weight_all[conv_weight_ptr],
 				out_buf_t0, out_buf_t1,
 				layer1_1_conv2_threshold_fix[c_out],
-				c_in, in_channels, H_fmap_out
+				c_in, in_channels, H_fmap_out, true
 		);
 		conv_weight_ptr += 1;
 		bn_relu_shortcut(
@@ -248,7 +276,7 @@ void FracNet_T(
 				msb_fmap[c_in], msb_fmap[(c_in+1)%CHANNEL_IN], conv_weight_all[conv_weight_ptr],
 				out_buf_t0, out_buf_t1,
 				layer1_2_conv1_threshold_fix[c_out],
-				c_in, in_channels, H_fmap_out
+				c_in, in_channels, H_fmap_out, true
 		);
 		conv_weight_ptr += 1;
 		bn_relu_shortcut(
@@ -276,7 +304,7 @@ void FracNet_T(
 				msb_fmap[c_in], msb_fmap[(c_in+1)%CHANNEL_IN], conv_weight_all[conv_weight_ptr],
 				out_buf_t0, out_buf_t1,
 				layer1_2_conv2_threshold_fix[c_out],
-				c_in, in_channels, H_fmap_out
+				c_in, in_channels, H_fmap_out, true
 		);
 		conv_weight_ptr += 1;
 		bn_relu_shortcut(
@@ -310,13 +338,17 @@ void FracNet_T(
 	quant_and_pack(out_buf_0, msb_fmap, H_fmap_in, in_channels);
 	avgpool_concat(out_buf_0, H_fmap_out, in_channels);
 	LOOP_layer2_0_PGConv1:
+#ifndef __SYNTHESIS__
+    cout << "Hardware: Executing Layer 2" << endl;
+#endif
+
 	for (int c_out = 0; c_out < out_channels/OUT_CHANNEL_PARALLELISM; c_out ++) {
 		int c_in = 0;
 		pg_conv3x3_tile(
 				msb_fmap[c_in], msb_fmap[(c_in+1)%CHANNEL_IN], conv_weight_all[conv_weight_ptr],
 				out_buf_t0, out_buf_t1,
 				layer2_0_conv1_threshold_fix[c_out],
-				c_in, in_channels, H_fmap_in
+				c_in, in_channels, H_fmap_in, true
 		);
 		conv_weight_ptr += 1;
 		bn_relu_shortcut(
@@ -355,7 +387,7 @@ void FracNet_T(
 				msb_fmap[c_in], msb_fmap[(c_in+1)%CHANNEL_IN], conv_weight_all[conv_weight_ptr],
 				out_buf_t0, out_buf_t1,
 				layer2_0_conv2_threshold_fix[c_out],
-				c_in, in_channels, H_fmap_out
+				c_in, in_channels, H_fmap_out, true
 		);
 		conv_weight_ptr += 1;
 		bn_relu_shortcut(
@@ -383,7 +415,7 @@ void FracNet_T(
 				msb_fmap[c_in], msb_fmap[(c_in+1)%CHANNEL_IN], conv_weight_all[conv_weight_ptr],
 				out_buf_t0, out_buf_t1,
 				layer2_1_conv1_threshold_fix[c_out],
-				c_in, in_channels, H_fmap_out
+				c_in, in_channels, H_fmap_out, true
 		);
 		conv_weight_ptr += 1;
 		bn_relu_shortcut(
@@ -412,7 +444,7 @@ void FracNet_T(
 				msb_fmap[c_in], msb_fmap[(c_in+1)%CHANNEL_IN], conv_weight_all[conv_weight_ptr],
 				out_buf_t0, out_buf_t1,
 				layer2_1_conv2_threshold_fix[c_out],
-				c_in, in_channels, H_fmap_out
+				c_in, in_channels, H_fmap_out, true
 		);
 		conv_weight_ptr += 1;
 		bn_relu_shortcut(
@@ -440,7 +472,7 @@ void FracNet_T(
 				msb_fmap[c_in], msb_fmap[(c_in+1)%CHANNEL_IN], conv_weight_all[conv_weight_ptr],
 				out_buf_t0, out_buf_t1,
 				layer2_2_conv1_threshold_fix[c_out],
-				c_in, in_channels, H_fmap_out
+				c_in, in_channels, H_fmap_out, true
 		);
 		conv_weight_ptr += 1;
 		bn_relu_shortcut(
@@ -469,7 +501,7 @@ void FracNet_T(
 				msb_fmap[c_in], msb_fmap[(c_in+1)%CHANNEL_IN], conv_weight_all[conv_weight_ptr],
 				out_buf_t0, out_buf_t1,
 				layer2_2_conv2_threshold_fix[c_out],
-				c_in, in_channels, H_fmap_out
+				c_in, in_channels, H_fmap_out, true
 		);
 		conv_weight_ptr += 1;
 		bn_relu_shortcut(
@@ -503,13 +535,17 @@ void FracNet_T(
 	quant_and_pack(out_buf_0, msb_fmap, H_fmap_in, in_channels);
 	avgpool_concat(out_buf_0, H_fmap_out, in_channels);
 	LOOP_layer3_0_PGConv1:
+#ifndef __SYNTHESIS__
+    cout << "Hardware: Executing Layer 3" << endl;
+#endif
+
 	for (int c_out = 0; c_out < out_channels/OUT_CHANNEL_PARALLELISM; c_out ++) {
 		int c_in = 0;
 		pg_conv3x3_tile(
 				msb_fmap[c_in], msb_fmap[(c_in+1)%CHANNEL_IN], conv_weight_all[conv_weight_ptr],
 				out_buf_t0, out_buf_t1,
 				layer3_0_conv1_threshold_fix[c_out],
-				c_in, in_channels, H_fmap_in
+				c_in, in_channels, H_fmap_in, true
 		);
 		conv_weight_ptr += 1;
 		bn_relu_shortcut(
@@ -548,7 +584,7 @@ void FracNet_T(
 				msb_fmap[c_in], msb_fmap[(c_in+1)%CHANNEL_IN], conv_weight_all[conv_weight_ptr],
 				out_buf_t0, out_buf_t1,
 				layer3_0_conv2_threshold_fix[c_out],
-				c_in, in_channels, H_fmap_out
+				c_in, in_channels, H_fmap_out, true
 		);
 		conv_weight_ptr += 1;
 		bn_relu_shortcut(
@@ -576,7 +612,7 @@ void FracNet_T(
 				msb_fmap[c_in], msb_fmap[(c_in+1)%CHANNEL_IN], conv_weight_all[conv_weight_ptr],
 				out_buf_t0, out_buf_t1,
 				layer3_1_conv1_threshold_fix[c_out],
-				c_in, in_channels, H_fmap_out
+				c_in, in_channels, H_fmap_out, true
 		);
 		conv_weight_ptr += 1;
 		bn_relu_shortcut(
@@ -605,7 +641,7 @@ void FracNet_T(
 				msb_fmap[c_in], msb_fmap[(c_in+1)%CHANNEL_IN], conv_weight_all[conv_weight_ptr],
 				out_buf_t0, out_buf_t1,
 				layer3_1_conv2_threshold_fix[c_out],
-				c_in, in_channels, H_fmap_out
+				c_in, in_channels, H_fmap_out, true
 		);
 		conv_weight_ptr += 1;
 		bn_relu_shortcut(
@@ -633,7 +669,7 @@ void FracNet_T(
 				msb_fmap[c_in], msb_fmap[(c_in+1)%CHANNEL_IN], conv_weight_all[conv_weight_ptr],
 				out_buf_t0, out_buf_t1,
 				layer3_2_conv1_threshold_fix[c_out],
-				c_in, in_channels, H_fmap_out
+				c_in, in_channels, H_fmap_out, true
 		);
 		conv_weight_ptr += 1;
 		bn_relu_shortcut(
@@ -662,7 +698,7 @@ void FracNet_T(
 				msb_fmap[c_in], msb_fmap[(c_in+1)%CHANNEL_IN], conv_weight_all[conv_weight_ptr],
 				out_buf_t0, out_buf_t1,
 				layer3_2_conv2_threshold_fix[c_out],
-				c_in, in_channels, H_fmap_out
+				c_in, in_channels, H_fmap_out, true
 		);
 		conv_weight_ptr += 1;
 		bn_relu_shortcut(
@@ -696,11 +732,19 @@ void FracNet_T(
 
 
 	avgpool_8x8(out_buf_0, pool_out_buf);
+#ifndef __SYNTHESIS__
+    cout << "Hardware: Executing AvgPool and FC" << endl;
+#endif
+
 	matmul(pool_out_buf, linear_weight_fix, linear_bias_fix, linear_out_buf);
 
-	write_output:
+    write_output:
 	for(int i=0; i<10; i++){
 		output[i] = linear_out_buf[i];
 	}
+
+#ifndef __SYNTHESIS__
+    cout << "Total LSB masks used (enabled): " << enabled_gates_count << " / " << gate_idx << endl;
+#endif
 
 }

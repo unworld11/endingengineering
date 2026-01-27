@@ -22,4 +22,3 @@ vivado:
 
 clean:
 	rm -rf bnn *.prj *.log
-

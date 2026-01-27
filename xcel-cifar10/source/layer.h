@@ -8,7 +8,6 @@
 #include "conv_weights.h"
 #include <iostream>
 
-
 //---------------------
 //   util functions
 //---------------------
@@ -99,8 +98,6 @@ void bn_relu_shortcut(
 		int out_channels
 )
 {
-
-
 	FIX_FM_acc out_feature_t0[BN_CHANNEL_PARALLELISM];
 	FIX_FM_acc out_feature_t1[BN_CHANNEL_PARALLELISM];
 #pragma HLS ARRAY_PARTITION variable=out_feature_t0 complete dim=1

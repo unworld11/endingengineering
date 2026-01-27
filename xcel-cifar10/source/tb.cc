@@ -9,7 +9,7 @@
 
 using namespace std;
 
-#define NUM_TESTS 3
+#define NUM_TESTS 10
 
 unsigned char images[NUM_TESTS*96*32*32];
 unsigned char labels[NUM_TESTS];
@@ -426,12 +426,15 @@ void get_image(unsigned char *images, unsigned int idx, float image[96][32][32])
 }
 
 void FracNet_sw(float image[96][32][32]) {
+    cout << "Software: Starting FracNet_sw" << endl;
+    cout << "Software: Executing Conv1" << endl;
 	conv1(image, conv1_weight, conv1_out);
 	bn<16, 32, 32>(conv1_out, bn1_weight, bn1_bias, bn1_out);
 
 	////////////////////////////////////
 	//////////// LAYER 1 ///////////////
 	////////////////////////////////////
+    cout << "Software: Executing Layer 1" << endl;
 
 	quant_sign<16, 32, 32>(bn1_out, layer1_0_binarize1_out);
 	layer1_pgconv<16, 16, 32, 32, 32, 32>(layer1_0_binarize1_out, layer1_0_conv1_weight, layer1_0_conv1_threshold, layer1_0_pgconv1_out);
@@ -479,6 +482,7 @@ void FracNet_sw(float image[96][32][32]) {
 	////////////////////////////////////
 	//////////// LAYER 2 ///////////////
 	////////////////////////////////////
+    cout << "Software: Executing Layer 2" << endl;
 
 	quant_sign<16, 32, 32>(layer1_2_bn4_out, layer2_0_binarize1_out);
 	layer2_pgconv<16, 32, 32, 32, 16, 16>(layer2_0_binarize1_out, layer2_0_conv1_weight, layer2_0_conv1_threshold, layer2_0_pgconv1_out);
@@ -526,6 +530,7 @@ void FracNet_sw(float image[96][32][32]) {
 	////////////////////////////////////
 	//////////// LAYER 3 ///////////////
 	////////////////////////////////////
+    cout << "Software: Executing Layer 3" << endl;
 
 	quant_sign<32, 16, 16>(layer2_2_bn4_out, layer3_0_binarize1_out);
 	layer3_pgconv<32, 64, 16, 16, 8, 8>(layer3_0_binarize1_out, layer3_0_conv1_weight, layer3_0_conv1_threshold, layer3_0_pgconv1_out);
@@ -570,6 +575,7 @@ void FracNet_sw(float image[96][32][32]) {
 	shortcut<64, 8, 8>(layer3_2_rprelu2_out, layer3_2_bn3_out, layer3_2_shortcut2_out);
 	bn<64, 8, 8>(layer3_2_shortcut2_out, layer3_2_bn4_weight, layer3_2_bn4_bias, layer3_2_bn4_out);
 
+    cout << "Software: Executing AvgPool" << endl;
 	for (int c = 0; c < 64; c ++) {
 		float m = 0;
 		for (int row = 0; row < 8; row ++) {
@@ -580,6 +586,7 @@ void FracNet_sw(float image[96][32][32]) {
 		avg_pool_out[c] = m/64.0;
 	}
 
+    cout << "Software: Executing Classifier" << endl;
 	for (int row = 0; row < 10; row ++) {
 		float m = 0;
 		for (int col = 0; col < 64; col ++) {
@@ -680,7 +687,7 @@ int main(int argc, char **argv)
 		FracNet_T(image_hw, accelerator_output);
 
 #ifdef LAYER_TEST
-		cout << endl << "accelerator output: "<< endl;
+		cout << endl << "accelerator output is : "<< endl;
 //		for (int row = 0; row < print_row; row ++) {
 //			for(int col = 0; col < print_col; col ++) {
 //				cout << accelerator_output[row*32 + col] << "  ";

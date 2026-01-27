@@ -2,6 +2,8 @@
 #define BNN_H
 
 #include "typedefs.h"
+#include "gate_mask.h"
+
 
 void FracNet_T(
     uint64 image[3][32][32],
