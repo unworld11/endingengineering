@@ -6,5 +6,5 @@
   <xd:arg xd:name="image_V" xd:originalName="image_V" xd:direction="in" xd:interfaceRef="s_axi_CTRL" xd:busTypeRef="axilite" xd:aximmInterfaceRef="m_axi_IMG" xd:dataWidth="32" xd:offset="0x10" xd:handshakeRef="ap_none"/>
   <xd:arg xd:name="output_r" xd:originalName="output_r" xd:direction="in" xd:interfaceRef="s_axi_CTRL" xd:busTypeRef="axilite" xd:aximmInterfaceRef="m_axi_RESULT" xd:dataWidth="32" xd:offset="0x18" xd:handshakeRef="ap_none"/>
   <xd:latencyEstimates xd:best-case="28120" xd:worst-case="232782" xd:average-case="undef"/>
-  <xd:resourceEstimates xd:LUT="193979" xd:FF="89178" xd:BRAM="532" xd:DSP="108"/>
+  <xd:resourceEstimates xd:LUT="207327" xd:FF="91557" xd:BRAM="546" xd:DSP="108"/>
 </xd:acceleratorMap>

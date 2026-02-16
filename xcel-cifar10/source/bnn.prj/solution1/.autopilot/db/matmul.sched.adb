@@ -415,16 +415,16 @@
 					<Obj>
 						<type>0</type>
 						<id>34</id>
-						<name>_ln266</name>
+						<name>_ln263</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>266</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>263</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item class_id="11" tracking_level="0" version="0">
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second class_id="12" tracking_level="0" version="0">
 									<count>1</count>
 									<item_version>0</item_version>
@@ -433,7 +433,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>266</second>
+										<second>263</second>
 									</item>
 								</second>
 							</item>
@@ -840,16 +840,16 @@
 					<Obj>
 						<type>0</type>
 						<id>47</id>
-						<name>icmp_ln266</name>
+						<name>icmp_ln263</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>266</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>263</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -858,7 +858,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>266</second>
+										<second>263</second>
 									</item>
 								</second>
 							</item>
@@ -891,14 +891,14 @@
 						<id>49</id>
 						<name>coo</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>266</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>263</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -907,7 +907,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>266</second>
+										<second>263</second>
 									</item>
 								</second>
 							</item>
@@ -938,16 +938,16 @@
 					<Obj>
 						<type>0</type>
 						<id>50</id>
-						<name>_ln266</name>
+						<name>_ln263</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>266</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>263</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -956,7 +956,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>266</second>
+										<second>263</second>
 									</item>
 								</second>
 							</item>
@@ -990,14 +990,14 @@
 						<id>54</id>
 						<name>p_Val2_s</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>266</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>263</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1006,7 +1006,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>266</second>
+										<second>263</second>
 									</item>
 								</second>
 							</item>
@@ -1055,14 +1055,14 @@
 						<id>55</id>
 						<name>trunc_ln700</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>268</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>265</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1071,7 +1071,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>268</second>
+										<second>265</second>
 									</item>
 								</second>
 							</item>
@@ -1103,14 +1103,14 @@
 						<id>56</id>
 						<name>trunc_ln1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>268</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>265</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1119,7 +1119,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>268</second>
+										<second>265</second>
 									</item>
 								</second>
 							</item>
@@ -1154,14 +1154,14 @@
 						<id>57</id>
 						<name>sext_ln713</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>268</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>265</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1170,7 +1170,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>268</second>
+										<second>265</second>
 									</item>
 								</second>
 							</item>
@@ -1202,14 +1202,14 @@
 						<id>58</id>
 						<name>zext_ln713</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>268</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>265</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1218,7 +1218,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>268</second>
+										<second>265</second>
 									</item>
 								</second>
 							</item>
@@ -1250,14 +1250,14 @@
 						<id>59</id>
 						<name>buf_0_V_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>268</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>265</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1266,7 +1266,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>268</second>
+										<second>265</second>
 									</item>
 								</second>
 							</item>
@@ -1299,14 +1299,14 @@
 						<id>60</id>
 						<name>sext_ln415</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>268</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>265</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1315,7 +1315,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>268</second>
+										<second>265</second>
 									</item>
 								</second>
 							</item>
@@ -1345,16 +1345,16 @@
 					<Obj>
 						<type>0</type>
 						<id>61</id>
-						<name>_ln268</name>
+						<name>_ln265</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>268</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>265</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1363,7 +1363,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>268</second>
+										<second>265</second>
 									</item>
 								</second>
 							</item>
@@ -1412,16 +1412,16 @@
 					<Obj>
 						<type>0</type>
 						<id>63</id>
-						<name>buf_8_V_0_write_ln268</name>
+						<name>buf_8_V_0_write_ln265</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>268</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>265</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1430,7 +1430,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>268</second>
+										<second>265</second>
 									</item>
 								</second>
 							</item>
@@ -1462,16 +1462,16 @@
 					<Obj>
 						<type>0</type>
 						<id>64</id>
-						<name>_ln268</name>
+						<name>_ln265</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>268</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>265</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1480,7 +1480,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>268</second>
+										<second>265</second>
 									</item>
 								</second>
 							</item>
@@ -1510,16 +1510,16 @@
 					<Obj>
 						<type>0</type>
 						<id>66</id>
-						<name>buf_7_V_0_write_ln268</name>
+						<name>buf_7_V_0_write_ln265</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>268</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>265</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1528,7 +1528,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>268</second>
+										<second>265</second>
 									</item>
 								</second>
 							</item>
@@ -1560,16 +1560,16 @@
 					<Obj>
 						<type>0</type>
 						<id>67</id>
-						<name>_ln268</name>
+						<name>_ln265</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>268</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>265</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1578,7 +1578,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>268</second>
+										<second>265</second>
 									</item>
 								</second>
 							</item>
@@ -1608,16 +1608,16 @@
 					<Obj>
 						<type>0</type>
 						<id>69</id>
-						<name>buf_6_V_0_write_ln268</name>
+						<name>buf_6_V_0_write_ln265</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>268</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>265</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1626,7 +1626,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>268</second>
+										<second>265</second>
 									</item>
 								</second>
 							</item>
@@ -1658,16 +1658,16 @@
 					<Obj>
 						<type>0</type>
 						<id>70</id>
-						<name>_ln268</name>
+						<name>_ln265</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>268</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>265</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1676,7 +1676,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>268</second>
+										<second>265</second>
 									</item>
 								</second>
 							</item>
@@ -1706,16 +1706,16 @@
 					<Obj>
 						<type>0</type>
 						<id>72</id>
-						<name>buf_5_V_0_write_ln268</name>
+						<name>buf_5_V_0_write_ln265</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>268</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>265</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1724,7 +1724,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>268</second>
+										<second>265</second>
 									</item>
 								</second>
 							</item>
@@ -1756,16 +1756,16 @@
 					<Obj>
 						<type>0</type>
 						<id>73</id>
-						<name>_ln268</name>
+						<name>_ln265</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>268</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>265</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1774,7 +1774,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>268</second>
+										<second>265</second>
 									</item>
 								</second>
 							</item>
@@ -1804,16 +1804,16 @@
 					<Obj>
 						<type>0</type>
 						<id>75</id>
-						<name>buf_4_V_0_write_ln268</name>
+						<name>buf_4_V_0_write_ln265</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>268</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>265</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1822,7 +1822,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>268</second>
+										<second>265</second>
 									</item>
 								</second>
 							</item>
@@ -1854,16 +1854,16 @@
 					<Obj>
 						<type>0</type>
 						<id>76</id>
-						<name>_ln268</name>
+						<name>_ln265</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>268</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>265</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1872,7 +1872,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>268</second>
+										<second>265</second>
 									</item>
 								</second>
 							</item>
@@ -1902,16 +1902,16 @@
 					<Obj>
 						<type>0</type>
 						<id>78</id>
-						<name>buf_3_V_0_write_ln268</name>
+						<name>buf_3_V_0_write_ln265</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>268</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>265</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1920,7 +1920,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>268</second>
+										<second>265</second>
 									</item>
 								</second>
 							</item>
@@ -1952,16 +1952,16 @@
 					<Obj>
 						<type>0</type>
 						<id>79</id>
-						<name>_ln268</name>
+						<name>_ln265</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>268</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>265</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1970,7 +1970,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>268</second>
+										<second>265</second>
 									</item>
 								</second>
 							</item>
@@ -2000,16 +2000,16 @@
 					<Obj>
 						<type>0</type>
 						<id>81</id>
-						<name>buf_2_V_0_write_ln268</name>
+						<name>buf_2_V_0_write_ln265</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>268</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>265</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2018,7 +2018,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>268</second>
+										<second>265</second>
 									</item>
 								</second>
 							</item>
@@ -2050,16 +2050,16 @@
 					<Obj>
 						<type>0</type>
 						<id>82</id>
-						<name>_ln268</name>
+						<name>_ln265</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>268</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>265</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2068,7 +2068,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>268</second>
+										<second>265</second>
 									</item>
 								</second>
 							</item>
@@ -2098,16 +2098,16 @@
 					<Obj>
 						<type>0</type>
 						<id>84</id>
-						<name>buf_1_V_0_write_ln268</name>
+						<name>buf_1_V_0_write_ln265</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>268</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>265</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2116,7 +2116,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>268</second>
+										<second>265</second>
 									</item>
 								</second>
 							</item>
@@ -2148,16 +2148,16 @@
 					<Obj>
 						<type>0</type>
 						<id>85</id>
-						<name>_ln268</name>
+						<name>_ln265</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>268</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>265</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2166,7 +2166,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>268</second>
+										<second>265</second>
 									</item>
 								</second>
 							</item>
@@ -2196,16 +2196,16 @@
 					<Obj>
 						<type>0</type>
 						<id>87</id>
-						<name>buf_0_V_0_write_ln268</name>
+						<name>buf_0_V_0_write_ln265</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>268</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>265</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2214,7 +2214,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>268</second>
+										<second>265</second>
 									</item>
 								</second>
 							</item>
@@ -2246,16 +2246,16 @@
 					<Obj>
 						<type>0</type>
 						<id>88</id>
-						<name>_ln268</name>
+						<name>_ln265</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>268</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>265</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2264,7 +2264,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>268</second>
+										<second>265</second>
 									</item>
 								</second>
 							</item>
@@ -2294,16 +2294,16 @@
 					<Obj>
 						<type>0</type>
 						<id>90</id>
-						<name>buf_9_V_0_write_ln268</name>
+						<name>buf_9_V_0_write_ln265</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>268</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>265</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2312,7 +2312,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>268</second>
+										<second>265</second>
 									</item>
 								</second>
 							</item>
@@ -2344,16 +2344,16 @@
 					<Obj>
 						<type>0</type>
 						<id>91</id>
-						<name>_ln268</name>
+						<name>_ln265</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>268</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>265</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2362,7 +2362,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>268</second>
+										<second>265</second>
 									</item>
 								</second>
 							</item>
@@ -2392,16 +2392,16 @@
 					<Obj>
 						<type>0</type>
 						<id>94</id>
-						<name>_ln266</name>
+						<name>_ln263</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>266</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>263</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2410,7 +2410,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>266</second>
+										<second>263</second>
 									</item>
 								</second>
 							</item>
@@ -2440,16 +2440,16 @@
 					<Obj>
 						<type>0</type>
 						<id>96</id>
-						<name>_ln271</name>
+						<name>_ln268</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>271</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>268</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2458,7 +2458,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>271</second>
+										<second>268</second>
 									</item>
 								</second>
 							</item>
@@ -2490,14 +2490,14 @@
 						<id>98</id>
 						<name>buf_9_V_210</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2506,7 +2506,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -2541,14 +2541,14 @@
 						<id>99</id>
 						<name>buf_8_V_29</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2557,7 +2557,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -2592,14 +2592,14 @@
 						<id>100</id>
 						<name>buf_7_V_28</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2608,7 +2608,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -2643,14 +2643,14 @@
 						<id>101</id>
 						<name>buf_6_V_27</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2659,7 +2659,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -2694,14 +2694,14 @@
 						<id>102</id>
 						<name>buf_5_V_26</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2710,7 +2710,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -2745,14 +2745,14 @@
 						<id>103</id>
 						<name>buf_4_V_25</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2761,7 +2761,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -2796,14 +2796,14 @@
 						<id>104</id>
 						<name>buf_3_V_24</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2812,7 +2812,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -2847,14 +2847,14 @@
 						<id>105</id>
 						<name>buf_2_V_23</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2863,7 +2863,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -2898,14 +2898,14 @@
 						<id>106</id>
 						<name>buf_1_V_22</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2914,7 +2914,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -2949,14 +2949,14 @@
 						<id>107</id>
 						<name>buf_0_V_21</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2965,7 +2965,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -3035,16 +3035,16 @@
 					<Obj>
 						<type>0</type>
 						<id>109</id>
-						<name>icmp_ln271</name>
+						<name>icmp_ln268</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>271</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>268</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3053,7 +3053,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>271</second>
+										<second>268</second>
 									</item>
 								</second>
 							</item>
@@ -3086,14 +3086,14 @@
 						<id>111</id>
 						<name>cii</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>271</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>268</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3102,7 +3102,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>271</second>
+										<second>268</second>
 									</item>
 								</second>
 							</item>
@@ -3133,16 +3133,16 @@
 					<Obj>
 						<type>0</type>
 						<id>112</id>
-						<name>_ln271</name>
+						<name>_ln268</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>271</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>268</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3151,7 +3151,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>271</second>
+										<second>268</second>
 									</item>
 								</second>
 							</item>
@@ -3183,16 +3183,16 @@
 					<Obj>
 						<type>0</type>
 						<id>116</id>
-						<name>zext_ln273</name>
+						<name>zext_ln270</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>273</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>270</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3201,7 +3201,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>273</second>
+										<second>270</second>
 									</item>
 								</second>
 							</item>
@@ -3233,14 +3233,14 @@
 						<id>117</id>
 						<name>pool_out_buf_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>273</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>270</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3249,7 +3249,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>273</second>
+										<second>270</second>
 									</item>
 								</second>
 							</item>
@@ -3283,14 +3283,14 @@
 						<id>118</id>
 						<name>p_Val2_5</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>273</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>270</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3299,7 +3299,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>273</second>
+										<second>270</second>
 									</item>
 								</second>
 							</item>
@@ -3331,14 +3331,14 @@
 						<id>119</id>
 						<name>p_Result_s</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>273</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>270</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3347,7 +3347,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>273</second>
+										<second>270</second>
 									</item>
 								</second>
 							</item>
@@ -3381,14 +3381,14 @@
 						<id>120</id>
 						<name>tmp_in_V</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>273</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>270</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3397,7 +3397,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>273</second>
+										<second>270</second>
 									</item>
 								</second>
 							</item>
@@ -3432,14 +3432,14 @@
 						<id>121</id>
 						<name>p_Result_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>273</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>270</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3448,7 +3448,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>273</second>
+										<second>270</second>
 									</item>
 								</second>
 							</item>
@@ -3482,14 +3482,14 @@
 						<id>122</id>
 						<name>tmp_68</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>273</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>270</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3498,7 +3498,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>273</second>
+										<second>270</second>
 									</item>
 								</second>
 							</item>
@@ -3532,14 +3532,14 @@
 						<id>123</id>
 						<name>zext_ln415</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>273</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>270</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3548,7 +3548,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>273</second>
+										<second>270</second>
 									</item>
 								</second>
 							</item>
@@ -3580,14 +3580,14 @@
 						<id>124</id>
 						<name>tmp_in_V_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>273</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>270</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3596,7 +3596,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>273</second>
+										<second>270</second>
 									</item>
 								</second>
 							</item>
@@ -3629,14 +3629,14 @@
 						<id>125</id>
 						<name>tmp_69</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>273</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>270</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3645,7 +3645,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>273</second>
+										<second>270</second>
 									</item>
 								</second>
 							</item>
@@ -3679,14 +3679,14 @@
 						<id>126</id>
 						<name>xor_ln416</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>273</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>270</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3695,7 +3695,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>273</second>
+										<second>270</second>
 									</item>
 								</second>
 							</item>
@@ -3728,14 +3728,14 @@
 						<id>127</id>
 						<name>carry_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>273</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>270</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3744,7 +3744,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>273</second>
+										<second>270</second>
 									</item>
 								</second>
 							</item>
@@ -3777,14 +3777,14 @@
 						<id>128</id>
 						<name>p_Result_3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>273</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>270</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3793,7 +3793,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>273</second>
+										<second>270</second>
 									</item>
 								</second>
 							</item>
@@ -3827,14 +3827,14 @@
 						<id>129</id>
 						<name>xor_ln779</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>273</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>270</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3843,7 +3843,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>273</second>
+										<second>270</second>
 									</item>
 								</second>
 							</item>
@@ -3876,14 +3876,14 @@
 						<id>130</id>
 						<name>deleted_ones</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>273</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>270</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3892,7 +3892,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>273</second>
+										<second>270</second>
 									</item>
 								</second>
 							</item>
@@ -3926,14 +3926,14 @@
 						<id>131</id>
 						<name>xor_ln785</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>273</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>270</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3942,7 +3942,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>273</second>
+										<second>270</second>
 									</item>
 								</second>
 							</item>
@@ -3975,14 +3975,14 @@
 						<id>132</id>
 						<name>or_ln785</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>273</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>270</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3991,7 +3991,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>273</second>
+										<second>270</second>
 									</item>
 								</second>
 							</item>
@@ -4024,14 +4024,14 @@
 						<id>133</id>
 						<name>overflow</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>273</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>270</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4040,7 +4040,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>273</second>
+										<second>270</second>
 									</item>
 								</second>
 							</item>
@@ -4073,14 +4073,14 @@
 						<id>134</id>
 						<name>and_ln786</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>273</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>270</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4089,7 +4089,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>273</second>
+										<second>270</second>
 									</item>
 								</second>
 							</item>
@@ -4122,14 +4122,14 @@
 						<id>135</id>
 						<name>or_ln786</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>273</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>270</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4138,7 +4138,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>273</second>
+										<second>270</second>
 									</item>
 								</second>
 							</item>
@@ -4171,14 +4171,14 @@
 						<id>136</id>
 						<name>xor_ln786</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>273</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>270</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4187,7 +4187,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>273</second>
+										<second>270</second>
 									</item>
 								</second>
 							</item>
@@ -4220,14 +4220,14 @@
 						<id>137</id>
 						<name>underflow</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>273</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>270</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4236,7 +4236,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>273</second>
+										<second>270</second>
 									</item>
 								</second>
 							</item>
@@ -4269,14 +4269,14 @@
 						<id>138</id>
 						<name>or_ln340</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>273</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>270</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4285,7 +4285,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>273</second>
+										<second>270</second>
 									</item>
 								</second>
 							</item>
@@ -4318,14 +4318,14 @@
 						<id>139</id>
 						<name>or_ln340_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>273</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>270</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4334,7 +4334,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>273</second>
+										<second>270</second>
 									</item>
 								</second>
 							</item>
@@ -4367,14 +4367,14 @@
 						<id>140</id>
 						<name>or_ln340_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>273</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>270</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4383,7 +4383,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>273</second>
+										<second>270</second>
 									</item>
 								</second>
 							</item>
@@ -4416,14 +4416,14 @@
 						<id>141</id>
 						<name>select_ln340</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>273</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>270</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4432,7 +4432,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>273</second>
+										<second>270</second>
 									</item>
 								</second>
 							</item>
@@ -4466,14 +4466,14 @@
 						<id>142</id>
 						<name>select_ln388</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>273</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>270</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4482,7 +4482,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>273</second>
+										<second>270</second>
 									</item>
 								</second>
 							</item>
@@ -4516,14 +4516,14 @@
 						<id>143</id>
 						<name>select_ln340_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>273</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>270</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4532,7 +4532,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>273</second>
+										<second>270</second>
 									</item>
 								</second>
 							</item>
@@ -4566,14 +4566,14 @@
 						<id>144</id>
 						<name>linear_weight_fix_V_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4582,7 +4582,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -4616,14 +4616,14 @@
 						<id>145</id>
 						<name>linear_weight_fix_V_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4632,7 +4632,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -4664,14 +4664,14 @@
 						<id>146</id>
 						<name>tmp_71</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4680,7 +4680,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -4715,14 +4715,14 @@
 						<id>147</id>
 						<name>sext_ln713_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4731,7 +4731,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -4763,14 +4763,14 @@
 						<id>148</id>
 						<name>trunc_ln415</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4779,7 +4779,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -4811,14 +4811,14 @@
 						<id>149</id>
 						<name>zext_ln415_11</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4827,7 +4827,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -4859,14 +4859,14 @@
 						<id>150</id>
 						<name>add_ln415</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4875,7 +4875,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -4908,14 +4908,14 @@
 						<id>151</id>
 						<name>linear_weight_fix_V_3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4924,7 +4924,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -4958,14 +4958,14 @@
 						<id>152</id>
 						<name>linear_weight_fix_V_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4974,7 +4974,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -5006,14 +5006,14 @@
 						<id>153</id>
 						<name>tmp_72</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5022,7 +5022,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -5057,14 +5057,14 @@
 						<id>154</id>
 						<name>sext_ln713_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5073,7 +5073,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -5105,14 +5105,14 @@
 						<id>155</id>
 						<name>trunc_ln415_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5121,7 +5121,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -5153,14 +5153,14 @@
 						<id>156</id>
 						<name>zext_ln415_12</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5169,7 +5169,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -5201,14 +5201,14 @@
 						<id>157</id>
 						<name>add_ln415_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5217,7 +5217,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -5250,14 +5250,14 @@
 						<id>158</id>
 						<name>linear_weight_fix_V_5</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5266,7 +5266,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -5300,14 +5300,14 @@
 						<id>159</id>
 						<name>linear_weight_fix_V_6</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5316,7 +5316,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -5348,14 +5348,14 @@
 						<id>160</id>
 						<name>tmp_73</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5364,7 +5364,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -5399,14 +5399,14 @@
 						<id>161</id>
 						<name>sext_ln713_3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5415,7 +5415,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -5447,14 +5447,14 @@
 						<id>162</id>
 						<name>trunc_ln415_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5463,7 +5463,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -5495,14 +5495,14 @@
 						<id>163</id>
 						<name>zext_ln415_13</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5511,7 +5511,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -5543,14 +5543,14 @@
 						<id>164</id>
 						<name>add_ln415_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5559,7 +5559,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -5592,14 +5592,14 @@
 						<id>165</id>
 						<name>linear_weight_fix_V_7</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5608,7 +5608,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -5642,14 +5642,14 @@
 						<id>166</id>
 						<name>linear_weight_fix_V_8</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5658,7 +5658,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -5690,14 +5690,14 @@
 						<id>167</id>
 						<name>tmp_74</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5706,7 +5706,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -5741,14 +5741,14 @@
 						<id>168</id>
 						<name>sext_ln713_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5757,7 +5757,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -5789,14 +5789,14 @@
 						<id>169</id>
 						<name>trunc_ln415_3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5805,7 +5805,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -5837,14 +5837,14 @@
 						<id>170</id>
 						<name>zext_ln415_14</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5853,7 +5853,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -5885,14 +5885,14 @@
 						<id>171</id>
 						<name>add_ln415_3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5901,7 +5901,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -5934,14 +5934,14 @@
 						<id>172</id>
 						<name>linear_weight_fix_V_9</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5950,7 +5950,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -5984,14 +5984,14 @@
 						<id>173</id>
 						<name>linear_weight_fix_V_10</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6000,7 +6000,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -6032,14 +6032,14 @@
 						<id>174</id>
 						<name>tmp_75</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6048,7 +6048,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -6083,14 +6083,14 @@
 						<id>175</id>
 						<name>sext_ln713_5</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6099,7 +6099,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -6131,14 +6131,14 @@
 						<id>176</id>
 						<name>trunc_ln415_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6147,7 +6147,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -6179,14 +6179,14 @@
 						<id>177</id>
 						<name>zext_ln415_15</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6195,7 +6195,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -6227,14 +6227,14 @@
 						<id>178</id>
 						<name>add_ln415_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6243,7 +6243,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -6276,14 +6276,14 @@
 						<id>179</id>
 						<name>linear_weight_fix_V_11</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6292,7 +6292,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -6326,14 +6326,14 @@
 						<id>180</id>
 						<name>linear_weight_fix_V_12</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6342,7 +6342,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -6374,14 +6374,14 @@
 						<id>181</id>
 						<name>tmp_76</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6390,7 +6390,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -6425,14 +6425,14 @@
 						<id>182</id>
 						<name>sext_ln713_6</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6441,7 +6441,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -6473,14 +6473,14 @@
 						<id>183</id>
 						<name>trunc_ln415_5</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6489,7 +6489,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -6521,14 +6521,14 @@
 						<id>184</id>
 						<name>zext_ln415_16</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6537,7 +6537,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -6569,14 +6569,14 @@
 						<id>185</id>
 						<name>add_ln415_5</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6585,7 +6585,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -6618,14 +6618,14 @@
 						<id>186</id>
 						<name>linear_weight_fix_V_13</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6634,7 +6634,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -6668,14 +6668,14 @@
 						<id>187</id>
 						<name>linear_weight_fix_V_14</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6684,7 +6684,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -6716,14 +6716,14 @@
 						<id>188</id>
 						<name>tmp_77</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6732,7 +6732,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -6767,14 +6767,14 @@
 						<id>189</id>
 						<name>sext_ln713_7</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6783,7 +6783,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -6815,14 +6815,14 @@
 						<id>190</id>
 						<name>trunc_ln415_6</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6831,7 +6831,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -6863,14 +6863,14 @@
 						<id>191</id>
 						<name>zext_ln415_17</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6879,7 +6879,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -6911,14 +6911,14 @@
 						<id>192</id>
 						<name>add_ln415_6</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6927,7 +6927,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -6960,14 +6960,14 @@
 						<id>193</id>
 						<name>linear_weight_fix_V_15</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6976,7 +6976,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -7010,14 +7010,14 @@
 						<id>194</id>
 						<name>linear_weight_fix_V_16</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7026,7 +7026,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -7058,14 +7058,14 @@
 						<id>195</id>
 						<name>tmp_78</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7074,7 +7074,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -7109,14 +7109,14 @@
 						<id>196</id>
 						<name>sext_ln713_8</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7125,7 +7125,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -7157,14 +7157,14 @@
 						<id>197</id>
 						<name>trunc_ln415_7</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7173,7 +7173,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -7205,14 +7205,14 @@
 						<id>198</id>
 						<name>zext_ln415_18</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7221,7 +7221,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -7253,14 +7253,14 @@
 						<id>199</id>
 						<name>add_ln415_7</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7269,7 +7269,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -7302,14 +7302,14 @@
 						<id>200</id>
 						<name>linear_weight_fix_V_17</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7318,7 +7318,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -7352,14 +7352,14 @@
 						<id>201</id>
 						<name>linear_weight_fix_V_18</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7368,7 +7368,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -7400,14 +7400,14 @@
 						<id>202</id>
 						<name>tmp_79</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7416,7 +7416,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -7451,14 +7451,14 @@
 						<id>203</id>
 						<name>sext_ln713_9</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7467,7 +7467,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -7499,14 +7499,14 @@
 						<id>204</id>
 						<name>trunc_ln415_8</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7515,7 +7515,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -7547,14 +7547,14 @@
 						<id>205</id>
 						<name>zext_ln415_19</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7563,7 +7563,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -7595,14 +7595,14 @@
 						<id>206</id>
 						<name>add_ln415_8</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7611,7 +7611,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -7644,14 +7644,14 @@
 						<id>207</id>
 						<name>linear_weight_fix_V_19</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7660,7 +7660,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -7694,14 +7694,14 @@
 						<id>208</id>
 						<name>linear_weight_fix_V_20</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7710,7 +7710,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -7742,14 +7742,14 @@
 						<id>209</id>
 						<name>tmp_80</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7758,7 +7758,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -7793,14 +7793,14 @@
 						<id>210</id>
 						<name>sext_ln713_10</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7809,7 +7809,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -7841,14 +7841,14 @@
 						<id>211</id>
 						<name>trunc_ln415_9</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7857,7 +7857,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -7889,14 +7889,14 @@
 						<id>212</id>
 						<name>zext_ln415_20</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7905,7 +7905,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -7937,14 +7937,14 @@
 						<id>213</id>
 						<name>add_ln415_9</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>277</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>274</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7953,7 +7953,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>277</second>
+										<second>274</second>
 									</item>
 								</second>
 							</item>
@@ -7986,14 +7986,14 @@
 						<id>214</id>
 						<name>sext_ln1118</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8002,7 +8002,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -8034,14 +8034,14 @@
 						<id>215</id>
 						<name>sext_ln1118_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8050,7 +8050,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -8082,14 +8082,14 @@
 						<id>216</id>
 						<name>sext_ln1118_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8098,7 +8098,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -8130,14 +8130,14 @@
 						<id>217</id>
 						<name>mul_ln1118</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8146,7 +8146,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -8179,14 +8179,14 @@
 						<id>218</id>
 						<name>shl_ln728_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8195,7 +8195,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -8229,14 +8229,14 @@
 						<id>219</id>
 						<name>sext_ln728</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8245,7 +8245,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -8277,14 +8277,14 @@
 						<id>220</id>
 						<name>trunc_ln1192</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8293,7 +8293,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -8325,14 +8325,14 @@
 						<id>221</id>
 						<name>sext_ln1192</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8341,7 +8341,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -8373,14 +8373,14 @@
 						<id>222</id>
 						<name>add_ln1192</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8389,7 +8389,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -8422,14 +8422,14 @@
 						<id>223</id>
 						<name>add_ln1192_10</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8438,7 +8438,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -8471,14 +8471,14 @@
 						<id>224</id>
 						<name>tmp_81</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8487,7 +8487,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -8521,14 +8521,14 @@
 						<id>225</id>
 						<name>trunc_ln708_s</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8537,7 +8537,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -8572,14 +8572,14 @@
 						<id>226</id>
 						<name>tmp_82</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8588,7 +8588,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -8622,14 +8622,14 @@
 						<id>227</id>
 						<name>tmp_83</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8638,7 +8638,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -8672,14 +8672,14 @@
 						<id>228</id>
 						<name>zext_ln415_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8688,7 +8688,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -8720,14 +8720,14 @@
 						<id>229</id>
 						<name>buf_0_V</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8736,7 +8736,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -8769,14 +8769,14 @@
 						<id>230</id>
 						<name>tmp_84</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8785,7 +8785,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -8819,14 +8819,14 @@
 						<id>231</id>
 						<name>xor_ln416_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8835,7 +8835,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -8868,14 +8868,14 @@
 						<id>232</id>
 						<name>and_ln416</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8884,7 +8884,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -8917,14 +8917,14 @@
 						<id>233</id>
 						<name>tmp_85</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8933,7 +8933,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -8967,14 +8967,14 @@
 						<id>234</id>
 						<name>tmp_16</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8983,7 +8983,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -9018,14 +9018,14 @@
 						<id>235</id>
 						<name>icmp_ln879</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9034,7 +9034,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -9067,14 +9067,14 @@
 						<id>236</id>
 						<name>tmp_17</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9083,7 +9083,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -9118,14 +9118,14 @@
 						<id>237</id>
 						<name>icmp_ln879_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9134,7 +9134,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -9167,14 +9167,14 @@
 						<id>238</id>
 						<name>icmp_ln768</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9183,7 +9183,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -9216,14 +9216,14 @@
 						<id>239</id>
 						<name>select_ln777</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9232,7 +9232,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -9252,7 +9252,7 @@
 				</oprand_edges>
 				<opcode>select</opcode>
 				<m_Display>0</m_Display>
-				<m_isOnCriticalPath>0</m_isOnCriticalPath>
+				<m_isOnCriticalPath>1</m_isOnCriticalPath>
 				<m_isLCDNode>0</m_isLCDNode>
 				<m_isStartOfPath>0</m_isStartOfPath>
 				<m_delay>0.00</m_delay>
@@ -9266,14 +9266,14 @@
 						<id>240</id>
 						<name>tmp_86</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9282,7 +9282,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -9316,14 +9316,14 @@
 						<id>241</id>
 						<name>xor_ln779_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9332,7 +9332,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -9365,14 +9365,14 @@
 						<id>242</id>
 						<name>and_ln779</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9381,7 +9381,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -9414,14 +9414,14 @@
 						<id>243</id>
 						<name>select_ln416</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9430,7 +9430,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -9450,7 +9450,7 @@
 				</oprand_edges>
 				<opcode>select</opcode>
 				<m_Display>0</m_Display>
-				<m_isOnCriticalPath>1</m_isOnCriticalPath>
+				<m_isOnCriticalPath>0</m_isOnCriticalPath>
 				<m_isLCDNode>0</m_isLCDNode>
 				<m_isStartOfPath>0</m_isStartOfPath>
 				<m_delay>0.00</m_delay>
@@ -9464,14 +9464,14 @@
 						<id>244</id>
 						<name>and_ln781</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9480,7 +9480,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -9513,14 +9513,14 @@
 						<id>245</id>
 						<name>xor_ln785_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9529,7 +9529,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -9548,7 +9548,7 @@
 				</oprand_edges>
 				<opcode>xor</opcode>
 				<m_Display>0</m_Display>
-				<m_isOnCriticalPath>0</m_isOnCriticalPath>
+				<m_isOnCriticalPath>1</m_isOnCriticalPath>
 				<m_isLCDNode>0</m_isLCDNode>
 				<m_isStartOfPath>0</m_isStartOfPath>
 				<m_delay>0.00</m_delay>
@@ -9562,14 +9562,14 @@
 						<id>246</id>
 						<name>or_ln785_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9578,7 +9578,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -9597,7 +9597,7 @@
 				</oprand_edges>
 				<opcode>or</opcode>
 				<m_Display>0</m_Display>
-				<m_isOnCriticalPath>0</m_isOnCriticalPath>
+				<m_isOnCriticalPath>1</m_isOnCriticalPath>
 				<m_isLCDNode>0</m_isLCDNode>
 				<m_isStartOfPath>0</m_isStartOfPath>
 				<m_delay>0.00</m_delay>
@@ -9611,14 +9611,14 @@
 						<id>247</id>
 						<name>xor_ln785_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9627,7 +9627,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -9660,14 +9660,14 @@
 						<id>248</id>
 						<name>and_ln785</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9676,7 +9676,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -9695,7 +9695,7 @@
 				</oprand_edges>
 				<opcode>and</opcode>
 				<m_Display>0</m_Display>
-				<m_isOnCriticalPath>0</m_isOnCriticalPath>
+				<m_isOnCriticalPath>1</m_isOnCriticalPath>
 				<m_isLCDNode>0</m_isLCDNode>
 				<m_isStartOfPath>0</m_isStartOfPath>
 				<m_delay>0.33</m_delay>
@@ -9709,14 +9709,14 @@
 						<id>249</id>
 						<name>and_ln786_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9725,7 +9725,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -9744,7 +9744,7 @@
 				</oprand_edges>
 				<opcode>and</opcode>
 				<m_Display>0</m_Display>
-				<m_isOnCriticalPath>1</m_isOnCriticalPath>
+				<m_isOnCriticalPath>0</m_isOnCriticalPath>
 				<m_isLCDNode>0</m_isLCDNode>
 				<m_isStartOfPath>0</m_isStartOfPath>
 				<m_delay>0.33</m_delay>
@@ -9758,14 +9758,14 @@
 						<id>250</id>
 						<name>or_ln786_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9774,7 +9774,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -9793,7 +9793,7 @@
 				</oprand_edges>
 				<opcode>or</opcode>
 				<m_Display>0</m_Display>
-				<m_isOnCriticalPath>1</m_isOnCriticalPath>
+				<m_isOnCriticalPath>0</m_isOnCriticalPath>
 				<m_isLCDNode>0</m_isLCDNode>
 				<m_isStartOfPath>0</m_isStartOfPath>
 				<m_delay>0.00</m_delay>
@@ -9807,14 +9807,14 @@
 						<id>251</id>
 						<name>xor_ln786_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9823,7 +9823,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -9842,7 +9842,7 @@
 				</oprand_edges>
 				<opcode>xor</opcode>
 				<m_Display>0</m_Display>
-				<m_isOnCriticalPath>1</m_isOnCriticalPath>
+				<m_isOnCriticalPath>0</m_isOnCriticalPath>
 				<m_isLCDNode>0</m_isLCDNode>
 				<m_isStartOfPath>0</m_isStartOfPath>
 				<m_delay>0.00</m_delay>
@@ -9856,14 +9856,14 @@
 						<id>252</id>
 						<name>and_ln786_3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9872,7 +9872,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -9891,7 +9891,7 @@
 				</oprand_edges>
 				<opcode>and</opcode>
 				<m_Display>0</m_Display>
-				<m_isOnCriticalPath>1</m_isOnCriticalPath>
+				<m_isOnCriticalPath>0</m_isOnCriticalPath>
 				<m_isLCDNode>0</m_isLCDNode>
 				<m_isStartOfPath>0</m_isStartOfPath>
 				<m_delay>0.00</m_delay>
@@ -9905,14 +9905,14 @@
 						<id>253</id>
 						<name>select_ln785</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9921,7 +9921,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -9955,14 +9955,14 @@
 						<id>254</id>
 						<name>or_ln785_11</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9971,7 +9971,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -10004,14 +10004,14 @@
 						<id>255</id>
 						<name>select_ln785_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10020,7 +10020,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -10054,14 +10054,14 @@
 						<id>256</id>
 						<name>sext_ln1118_3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10070,7 +10070,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -10102,14 +10102,14 @@
 						<id>257</id>
 						<name>mul_ln1118_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10118,7 +10118,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -10151,14 +10151,14 @@
 						<id>258</id>
 						<name>shl_ln728_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10167,7 +10167,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -10201,14 +10201,14 @@
 						<id>259</id>
 						<name>sext_ln728_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10217,7 +10217,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -10249,14 +10249,14 @@
 						<id>260</id>
 						<name>trunc_ln1192_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10265,7 +10265,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -10297,14 +10297,14 @@
 						<id>261</id>
 						<name>sext_ln1192_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10313,7 +10313,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -10345,14 +10345,14 @@
 						<id>262</id>
 						<name>add_ln1192_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10361,7 +10361,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -10394,14 +10394,14 @@
 						<id>263</id>
 						<name>add_ln1192_11</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10410,7 +10410,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -10443,14 +10443,14 @@
 						<id>264</id>
 						<name>tmp_87</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10459,7 +10459,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -10493,14 +10493,14 @@
 						<id>265</id>
 						<name>trunc_ln708_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10509,7 +10509,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -10544,14 +10544,14 @@
 						<id>266</id>
 						<name>tmp_88</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10560,7 +10560,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -10594,14 +10594,14 @@
 						<id>267</id>
 						<name>tmp_89</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10610,7 +10610,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -10644,14 +10644,14 @@
 						<id>268</id>
 						<name>zext_ln415_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10660,7 +10660,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -10692,14 +10692,14 @@
 						<id>269</id>
 						<name>buf_1_V</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10708,7 +10708,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -10741,14 +10741,14 @@
 						<id>270</id>
 						<name>tmp_90</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10757,7 +10757,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -10791,14 +10791,14 @@
 						<id>271</id>
 						<name>xor_ln416_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10807,7 +10807,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -10840,14 +10840,14 @@
 						<id>272</id>
 						<name>and_ln416_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10856,7 +10856,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -10889,14 +10889,14 @@
 						<id>273</id>
 						<name>tmp_91</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10905,7 +10905,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -10939,14 +10939,14 @@
 						<id>274</id>
 						<name>tmp_18</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10955,7 +10955,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -10990,14 +10990,14 @@
 						<id>275</id>
 						<name>icmp_ln879_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11006,7 +11006,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -11039,14 +11039,14 @@
 						<id>276</id>
 						<name>tmp_19</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11055,7 +11055,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -11090,14 +11090,14 @@
 						<id>277</id>
 						<name>icmp_ln879_3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11106,7 +11106,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -11139,14 +11139,14 @@
 						<id>278</id>
 						<name>icmp_ln768_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11155,7 +11155,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -11188,14 +11188,14 @@
 						<id>279</id>
 						<name>select_ln777_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11204,7 +11204,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -11238,14 +11238,14 @@
 						<id>280</id>
 						<name>tmp_92</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11254,7 +11254,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -11288,14 +11288,14 @@
 						<id>281</id>
 						<name>xor_ln779_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11304,7 +11304,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -11337,14 +11337,14 @@
 						<id>282</id>
 						<name>and_ln779_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11353,7 +11353,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -11386,14 +11386,14 @@
 						<id>283</id>
 						<name>select_ln416_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11402,7 +11402,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -11436,14 +11436,14 @@
 						<id>284</id>
 						<name>and_ln781_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11452,7 +11452,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -11485,14 +11485,14 @@
 						<id>285</id>
 						<name>xor_ln785_3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11501,7 +11501,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -11534,14 +11534,14 @@
 						<id>286</id>
 						<name>or_ln785_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11550,7 +11550,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -11583,14 +11583,14 @@
 						<id>287</id>
 						<name>xor_ln785_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11599,7 +11599,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -11632,14 +11632,14 @@
 						<id>288</id>
 						<name>and_ln785_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11648,7 +11648,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -11681,14 +11681,14 @@
 						<id>289</id>
 						<name>and_ln786_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11697,7 +11697,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -11730,14 +11730,14 @@
 						<id>290</id>
 						<name>or_ln786_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11746,7 +11746,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -11779,14 +11779,14 @@
 						<id>291</id>
 						<name>xor_ln786_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11795,7 +11795,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -11828,14 +11828,14 @@
 						<id>292</id>
 						<name>and_ln786_5</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11844,7 +11844,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -11877,14 +11877,14 @@
 						<id>293</id>
 						<name>select_ln785_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11893,7 +11893,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -11927,14 +11927,14 @@
 						<id>294</id>
 						<name>or_ln785_12</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11943,7 +11943,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -11976,14 +11976,14 @@
 						<id>295</id>
 						<name>select_ln785_3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11992,7 +11992,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -12026,14 +12026,14 @@
 						<id>296</id>
 						<name>sext_ln1118_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12042,7 +12042,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -12074,14 +12074,14 @@
 						<id>297</id>
 						<name>mul_ln1118_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12090,7 +12090,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -12123,14 +12123,14 @@
 						<id>298</id>
 						<name>shl_ln728_3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12139,7 +12139,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -12173,14 +12173,14 @@
 						<id>299</id>
 						<name>sext_ln728_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12189,7 +12189,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -12221,14 +12221,14 @@
 						<id>300</id>
 						<name>trunc_ln1192_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12237,7 +12237,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -12269,14 +12269,14 @@
 						<id>301</id>
 						<name>sext_ln1192_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12285,7 +12285,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -12317,14 +12317,14 @@
 						<id>302</id>
 						<name>add_ln1192_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12333,7 +12333,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -12366,14 +12366,14 @@
 						<id>303</id>
 						<name>add_ln1192_12</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12382,7 +12382,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -12415,14 +12415,14 @@
 						<id>304</id>
 						<name>tmp_93</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12431,7 +12431,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -12465,14 +12465,14 @@
 						<id>305</id>
 						<name>trunc_ln708_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12481,7 +12481,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -12516,14 +12516,14 @@
 						<id>306</id>
 						<name>tmp_94</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12532,7 +12532,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -12566,14 +12566,14 @@
 						<id>307</id>
 						<name>tmp_95</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12582,7 +12582,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -12616,14 +12616,14 @@
 						<id>308</id>
 						<name>zext_ln415_3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12632,7 +12632,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -12664,14 +12664,14 @@
 						<id>309</id>
 						<name>buf_2_V</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12680,7 +12680,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -12713,14 +12713,14 @@
 						<id>310</id>
 						<name>tmp_96</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12729,7 +12729,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -12763,14 +12763,14 @@
 						<id>311</id>
 						<name>xor_ln416_3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12779,7 +12779,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -12812,14 +12812,14 @@
 						<id>312</id>
 						<name>and_ln416_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12828,7 +12828,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -12861,14 +12861,14 @@
 						<id>313</id>
 						<name>tmp_97</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12877,7 +12877,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -12911,14 +12911,14 @@
 						<id>314</id>
 						<name>tmp_20</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12927,7 +12927,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -12962,14 +12962,14 @@
 						<id>315</id>
 						<name>icmp_ln879_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12978,7 +12978,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -13011,14 +13011,14 @@
 						<id>316</id>
 						<name>tmp_21</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13027,7 +13027,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -13062,14 +13062,14 @@
 						<id>317</id>
 						<name>icmp_ln879_5</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13078,7 +13078,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -13111,14 +13111,14 @@
 						<id>318</id>
 						<name>icmp_ln768_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13127,7 +13127,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -13160,14 +13160,14 @@
 						<id>319</id>
 						<name>select_ln777_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13176,7 +13176,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -13210,14 +13210,14 @@
 						<id>320</id>
 						<name>tmp_98</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13226,7 +13226,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -13260,14 +13260,14 @@
 						<id>321</id>
 						<name>xor_ln779_3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13276,7 +13276,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -13309,14 +13309,14 @@
 						<id>322</id>
 						<name>and_ln779_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13325,7 +13325,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -13358,14 +13358,14 @@
 						<id>323</id>
 						<name>select_ln416_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13374,7 +13374,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -13408,14 +13408,14 @@
 						<id>324</id>
 						<name>and_ln781_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13424,7 +13424,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -13457,14 +13457,14 @@
 						<id>325</id>
 						<name>xor_ln785_5</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13473,7 +13473,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -13506,14 +13506,14 @@
 						<id>326</id>
 						<name>or_ln785_3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13522,7 +13522,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -13555,14 +13555,14 @@
 						<id>327</id>
 						<name>xor_ln785_6</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13571,7 +13571,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -13604,14 +13604,14 @@
 						<id>328</id>
 						<name>and_ln785_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13620,7 +13620,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -13653,14 +13653,14 @@
 						<id>329</id>
 						<name>and_ln786_6</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13669,7 +13669,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -13702,14 +13702,14 @@
 						<id>330</id>
 						<name>or_ln786_3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13718,7 +13718,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -13751,14 +13751,14 @@
 						<id>331</id>
 						<name>xor_ln786_3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13767,7 +13767,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -13800,14 +13800,14 @@
 						<id>332</id>
 						<name>and_ln786_7</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13816,7 +13816,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -13849,14 +13849,14 @@
 						<id>333</id>
 						<name>select_ln785_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13865,7 +13865,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -13899,14 +13899,14 @@
 						<id>334</id>
 						<name>or_ln785_13</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13915,7 +13915,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -13948,14 +13948,14 @@
 						<id>335</id>
 						<name>select_ln785_5</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13964,7 +13964,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -13998,14 +13998,14 @@
 						<id>336</id>
 						<name>sext_ln1118_5</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14014,7 +14014,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -14046,14 +14046,14 @@
 						<id>337</id>
 						<name>mul_ln1118_3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14062,7 +14062,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -14095,14 +14095,14 @@
 						<id>338</id>
 						<name>shl_ln728_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14111,7 +14111,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -14145,14 +14145,14 @@
 						<id>339</id>
 						<name>sext_ln728_3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14161,7 +14161,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -14193,14 +14193,14 @@
 						<id>340</id>
 						<name>sext_ln1192_10</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14209,7 +14209,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -14241,14 +14241,14 @@
 						<id>341</id>
 						<name>trunc_ln1192_3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14257,7 +14257,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -14289,14 +14289,14 @@
 						<id>342</id>
 						<name>sext_ln1192_3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14305,7 +14305,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -14337,14 +14337,14 @@
 						<id>343</id>
 						<name>add_ln1192_3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14353,7 +14353,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -14386,14 +14386,14 @@
 						<id>344</id>
 						<name>add_ln1192_13</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14402,7 +14402,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -14435,14 +14435,14 @@
 						<id>345</id>
 						<name>tmp_99</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14451,7 +14451,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -14485,14 +14485,14 @@
 						<id>346</id>
 						<name>trunc_ln708_3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14501,7 +14501,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -14536,14 +14536,14 @@
 						<id>347</id>
 						<name>tmp_100</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14552,7 +14552,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -14586,14 +14586,14 @@
 						<id>348</id>
 						<name>tmp_101</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14602,7 +14602,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -14636,14 +14636,14 @@
 						<id>349</id>
 						<name>zext_ln415_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14652,7 +14652,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -14684,14 +14684,14 @@
 						<id>350</id>
 						<name>buf_3_V</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14700,7 +14700,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -14733,14 +14733,14 @@
 						<id>351</id>
 						<name>tmp_102</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14749,7 +14749,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -14783,14 +14783,14 @@
 						<id>352</id>
 						<name>xor_ln416_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14799,7 +14799,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -14832,14 +14832,14 @@
 						<id>353</id>
 						<name>and_ln416_3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14848,7 +14848,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -14881,14 +14881,14 @@
 						<id>354</id>
 						<name>tmp_103</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14897,7 +14897,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -14931,14 +14931,14 @@
 						<id>355</id>
 						<name>tmp_22</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14947,7 +14947,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -14982,14 +14982,14 @@
 						<id>356</id>
 						<name>icmp_ln879_6</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14998,7 +14998,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -15031,14 +15031,14 @@
 						<id>357</id>
 						<name>tmp_23</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15047,7 +15047,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -15082,14 +15082,14 @@
 						<id>358</id>
 						<name>icmp_ln879_7</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15098,7 +15098,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -15131,14 +15131,14 @@
 						<id>359</id>
 						<name>icmp_ln768_3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15147,7 +15147,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -15180,14 +15180,14 @@
 						<id>360</id>
 						<name>select_ln777_3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15196,7 +15196,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -15230,14 +15230,14 @@
 						<id>361</id>
 						<name>tmp_104</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15246,7 +15246,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -15280,14 +15280,14 @@
 						<id>362</id>
 						<name>xor_ln779_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15296,7 +15296,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -15329,14 +15329,14 @@
 						<id>363</id>
 						<name>and_ln779_3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15345,7 +15345,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -15378,14 +15378,14 @@
 						<id>364</id>
 						<name>select_ln416_3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15394,7 +15394,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -15428,14 +15428,14 @@
 						<id>365</id>
 						<name>and_ln781_3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15444,7 +15444,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -15477,14 +15477,14 @@
 						<id>366</id>
 						<name>xor_ln785_7</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15493,7 +15493,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -15526,14 +15526,14 @@
 						<id>367</id>
 						<name>or_ln785_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15542,7 +15542,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -15575,14 +15575,14 @@
 						<id>368</id>
 						<name>xor_ln785_8</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15591,7 +15591,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -15624,14 +15624,14 @@
 						<id>369</id>
 						<name>and_ln785_3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15640,7 +15640,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -15673,14 +15673,14 @@
 						<id>370</id>
 						<name>and_ln786_8</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15689,7 +15689,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -15722,14 +15722,14 @@
 						<id>371</id>
 						<name>or_ln786_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15738,7 +15738,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -15771,14 +15771,14 @@
 						<id>372</id>
 						<name>xor_ln786_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15787,7 +15787,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -15820,14 +15820,14 @@
 						<id>373</id>
 						<name>and_ln786_9</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15836,7 +15836,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -15869,14 +15869,14 @@
 						<id>374</id>
 						<name>select_ln785_6</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15885,7 +15885,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -15919,14 +15919,14 @@
 						<id>375</id>
 						<name>or_ln785_14</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15935,7 +15935,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -15968,14 +15968,14 @@
 						<id>376</id>
 						<name>select_ln785_7</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15984,7 +15984,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -16018,14 +16018,14 @@
 						<id>377</id>
 						<name>sext_ln1118_6</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16034,7 +16034,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -16066,14 +16066,14 @@
 						<id>378</id>
 						<name>mul_ln1118_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16082,7 +16082,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -16115,14 +16115,14 @@
 						<id>379</id>
 						<name>shl_ln728_5</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16131,7 +16131,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -16165,14 +16165,14 @@
 						<id>380</id>
 						<name>sext_ln728_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16181,7 +16181,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -16213,14 +16213,14 @@
 						<id>381</id>
 						<name>trunc_ln1192_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16229,7 +16229,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -16261,14 +16261,14 @@
 						<id>382</id>
 						<name>sext_ln1192_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16277,7 +16277,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -16309,14 +16309,14 @@
 						<id>383</id>
 						<name>add_ln1192_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16325,7 +16325,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -16358,14 +16358,14 @@
 						<id>384</id>
 						<name>add_ln1192_14</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16374,7 +16374,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -16407,14 +16407,14 @@
 						<id>385</id>
 						<name>tmp_105</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16423,7 +16423,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -16457,14 +16457,14 @@
 						<id>386</id>
 						<name>trunc_ln708_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16473,7 +16473,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -16508,14 +16508,14 @@
 						<id>387</id>
 						<name>tmp_106</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16524,7 +16524,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -16558,14 +16558,14 @@
 						<id>388</id>
 						<name>tmp_107</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16574,7 +16574,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -16608,14 +16608,14 @@
 						<id>389</id>
 						<name>zext_ln415_5</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16624,7 +16624,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -16656,14 +16656,14 @@
 						<id>390</id>
 						<name>buf_4_V</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16672,7 +16672,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -16705,14 +16705,14 @@
 						<id>391</id>
 						<name>tmp_108</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16721,7 +16721,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -16755,14 +16755,14 @@
 						<id>392</id>
 						<name>xor_ln416_5</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16771,7 +16771,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -16804,14 +16804,14 @@
 						<id>393</id>
 						<name>and_ln416_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16820,7 +16820,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -16853,14 +16853,14 @@
 						<id>394</id>
 						<name>tmp_109</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16869,7 +16869,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -16903,14 +16903,14 @@
 						<id>395</id>
 						<name>tmp_24</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16919,7 +16919,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -16954,14 +16954,14 @@
 						<id>396</id>
 						<name>icmp_ln879_8</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16970,7 +16970,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -17003,14 +17003,14 @@
 						<id>397</id>
 						<name>tmp_25</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17019,7 +17019,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -17054,14 +17054,14 @@
 						<id>398</id>
 						<name>icmp_ln879_9</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17070,7 +17070,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -17103,14 +17103,14 @@
 						<id>399</id>
 						<name>icmp_ln768_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17119,7 +17119,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -17152,14 +17152,14 @@
 						<id>400</id>
 						<name>select_ln777_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17168,7 +17168,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -17202,14 +17202,14 @@
 						<id>401</id>
 						<name>tmp_110</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17218,7 +17218,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -17252,14 +17252,14 @@
 						<id>402</id>
 						<name>xor_ln779_5</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17268,7 +17268,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -17301,14 +17301,14 @@
 						<id>403</id>
 						<name>and_ln779_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17317,7 +17317,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -17350,14 +17350,14 @@
 						<id>404</id>
 						<name>select_ln416_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17366,7 +17366,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -17400,14 +17400,14 @@
 						<id>405</id>
 						<name>and_ln781_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17416,7 +17416,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -17449,14 +17449,14 @@
 						<id>406</id>
 						<name>xor_ln785_9</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17465,7 +17465,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -17498,14 +17498,14 @@
 						<id>407</id>
 						<name>or_ln785_5</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17514,7 +17514,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -17547,14 +17547,14 @@
 						<id>408</id>
 						<name>xor_ln785_10</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17563,7 +17563,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -17596,14 +17596,14 @@
 						<id>409</id>
 						<name>and_ln785_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17612,7 +17612,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -17645,14 +17645,14 @@
 						<id>410</id>
 						<name>and_ln786_10</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17661,7 +17661,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -17694,14 +17694,14 @@
 						<id>411</id>
 						<name>or_ln786_5</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17710,7 +17710,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -17743,14 +17743,14 @@
 						<id>412</id>
 						<name>xor_ln786_5</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17759,7 +17759,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -17792,14 +17792,14 @@
 						<id>413</id>
 						<name>and_ln786_11</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17808,7 +17808,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -17841,14 +17841,14 @@
 						<id>414</id>
 						<name>select_ln785_8</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17857,7 +17857,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -17891,14 +17891,14 @@
 						<id>415</id>
 						<name>or_ln785_15</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17907,7 +17907,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -17940,14 +17940,14 @@
 						<id>416</id>
 						<name>select_ln785_9</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17956,7 +17956,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -17990,14 +17990,14 @@
 						<id>417</id>
 						<name>sext_ln1118_7</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18006,7 +18006,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -18038,14 +18038,14 @@
 						<id>418</id>
 						<name>mul_ln1118_5</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18054,7 +18054,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -18087,14 +18087,14 @@
 						<id>419</id>
 						<name>shl_ln728_6</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18103,7 +18103,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -18137,14 +18137,14 @@
 						<id>420</id>
 						<name>sext_ln728_5</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18153,7 +18153,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -18185,14 +18185,14 @@
 						<id>421</id>
 						<name>trunc_ln1192_5</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18201,7 +18201,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -18233,14 +18233,14 @@
 						<id>422</id>
 						<name>sext_ln1192_5</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18249,7 +18249,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -18281,14 +18281,14 @@
 						<id>423</id>
 						<name>add_ln1192_5</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18297,7 +18297,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -18330,14 +18330,14 @@
 						<id>424</id>
 						<name>add_ln1192_15</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18346,7 +18346,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -18379,14 +18379,14 @@
 						<id>425</id>
 						<name>tmp_111</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18395,7 +18395,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -18429,14 +18429,14 @@
 						<id>426</id>
 						<name>trunc_ln708_5</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18445,7 +18445,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -18480,14 +18480,14 @@
 						<id>427</id>
 						<name>tmp_112</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18496,7 +18496,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -18530,14 +18530,14 @@
 						<id>428</id>
 						<name>tmp_113</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18546,7 +18546,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -18580,14 +18580,14 @@
 						<id>429</id>
 						<name>zext_ln415_6</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18596,7 +18596,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -18628,14 +18628,14 @@
 						<id>430</id>
 						<name>buf_5_V</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18644,7 +18644,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -18677,14 +18677,14 @@
 						<id>431</id>
 						<name>tmp_114</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18693,7 +18693,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -18727,14 +18727,14 @@
 						<id>432</id>
 						<name>xor_ln416_6</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18743,7 +18743,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -18776,14 +18776,14 @@
 						<id>433</id>
 						<name>and_ln416_5</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18792,7 +18792,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -18825,14 +18825,14 @@
 						<id>434</id>
 						<name>tmp_115</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18841,7 +18841,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -18875,14 +18875,14 @@
 						<id>435</id>
 						<name>tmp_26</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18891,7 +18891,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -18926,14 +18926,14 @@
 						<id>436</id>
 						<name>icmp_ln879_10</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18942,7 +18942,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -18975,14 +18975,14 @@
 						<id>437</id>
 						<name>tmp_27</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18991,7 +18991,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -19026,14 +19026,14 @@
 						<id>438</id>
 						<name>icmp_ln879_11</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19042,7 +19042,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -19075,14 +19075,14 @@
 						<id>439</id>
 						<name>icmp_ln768_5</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19091,7 +19091,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -19124,14 +19124,14 @@
 						<id>440</id>
 						<name>select_ln777_5</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19140,7 +19140,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -19174,14 +19174,14 @@
 						<id>441</id>
 						<name>tmp_116</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19190,7 +19190,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -19224,14 +19224,14 @@
 						<id>442</id>
 						<name>xor_ln779_6</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19240,7 +19240,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -19273,14 +19273,14 @@
 						<id>443</id>
 						<name>and_ln779_5</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19289,7 +19289,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -19322,14 +19322,14 @@
 						<id>444</id>
 						<name>select_ln416_5</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19338,7 +19338,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -19372,14 +19372,14 @@
 						<id>445</id>
 						<name>and_ln781_5</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19388,7 +19388,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -19421,14 +19421,14 @@
 						<id>446</id>
 						<name>xor_ln785_11</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19437,7 +19437,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -19470,14 +19470,14 @@
 						<id>447</id>
 						<name>or_ln785_6</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19486,7 +19486,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -19519,14 +19519,14 @@
 						<id>448</id>
 						<name>xor_ln785_12</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19535,7 +19535,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -19568,14 +19568,14 @@
 						<id>449</id>
 						<name>and_ln785_5</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19584,7 +19584,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -19617,14 +19617,14 @@
 						<id>450</id>
 						<name>and_ln786_12</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19633,7 +19633,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -19666,14 +19666,14 @@
 						<id>451</id>
 						<name>or_ln786_6</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19682,7 +19682,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -19715,14 +19715,14 @@
 						<id>452</id>
 						<name>xor_ln786_6</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19731,7 +19731,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -19764,14 +19764,14 @@
 						<id>453</id>
 						<name>and_ln786_13</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19780,7 +19780,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -19813,14 +19813,14 @@
 						<id>454</id>
 						<name>select_ln785_10</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19829,7 +19829,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -19863,14 +19863,14 @@
 						<id>455</id>
 						<name>or_ln785_16</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19879,7 +19879,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -19912,14 +19912,14 @@
 						<id>456</id>
 						<name>select_ln785_11</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19928,7 +19928,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -19962,14 +19962,14 @@
 						<id>457</id>
 						<name>sext_ln1118_8</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19978,7 +19978,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -20010,14 +20010,14 @@
 						<id>458</id>
 						<name>mul_ln1118_6</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20026,7 +20026,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -20059,14 +20059,14 @@
 						<id>459</id>
 						<name>shl_ln728_7</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20075,7 +20075,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -20109,14 +20109,14 @@
 						<id>460</id>
 						<name>sext_ln728_6</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20125,7 +20125,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -20157,14 +20157,14 @@
 						<id>461</id>
 						<name>trunc_ln1192_6</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20173,7 +20173,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -20205,14 +20205,14 @@
 						<id>462</id>
 						<name>sext_ln1192_6</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20221,7 +20221,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -20253,14 +20253,14 @@
 						<id>463</id>
 						<name>add_ln1192_6</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20269,7 +20269,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -20302,14 +20302,14 @@
 						<id>464</id>
 						<name>add_ln1192_16</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20318,7 +20318,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -20351,14 +20351,14 @@
 						<id>465</id>
 						<name>tmp_117</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20367,7 +20367,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -20401,14 +20401,14 @@
 						<id>466</id>
 						<name>trunc_ln708_6</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20417,7 +20417,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -20452,14 +20452,14 @@
 						<id>467</id>
 						<name>tmp_118</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20468,7 +20468,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -20502,14 +20502,14 @@
 						<id>468</id>
 						<name>tmp_119</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20518,7 +20518,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -20552,14 +20552,14 @@
 						<id>469</id>
 						<name>zext_ln415_7</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20568,7 +20568,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -20600,14 +20600,14 @@
 						<id>470</id>
 						<name>buf_6_V</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20616,7 +20616,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -20649,14 +20649,14 @@
 						<id>471</id>
 						<name>tmp_120</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20665,7 +20665,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -20699,14 +20699,14 @@
 						<id>472</id>
 						<name>xor_ln416_7</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20715,7 +20715,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -20748,14 +20748,14 @@
 						<id>473</id>
 						<name>and_ln416_6</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20764,7 +20764,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -20797,14 +20797,14 @@
 						<id>474</id>
 						<name>tmp_121</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20813,7 +20813,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -20847,14 +20847,14 @@
 						<id>475</id>
 						<name>tmp_28</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20863,7 +20863,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -20898,14 +20898,14 @@
 						<id>476</id>
 						<name>icmp_ln879_12</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20914,7 +20914,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -20947,14 +20947,14 @@
 						<id>477</id>
 						<name>tmp_29</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20963,7 +20963,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -20998,14 +20998,14 @@
 						<id>478</id>
 						<name>icmp_ln879_13</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21014,7 +21014,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -21047,14 +21047,14 @@
 						<id>479</id>
 						<name>icmp_ln768_6</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21063,7 +21063,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -21096,14 +21096,14 @@
 						<id>480</id>
 						<name>select_ln777_6</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21112,7 +21112,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -21146,14 +21146,14 @@
 						<id>481</id>
 						<name>tmp_122</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21162,7 +21162,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -21196,14 +21196,14 @@
 						<id>482</id>
 						<name>xor_ln779_7</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21212,7 +21212,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -21245,14 +21245,14 @@
 						<id>483</id>
 						<name>and_ln779_6</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21261,7 +21261,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -21294,14 +21294,14 @@
 						<id>484</id>
 						<name>select_ln416_6</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21310,7 +21310,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -21344,14 +21344,14 @@
 						<id>485</id>
 						<name>and_ln781_6</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21360,7 +21360,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -21393,14 +21393,14 @@
 						<id>486</id>
 						<name>xor_ln785_13</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21409,7 +21409,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -21442,14 +21442,14 @@
 						<id>487</id>
 						<name>or_ln785_7</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21458,7 +21458,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -21491,14 +21491,14 @@
 						<id>488</id>
 						<name>xor_ln785_14</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21507,7 +21507,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -21540,14 +21540,14 @@
 						<id>489</id>
 						<name>and_ln785_6</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21556,7 +21556,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -21589,14 +21589,14 @@
 						<id>490</id>
 						<name>and_ln786_14</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21605,7 +21605,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -21638,14 +21638,14 @@
 						<id>491</id>
 						<name>or_ln786_7</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21654,7 +21654,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -21687,14 +21687,14 @@
 						<id>492</id>
 						<name>xor_ln786_7</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21703,7 +21703,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -21736,14 +21736,14 @@
 						<id>493</id>
 						<name>and_ln786_15</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21752,7 +21752,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -21785,14 +21785,14 @@
 						<id>494</id>
 						<name>select_ln785_12</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21801,7 +21801,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -21835,14 +21835,14 @@
 						<id>495</id>
 						<name>or_ln785_17</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21851,7 +21851,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -21884,14 +21884,14 @@
 						<id>496</id>
 						<name>select_ln785_13</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21900,7 +21900,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -21934,14 +21934,14 @@
 						<id>497</id>
 						<name>sext_ln1118_9</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21950,7 +21950,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -21982,14 +21982,14 @@
 						<id>498</id>
 						<name>mul_ln1118_7</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21998,7 +21998,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -22031,14 +22031,14 @@
 						<id>499</id>
 						<name>shl_ln728_8</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22047,7 +22047,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -22081,14 +22081,14 @@
 						<id>500</id>
 						<name>sext_ln728_7</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22097,7 +22097,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -22129,14 +22129,14 @@
 						<id>501</id>
 						<name>trunc_ln1192_7</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22145,7 +22145,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -22177,14 +22177,14 @@
 						<id>502</id>
 						<name>sext_ln1192_7</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22193,7 +22193,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -22225,14 +22225,14 @@
 						<id>503</id>
 						<name>add_ln1192_7</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22241,7 +22241,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -22274,14 +22274,14 @@
 						<id>504</id>
 						<name>add_ln1192_17</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22290,7 +22290,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -22323,14 +22323,14 @@
 						<id>505</id>
 						<name>tmp_123</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22339,7 +22339,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -22373,14 +22373,14 @@
 						<id>506</id>
 						<name>trunc_ln708_7</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22389,7 +22389,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -22424,14 +22424,14 @@
 						<id>507</id>
 						<name>tmp_124</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22440,7 +22440,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -22474,14 +22474,14 @@
 						<id>508</id>
 						<name>tmp_125</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22490,7 +22490,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -22524,14 +22524,14 @@
 						<id>509</id>
 						<name>zext_ln415_8</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22540,7 +22540,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -22572,14 +22572,14 @@
 						<id>510</id>
 						<name>buf_7_V</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22588,7 +22588,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -22621,14 +22621,14 @@
 						<id>511</id>
 						<name>tmp_126</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22637,7 +22637,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -22671,14 +22671,14 @@
 						<id>512</id>
 						<name>xor_ln416_8</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22687,7 +22687,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -22720,14 +22720,14 @@
 						<id>513</id>
 						<name>and_ln416_7</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22736,7 +22736,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -22769,14 +22769,14 @@
 						<id>514</id>
 						<name>tmp_127</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22785,7 +22785,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -22819,14 +22819,14 @@
 						<id>515</id>
 						<name>tmp_30</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22835,7 +22835,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -22870,14 +22870,14 @@
 						<id>516</id>
 						<name>icmp_ln879_14</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22886,7 +22886,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -22919,14 +22919,14 @@
 						<id>517</id>
 						<name>tmp_31</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22935,7 +22935,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -22970,14 +22970,14 @@
 						<id>518</id>
 						<name>icmp_ln879_15</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22986,7 +22986,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -23019,14 +23019,14 @@
 						<id>519</id>
 						<name>icmp_ln768_7</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23035,7 +23035,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -23068,14 +23068,14 @@
 						<id>520</id>
 						<name>select_ln777_7</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23084,7 +23084,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -23118,14 +23118,14 @@
 						<id>521</id>
 						<name>tmp_128</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23134,7 +23134,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -23168,14 +23168,14 @@
 						<id>522</id>
 						<name>xor_ln779_8</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23184,7 +23184,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -23217,14 +23217,14 @@
 						<id>523</id>
 						<name>and_ln779_7</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23233,7 +23233,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -23266,14 +23266,14 @@
 						<id>524</id>
 						<name>select_ln416_7</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23282,7 +23282,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -23316,14 +23316,14 @@
 						<id>525</id>
 						<name>and_ln781_7</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23332,7 +23332,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -23365,14 +23365,14 @@
 						<id>526</id>
 						<name>xor_ln785_15</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23381,7 +23381,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -23414,14 +23414,14 @@
 						<id>527</id>
 						<name>or_ln785_8</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23430,7 +23430,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -23463,14 +23463,14 @@
 						<id>528</id>
 						<name>xor_ln785_16</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23479,7 +23479,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -23512,14 +23512,14 @@
 						<id>529</id>
 						<name>and_ln785_7</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23528,7 +23528,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -23561,14 +23561,14 @@
 						<id>530</id>
 						<name>and_ln786_16</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23577,7 +23577,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -23610,14 +23610,14 @@
 						<id>531</id>
 						<name>or_ln786_8</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23626,7 +23626,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -23659,14 +23659,14 @@
 						<id>532</id>
 						<name>xor_ln786_8</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23675,7 +23675,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -23708,14 +23708,14 @@
 						<id>533</id>
 						<name>and_ln786_17</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23724,7 +23724,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -23757,14 +23757,14 @@
 						<id>534</id>
 						<name>select_ln785_14</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23773,7 +23773,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -23807,14 +23807,14 @@
 						<id>535</id>
 						<name>or_ln785_18</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23823,7 +23823,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -23856,14 +23856,14 @@
 						<id>536</id>
 						<name>select_ln785_15</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23872,7 +23872,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -23906,14 +23906,14 @@
 						<id>537</id>
 						<name>sext_ln1118_10</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23922,7 +23922,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -23954,14 +23954,14 @@
 						<id>538</id>
 						<name>mul_ln1118_8</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23970,7 +23970,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -24003,14 +24003,14 @@
 						<id>539</id>
 						<name>shl_ln728_9</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24019,7 +24019,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -24053,14 +24053,14 @@
 						<id>540</id>
 						<name>sext_ln728_8</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24069,7 +24069,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -24101,14 +24101,14 @@
 						<id>541</id>
 						<name>trunc_ln1192_8</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24117,7 +24117,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -24149,14 +24149,14 @@
 						<id>542</id>
 						<name>sext_ln1192_8</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24165,7 +24165,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -24197,14 +24197,14 @@
 						<id>543</id>
 						<name>add_ln1192_8</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24213,7 +24213,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -24246,14 +24246,14 @@
 						<id>544</id>
 						<name>add_ln1192_18</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24262,7 +24262,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -24295,14 +24295,14 @@
 						<id>545</id>
 						<name>tmp_129</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24311,7 +24311,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -24345,14 +24345,14 @@
 						<id>546</id>
 						<name>trunc_ln708_8</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24361,7 +24361,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -24396,14 +24396,14 @@
 						<id>547</id>
 						<name>tmp_130</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24412,7 +24412,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -24446,14 +24446,14 @@
 						<id>548</id>
 						<name>tmp_131</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24462,7 +24462,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -24496,14 +24496,14 @@
 						<id>549</id>
 						<name>zext_ln415_9</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24512,7 +24512,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -24544,14 +24544,14 @@
 						<id>550</id>
 						<name>buf_8_V_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24560,7 +24560,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -24593,14 +24593,14 @@
 						<id>551</id>
 						<name>tmp_132</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24609,7 +24609,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -24643,14 +24643,14 @@
 						<id>552</id>
 						<name>xor_ln416_9</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24659,7 +24659,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -24692,14 +24692,14 @@
 						<id>553</id>
 						<name>and_ln416_8</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24708,7 +24708,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -24741,14 +24741,14 @@
 						<id>554</id>
 						<name>tmp_133</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24757,7 +24757,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -24791,14 +24791,14 @@
 						<id>555</id>
 						<name>tmp_32</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24807,7 +24807,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -24842,14 +24842,14 @@
 						<id>556</id>
 						<name>icmp_ln879_16</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24858,7 +24858,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -24891,14 +24891,14 @@
 						<id>557</id>
 						<name>tmp_33</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24907,7 +24907,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -24942,14 +24942,14 @@
 						<id>558</id>
 						<name>icmp_ln879_17</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24958,7 +24958,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -24991,14 +24991,14 @@
 						<id>559</id>
 						<name>icmp_ln768_8</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25007,7 +25007,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -25040,14 +25040,14 @@
 						<id>560</id>
 						<name>select_ln777_8</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25056,7 +25056,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -25090,14 +25090,14 @@
 						<id>561</id>
 						<name>tmp_134</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25106,7 +25106,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -25140,14 +25140,14 @@
 						<id>562</id>
 						<name>xor_ln779_9</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25156,7 +25156,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -25189,14 +25189,14 @@
 						<id>563</id>
 						<name>and_ln779_8</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25205,7 +25205,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -25238,14 +25238,14 @@
 						<id>564</id>
 						<name>select_ln416_8</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25254,7 +25254,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -25288,14 +25288,14 @@
 						<id>565</id>
 						<name>and_ln781_8</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25304,7 +25304,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -25337,14 +25337,14 @@
 						<id>566</id>
 						<name>xor_ln785_17</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25353,7 +25353,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -25386,14 +25386,14 @@
 						<id>567</id>
 						<name>or_ln785_9</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25402,7 +25402,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -25435,14 +25435,14 @@
 						<id>568</id>
 						<name>xor_ln785_18</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25451,7 +25451,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -25484,14 +25484,14 @@
 						<id>569</id>
 						<name>and_ln785_8</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25500,7 +25500,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -25533,14 +25533,14 @@
 						<id>570</id>
 						<name>and_ln786_18</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25549,7 +25549,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -25582,14 +25582,14 @@
 						<id>571</id>
 						<name>or_ln786_9</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25598,7 +25598,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -25631,14 +25631,14 @@
 						<id>572</id>
 						<name>xor_ln786_9</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25647,7 +25647,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -25680,14 +25680,14 @@
 						<id>573</id>
 						<name>and_ln786_19</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25696,7 +25696,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -25729,14 +25729,14 @@
 						<id>574</id>
 						<name>select_ln785_16</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25745,7 +25745,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -25779,14 +25779,14 @@
 						<id>575</id>
 						<name>or_ln785_19</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25795,7 +25795,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -25828,14 +25828,14 @@
 						<id>576</id>
 						<name>select_ln785_17</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25844,7 +25844,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -25878,14 +25878,14 @@
 						<id>577</id>
 						<name>sext_ln1118_11</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25894,7 +25894,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -25926,14 +25926,14 @@
 						<id>578</id>
 						<name>mul_ln1118_9</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25942,7 +25942,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -25975,14 +25975,14 @@
 						<id>579</id>
 						<name>shl_ln728_s</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25991,7 +25991,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -26025,14 +26025,14 @@
 						<id>580</id>
 						<name>sext_ln728_9</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26041,7 +26041,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -26073,14 +26073,14 @@
 						<id>581</id>
 						<name>trunc_ln1192_9</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26089,7 +26089,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -26121,14 +26121,14 @@
 						<id>582</id>
 						<name>sext_ln1192_9</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26137,7 +26137,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -26169,14 +26169,14 @@
 						<id>583</id>
 						<name>add_ln1192_9</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26185,7 +26185,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -26218,14 +26218,14 @@
 						<id>584</id>
 						<name>add_ln1192_19</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26234,7 +26234,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -26267,14 +26267,14 @@
 						<id>585</id>
 						<name>tmp_135</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26283,7 +26283,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -26317,14 +26317,14 @@
 						<id>586</id>
 						<name>trunc_ln708_9</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26333,7 +26333,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -26368,14 +26368,14 @@
 						<id>587</id>
 						<name>tmp_136</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26384,7 +26384,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -26418,14 +26418,14 @@
 						<id>588</id>
 						<name>tmp_137</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26434,7 +26434,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -26468,14 +26468,14 @@
 						<id>589</id>
 						<name>zext_ln415_10</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26484,7 +26484,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -26516,14 +26516,14 @@
 						<id>590</id>
 						<name>buf_9_V</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26532,7 +26532,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -26565,14 +26565,14 @@
 						<id>591</id>
 						<name>tmp_138</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26581,7 +26581,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -26615,14 +26615,14 @@
 						<id>592</id>
 						<name>xor_ln416_10</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26631,7 +26631,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -26664,14 +26664,14 @@
 						<id>593</id>
 						<name>and_ln416_9</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26680,7 +26680,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -26713,14 +26713,14 @@
 						<id>594</id>
 						<name>tmp_139</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26729,7 +26729,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -26763,14 +26763,14 @@
 						<id>595</id>
 						<name>tmp_34</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26779,7 +26779,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -26814,14 +26814,14 @@
 						<id>596</id>
 						<name>icmp_ln879_18</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26830,7 +26830,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -26863,14 +26863,14 @@
 						<id>597</id>
 						<name>tmp_35</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26879,7 +26879,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -26914,14 +26914,14 @@
 						<id>598</id>
 						<name>icmp_ln879_19</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26930,7 +26930,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -26963,14 +26963,14 @@
 						<id>599</id>
 						<name>icmp_ln768_9</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26979,7 +26979,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -27012,14 +27012,14 @@
 						<id>600</id>
 						<name>select_ln777_9</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -27028,7 +27028,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -27062,14 +27062,14 @@
 						<id>601</id>
 						<name>tmp_140</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -27078,7 +27078,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -27112,14 +27112,14 @@
 						<id>602</id>
 						<name>xor_ln779_10</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -27128,7 +27128,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -27161,14 +27161,14 @@
 						<id>603</id>
 						<name>and_ln779_9</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -27177,7 +27177,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -27210,14 +27210,14 @@
 						<id>604</id>
 						<name>select_ln416_9</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -27226,7 +27226,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -27260,14 +27260,14 @@
 						<id>605</id>
 						<name>and_ln781_9</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -27276,7 +27276,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -27309,14 +27309,14 @@
 						<id>606</id>
 						<name>xor_ln785_19</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -27325,7 +27325,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -27358,14 +27358,14 @@
 						<id>607</id>
 						<name>or_ln785_10</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -27374,7 +27374,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -27407,14 +27407,14 @@
 						<id>608</id>
 						<name>xor_ln785_20</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -27423,7 +27423,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -27456,14 +27456,14 @@
 						<id>609</id>
 						<name>and_ln785_9</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -27472,7 +27472,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -27505,14 +27505,14 @@
 						<id>610</id>
 						<name>and_ln786_20</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -27521,7 +27521,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -27554,14 +27554,14 @@
 						<id>611</id>
 						<name>or_ln786_10</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -27570,7 +27570,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -27603,14 +27603,14 @@
 						<id>612</id>
 						<name>xor_ln786_10</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -27619,7 +27619,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -27652,14 +27652,14 @@
 						<id>613</id>
 						<name>and_ln786_21</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -27668,7 +27668,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -27701,14 +27701,14 @@
 						<id>614</id>
 						<name>select_ln785_18</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -27717,7 +27717,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -27751,14 +27751,14 @@
 						<id>615</id>
 						<name>or_ln785_20</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -27767,7 +27767,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -27800,14 +27800,14 @@
 						<id>616</id>
 						<name>select_ln785_19</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>280</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>277</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -27816,7 +27816,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>280</second>
+										<second>277</second>
 									</item>
 								</second>
 							</item>
@@ -27848,16 +27848,16 @@
 					<Obj>
 						<type>0</type>
 						<id>618</id>
-						<name>_ln271</name>
+						<name>_ln268</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>271</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>268</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -27866,7 +27866,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>271</second>
+										<second>268</second>
 									</item>
 								</second>
 							</item>
@@ -27896,16 +27896,16 @@
 					<Obj>
 						<type>0</type>
 						<id>620</id>
-						<name>_ln284</name>
+						<name>_ln281</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>284</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>281</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -27914,7 +27914,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>284</second>
+										<second>281</second>
 									</item>
 								</second>
 							</item>
@@ -27981,16 +27981,16 @@
 					<Obj>
 						<type>0</type>
 						<id>623</id>
-						<name>icmp_ln284</name>
+						<name>icmp_ln281</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>284</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>281</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -27999,7 +27999,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>284</second>
+										<second>281</second>
 									</item>
 								</second>
 							</item>
@@ -28032,14 +28032,14 @@
 						<id>625</id>
 						<name>coo_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>284</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>281</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -28048,7 +28048,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>284</second>
+										<second>281</second>
 									</item>
 								</second>
 							</item>
@@ -28079,16 +28079,16 @@
 					<Obj>
 						<type>0</type>
 						<id>626</id>
-						<name>_ln284</name>
+						<name>_ln281</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>284</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>281</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -28097,7 +28097,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>284</second>
+										<second>281</second>
 									</item>
 								</second>
 							</item>
@@ -28129,16 +28129,16 @@
 					<Obj>
 						<type>0</type>
 						<id>630</id>
-						<name>zext_ln286</name>
+						<name>zext_ln283</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>286</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>283</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -28147,7 +28147,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>286</second>
+										<second>283</second>
 									</item>
 								</second>
 							</item>
@@ -28179,14 +28179,14 @@
 						<id>631</id>
 						<name>p_Val2_8</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>286</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>283</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -28195,7 +28195,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>286</second>
+										<second>283</second>
 									</item>
 								</second>
 							</item>
@@ -28238,14 +28238,14 @@
 						<id>632</id>
 						<name>shl_ln</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>286</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>283</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -28254,7 +28254,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>286</second>
+										<second>283</second>
 									</item>
 								</second>
 							</item>
@@ -28288,14 +28288,14 @@
 						<id>633</id>
 						<name>sext_ln728_10</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>286</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>283</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -28304,7 +28304,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>286</second>
+										<second>283</second>
 									</item>
 								</second>
 							</item>
@@ -28336,14 +28336,14 @@
 						<id>634</id>
 						<name>outputs_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>286</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>283</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -28352,7 +28352,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>286</second>
+										<second>283</second>
 									</item>
 								</second>
 							</item>
@@ -28384,16 +28384,16 @@
 					<Obj>
 						<type>0</type>
 						<id>635</id>
-						<name>outputs_V_addr_write_ln286</name>
+						<name>outputs_V_addr_write_ln283</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>286</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>283</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -28402,7 +28402,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>286</second>
+										<second>283</second>
 									</item>
 								</second>
 							</item>
@@ -28433,16 +28433,16 @@
 					<Obj>
 						<type>0</type>
 						<id>637</id>
-						<name>_ln284</name>
+						<name>_ln281</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>284</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>281</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -28451,7 +28451,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>284</second>
+										<second>281</second>
 									</item>
 								</second>
 							</item>
@@ -28481,16 +28481,16 @@
 					<Obj>
 						<type>0</type>
 						<id>639</id>
-						<name>_ln288</name>
+						<name>_ln285</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>288</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>285</lineNumber>
 						<contextFuncName>matmul</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -28499,7 +28499,7 @@
 											<first>./layer.h</first>
 											<second>matmul</second>
 										</first>
-										<second>288</second>
+										<second>285</second>
 									</item>
 								</second>
 							</item>
@@ -29616,7 +29616,7 @@
 				<Obj>
 					<type>3</type>
 					<id>62</id>
-					<name>hls_label_10_begin</name>
+					<name>hls_label_12_begin</name>
 					<fileName></fileName>
 					<fileDirectory></fileDirectory>
 					<lineNumber>0</lineNumber>
@@ -29838,7 +29838,7 @@
 				<Obj>
 					<type>3</type>
 					<id>89</id>
-					<name>hls_label_10_begin.hls_label_10_end_crit_edge</name>
+					<name>hls_label_12_begin.hls_label_12_end_crit_edge</name>
 					<fileName></fileName>
 					<fileDirectory></fileDirectory>
 					<lineNumber>0</lineNumber>
@@ -29886,7 +29886,7 @@
 				<Obj>
 					<type>3</type>
 					<id>95</id>
-					<name>hls_label_10_end</name>
+					<name>hls_label_12_end</name>
 					<fileName></fileName>
 					<fileDirectory></fileDirectory>
 					<lineNumber>0</lineNumber>
@@ -29968,7 +29968,7 @@
 				<Obj>
 					<type>3</type>
 					<id>619</id>
-					<name>hls_label_11</name>
+					<name>hls_label_13</name>
 					<fileName></fileName>
 					<fileDirectory></fileDirectory>
 					<lineNumber>0</lineNumber>
@@ -30541,7 +30541,7 @@
 				<Obj>
 					<type>3</type>
 					<id>638</id>
-					<name>hls_label_12</name>
+					<name>hls_label_14</name>
 					<fileName></fileName>
 					<fileDirectory></fileDirectory>
 					<lineNumber>0</lineNumber>

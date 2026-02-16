@@ -29,4 +29,4 @@ csim_design -clean -O
 #csynth_design
 #cosim_design -O -trace_level all
 #export_design -rtl verilog -format ip_catalog
-exit
+# exit

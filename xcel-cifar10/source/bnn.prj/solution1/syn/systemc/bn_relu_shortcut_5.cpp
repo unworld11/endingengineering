@@ -5061,12 +5061,12 @@ void bn_relu_shortcut::thread_residual_3_9_V_we1() {
     }
 }
 
-void bn_relu_shortcut::thread_select_ln113_1_fu_7409_p3() {
-    select_ln113_1_fu_7409_p3 = (!icmp_ln114_fu_7396_p2.read()[0].is_01())? sc_lv<6>(): ((icmp_ln114_fu_7396_p2.read()[0].to_bool())? i_fu_7390_p2.read(): ap_phi_mux_i_0_phi_fu_5523_p4.read());
+void bn_relu_shortcut::thread_select_ln110_1_fu_7409_p3() {
+    select_ln110_1_fu_7409_p3 = (!icmp_ln111_fu_7396_p2.read()[0].is_01())? sc_lv<6>(): ((icmp_ln111_fu_7396_p2.read()[0].to_bool())? i_fu_7390_p2.read(): ap_phi_mux_i_0_phi_fu_5523_p4.read());
 }
 
-void bn_relu_shortcut::thread_select_ln113_fu_7401_p3() {
-    select_ln113_fu_7401_p3 = (!icmp_ln114_fu_7396_p2.read()[0].is_01())? sc_lv<6>(): ((icmp_ln114_fu_7396_p2.read()[0].to_bool())? ap_const_lv6_0: j_0_reg_5530.read());
+void bn_relu_shortcut::thread_select_ln110_fu_7401_p3() {
+    select_ln110_fu_7401_p3 = (!icmp_ln111_fu_7396_p2.read()[0].is_01())? sc_lv<6>(): ((icmp_ln111_fu_7396_p2.read()[0].to_bool())? ap_const_lv6_0: j_0_reg_5530.read());
 }
 
 void bn_relu_shortcut::thread_select_ln1495_10_fu_28893_p3() {

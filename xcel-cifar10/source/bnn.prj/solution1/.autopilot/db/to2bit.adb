@@ -50,13 +50,13 @@
               <name>x_V_read</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item class_id="10" tracking_level="0" version="0">
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second class_id="11" tracking_level="0" version="0">
                     <count>1</count>
                     <item_version>0</item_version>
@@ -65,7 +65,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -99,13 +99,13 @@
               <name>sext_ln703</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -114,7 +114,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -147,13 +147,13 @@
               <name>ret_V</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -162,7 +162,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -196,13 +196,13 @@
               <name>shl_ln</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -211,7 +211,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -246,13 +246,13 @@
               <name>shl_ln1118_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -261,7 +261,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -296,13 +296,13 @@
               <name>sext_ln1118</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -311,7 +311,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -344,13 +344,13 @@
               <name>r_V</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -359,7 +359,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -393,13 +393,13 @@
               <name>p_Result_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -408,7 +408,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -443,13 +443,13 @@
               <name>temp_V</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -458,7 +458,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -494,13 +494,13 @@
               <name>p_Result_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -509,7 +509,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -544,13 +544,13 @@
               <name>tmp_3</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -559,7 +559,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -594,13 +594,13 @@
               <name>zext_ln415</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -609,7 +609,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -642,13 +642,13 @@
               <name>temp_V_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -657,7 +657,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -691,13 +691,13 @@
               <name>tmp_4</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -706,7 +706,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -741,13 +741,13 @@
               <name>xor_ln416</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -756,7 +756,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -790,13 +790,13 @@
               <name>carry_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -805,7 +805,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -839,13 +839,13 @@
               <name>tmp</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -854,7 +854,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -890,13 +890,13 @@
               <name>Range1_all_ones</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -905,7 +905,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -939,13 +939,13 @@
               <name>Range1_all_zeros</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -954,7 +954,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -988,13 +988,13 @@
               <name>deleted_zeros</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1003,7 +1003,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -1038,13 +1038,13 @@
               <name>and_ln781</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1053,7 +1053,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -1087,13 +1087,13 @@
               <name>xor_ln781</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1102,7 +1102,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -1136,13 +1136,13 @@
               <name>neg_src</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1151,7 +1151,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -1185,13 +1185,13 @@
               <name>or_ln785</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1200,7 +1200,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -1234,13 +1234,13 @@
               <name>overflow</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1249,7 +1249,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -1283,13 +1283,13 @@
               <name>xor_ln340</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1298,7 +1298,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -1332,13 +1332,13 @@
               <name>or_ln340_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1347,7 +1347,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -1381,13 +1381,13 @@
               <name>and_ln340</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1396,7 +1396,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -1430,13 +1430,13 @@
               <name>or_ln340</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1445,7 +1445,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -1479,13 +1479,13 @@
               <name>select_ln340</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1494,7 +1494,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -1529,13 +1529,13 @@
               <name>select_ln396</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1544,7 +1544,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -1579,13 +1579,13 @@
               <name>p_Val2_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>20</lineNumber>
+              <lineNumber>19</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1594,7 +1594,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>20</second>
+                      <second>19</second>
                     </item>
                   </second>
                 </item>
@@ -1626,16 +1626,16 @@
             <Obj>
               <type>0</type>
               <id>34</id>
-              <name>_ln21</name>
+              <name>_ln20</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>21</lineNumber>
+              <lineNumber>20</lineNumber>
               <contextFuncName>to2bit</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1644,7 +1644,7 @@
                         <first>./layer.h</first>
                         <second>to2bit</second>
                       </first>
-                      <second>21</second>
+                      <second>20</second>
                     </item>
                   </second>
                 </item>

@@ -1,4 +1,3 @@
-
 #ifndef TYPEDEFS
 #define TYPEDEFS
 
@@ -6,10 +5,51 @@
 #include <ap_int.h>
 #include <ap_fixed.h>
 
-//#define SW_TEST
-//#define LAYER_TEST
+// #define SW_TEST
+// #define LAYER_TEST
 #define True 1
 #define False 0
+
+#define OUT_CHANNEL_PARALLELISM 16  // 64
+
+// --------------------------------------------------
+// Scaling factors
+// --------------------------------------------------
+#define SCALE_0_33 (1.0/3.0)
+#define SCALE_0_66 (2.0/3.0)
+
+// --------------------------------------------------
+// Gating Ablation & Instrumentation Config
+// --------------------------------------------------
+#define MODE_BINARY     0
+#define MODE_FRACTIONAL 1
+#define MODE_ADAPTIVE   2
+
+// Dynamic Mode Switching for CSIM
+#ifdef __SYNTHESIS__
+#define INFERENCE_MODE  MODE_ADAPTIVE 
+#else
+extern int inference_mode_sw;
+#define INFERENCE_MODE inference_mode_sw
+#endif 
+
+// Simulation-Only Instrumentation Data
+#ifndef __SYNTHESIS__
+struct LayerStats {
+    const char* name;
+    unsigned long long total_gates;
+    unsigned long long active_gates;
+    unsigned long long msb_bmacs;
+    unsigned long long lsb_bmacs;
+};
+// We'll define these in bnn_tiled.cc
+extern LayerStats layer_stats[20]; 
+extern int current_layer_id;
+#endif
+
+// --------------------------------------------------
+// Fixed-point data types
+// --------------------------------------------------
 
 #ifdef SW_TEST
 	typedef float FIX_32_4;	//fix point

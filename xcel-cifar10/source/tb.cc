@@ -9,7 +9,7 @@
 
 using namespace std;
 
-#define NUM_TESTS 10
+#define NUM_TESTS 3
 
 unsigned char images[NUM_TESTS*96*32*32];
 unsigned char labels[NUM_TESTS];
@@ -600,7 +600,7 @@ void FracNet_sw(float image[96][32][32]) {
 int main(int argc, char **argv)
 {
 	int correct_sw = 0;
-	int correct_hw = 0;
+	int correct_hw[3] = {0};
 
 	// Generate the expected result
 	// Iterate over the rows of the A matrix
@@ -684,7 +684,9 @@ int main(int argc, char **argv)
 			}
 		}
 
-		FracNet_T(image_hw, accelerator_output);
+		for (int mode = 0; mode <= 2; mode++) {
+            inference_mode_sw = mode;
+            FracNet_T(image_hw, accelerator_output);
 
 #ifdef LAYER_TEST
 		cout << endl << "accelerator output is : "<< endl;
@@ -736,12 +738,13 @@ int main(int argc, char **argv)
 		}
 		cout << endl;
 		if (predict_hw == labels[k]) {
-			correct_hw ++;
+			correct_hw[mode] ++;
 		}
 
-		cout << "Hardware has "<< correct_hw << "/" << k + 1 << " correct." << endl;
+		cout << "Hardware (Mode " << mode << ") has "<< correct_hw[mode] << "/" << k + 1 << " correct." << endl;
 		cout << "\n" << endl;
 #endif
+        }
 	}
 
 	return 0;

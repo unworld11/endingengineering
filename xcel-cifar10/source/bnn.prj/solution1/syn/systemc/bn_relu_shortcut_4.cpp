@@ -534,7 +534,27 @@ void bn_relu_shortcut::thread_icmp_ln879_fu_19900_p2() {
 }
 
 void bn_relu_shortcut::thread_j_fu_7417_p2() {
-    j_fu_7417_p2 = (!select_ln113_fu_7401_p3.read().is_01() || !ap_const_lv6_1.is_01())? sc_lv<6>(): (sc_bigint<6>(select_ln113_fu_7401_p3.read()) + sc_biguint<6>(ap_const_lv6_1));
+    j_fu_7417_p2 = (!select_ln110_fu_7401_p3.read().is_01() || !ap_const_lv6_1.is_01())? sc_lv<6>(): (sc_bigint<6>(select_ln110_fu_7401_p3.read()) + sc_biguint<6>(ap_const_lv6_1));
+}
+
+void bn_relu_shortcut::thread_mul_ln110_1_fu_7373_p0() {
+    mul_ln110_1_fu_7373_p0 =  (sc_lv<7>) (mul_ln110_1_fu_7373_p00.read());
+}
+
+void bn_relu_shortcut::thread_mul_ln110_1_fu_7373_p00() {
+    mul_ln110_1_fu_7373_p00 = esl_zext<11,7>(H_fmap.read());
+}
+
+void bn_relu_shortcut::thread_mul_ln110_1_fu_7373_p1() {
+    mul_ln110_1_fu_7373_p1 =  (sc_lv<6>) (mul_ln110_1_fu_7373_p10.read());
+}
+
+void bn_relu_shortcut::thread_mul_ln110_1_fu_7373_p10() {
+    mul_ln110_1_fu_7373_p10 = esl_zext<11,6>(empty_fu_7357_p1.read());
+}
+
+void bn_relu_shortcut::thread_mul_ln110_1_fu_7373_p2() {
+    mul_ln110_1_fu_7373_p2 = (!mul_ln110_1_fu_7373_p0.read().is_01() || !mul_ln110_1_fu_7373_p1.read().is_01())? sc_lv<11>(): sc_biguint<7>(mul_ln110_1_fu_7373_p0.read()) * sc_biguint<6>(mul_ln110_1_fu_7373_p1.read());
 }
 
 void bn_relu_shortcut::thread_mul_ln1118_10_fu_38749_p0() {
@@ -663,26 +683,6 @@ void bn_relu_shortcut::thread_mul_ln1118_40_fu_38839_p0() {
 
 void bn_relu_shortcut::thread_mul_ln1118_fu_38573_p0() {
     mul_ln1118_fu_38573_p0 =  (sc_lv<9>) (ap_const_lv25_AB);
-}
-
-void bn_relu_shortcut::thread_mul_ln113_1_fu_7373_p0() {
-    mul_ln113_1_fu_7373_p0 =  (sc_lv<7>) (mul_ln113_1_fu_7373_p00.read());
-}
-
-void bn_relu_shortcut::thread_mul_ln113_1_fu_7373_p00() {
-    mul_ln113_1_fu_7373_p00 = esl_zext<11,7>(H_fmap.read());
-}
-
-void bn_relu_shortcut::thread_mul_ln113_1_fu_7373_p1() {
-    mul_ln113_1_fu_7373_p1 =  (sc_lv<6>) (mul_ln113_1_fu_7373_p10.read());
-}
-
-void bn_relu_shortcut::thread_mul_ln113_1_fu_7373_p10() {
-    mul_ln113_1_fu_7373_p10 = esl_zext<11,6>(empty_fu_7357_p1.read());
-}
-
-void bn_relu_shortcut::thread_mul_ln113_1_fu_7373_p2() {
-    mul_ln113_1_fu_7373_p2 = (!mul_ln113_1_fu_7373_p0.read().is_01() || !mul_ln113_1_fu_7373_p1.read().is_01())? sc_lv<11>(): sc_biguint<7>(mul_ln113_1_fu_7373_p0.read()) * sc_biguint<6>(mul_ln113_1_fu_7373_p1.read());
 }
 
 void bn_relu_shortcut::thread_or_ln340_100_fu_17802_p2() {

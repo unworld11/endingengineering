@@ -1,6 +1,6 @@
 # This script segment is generated automatically by AutoPilot
 
-set id 1373
+set id 1388
 set name FracNet_T_fcmp_32ePU
 set corename simcore_fcmp
 set op fcmp
@@ -95,11 +95,11 @@ puts "@W \[IMPL-101\] Cannot find ::AESL_LIB_XILINX_FPV6::fpv6_gen, check your p
 
 
 # Memory (RAM/ROM)  definition:
-set ID 1375
+set ID 1405
 set hasByteEnable 0
 set MemName FracNet_T_gate_mask
 set CoreName ap_simcore_mem
-set PortList { 1 }
+set PortList { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 }
 set DataWd 32
 set AddrRange 672
 set AddrWd 10
@@ -125,7 +125,7 @@ if {[info proc ap_gen_simcore_mem] == "ap_gen_simcore_mem"} {
     sync_rst true \
     stage_num ${NumOfStage}  \
     registered_input ${RegisteredInput} \
-    port_num 1 \
+    port_num 16 \
     port_list \{${PortList}\} \
     data_wd ${DataWd} \
     addr_wd ${AddrWd} \
@@ -160,7 +160,7 @@ if {[info proc ::AESL_LIB_VIRTEX::xil_gen_ROM] == "::AESL_LIB_VIRTEX::xil_gen_RO
     sync_rst true \
     stage_num ${NumOfStage}  \
     registered_input ${RegisteredInput} \
-    port_num 1 \
+    port_num 16 \
     port_list \{${PortList}\} \
     data_wd ${DataWd} \
     addr_wd ${AddrWd} \
@@ -178,7 +178,7 @@ if {[info proc ::AESL_LIB_VIRTEX::xil_gen_ROM] == "::AESL_LIB_VIRTEX::xil_gen_RO
 
 
 # Memory (RAM/ROM)  definition:
-set ID 1376
+set ID 1406
 set hasByteEnable 0
 set MemName FracNet_T_pool_oudcE
 set CoreName ap_simcore_mem
@@ -264,7 +264,7 @@ if {[info proc ::AESL_LIB_VIRTEX::xil_gen_RAM] == "::AESL_LIB_VIRTEX::xil_gen_RA
 
 
 # Memory (RAM/ROM)  definition:
-set ID 1377
+set ID 1407
 set hasByteEnable 0
 set MemName FracNet_T_msb_fmaddE
 set CoreName ap_simcore_mem
@@ -349,7 +349,7 @@ if {[info proc ::AESL_LIB_VIRTEX::xil_gen_RAM] == "::AESL_LIB_VIRTEX::xil_gen_RA
 
 
 # Memory (RAM/ROM)  definition:
-set ID 1378
+set ID 1408
 set hasByteEnable 0
 set MemName FracNet_T_msb_fmadfE
 set CoreName ap_simcore_mem
@@ -434,7 +434,7 @@ if {[info proc ::AESL_LIB_VIRTEX::xil_gen_RAM] == "::AESL_LIB_VIRTEX::xil_gen_RA
 
 
 # Memory (RAM/ROM)  definition:
-set ID 1379
+set ID 1409
 set hasByteEnable 0
 set MemName FracNet_T_out_bufdgE
 set CoreName ap_simcore_mem
@@ -519,7 +519,7 @@ if {[info proc ::AESL_LIB_VIRTEX::xil_gen_RAM] == "::AESL_LIB_VIRTEX::xil_gen_RA
 
 
 # Memory (RAM/ROM)  definition:
-set ID 1380
+set ID 1410
 set hasByteEnable 0
 set MemName FracNet_T_linear_eOU
 set CoreName ap_simcore_mem
@@ -640,7 +640,7 @@ dict set axilite_register_dict CTRL $port_CTRL
 if {${::AESL::PGuard_simmodel_gen}} {
 	if {[info proc ::AESL_LIB_XILADAPTER::s_axilite_gen] == "::AESL_LIB_XILADAPTER::s_axilite_gen"} {
 		eval "::AESL_LIB_XILADAPTER::s_axilite_gen { \
-			id 1381 \
+			id 1411 \
 			corename FracNet_T_CTRL_axilite \
 			name FracNet_T_CTRL_s_axi \
 			ports {$port_CTRL} \
@@ -660,7 +660,7 @@ if {${::AESL::PGuard_rtl_comp_handler}} {
 if {${::AESL::PGuard_simmodel_gen}} {
 if {[info proc ::AESL_LIB_XILADAPTER::m_axi_gen] == "::AESL_LIB_XILADAPTER::m_axi_gen"} {
 eval "::AESL_LIB_XILADAPTER::m_axi_gen { \
-    id 1382 \
+    id 1412 \
     corename {m_axi} \
     op interface \
     max_latency -1 \ 
@@ -681,7 +681,7 @@ if {${::AESL::PGuard_rtl_comp_handler}} {
 if {${::AESL::PGuard_simmodel_gen}} {
 if {[info proc ::AESL_LIB_XILADAPTER::m_axi_gen] == "::AESL_LIB_XILADAPTER::m_axi_gen"} {
 eval "::AESL_LIB_XILADAPTER::m_axi_gen { \
-    id 1383 \
+    id 1413 \
     corename {m_axi} \
     op interface \
     max_latency -1 \ 

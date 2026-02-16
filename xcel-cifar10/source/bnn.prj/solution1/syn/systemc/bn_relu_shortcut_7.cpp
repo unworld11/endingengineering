@@ -1126,7 +1126,7 @@ void bn_relu_shortcut::thread_tmp_959_fu_36726_p3() {
 }
 
 void bn_relu_shortcut::thread_tmp_95_fu_7426_p3() {
-    tmp_95_fu_7426_p3 = esl_concat<6,5>(select_ln113_1_reg_41868.read(), ap_const_lv5_0);
+    tmp_95_fu_7426_p3 = esl_concat<6,5>(select_ln110_1_reg_41868.read(), ap_const_lv5_0);
 }
 
 void bn_relu_shortcut::thread_tmp_960_fu_36757_p3() {
@@ -1234,7 +1234,7 @@ void bn_relu_shortcut::thread_tmp_998_fu_38000_p3() {
 }
 
 void bn_relu_shortcut::thread_tmp_s_fu_7523_p3() {
-    tmp_s_fu_7523_p3 = esl_concat<6,5>(add_ln113_reg_41881.read(), ap_const_lv5_0);
+    tmp_s_fu_7523_p3 = esl_concat<6,5>(add_ln110_reg_41881.read(), ap_const_lv5_0);
 }
 
 void bn_relu_shortcut::thread_trunc_ln1116_1_fu_7349_p1() {

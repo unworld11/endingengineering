@@ -78,13 +78,13 @@
               <name>w_V_read</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>27</lineNumber>
+              <lineNumber>28</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item class_id="10" tracking_level="0" version="0">
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second class_id="11" tracking_level="0" version="0">
                     <count>1</count>
                     <item_version>0</item_version>
@@ -93,7 +93,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>27</second>
+                      <second>28</second>
                     </item>
                   </second>
                 </item>
@@ -127,13 +127,13 @@
               <name>b_V_read</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>27</lineNumber>
+              <lineNumber>28</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -142,7 +142,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>27</second>
+                      <second>28</second>
                     </item>
                   </second>
                 </item>
@@ -176,13 +176,13 @@
               <name>ret_V_5</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>27</lineNumber>
+              <lineNumber>28</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -191,7 +191,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>27</second>
+                      <second>28</second>
                     </item>
                   </second>
                 </item>
@@ -225,13 +225,13 @@
               <name>tmp</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -240,7 +240,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -275,13 +275,13 @@
               <name>tmp_141</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -290,7 +290,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -325,13 +325,13 @@
               <name>tmp_142</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -340,7 +340,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -375,13 +375,13 @@
               <name>tmp_143</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -390,7 +390,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -425,13 +425,13 @@
               <name>tmp_144</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -440,7 +440,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -475,13 +475,13 @@
               <name>tmp_145</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -490,7 +490,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -525,13 +525,13 @@
               <name>tmp_146</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -540,7 +540,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -575,13 +575,13 @@
               <name>tmp_147</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -590,7 +590,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -625,13 +625,13 @@
               <name>tmp_148</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -640,7 +640,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -675,13 +675,13 @@
               <name>tmp_149</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -690,7 +690,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -725,13 +725,13 @@
               <name>tmp_150</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -740,7 +740,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -775,13 +775,13 @@
               <name>tmp_151</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -790,7 +790,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -825,13 +825,13 @@
               <name>tmp_152</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -840,7 +840,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -875,13 +875,13 @@
               <name>tmp_153</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -890,7 +890,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -925,13 +925,13 @@
               <name>tmp_154</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -940,7 +940,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -975,13 +975,13 @@
               <name>tmp_155</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -990,7 +990,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -1025,13 +1025,13 @@
               <name>tmp_156</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1040,7 +1040,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -1075,13 +1075,13 @@
               <name>tmp_157</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1090,7 +1090,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -1125,13 +1125,13 @@
               <name>tmp_158</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1140,7 +1140,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -1175,13 +1175,13 @@
               <name>tmp_159</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1190,7 +1190,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -1225,13 +1225,13 @@
               <name>tmp_160</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1240,7 +1240,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -1275,13 +1275,13 @@
               <name>tmp_161</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1290,7 +1290,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -1325,13 +1325,13 @@
               <name>tmp_162</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1340,7 +1340,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -1375,13 +1375,13 @@
               <name>tmp_163</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1390,7 +1390,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -1425,13 +1425,13 @@
               <name>tmp_164</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1440,7 +1440,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -1475,13 +1475,13 @@
               <name>tmp_165</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1490,7 +1490,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -1525,13 +1525,13 @@
               <name>tmp_166</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1540,7 +1540,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -1575,13 +1575,13 @@
               <name>tmp_167</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1590,7 +1590,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -1625,13 +1625,13 @@
               <name>tmp_168</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1640,7 +1640,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -1675,13 +1675,13 @@
               <name>tmp_169</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1690,7 +1690,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -1725,13 +1725,13 @@
               <name>tmp_170</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1740,7 +1740,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -1775,13 +1775,13 @@
               <name>tmp_171</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1790,7 +1790,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -1825,13 +1825,13 @@
               <name>ret_V</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1840,7 +1840,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -1936,13 +1936,13 @@
               <name>zext_ln1355</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1951,7 +1951,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -1984,13 +1984,13 @@
               <name>x_V_5</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>30</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1999,7 +1999,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>29</second>
+                      <second>30</second>
                     </item>
                   </second>
                 </item>
@@ -2033,13 +2033,13 @@
               <name>trunc_ln1355</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2048,7 +2048,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -2081,13 +2081,13 @@
               <name>tmp_s</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2096,7 +2096,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -2117,7 +2117,7 @@
           </oprand_edges>
           <opcode>partselect</opcode>
           <m_Display>0</m_Display>
-          <m_isOnCriticalPath>0</m_isOnCriticalPath>
+          <m_isOnCriticalPath>1</m_isOnCriticalPath>
           <m_isLCDNode>0</m_isLCDNode>
           <m_isStartOfPath>0</m_isStartOfPath>
           <m_delay>0.00</m_delay>
@@ -2132,13 +2132,13 @@
               <name>tmp_36</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2147,7 +2147,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -2183,13 +2183,13 @@
               <name>tmp_37</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2198,7 +2198,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -2234,13 +2234,13 @@
               <name>tmp_38</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2249,7 +2249,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -2285,13 +2285,13 @@
               <name>tmp_39</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2300,7 +2300,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -2336,13 +2336,13 @@
               <name>tmp_40</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2351,7 +2351,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -2387,13 +2387,13 @@
               <name>tmp_41</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2402,7 +2402,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -2438,13 +2438,13 @@
               <name>tmp_42</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2453,7 +2453,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -2489,13 +2489,13 @@
               <name>tmp_43</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2504,7 +2504,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -2540,13 +2540,13 @@
               <name>tmp_44</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2555,7 +2555,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -2591,13 +2591,13 @@
               <name>tmp_45</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2606,7 +2606,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -2642,13 +2642,13 @@
               <name>tmp_46</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2657,7 +2657,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -2678,7 +2678,7 @@
           </oprand_edges>
           <opcode>partselect</opcode>
           <m_Display>0</m_Display>
-          <m_isOnCriticalPath>1</m_isOnCriticalPath>
+          <m_isOnCriticalPath>0</m_isOnCriticalPath>
           <m_isLCDNode>0</m_isLCDNode>
           <m_isStartOfPath>0</m_isStartOfPath>
           <m_delay>0.00</m_delay>
@@ -2693,13 +2693,13 @@
               <name>tmp_47</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2708,7 +2708,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -2744,13 +2744,13 @@
               <name>tmp_48</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2759,7 +2759,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -2795,13 +2795,13 @@
               <name>tmp_49</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2810,7 +2810,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -2846,13 +2846,13 @@
               <name>ret_V_3</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2861,7 +2861,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -2925,13 +2925,13 @@
               <name>zext_ln1355_1</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2940,7 +2940,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -2973,13 +2973,13 @@
               <name>trunc_ln1355_1</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2988,7 +2988,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -3024,13 +3024,13 @@
               <name>tmp_50</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3039,7 +3039,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -3075,13 +3075,13 @@
               <name>tmp_51</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3090,7 +3090,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -3126,13 +3126,13 @@
               <name>tmp_52</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3141,7 +3141,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -3177,13 +3177,13 @@
               <name>tmp_53</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3192,7 +3192,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -3228,13 +3228,13 @@
               <name>tmp_54</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3243,7 +3243,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -3279,13 +3279,13 @@
               <name>tmp_55</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3294,7 +3294,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -3330,13 +3330,13 @@
               <name>tmp_56</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3345,7 +3345,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -3381,13 +3381,13 @@
               <name>tmp_57</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3396,7 +3396,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -3432,13 +3432,13 @@
               <name>tmp_58</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3447,7 +3447,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -3483,13 +3483,13 @@
               <name>tmp_59</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3498,7 +3498,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -3534,13 +3534,13 @@
               <name>tmp_60</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3549,7 +3549,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -3585,13 +3585,13 @@
               <name>tmp_61</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3600,7 +3600,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -3636,13 +3636,13 @@
               <name>tmp_62</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3651,7 +3651,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -3687,13 +3687,13 @@
               <name>tmp_63</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3702,7 +3702,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -3738,13 +3738,13 @@
               <name>tmp_64</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3753,7 +3753,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -3789,13 +3789,13 @@
               <name>ret_V_4</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3804,7 +3804,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -3868,13 +3868,13 @@
               <name>zext_ln1355_2</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3883,7 +3883,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -3916,13 +3916,13 @@
               <name>zext_ln209</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>31</lineNumber>
+              <lineNumber>32</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3931,7 +3931,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>31</second>
+                      <second>32</second>
                     </item>
                   </second>
                 </item>
@@ -3964,13 +3964,13 @@
               <name>zext_ln209_1</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>31</lineNumber>
+              <lineNumber>32</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3979,7 +3979,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>31</second>
+                      <second>32</second>
                     </item>
                   </second>
                 </item>
@@ -4012,13 +4012,13 @@
               <name>trunc_ln209_1</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4027,7 +4027,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -4090,13 +4090,13 @@
               <name>trunc_ln209_2</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4105,7 +4105,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -4168,13 +4168,13 @@
               <name>add_ln209_1</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4183,7 +4183,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -4217,13 +4217,13 @@
               <name>x_V</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>30</lineNumber>
+              <lineNumber>31</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4232,7 +4232,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>30</second>
+                      <second>31</second>
                     </item>
                   </second>
                 </item>
@@ -4266,13 +4266,13 @@
               <name>add_ln209_2</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>31</lineNumber>
+              <lineNumber>32</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4281,7 +4281,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>31</second>
+                      <second>32</second>
                     </item>
                   </second>
                 </item>
@@ -4315,13 +4315,13 @@
               <name>tmp_65</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>31</lineNumber>
+              <lineNumber>32</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4330,7 +4330,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>31</second>
+                      <second>32</second>
                     </item>
                   </second>
                 </item>
@@ -4366,13 +4366,13 @@
               <name>zext_ln209_2</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>31</lineNumber>
+              <lineNumber>32</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4381,7 +4381,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>31</second>
+                      <second>32</second>
                     </item>
                   </second>
                 </item>
@@ -4414,13 +4414,13 @@
               <name>trunc_ln5</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>31</lineNumber>
+              <lineNumber>32</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4429,7 +4429,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>31</second>
+                      <second>32</second>
                     </item>
                   </second>
                 </item>
@@ -4465,13 +4465,13 @@
               <name>add_ln209</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>31</lineNumber>
+              <lineNumber>32</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4480,7 +4480,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>31</second>
+                      <second>32</second>
                     </item>
                   </second>
                 </item>
@@ -4514,13 +4514,13 @@
               <name>add_ln209_4</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>31</lineNumber>
+              <lineNumber>32</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4529,7 +4529,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>31</second>
+                      <second>32</second>
                     </item>
                   </second>
                 </item>
@@ -4563,13 +4563,13 @@
               <name>add_ln209_3</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>31</lineNumber>
+              <lineNumber>32</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4578,7 +4578,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>31</second>
+                      <second>32</second>
                     </item>
                   </second>
                 </item>
@@ -4612,13 +4612,13 @@
               <name>tmp_66</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>31</lineNumber>
+              <lineNumber>32</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4627,7 +4627,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>31</second>
+                      <second>32</second>
                     </item>
                   </second>
                 </item>
@@ -4663,13 +4663,13 @@
               <name>tmp_67</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>31</lineNumber>
+              <lineNumber>32</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4678,7 +4678,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>31</second>
+                      <second>32</second>
                     </item>
                   </second>
                 </item>
@@ -4714,13 +4714,13 @@
               <name>tmp_68</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>31</lineNumber>
+              <lineNumber>32</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4729,7 +4729,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>31</second>
+                      <second>32</second>
                     </item>
                   </second>
                 </item>
@@ -4765,13 +4765,13 @@
               <name>tmp_69</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>31</lineNumber>
+              <lineNumber>32</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4780,7 +4780,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>31</second>
+                      <second>32</second>
                     </item>
                   </second>
                 </item>
@@ -4816,13 +4816,13 @@
               <name>tmp_70</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>31</lineNumber>
+              <lineNumber>32</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4831,7 +4831,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>31</second>
+                      <second>32</second>
                     </item>
                   </second>
                 </item>
@@ -4867,13 +4867,13 @@
               <name>tmp_71</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>31</lineNumber>
+              <lineNumber>32</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4882,7 +4882,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>31</second>
+                      <second>32</second>
                     </item>
                   </second>
                 </item>
@@ -4918,13 +4918,13 @@
               <name>tmp_72</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>31</lineNumber>
+              <lineNumber>32</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4933,7 +4933,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>31</second>
+                      <second>32</second>
                     </item>
                   </second>
                 </item>
@@ -4969,13 +4969,13 @@
               <name>trunc_ln209</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>31</lineNumber>
+              <lineNumber>32</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4984,7 +4984,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>31</second>
+                      <second>32</second>
                     </item>
                   </second>
                 </item>
@@ -5017,13 +5017,13 @@
               <name>x_V_3</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>31</lineNumber>
+              <lineNumber>32</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5032,7 +5032,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>31</second>
+                      <second>32</second>
                     </item>
                   </second>
                 </item>
@@ -5080,13 +5080,13 @@
               <name>r_V_3</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>32</lineNumber>
+              <lineNumber>33</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5095,7 +5095,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>32</second>
+                      <second>33</second>
                     </item>
                   </second>
                 </item>
@@ -5141,13 +5141,13 @@
               <name>r_V</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>32</lineNumber>
+              <lineNumber>33</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5156,7 +5156,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>32</second>
+                      <second>33</second>
                     </item>
                   </second>
                 </item>
@@ -5189,13 +5189,13 @@
               <name>zext_ln214</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>35</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5204,7 +5204,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>35</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
@@ -5237,13 +5237,13 @@
               <name>trunc_ln6</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>35</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5252,7 +5252,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>35</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
@@ -5287,13 +5287,13 @@
               <name>trunc_ln7</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>32</lineNumber>
+              <lineNumber>33</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5302,7 +5302,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>32</second>
+                      <second>33</second>
                     </item>
                   </second>
                 </item>
@@ -5345,13 +5345,13 @@
               <name>trunc_ln700_3</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>32</lineNumber>
+              <lineNumber>33</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5360,7 +5360,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>32</second>
+                      <second>33</second>
                     </item>
                   </second>
                 </item>
@@ -5403,13 +5403,13 @@
               <name>add_ln700</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>32</lineNumber>
+              <lineNumber>33</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5418,7 +5418,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>32</second>
+                      <second>33</second>
                     </item>
                   </second>
                 </item>
@@ -5452,13 +5452,13 @@
               <name>add_ln700_1</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>32</lineNumber>
+              <lineNumber>33</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5467,7 +5467,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>32</second>
+                      <second>33</second>
                     </item>
                   </second>
                 </item>
@@ -5501,13 +5501,13 @@
               <name>trunc_ln1503_2</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>33</lineNumber>
+              <lineNumber>34</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5516,7 +5516,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>33</second>
+                      <second>34</second>
                     </item>
                   </second>
                 </item>
@@ -5552,13 +5552,13 @@
               <name>trunc_ln214_1</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>35</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5567,7 +5567,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>35</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
@@ -5603,13 +5603,13 @@
               <name>x_V_4</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>33</lineNumber>
+              <lineNumber>34</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5618,7 +5618,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>33</second>
+                      <second>34</second>
                     </item>
                   </second>
                 </item>
@@ -5652,13 +5652,13 @@
               <name>trunc_ln214_2</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>35</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5667,7 +5667,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>35</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
@@ -5703,13 +5703,13 @@
               <name>add_ln214_1</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>35</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5718,7 +5718,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>35</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
@@ -5752,13 +5752,13 @@
               <name>add_ln214_2</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>35</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5767,7 +5767,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>35</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
@@ -5801,13 +5801,13 @@
               <name>add_ln214</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>35</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5816,7 +5816,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>35</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
@@ -5847,16 +5847,16 @@
             <Obj>
               <type>0</type>
               <id>115</id>
-              <name>_ln35</name>
+              <name>_ln36</name>
               <fileName>./pgconv.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>35</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>compute_engine_64</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5865,7 +5865,7 @@
                         <first>./pgconv.h</first>
                         <second>compute_engine_64</second>
                       </first>
-                      <second>35</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>

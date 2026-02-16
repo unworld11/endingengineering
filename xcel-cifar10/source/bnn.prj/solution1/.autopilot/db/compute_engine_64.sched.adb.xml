@@ -1396,7 +1396,7 @@ _ZrsILi64ELb0EEN11ap_int_baseIXT_EXT0_EE5RTypeIXT_EXT0_EE4arg1ERKS1_i.exit28:95 
 _ZrsILi64ELb0EEN11ap_int_baseIXT_EXT0_EE5RTypeIXT_EXT0_EE4arg1ERKS1_i.exit28:0  call void (...)* @_ssdm_op_SpecLatency(i32 0, i32 1, [1 x i8]* @p_str4) nounwind
 
 ]]></Node>
-<StgValue><ssdm name="speclatency_ln26"/></StgValue>
+<StgValue><ssdm name="speclatency_ln27"/></StgValue>
 </operation>
 
 <operation id="95" st_id="2" stage="1" lat="1">
@@ -1711,7 +1711,7 @@ _ZrsILi64ELb0EEN11ap_int_baseIXT_EXT0_EE5RTypeIXT_EXT0_EE4arg1ERKS1_i.exit28:111
 _ZrsILi64ELb0EEN11ap_int_baseIXT_EXT0_EE5RTypeIXT_EXT0_EE4arg1ERKS1_i.exit28:112  ret i7 %add_ln214
 
 ]]></Node>
-<StgValue><ssdm name="ret_ln35"/></StgValue>
+<StgValue><ssdm name="ret_ln36"/></StgValue>
 </operation>
 </state>
 </state_list>

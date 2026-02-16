@@ -11,8 +11,33 @@ using namespace std;
 // --------------------------------------------------
 // Global gate pointer for Adaptive PG
 // --------------------------------------------------
+// --------------------------------------------------
+// Global gate pointer for Adaptive PG
+// --------------------------------------------------
 int gate_idx = 0;
 int enabled_gates_count = 0;
+
+#ifndef __SYNTHESIS__
+LayerStats layer_stats[20];
+int current_layer_id = 0;
+int inference_mode_sw = 2; // Default to Adaptive
+
+void init_layer_stats() {
+    const char* names[] = {
+        "Conv1",
+        "L1_0_PG1", "L1_0_PG2", "L1_1_PG1", "L1_1_PG2", "L1_2_PG1", "L1_2_PG2",
+        "L2_0_PG1", "L2_0_PG2", "L2_1_PG1", "L2_1_PG2", "L2_2_PG1", "L2_2_PG2",
+        "L3_0_PG1", "L3_0_PG2", "L3_1_PG1", "L3_1_PG2", "L3_2_PG1", "L3_2_PG2"
+    };
+    for(int i=0; i<19; i++) {
+        layer_stats[i].name = names[i];
+        layer_stats[i].total_gates = 0;
+        layer_stats[i].active_gates = 0;
+        layer_stats[i].msb_bmacs = 0;
+        layer_stats[i].lsb_bmacs = 0;
+    }
+}
+#endif
 
 //--------------------
 //  Top Function 
@@ -23,8 +48,13 @@ void FracNet_T(
 )
 {
     // 🔴 REQUIRED: reset gate index ONCE per inference
+    // 🔴 REQUIRED: reset gate index ONCE per inference
     gate_idx = 0;
     enabled_gates_count = 0;
+    
+#ifndef __SYNTHESIS__
+    init_layer_stats();
+#endif
 
 #ifndef __SYNTHESIS__
     cout << "Hardware: Starting FracNet_T" << endl;
@@ -100,6 +130,9 @@ void FracNet_T(
 	H_fmap_out = 32;
 	conv_weight_ptr = 0;
 
+#ifndef __SYNTHESIS__
+    current_layer_id = 0; // Conv1
+#endif
     LOOP_Conv1:
 #ifndef __SYNTHESIS__
     cout << "Hardware: Executing LOOP_Conv1" << endl;
@@ -111,7 +144,7 @@ void FracNet_T(
                 msb_fmap[c_in], msb_fmap[(c_in+1)%CHANNEL_IN], conv_weight_all[conv_weight_ptr],
                 out_buf_t0, out_buf_t1,
                 layer1_0_conv1_threshold_fix[c_out],
-                c_in, in_channels, H_fmap_out, false
+                c_in, in_channels, H_fmap_out, true
         );
         conv_weight_ptr += 1;
         c_in = 1;
@@ -119,7 +152,7 @@ void FracNet_T(
                 msb_fmap[c_in], msb_fmap[(c_in+1)%CHANNEL_IN], conv_weight_all[conv_weight_ptr],
                 out_buf_t0, out_buf_t1,
                 layer1_0_conv1_threshold_fix[c_out],
-                c_in, in_channels, H_fmap_out, false
+                c_in, in_channels, H_fmap_out, true
         );
         conv_weight_ptr += 1;
         c_in = 2;
@@ -127,7 +160,7 @@ void FracNet_T(
                 msb_fmap[c_in], msb_fmap[(c_in+1)%CHANNEL_IN], conv_weight_all[conv_weight_ptr],
                 out_buf_t0, out_buf_t1,
                 layer1_0_conv1_threshold_fix[c_out],
-                c_in, in_channels, H_fmap_out, false
+                c_in, in_channels, H_fmap_out, true
         );
         conv_weight_ptr += 1;
 
@@ -153,6 +186,9 @@ void FracNet_T(
 	////////////////////////////////////////////////
 	//////////// layer1_0 PG1 /////////////////////
 	quant_and_pack(out_buf_0, msb_fmap, H_fmap_in, in_channels);
+#ifndef __SYNTHESIS__
+    current_layer_id = 1; // L1_0_PG1
+#endif
 	LOOP_layer1_0_PGConv1:
 #ifndef __SYNTHESIS__
     cout << "Hardware: Executing Layer 1" << endl;
@@ -185,6 +221,9 @@ void FracNet_T(
 	////////////////////////////////////////////////
 	//////////// layer1_0 PG2 /////////////////////
 	quant_and_pack(out_buf_0, msb_fmap, H_fmap_in, in_channels);
+#ifndef __SYNTHESIS__
+    current_layer_id = 2; // L1_0_PG2
+#endif
 	LOOP_layer1_0_PGConv2:
 	for (int c_out = 0; c_out < out_channels/OUT_CHANNEL_PARALLELISM; c_out ++) {
 		int c_in = 0;
@@ -213,6 +252,9 @@ void FracNet_T(
 	////////////////////////////////////////////////
 	//////////// layer1_1 PG1 /////////////////////
 	quant_and_pack(out_buf_0, msb_fmap, H_fmap_in, in_channels);
+#ifndef __SYNTHESIS__
+    current_layer_id = 3; // L1_1_PG1
+#endif
 	LOOP_layer1_1_PGConv1:
 	for (int c_out = 0; c_out < out_channels/OUT_CHANNEL_PARALLELISM; c_out ++) {
 		int c_in = 0;
@@ -241,6 +283,9 @@ void FracNet_T(
 	////////////////////////////////////////////////
 	//////////// layer1_1 PG2 /////////////////////
 	quant_and_pack(out_buf_0, msb_fmap, H_fmap_in, in_channels);
+#ifndef __SYNTHESIS__
+    current_layer_id = 4; // L1_1_PG2
+#endif
 	LOOP_layer1_1_PGConv2:
 	for (int c_out = 0; c_out < out_channels/OUT_CHANNEL_PARALLELISM; c_out ++) {
 		int c_in = 0;
@@ -269,6 +314,9 @@ void FracNet_T(
 	////////////////////////////////////////////////
 	//////////// layer1_2 PG1 /////////////////////
 	quant_and_pack(out_buf_0, msb_fmap, H_fmap_in, in_channels);
+#ifndef __SYNTHESIS__
+    current_layer_id = 5; // L1_2_PG1
+#endif
 	LOOP_layer1_2_PGConv1:
 	for (int c_out = 0; c_out < out_channels/OUT_CHANNEL_PARALLELISM; c_out ++) {
 		int c_in = 0;
@@ -297,6 +345,9 @@ void FracNet_T(
 	////////////////////////////////////////////////
 	//////////// layer1_2 PG2 /////////////////////
 	quant_and_pack(out_buf_0, msb_fmap, H_fmap_in, in_channels);
+#ifndef __SYNTHESIS__
+    current_layer_id = 6; // L1_2_PG2
+#endif
 	LOOP_layer1_2_PGConv2:
 	for (int c_out = 0; c_out < out_channels/OUT_CHANNEL_PARALLELISM; c_out ++) {
 		int c_in = 0;
@@ -337,6 +388,9 @@ void FracNet_T(
 	//////////// layer2_0 PG1 /////////////////////
 	quant_and_pack(out_buf_0, msb_fmap, H_fmap_in, in_channels);
 	avgpool_concat(out_buf_0, H_fmap_out, in_channels);
+#ifndef __SYNTHESIS__
+    current_layer_id = 7; // L2_0_PG1
+#endif
 	LOOP_layer2_0_PGConv1:
 #ifndef __SYNTHESIS__
     cout << "Hardware: Executing Layer 2" << endl;
@@ -380,6 +434,9 @@ void FracNet_T(
 	////////////////////////////////////////////////
 	//////////// layer2_0 PG2 /////////////////////
 	quant_and_pack(out_buf_0, msb_fmap, H_fmap_in, in_channels);
+#ifndef __SYNTHESIS__
+    current_layer_id = 8; // L2_0_PG2
+#endif
 	LOOP_layer2_0_PGConv2:
 	for (int c_out = 0; c_out < out_channels/OUT_CHANNEL_PARALLELISM; c_out ++) {
 		int c_in = 0;
@@ -408,6 +465,9 @@ void FracNet_T(
 	////////////////////////////////////////////////
 	//////////// layer2_1 PG1 /////////////////////
 	quant_and_pack(out_buf_0, msb_fmap, H_fmap_in, in_channels);
+#ifndef __SYNTHESIS__
+    current_layer_id = 9; // L2_1_PG1
+#endif
 	LOOP_layer2_1_PGConv1:
 	for (int c_out = 0; c_out < out_channels/OUT_CHANNEL_PARALLELISM; c_out ++) {
 		int c_in = 0;
@@ -437,6 +497,9 @@ void FracNet_T(
 	////////////////////////////////////////////////
 	//////////// layer2_1 PG2 /////////////////////
 	quant_and_pack(out_buf_0, msb_fmap, H_fmap_in, in_channels);
+#ifndef __SYNTHESIS__
+    current_layer_id = 10; // L2_1_PG2
+#endif
 	LOOP_layer2_1_PGConv2:
 	for (int c_out = 0; c_out < out_channels/OUT_CHANNEL_PARALLELISM; c_out ++) {
 		int c_in = 0;
@@ -465,6 +528,9 @@ void FracNet_T(
 	////////////////////////////////////////////////
 	//////////// layer2_2 PG1 /////////////////////
 	quant_and_pack(out_buf_0, msb_fmap, H_fmap_in, in_channels);
+#ifndef __SYNTHESIS__
+    current_layer_id = 11; // L2_2_PG1
+#endif
 	LOOP_layer2_2_PGConv1:
 	for (int c_out = 0; c_out < out_channels/OUT_CHANNEL_PARALLELISM; c_out ++) {
 		int c_in = 0;
@@ -494,6 +560,9 @@ void FracNet_T(
 	////////////////////////////////////////////////
 	//////////// layer2_2 PG2 /////////////////////
 	quant_and_pack(out_buf_0, msb_fmap, H_fmap_in, in_channels);
+#ifndef __SYNTHESIS__
+    current_layer_id = 12; // L2_2_PG2
+#endif
 	LOOP_layer2_2_PGConv2:
 	for (int c_out = 0; c_out < out_channels/OUT_CHANNEL_PARALLELISM; c_out ++) {
 		int c_in = 0;
@@ -534,6 +603,9 @@ void FracNet_T(
 	//////////// layer3_0 PG1 /////////////////////
 	quant_and_pack(out_buf_0, msb_fmap, H_fmap_in, in_channels);
 	avgpool_concat(out_buf_0, H_fmap_out, in_channels);
+#ifndef __SYNTHESIS__
+    current_layer_id = 13; // L3_0_PG1
+#endif
 	LOOP_layer3_0_PGConv1:
 #ifndef __SYNTHESIS__
     cout << "Hardware: Executing Layer 3" << endl;
@@ -577,6 +649,9 @@ void FracNet_T(
 	////////////////////////////////////////////////
 	//////////// layer3_0 PG2 /////////////////////
 	quant_and_pack(out_buf_0, msb_fmap, H_fmap_in, in_channels);
+#ifndef __SYNTHESIS__
+    current_layer_id = 14; // L3_0_PG2
+#endif
 	LOOP_layer3_0_PGConv2:
 	for (int c_out = 0; c_out < out_channels/OUT_CHANNEL_PARALLELISM; c_out ++) {
 		int c_in = 0;
@@ -605,6 +680,9 @@ void FracNet_T(
 	////////////////////////////////////////////////
 	//////////// layer3_1 PG1 /////////////////////
 	quant_and_pack(out_buf_0, msb_fmap, H_fmap_in, in_channels);
+#ifndef __SYNTHESIS__
+    current_layer_id = 15; // L3_1_PG1
+#endif
 	LOOP_layer3_1_PGConv1:
 	for (int c_out = 0; c_out < out_channels/OUT_CHANNEL_PARALLELISM; c_out ++) {
 		int c_in = 0;
@@ -634,6 +712,9 @@ void FracNet_T(
 	////////////////////////////////////////////////
 	//////////// layer3_1 PG2 /////////////////////
 	quant_and_pack(out_buf_0, msb_fmap, H_fmap_in, in_channels);
+#ifndef __SYNTHESIS__
+    current_layer_id = 16; // L3_1_PG2
+#endif
 	LOOP_layer3_1_PGConv2:
 	for (int c_out = 0; c_out < out_channels/OUT_CHANNEL_PARALLELISM; c_out ++) {
 		int c_in = 0;
@@ -662,6 +743,9 @@ void FracNet_T(
 	////////////////////////////////////////////////
 	//////////// layer3_2 PG1 /////////////////////
 	quant_and_pack(out_buf_0, msb_fmap, H_fmap_in, in_channels);
+#ifndef __SYNTHESIS__
+    current_layer_id = 17; // L3_2_PG1
+#endif
 	LOOP_layer3_2_PGConv1:
 	for (int c_out = 0; c_out < out_channels/OUT_CHANNEL_PARALLELISM; c_out ++) {
 		int c_in = 0;
@@ -691,6 +775,9 @@ void FracNet_T(
 	////////////////////////////////////////////////
 	//////////// layer3_2 PG2 /////////////////////
 	quant_and_pack(out_buf_0, msb_fmap, H_fmap_in, in_channels);
+#ifndef __SYNTHESIS__
+    current_layer_id = 18; // L3_2_PG2
+#endif
 	LOOP_layer3_2_PGConv2:
 	for (int c_out = 0; c_out < out_channels/OUT_CHANNEL_PARALLELISM; c_out ++) {
 		int c_in = 0;
@@ -745,6 +832,43 @@ void FracNet_T(
 
 #ifndef __SYNTHESIS__
     cout << "Total LSB masks used (enabled): " << enabled_gates_count << " / " << gate_idx << endl;
+    
+    // Task B & C Report
+    cout << "\n========================================================" << endl;
+    cout << "           Ada-FracBNN Evaluation Report" << endl;
+    cout << "           Mode: " << INFERENCE_MODE << " (0:BIN, 1:FRAC, 2:ADAPTIVE)" << endl;
+    cout << "========================================================" << endl;
+    cout << "Layer Name | Total Gates | Active Gates | Sparsity(%) | MSB BMACs | LSB BMACs | Eff. Bits" << endl;
+    cout << "---------------------------------------------------------------------------------------" << endl;
+    
+    unsigned long long grand_total_msb = 0;
+    unsigned long long grand_total_lsb = 0;
+    
+    for(int i=0; i<19; i++) {
+        double sparsity = 0;
+        if(layer_stats[i].total_gates > 0)
+            sparsity = 100.0 * (double)layer_stats[i].active_gates / (double)layer_stats[i].total_gates;
+            
+        double eff_bits = 1.0;
+        if(layer_stats[i].msb_bmacs > 0)
+            eff_bits = 1.0 + (double)layer_stats[i].lsb_bmacs / (double)layer_stats[i].msb_bmacs;
+            
+        printf("%-10s | %11llu | %12llu | %11.2f | %9llu | %9llu | %9.2f\n", 
+            layer_stats[i].name, 
+            layer_stats[i].total_gates, 
+            layer_stats[i].active_gates, 
+            sparsity,
+            layer_stats[i].msb_bmacs,
+            layer_stats[i].lsb_bmacs,
+            eff_bits);
+            
+        grand_total_msb += layer_stats[i].msb_bmacs;
+        grand_total_lsb += layer_stats[i].lsb_bmacs;
+    }
+    cout << "---------------------------------------------------------------------------------------" << endl;
+    double total_eff_bits = 1.0 + (double)grand_total_lsb / (double)grand_total_msb;
+    cout << "TOTAL EFFECTIVE PRECISION: " << total_eff_bits << " bits" << endl;
+    cout << "========================================================" << endl;
 #endif
 
 }

@@ -1839,16 +1839,16 @@
 					<Obj>
 						<type>0</type>
 						<id>66</id>
-						<name>_ln232</name>
+						<name>_ln229</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>232</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>229</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item class_id="10" tracking_level="0" version="0">
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second class_id="11" tracking_level="0" version="0">
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1857,7 +1857,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>232</second>
+										<second>229</second>
 									</item>
 								</second>
 							</item>
@@ -1889,14 +1889,14 @@
 						<id>68</id>
 						<name>tmp_15_V_0</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1905,7 +1905,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -1940,14 +1940,14 @@
 						<id>69</id>
 						<name>tmp_14_V_0</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1956,7 +1956,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -1991,14 +1991,14 @@
 						<id>70</id>
 						<name>tmp_13_V_0</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2007,7 +2007,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -2042,14 +2042,14 @@
 						<id>71</id>
 						<name>tmp_12_V_0</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2058,7 +2058,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -2093,14 +2093,14 @@
 						<id>72</id>
 						<name>tmp_11_V_0</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2109,7 +2109,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -2144,14 +2144,14 @@
 						<id>73</id>
 						<name>tmp_10_V_0</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2160,7 +2160,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -2195,14 +2195,14 @@
 						<id>74</id>
 						<name>tmp_9_V_0</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2211,7 +2211,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -2246,14 +2246,14 @@
 						<id>75</id>
 						<name>tmp_8_V_0</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2262,7 +2262,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -2297,14 +2297,14 @@
 						<id>76</id>
 						<name>tmp_7_V_0</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2313,7 +2313,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -2348,14 +2348,14 @@
 						<id>77</id>
 						<name>tmp_6_V_0</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2364,7 +2364,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -2399,14 +2399,14 @@
 						<id>78</id>
 						<name>tmp_5_V_0</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2415,7 +2415,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -2450,14 +2450,14 @@
 						<id>79</id>
 						<name>tmp_4_V_0</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2466,7 +2466,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -2501,14 +2501,14 @@
 						<id>80</id>
 						<name>tmp_3_V_0</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2517,7 +2517,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -2552,14 +2552,14 @@
 						<id>81</id>
 						<name>tmp_2_V_0</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2568,7 +2568,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -2603,14 +2603,14 @@
 						<id>82</id>
 						<name>tmp_1_V_0</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2619,7 +2619,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -2654,14 +2654,14 @@
 						<id>83</id>
 						<name>tmp_0_V_0</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2670,7 +2670,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -2740,16 +2740,16 @@
 					<Obj>
 						<type>0</type>
 						<id>85</id>
-						<name>icmp_ln232</name>
+						<name>icmp_ln229</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>232</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>229</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2758,7 +2758,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>232</second>
+										<second>229</second>
 									</item>
 								</second>
 							</item>
@@ -2791,14 +2791,14 @@
 						<id>87</id>
 						<name>tile</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>232</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>229</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2807,7 +2807,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>232</second>
+										<second>229</second>
 									</item>
 								</second>
 							</item>
@@ -2838,16 +2838,16 @@
 					<Obj>
 						<type>0</type>
 						<id>88</id>
-						<name>_ln232</name>
+						<name>_ln229</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>232</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>229</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2856,7 +2856,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>232</second>
+										<second>229</second>
 									</item>
 								</second>
 							</item>
@@ -2888,16 +2888,16 @@
 					<Obj>
 						<type>0</type>
 						<id>92</id>
-						<name>_ln233</name>
+						<name>_ln230</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>233</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>230</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2906,7 +2906,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>233</second>
+										<second>230</second>
 									</item>
 								</second>
 							</item>
@@ -2938,14 +2938,14 @@
 						<id>94</id>
 						<name>tmp_15_V_116</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2954,7 +2954,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -2989,14 +2989,14 @@
 						<id>95</id>
 						<name>tmp_14_V_115</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3005,7 +3005,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -3040,14 +3040,14 @@
 						<id>96</id>
 						<name>tmp_13_V_114</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3056,7 +3056,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -3091,14 +3091,14 @@
 						<id>97</id>
 						<name>tmp_12_V_113</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3107,7 +3107,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -3142,14 +3142,14 @@
 						<id>98</id>
 						<name>tmp_11_V_112</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3158,7 +3158,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -3193,14 +3193,14 @@
 						<id>99</id>
 						<name>tmp_10_V_111</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3209,7 +3209,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -3244,14 +3244,14 @@
 						<id>100</id>
 						<name>tmp_9_V_110</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3260,7 +3260,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -3295,14 +3295,14 @@
 						<id>101</id>
 						<name>tmp_8_V_19</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3311,7 +3311,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -3346,14 +3346,14 @@
 						<id>102</id>
 						<name>tmp_7_V_18</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3362,7 +3362,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -3397,14 +3397,14 @@
 						<id>103</id>
 						<name>tmp_6_V_17</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3413,7 +3413,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -3448,14 +3448,14 @@
 						<id>104</id>
 						<name>tmp_5_V_16</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3464,7 +3464,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -3499,14 +3499,14 @@
 						<id>105</id>
 						<name>tmp_4_V_15</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3515,7 +3515,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -3550,14 +3550,14 @@
 						<id>106</id>
 						<name>tmp_3_V_14</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3566,7 +3566,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -3601,14 +3601,14 @@
 						<id>107</id>
 						<name>tmp_2_V_13</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3617,7 +3617,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -3652,14 +3652,14 @@
 						<id>108</id>
 						<name>tmp_1_V_12</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3668,7 +3668,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -3703,14 +3703,14 @@
 						<id>109</id>
 						<name>tmp_0_V_11</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3719,7 +3719,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -3789,16 +3789,16 @@
 					<Obj>
 						<type>0</type>
 						<id>111</id>
-						<name>icmp_ln233</name>
+						<name>icmp_ln230</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>233</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>230</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3807,7 +3807,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>233</second>
+										<second>230</second>
 									</item>
 								</second>
 							</item>
@@ -3840,14 +3840,14 @@
 						<id>113</id>
 						<name>k</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>233</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>230</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3856,7 +3856,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>233</second>
+										<second>230</second>
 									</item>
 								</second>
 							</item>
@@ -3887,16 +3887,16 @@
 					<Obj>
 						<type>0</type>
 						<id>114</id>
-						<name>_ln233</name>
+						<name>_ln230</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>233</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>230</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3905,7 +3905,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>233</second>
+										<second>230</second>
 									</item>
 								</second>
 							</item>
@@ -3939,14 +3939,14 @@
 						<id>118</id>
 						<name>trunc_ln203</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>235</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>232</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -3955,7 +3955,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>235</second>
+										<second>232</second>
 									</item>
 								</second>
 							</item>
@@ -3985,16 +3985,16 @@
 					<Obj>
 						<type>0</type>
 						<id>119</id>
-						<name>_ln235</name>
+						<name>_ln232</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>235</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>232</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4003,7 +4003,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>235</second>
+										<second>232</second>
 									</item>
 								</second>
 							</item>
@@ -4064,16 +4064,16 @@
 					<Obj>
 						<type>0</type>
 						<id>121</id>
-						<name>_ln235</name>
+						<name>_ln232</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>235</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>232</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4082,7 +4082,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>235</second>
+										<second>232</second>
 									</item>
 								</second>
 							</item>
@@ -4112,16 +4112,16 @@
 					<Obj>
 						<type>0</type>
 						<id>123</id>
-						<name>_ln235</name>
+						<name>_ln232</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>235</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>232</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4130,7 +4130,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>235</second>
+										<second>232</second>
 									</item>
 								</second>
 							</item>
@@ -4160,16 +4160,16 @@
 					<Obj>
 						<type>0</type>
 						<id>125</id>
-						<name>_ln235</name>
+						<name>_ln232</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>235</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>232</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4178,7 +4178,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>235</second>
+										<second>232</second>
 									</item>
 								</second>
 							</item>
@@ -4208,16 +4208,16 @@
 					<Obj>
 						<type>0</type>
 						<id>127</id>
-						<name>_ln235</name>
+						<name>_ln232</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>235</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>232</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4226,7 +4226,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>235</second>
+										<second>232</second>
 									</item>
 								</second>
 							</item>
@@ -4256,16 +4256,16 @@
 					<Obj>
 						<type>0</type>
 						<id>129</id>
-						<name>_ln235</name>
+						<name>_ln232</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>235</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>232</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4274,7 +4274,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>235</second>
+										<second>232</second>
 									</item>
 								</second>
 							</item>
@@ -4304,16 +4304,16 @@
 					<Obj>
 						<type>0</type>
 						<id>131</id>
-						<name>_ln235</name>
+						<name>_ln232</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>235</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>232</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4322,7 +4322,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>235</second>
+										<second>232</second>
 									</item>
 								</second>
 							</item>
@@ -4352,16 +4352,16 @@
 					<Obj>
 						<type>0</type>
 						<id>133</id>
-						<name>_ln235</name>
+						<name>_ln232</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>235</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>232</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4370,7 +4370,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>235</second>
+										<second>232</second>
 									</item>
 								</second>
 							</item>
@@ -4400,16 +4400,16 @@
 					<Obj>
 						<type>0</type>
 						<id>135</id>
-						<name>_ln235</name>
+						<name>_ln232</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>235</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>232</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4418,7 +4418,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>235</second>
+										<second>232</second>
 									</item>
 								</second>
 							</item>
@@ -4448,16 +4448,16 @@
 					<Obj>
 						<type>0</type>
 						<id>137</id>
-						<name>_ln235</name>
+						<name>_ln232</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>235</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>232</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4466,7 +4466,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>235</second>
+										<second>232</second>
 									</item>
 								</second>
 							</item>
@@ -4496,16 +4496,16 @@
 					<Obj>
 						<type>0</type>
 						<id>139</id>
-						<name>_ln235</name>
+						<name>_ln232</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>235</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>232</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4514,7 +4514,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>235</second>
+										<second>232</second>
 									</item>
 								</second>
 							</item>
@@ -4544,16 +4544,16 @@
 					<Obj>
 						<type>0</type>
 						<id>141</id>
-						<name>_ln235</name>
+						<name>_ln232</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>235</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>232</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4562,7 +4562,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>235</second>
+										<second>232</second>
 									</item>
 								</second>
 							</item>
@@ -4592,16 +4592,16 @@
 					<Obj>
 						<type>0</type>
 						<id>143</id>
-						<name>_ln235</name>
+						<name>_ln232</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>235</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>232</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4610,7 +4610,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>235</second>
+										<second>232</second>
 									</item>
 								</second>
 							</item>
@@ -4640,16 +4640,16 @@
 					<Obj>
 						<type>0</type>
 						<id>145</id>
-						<name>_ln235</name>
+						<name>_ln232</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>235</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>232</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4658,7 +4658,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>235</second>
+										<second>232</second>
 									</item>
 								</second>
 							</item>
@@ -4688,16 +4688,16 @@
 					<Obj>
 						<type>0</type>
 						<id>147</id>
-						<name>_ln235</name>
+						<name>_ln232</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>235</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>232</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4706,7 +4706,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>235</second>
+										<second>232</second>
 									</item>
 								</second>
 							</item>
@@ -4736,16 +4736,16 @@
 					<Obj>
 						<type>0</type>
 						<id>149</id>
-						<name>_ln235</name>
+						<name>_ln232</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>235</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>232</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4754,7 +4754,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>235</second>
+										<second>232</second>
 									</item>
 								</second>
 							</item>
@@ -4786,14 +4786,14 @@
 						<id>151</id>
 						<name>tmp_15_V_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4802,7 +4802,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -4865,14 +4865,14 @@
 						<id>152</id>
 						<name>tmp_14_V_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4881,7 +4881,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -4944,14 +4944,14 @@
 						<id>153</id>
 						<name>tmp_13_V_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -4960,7 +4960,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -5023,14 +5023,14 @@
 						<id>154</id>
 						<name>tmp_12_V_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5039,7 +5039,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -5102,14 +5102,14 @@
 						<id>155</id>
 						<name>tmp_11_V_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5118,7 +5118,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -5181,14 +5181,14 @@
 						<id>156</id>
 						<name>tmp_10_V_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5197,7 +5197,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -5260,14 +5260,14 @@
 						<id>157</id>
 						<name>tmp_9_V_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5276,7 +5276,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -5339,14 +5339,14 @@
 						<id>158</id>
 						<name>tmp_8_V_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5355,7 +5355,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -5418,14 +5418,14 @@
 						<id>159</id>
 						<name>tmp_7_V_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5434,7 +5434,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -5497,14 +5497,14 @@
 						<id>160</id>
 						<name>tmp_6_V_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5513,7 +5513,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -5576,14 +5576,14 @@
 						<id>161</id>
 						<name>tmp_5_V_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5592,7 +5592,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -5655,14 +5655,14 @@
 						<id>162</id>
 						<name>tmp_4_V_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5671,7 +5671,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -5734,14 +5734,14 @@
 						<id>163</id>
 						<name>tmp_3_V_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5750,7 +5750,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -5813,14 +5813,14 @@
 						<id>164</id>
 						<name>tmp_2_V_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5829,7 +5829,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -5892,14 +5892,14 @@
 						<id>165</id>
 						<name>tmp_1_V_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5908,7 +5908,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -5971,14 +5971,14 @@
 						<id>166</id>
 						<name>tmp_0_V_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -5987,7 +5987,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -6048,16 +6048,16 @@
 					<Obj>
 						<type>0</type>
 						<id>168</id>
-						<name>_ln233</name>
+						<name>_ln230</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>233</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>230</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6066,7 +6066,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>233</second>
+										<second>230</second>
 									</item>
 								</second>
 							</item>
@@ -6098,14 +6098,14 @@
 						<id>170</id>
 						<name>trunc_ln1265</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6114,7 +6114,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -6144,16 +6144,16 @@
 					<Obj>
 						<type>0</type>
 						<id>171</id>
-						<name>_ln237</name>
+						<name>_ln234</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>237</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>234</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6162,7 +6162,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>237</second>
+										<second>234</second>
 									</item>
 								</second>
 							</item>
@@ -6194,14 +6194,14 @@
 						<id>173</id>
 						<name>indvar_flatten</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>237</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>234</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6210,7 +6210,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>237</second>
+										<second>234</second>
 									</item>
 								</second>
 							</item>
@@ -6245,14 +6245,14 @@
 						<id>174</id>
 						<name>i_0</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6261,7 +6261,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -6296,14 +6296,14 @@
 						<id>175</id>
 						<name>tmp_15_V_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6312,7 +6312,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -6347,14 +6347,14 @@
 						<id>176</id>
 						<name>tmp_14_V_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6363,7 +6363,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -6398,14 +6398,14 @@
 						<id>177</id>
 						<name>tmp_13_V_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6414,7 +6414,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -6449,14 +6449,14 @@
 						<id>178</id>
 						<name>tmp_12_V_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6465,7 +6465,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -6500,14 +6500,14 @@
 						<id>179</id>
 						<name>tmp_11_V_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6516,7 +6516,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -6551,14 +6551,14 @@
 						<id>180</id>
 						<name>tmp_10_V_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6567,7 +6567,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -6602,14 +6602,14 @@
 						<id>181</id>
 						<name>tmp_9_V_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6618,7 +6618,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -6653,14 +6653,14 @@
 						<id>182</id>
 						<name>tmp_8_V_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6669,7 +6669,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -6704,14 +6704,14 @@
 						<id>183</id>
 						<name>tmp_7_V_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6720,7 +6720,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -6755,14 +6755,14 @@
 						<id>184</id>
 						<name>tmp_6_V_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6771,7 +6771,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -6806,14 +6806,14 @@
 						<id>185</id>
 						<name>tmp_5_V_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6822,7 +6822,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -6857,14 +6857,14 @@
 						<id>186</id>
 						<name>tmp_4_V_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6873,7 +6873,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -6908,14 +6908,14 @@
 						<id>187</id>
 						<name>tmp_3_V_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6924,7 +6924,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -6959,14 +6959,14 @@
 						<id>188</id>
 						<name>tmp_2_V_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -6975,7 +6975,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -7010,14 +7010,14 @@
 						<id>189</id>
 						<name>tmp_1_V_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7026,7 +7026,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -7061,14 +7061,14 @@
 						<id>190</id>
 						<name>tmp_0_V_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7077,7 +7077,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -7147,16 +7147,16 @@
 					<Obj>
 						<type>0</type>
 						<id>192</id>
-						<name>icmp_ln237</name>
+						<name>icmp_ln234</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>237</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>234</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7165,7 +7165,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>237</second>
+										<second>234</second>
 									</item>
 								</second>
 							</item>
@@ -7196,16 +7196,16 @@
 					<Obj>
 						<type>0</type>
 						<id>193</id>
-						<name>add_ln237</name>
+						<name>add_ln234</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>237</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>234</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7214,7 +7214,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>237</second>
+										<second>234</second>
 									</item>
 								</second>
 							</item>
@@ -7245,16 +7245,16 @@
 					<Obj>
 						<type>0</type>
 						<id>194</id>
-						<name>_ln237</name>
+						<name>_ln234</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>237</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>234</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7263,7 +7263,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>237</second>
+										<second>234</second>
 									</item>
 								</second>
 							</item>
@@ -7297,14 +7297,14 @@
 						<id>196</id>
 						<name>i</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>237</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>234</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7313,7 +7313,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>237</second>
+										<second>234</second>
 									</item>
 								</second>
 							</item>
@@ -7344,16 +7344,16 @@
 					<Obj>
 						<type>0</type>
 						<id>198</id>
-						<name>icmp_ln238</name>
+						<name>icmp_ln235</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>238</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>235</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7362,7 +7362,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>238</second>
+										<second>235</second>
 									</item>
 								</second>
 							</item>
@@ -7393,16 +7393,16 @@
 					<Obj>
 						<type>0</type>
 						<id>199</id>
-						<name>select_ln241</name>
+						<name>select_ln238</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7411,7 +7411,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -7443,16 +7443,16 @@
 					<Obj>
 						<type>0</type>
 						<id>200</id>
-						<name>select_ln241_1</name>
+						<name>select_ln238_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7461,7 +7461,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -7495,14 +7495,14 @@
 						<id>201</id>
 						<name>zext_ln1265</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7511,7 +7511,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -7543,14 +7543,14 @@
 						<id>202</id>
 						<name>tmp_450</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7559,7 +7559,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -7593,14 +7593,14 @@
 						<id>203</id>
 						<name>zext_ln1265_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7609,7 +7609,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -7641,14 +7641,14 @@
 						<id>204</id>
 						<name>add_ln1265</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7657,7 +7657,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -7690,14 +7690,14 @@
 						<id>207</id>
 						<name>zext_ln1265_2</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7706,7 +7706,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -7738,14 +7738,14 @@
 						<id>208</id>
 						<name>add_ln1265_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7754,7 +7754,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -7787,14 +7787,14 @@
 						<id>209</id>
 						<name>zext_ln1265_3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7803,7 +7803,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -7835,14 +7835,14 @@
 						<id>210</id>
 						<name>inputs_0_0_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7851,7 +7851,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -7885,14 +7885,14 @@
 						<id>211</id>
 						<name>inputs_0_1_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7901,7 +7901,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -7935,14 +7935,14 @@
 						<id>212</id>
 						<name>inputs_0_2_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -7951,7 +7951,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -7985,14 +7985,14 @@
 						<id>213</id>
 						<name>inputs_0_3_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8001,7 +8001,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -8035,14 +8035,14 @@
 						<id>214</id>
 						<name>inputs_0_4_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8051,7 +8051,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -8085,14 +8085,14 @@
 						<id>215</id>
 						<name>inputs_0_5_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8101,7 +8101,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -8135,14 +8135,14 @@
 						<id>216</id>
 						<name>inputs_0_6_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8151,7 +8151,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -8185,14 +8185,14 @@
 						<id>217</id>
 						<name>inputs_0_7_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8201,7 +8201,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -8235,14 +8235,14 @@
 						<id>218</id>
 						<name>inputs_0_8_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8251,7 +8251,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -8285,14 +8285,14 @@
 						<id>219</id>
 						<name>inputs_0_9_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8301,7 +8301,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -8335,14 +8335,14 @@
 						<id>220</id>
 						<name>inputs_0_10_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8351,7 +8351,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -8385,14 +8385,14 @@
 						<id>221</id>
 						<name>inputs_0_11_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8401,7 +8401,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -8435,14 +8435,14 @@
 						<id>222</id>
 						<name>inputs_0_12_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8451,7 +8451,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -8485,14 +8485,14 @@
 						<id>223</id>
 						<name>inputs_0_13_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8501,7 +8501,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -8535,14 +8535,14 @@
 						<id>224</id>
 						<name>inputs_0_14_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8551,7 +8551,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -8585,14 +8585,14 @@
 						<id>225</id>
 						<name>inputs_0_15_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8601,7 +8601,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -8635,14 +8635,14 @@
 						<id>226</id>
 						<name>inputs_1_0_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8651,7 +8651,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -8685,14 +8685,14 @@
 						<id>227</id>
 						<name>inputs_1_1_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8701,7 +8701,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -8735,14 +8735,14 @@
 						<id>228</id>
 						<name>inputs_1_2_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8751,7 +8751,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -8785,14 +8785,14 @@
 						<id>229</id>
 						<name>inputs_1_3_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8801,7 +8801,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -8835,14 +8835,14 @@
 						<id>230</id>
 						<name>inputs_1_4_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8851,7 +8851,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -8885,14 +8885,14 @@
 						<id>231</id>
 						<name>inputs_1_5_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8901,7 +8901,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -8935,14 +8935,14 @@
 						<id>232</id>
 						<name>inputs_1_6_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -8951,7 +8951,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -8985,14 +8985,14 @@
 						<id>233</id>
 						<name>inputs_1_7_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9001,7 +9001,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -9035,14 +9035,14 @@
 						<id>234</id>
 						<name>inputs_1_8_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9051,7 +9051,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -9085,14 +9085,14 @@
 						<id>235</id>
 						<name>inputs_1_9_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9101,7 +9101,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -9135,14 +9135,14 @@
 						<id>236</id>
 						<name>inputs_1_10_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9151,7 +9151,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -9185,14 +9185,14 @@
 						<id>237</id>
 						<name>inputs_1_11_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9201,7 +9201,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -9235,14 +9235,14 @@
 						<id>238</id>
 						<name>inputs_1_12_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9251,7 +9251,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -9285,14 +9285,14 @@
 						<id>239</id>
 						<name>inputs_1_13_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9301,7 +9301,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -9335,14 +9335,14 @@
 						<id>240</id>
 						<name>inputs_1_14_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9351,7 +9351,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -9385,14 +9385,14 @@
 						<id>241</id>
 						<name>inputs_1_15_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9401,7 +9401,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -9435,14 +9435,14 @@
 						<id>242</id>
 						<name>inputs_2_0_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9451,7 +9451,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -9485,14 +9485,14 @@
 						<id>243</id>
 						<name>inputs_2_1_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9501,7 +9501,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -9535,14 +9535,14 @@
 						<id>244</id>
 						<name>inputs_2_2_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9551,7 +9551,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -9585,14 +9585,14 @@
 						<id>245</id>
 						<name>inputs_2_3_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9601,7 +9601,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -9635,14 +9635,14 @@
 						<id>246</id>
 						<name>inputs_2_4_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9651,7 +9651,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -9685,14 +9685,14 @@
 						<id>247</id>
 						<name>inputs_2_5_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9701,7 +9701,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -9735,14 +9735,14 @@
 						<id>248</id>
 						<name>inputs_2_6_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9751,7 +9751,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -9785,14 +9785,14 @@
 						<id>249</id>
 						<name>inputs_2_7_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9801,7 +9801,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -9835,14 +9835,14 @@
 						<id>250</id>
 						<name>inputs_2_8_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9851,7 +9851,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -9885,14 +9885,14 @@
 						<id>251</id>
 						<name>inputs_2_9_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9901,7 +9901,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -9935,14 +9935,14 @@
 						<id>252</id>
 						<name>inputs_2_10_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -9951,7 +9951,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -9985,14 +9985,14 @@
 						<id>253</id>
 						<name>inputs_2_11_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10001,7 +10001,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -10035,14 +10035,14 @@
 						<id>254</id>
 						<name>inputs_2_12_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10051,7 +10051,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -10085,14 +10085,14 @@
 						<id>255</id>
 						<name>inputs_2_13_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10101,7 +10101,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -10135,14 +10135,14 @@
 						<id>256</id>
 						<name>inputs_2_14_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10151,7 +10151,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -10185,14 +10185,14 @@
 						<id>257</id>
 						<name>inputs_2_15_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10201,7 +10201,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -10235,14 +10235,14 @@
 						<id>258</id>
 						<name>inputs_3_0_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10251,7 +10251,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -10285,14 +10285,14 @@
 						<id>259</id>
 						<name>inputs_3_1_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10301,7 +10301,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -10335,14 +10335,14 @@
 						<id>260</id>
 						<name>inputs_3_2_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10351,7 +10351,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -10385,14 +10385,14 @@
 						<id>261</id>
 						<name>inputs_3_3_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10401,7 +10401,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -10435,14 +10435,14 @@
 						<id>262</id>
 						<name>inputs_3_4_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10451,7 +10451,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -10485,14 +10485,14 @@
 						<id>263</id>
 						<name>inputs_3_5_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10501,7 +10501,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -10535,14 +10535,14 @@
 						<id>264</id>
 						<name>inputs_3_6_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10551,7 +10551,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -10585,14 +10585,14 @@
 						<id>265</id>
 						<name>inputs_3_7_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10601,7 +10601,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -10635,14 +10635,14 @@
 						<id>266</id>
 						<name>inputs_3_8_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10651,7 +10651,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -10685,14 +10685,14 @@
 						<id>267</id>
 						<name>inputs_3_9_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10701,7 +10701,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -10735,14 +10735,14 @@
 						<id>268</id>
 						<name>inputs_3_10_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10751,7 +10751,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -10785,14 +10785,14 @@
 						<id>269</id>
 						<name>inputs_3_11_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10801,7 +10801,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -10835,14 +10835,14 @@
 						<id>270</id>
 						<name>inputs_3_12_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10851,7 +10851,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -10885,14 +10885,14 @@
 						<id>271</id>
 						<name>inputs_3_13_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10901,7 +10901,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -10935,14 +10935,14 @@
 						<id>272</id>
 						<name>inputs_3_14_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -10951,7 +10951,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -10985,14 +10985,14 @@
 						<id>273</id>
 						<name>inputs_3_15_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11001,7 +11001,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -11035,14 +11035,14 @@
 						<id>274</id>
 						<name>sext_ln703</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11051,7 +11051,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -11083,14 +11083,14 @@
 						<id>275</id>
 						<name>inputs_0_0_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11099,7 +11099,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -11131,14 +11131,14 @@
 						<id>276</id>
 						<name>inputs_1_0_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11147,7 +11147,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -11179,14 +11179,14 @@
 						<id>277</id>
 						<name>inputs_2_0_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11195,7 +11195,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -11227,14 +11227,14 @@
 						<id>278</id>
 						<name>inputs_3_0_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11243,7 +11243,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -11275,14 +11275,14 @@
 						<id>279</id>
 						<name>tmp_320</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11291,7 +11291,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -11328,14 +11328,14 @@
 						<id>280</id>
 						<name>shl_ln3</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11344,7 +11344,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -11378,14 +11378,14 @@
 						<id>281</id>
 						<name>sext_ln728</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11394,7 +11394,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -11426,14 +11426,14 @@
 						<id>282</id>
 						<name>sext_ln1192</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11442,7 +11442,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -11474,14 +11474,14 @@
 						<id>283</id>
 						<name>add_ln1192</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11490,7 +11490,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -11523,14 +11523,14 @@
 						<id>284</id>
 						<name>tmp_1198</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11539,7 +11539,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -11573,14 +11573,14 @@
 						<id>285</id>
 						<name>tmp_0_V</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11589,7 +11589,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -11622,14 +11622,14 @@
 						<id>286</id>
 						<name>tmp_1199</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11638,7 +11638,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -11672,14 +11672,14 @@
 						<id>287</id>
 						<name>xor_ln785_272</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11688,7 +11688,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -11721,14 +11721,14 @@
 						<id>288</id>
 						<name>and_ln785</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11737,7 +11737,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -11770,14 +11770,14 @@
 						<id>289</id>
 						<name>xor_ln340</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11786,7 +11786,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -11819,14 +11819,14 @@
 						<id>290</id>
 						<name>select_ln785</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11835,7 +11835,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -11869,14 +11869,14 @@
 						<id>291</id>
 						<name>select_ln340_369</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11885,7 +11885,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -11919,14 +11919,14 @@
 						<id>292</id>
 						<name>sext_ln703_95</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11935,7 +11935,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -11967,14 +11967,14 @@
 						<id>293</id>
 						<name>inputs_0_1_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -11983,7 +11983,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -12015,14 +12015,14 @@
 						<id>294</id>
 						<name>inputs_1_1_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12031,7 +12031,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -12063,14 +12063,14 @@
 						<id>295</id>
 						<name>inputs_2_1_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12079,7 +12079,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -12111,14 +12111,14 @@
 						<id>296</id>
 						<name>inputs_3_1_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12127,7 +12127,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -12159,14 +12159,14 @@
 						<id>297</id>
 						<name>tmp_321</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12175,7 +12175,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -12212,14 +12212,14 @@
 						<id>298</id>
 						<name>shl_ln728_s</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12228,7 +12228,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -12262,14 +12262,14 @@
 						<id>299</id>
 						<name>sext_ln728_90</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12278,7 +12278,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -12310,14 +12310,14 @@
 						<id>300</id>
 						<name>sext_ln1192_39</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12326,7 +12326,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -12358,14 +12358,14 @@
 						<id>301</id>
 						<name>add_ln1192_135</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12374,7 +12374,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -12407,14 +12407,14 @@
 						<id>302</id>
 						<name>tmp_1200</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12423,7 +12423,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -12457,14 +12457,14 @@
 						<id>303</id>
 						<name>tmp_1_V</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12473,7 +12473,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -12506,14 +12506,14 @@
 						<id>304</id>
 						<name>tmp_1201</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12522,7 +12522,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -12556,14 +12556,14 @@
 						<id>305</id>
 						<name>xor_ln785_273</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12572,7 +12572,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -12605,14 +12605,14 @@
 						<id>306</id>
 						<name>and_ln785_153</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12621,7 +12621,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -12654,14 +12654,14 @@
 						<id>307</id>
 						<name>xor_ln340_111</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12670,7 +12670,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -12703,14 +12703,14 @@
 						<id>308</id>
 						<name>select_ln785_20</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12719,7 +12719,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -12753,14 +12753,14 @@
 						<id>309</id>
 						<name>select_ln340_370</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12769,7 +12769,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -12803,14 +12803,14 @@
 						<id>310</id>
 						<name>sext_ln703_96</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12819,7 +12819,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -12851,14 +12851,14 @@
 						<id>311</id>
 						<name>inputs_0_2_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12867,7 +12867,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -12899,14 +12899,14 @@
 						<id>312</id>
 						<name>inputs_1_2_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12915,7 +12915,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -12947,14 +12947,14 @@
 						<id>313</id>
 						<name>inputs_2_2_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -12963,7 +12963,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -12995,14 +12995,14 @@
 						<id>314</id>
 						<name>inputs_3_2_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13011,7 +13011,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -13043,14 +13043,14 @@
 						<id>315</id>
 						<name>tmp_322</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13059,7 +13059,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -13096,14 +13096,14 @@
 						<id>316</id>
 						<name>shl_ln728_93</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13112,7 +13112,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -13146,14 +13146,14 @@
 						<id>317</id>
 						<name>sext_ln728_91</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13162,7 +13162,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -13194,14 +13194,14 @@
 						<id>318</id>
 						<name>sext_ln1192_40</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13210,7 +13210,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -13242,14 +13242,14 @@
 						<id>319</id>
 						<name>add_ln1192_136</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13258,7 +13258,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -13291,14 +13291,14 @@
 						<id>320</id>
 						<name>tmp_1202</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13307,7 +13307,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -13341,14 +13341,14 @@
 						<id>321</id>
 						<name>tmp_2_V</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13357,7 +13357,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -13390,14 +13390,14 @@
 						<id>322</id>
 						<name>tmp_1203</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13406,7 +13406,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -13440,14 +13440,14 @@
 						<id>323</id>
 						<name>xor_ln785_274</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13456,7 +13456,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -13489,14 +13489,14 @@
 						<id>324</id>
 						<name>and_ln785_154</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13505,7 +13505,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -13538,14 +13538,14 @@
 						<id>325</id>
 						<name>xor_ln340_112</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13554,7 +13554,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -13587,14 +13587,14 @@
 						<id>326</id>
 						<name>select_ln785_21</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13603,7 +13603,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -13637,14 +13637,14 @@
 						<id>327</id>
 						<name>select_ln340_371</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13653,7 +13653,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -13687,14 +13687,14 @@
 						<id>328</id>
 						<name>sext_ln703_97</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13703,7 +13703,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -13735,14 +13735,14 @@
 						<id>329</id>
 						<name>inputs_0_3_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13751,7 +13751,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -13783,14 +13783,14 @@
 						<id>330</id>
 						<name>inputs_1_3_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13799,7 +13799,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -13831,14 +13831,14 @@
 						<id>331</id>
 						<name>inputs_2_3_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13847,7 +13847,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -13879,14 +13879,14 @@
 						<id>332</id>
 						<name>inputs_3_3_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13895,7 +13895,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -13927,14 +13927,14 @@
 						<id>333</id>
 						<name>tmp_323</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13943,7 +13943,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -13980,14 +13980,14 @@
 						<id>334</id>
 						<name>shl_ln728_94</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -13996,7 +13996,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -14030,14 +14030,14 @@
 						<id>335</id>
 						<name>sext_ln728_92</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14046,7 +14046,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -14078,14 +14078,14 @@
 						<id>336</id>
 						<name>sext_ln1192_41</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14094,7 +14094,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -14126,14 +14126,14 @@
 						<id>337</id>
 						<name>add_ln1192_137</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14142,7 +14142,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -14175,14 +14175,14 @@
 						<id>338</id>
 						<name>tmp_1204</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14191,7 +14191,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -14225,14 +14225,14 @@
 						<id>339</id>
 						<name>tmp_3_V</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14241,7 +14241,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -14274,14 +14274,14 @@
 						<id>340</id>
 						<name>tmp_1205</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14290,7 +14290,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -14324,14 +14324,14 @@
 						<id>341</id>
 						<name>xor_ln785_275</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14340,7 +14340,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -14373,14 +14373,14 @@
 						<id>342</id>
 						<name>and_ln785_155</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14389,7 +14389,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -14422,14 +14422,14 @@
 						<id>343</id>
 						<name>xor_ln340_113</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14438,7 +14438,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -14471,14 +14471,14 @@
 						<id>344</id>
 						<name>select_ln785_22</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14487,7 +14487,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -14521,14 +14521,14 @@
 						<id>345</id>
 						<name>select_ln340_372</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14537,7 +14537,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -14571,14 +14571,14 @@
 						<id>346</id>
 						<name>sext_ln703_98</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14587,7 +14587,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -14619,14 +14619,14 @@
 						<id>347</id>
 						<name>inputs_0_4_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14635,7 +14635,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -14667,14 +14667,14 @@
 						<id>348</id>
 						<name>inputs_1_4_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14683,7 +14683,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -14715,14 +14715,14 @@
 						<id>349</id>
 						<name>inputs_2_4_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14731,7 +14731,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -14763,14 +14763,14 @@
 						<id>350</id>
 						<name>inputs_3_4_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14779,7 +14779,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -14811,14 +14811,14 @@
 						<id>351</id>
 						<name>tmp_324</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14827,7 +14827,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -14864,14 +14864,14 @@
 						<id>352</id>
 						<name>shl_ln728_95</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14880,7 +14880,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -14914,14 +14914,14 @@
 						<id>353</id>
 						<name>sext_ln728_93</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14930,7 +14930,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -14962,14 +14962,14 @@
 						<id>354</id>
 						<name>sext_ln1192_42</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -14978,7 +14978,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -15010,14 +15010,14 @@
 						<id>355</id>
 						<name>add_ln1192_138</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15026,7 +15026,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -15059,14 +15059,14 @@
 						<id>356</id>
 						<name>tmp_1206</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15075,7 +15075,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -15109,14 +15109,14 @@
 						<id>357</id>
 						<name>tmp_4_V</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15125,7 +15125,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -15158,14 +15158,14 @@
 						<id>358</id>
 						<name>tmp_1207</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15174,7 +15174,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -15208,14 +15208,14 @@
 						<id>359</id>
 						<name>xor_ln785_276</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15224,7 +15224,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -15257,14 +15257,14 @@
 						<id>360</id>
 						<name>and_ln785_156</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15273,7 +15273,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -15306,14 +15306,14 @@
 						<id>361</id>
 						<name>xor_ln340_114</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15322,7 +15322,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -15355,14 +15355,14 @@
 						<id>362</id>
 						<name>select_ln785_23</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15371,7 +15371,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -15405,14 +15405,14 @@
 						<id>363</id>
 						<name>select_ln340_373</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15421,7 +15421,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -15455,14 +15455,14 @@
 						<id>364</id>
 						<name>sext_ln703_99</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15471,7 +15471,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -15503,14 +15503,14 @@
 						<id>365</id>
 						<name>inputs_0_5_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15519,7 +15519,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -15551,14 +15551,14 @@
 						<id>366</id>
 						<name>inputs_1_5_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15567,7 +15567,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -15599,14 +15599,14 @@
 						<id>367</id>
 						<name>inputs_2_5_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15615,7 +15615,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -15647,14 +15647,14 @@
 						<id>368</id>
 						<name>inputs_3_5_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15663,7 +15663,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -15695,14 +15695,14 @@
 						<id>369</id>
 						<name>tmp_325</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15711,7 +15711,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -15748,14 +15748,14 @@
 						<id>370</id>
 						<name>shl_ln728_96</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15764,7 +15764,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -15798,14 +15798,14 @@
 						<id>371</id>
 						<name>sext_ln728_94</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15814,7 +15814,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -15846,14 +15846,14 @@
 						<id>372</id>
 						<name>sext_ln1192_43</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15862,7 +15862,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -15894,14 +15894,14 @@
 						<id>373</id>
 						<name>add_ln1192_139</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15910,7 +15910,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -15943,14 +15943,14 @@
 						<id>374</id>
 						<name>tmp_1208</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -15959,7 +15959,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -15993,14 +15993,14 @@
 						<id>375</id>
 						<name>tmp_5_V</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16009,7 +16009,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -16042,14 +16042,14 @@
 						<id>376</id>
 						<name>tmp_1209</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16058,7 +16058,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -16092,14 +16092,14 @@
 						<id>377</id>
 						<name>xor_ln785_277</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16108,7 +16108,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -16141,14 +16141,14 @@
 						<id>378</id>
 						<name>and_ln785_157</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16157,7 +16157,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -16190,14 +16190,14 @@
 						<id>379</id>
 						<name>xor_ln340_115</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16206,7 +16206,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -16239,14 +16239,14 @@
 						<id>380</id>
 						<name>select_ln785_24</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16255,7 +16255,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -16289,14 +16289,14 @@
 						<id>381</id>
 						<name>select_ln340_374</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16305,7 +16305,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -16339,14 +16339,14 @@
 						<id>382</id>
 						<name>sext_ln703_100</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16355,7 +16355,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -16387,14 +16387,14 @@
 						<id>383</id>
 						<name>inputs_0_6_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16403,7 +16403,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -16435,14 +16435,14 @@
 						<id>384</id>
 						<name>inputs_1_6_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16451,7 +16451,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -16483,14 +16483,14 @@
 						<id>385</id>
 						<name>inputs_2_6_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16499,7 +16499,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -16531,14 +16531,14 @@
 						<id>386</id>
 						<name>inputs_3_6_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16547,7 +16547,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -16579,14 +16579,14 @@
 						<id>387</id>
 						<name>tmp_326</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16595,7 +16595,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -16632,14 +16632,14 @@
 						<id>388</id>
 						<name>shl_ln728_97</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16648,7 +16648,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -16682,14 +16682,14 @@
 						<id>389</id>
 						<name>sext_ln728_95</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16698,7 +16698,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -16730,14 +16730,14 @@
 						<id>390</id>
 						<name>sext_ln1192_44</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16746,7 +16746,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -16778,14 +16778,14 @@
 						<id>391</id>
 						<name>add_ln1192_140</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16794,7 +16794,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -16827,14 +16827,14 @@
 						<id>392</id>
 						<name>tmp_1210</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16843,7 +16843,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -16877,14 +16877,14 @@
 						<id>393</id>
 						<name>tmp_6_V</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16893,7 +16893,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -16926,14 +16926,14 @@
 						<id>394</id>
 						<name>tmp_1211</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16942,7 +16942,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -16976,14 +16976,14 @@
 						<id>395</id>
 						<name>xor_ln785_278</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -16992,7 +16992,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -17025,14 +17025,14 @@
 						<id>396</id>
 						<name>and_ln785_158</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17041,7 +17041,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -17074,14 +17074,14 @@
 						<id>397</id>
 						<name>xor_ln340_116</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17090,7 +17090,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -17123,14 +17123,14 @@
 						<id>398</id>
 						<name>select_ln785_25</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17139,7 +17139,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -17173,14 +17173,14 @@
 						<id>399</id>
 						<name>select_ln340_375</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17189,7 +17189,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -17223,14 +17223,14 @@
 						<id>400</id>
 						<name>sext_ln703_101</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17239,7 +17239,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -17271,14 +17271,14 @@
 						<id>401</id>
 						<name>inputs_0_7_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17287,7 +17287,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -17319,14 +17319,14 @@
 						<id>402</id>
 						<name>inputs_1_7_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17335,7 +17335,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -17367,14 +17367,14 @@
 						<id>403</id>
 						<name>inputs_2_7_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17383,7 +17383,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -17415,14 +17415,14 @@
 						<id>404</id>
 						<name>inputs_3_7_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17431,7 +17431,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -17463,14 +17463,14 @@
 						<id>405</id>
 						<name>tmp_327</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17479,7 +17479,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -17516,14 +17516,14 @@
 						<id>406</id>
 						<name>shl_ln728_98</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17532,7 +17532,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -17566,14 +17566,14 @@
 						<id>407</id>
 						<name>sext_ln728_96</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17582,7 +17582,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -17614,14 +17614,14 @@
 						<id>408</id>
 						<name>sext_ln1192_45</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17630,7 +17630,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -17662,14 +17662,14 @@
 						<id>409</id>
 						<name>add_ln1192_141</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17678,7 +17678,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -17711,14 +17711,14 @@
 						<id>410</id>
 						<name>tmp_1212</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17727,7 +17727,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -17761,14 +17761,14 @@
 						<id>411</id>
 						<name>tmp_7_V</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17777,7 +17777,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -17810,14 +17810,14 @@
 						<id>412</id>
 						<name>tmp_1213</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17826,7 +17826,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -17860,14 +17860,14 @@
 						<id>413</id>
 						<name>xor_ln785_279</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17876,7 +17876,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -17909,14 +17909,14 @@
 						<id>414</id>
 						<name>and_ln785_159</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17925,7 +17925,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -17958,14 +17958,14 @@
 						<id>415</id>
 						<name>xor_ln340_117</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -17974,7 +17974,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -18007,14 +18007,14 @@
 						<id>416</id>
 						<name>select_ln785_26</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18023,7 +18023,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -18057,14 +18057,14 @@
 						<id>417</id>
 						<name>select_ln340_376</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18073,7 +18073,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -18107,14 +18107,14 @@
 						<id>418</id>
 						<name>sext_ln703_102</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18123,7 +18123,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -18155,14 +18155,14 @@
 						<id>419</id>
 						<name>inputs_0_8_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18171,7 +18171,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -18203,14 +18203,14 @@
 						<id>420</id>
 						<name>inputs_1_8_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18219,7 +18219,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -18251,14 +18251,14 @@
 						<id>421</id>
 						<name>inputs_2_8_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18267,7 +18267,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -18299,14 +18299,14 @@
 						<id>422</id>
 						<name>inputs_3_8_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18315,7 +18315,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -18347,14 +18347,14 @@
 						<id>423</id>
 						<name>tmp_328</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18363,7 +18363,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -18400,14 +18400,14 @@
 						<id>424</id>
 						<name>shl_ln728_99</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18416,7 +18416,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -18450,14 +18450,14 @@
 						<id>425</id>
 						<name>sext_ln728_97</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18466,7 +18466,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -18498,14 +18498,14 @@
 						<id>426</id>
 						<name>sext_ln1192_46</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18514,7 +18514,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -18546,14 +18546,14 @@
 						<id>427</id>
 						<name>add_ln1192_142</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18562,7 +18562,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -18595,14 +18595,14 @@
 						<id>428</id>
 						<name>tmp_1214</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18611,7 +18611,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -18645,14 +18645,14 @@
 						<id>429</id>
 						<name>tmp_8_V</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18661,7 +18661,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -18694,14 +18694,14 @@
 						<id>430</id>
 						<name>tmp_1215</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18710,7 +18710,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -18744,14 +18744,14 @@
 						<id>431</id>
 						<name>xor_ln785_280</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18760,7 +18760,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -18793,14 +18793,14 @@
 						<id>432</id>
 						<name>and_ln785_160</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18809,7 +18809,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -18842,14 +18842,14 @@
 						<id>433</id>
 						<name>xor_ln340_118</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18858,7 +18858,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -18891,14 +18891,14 @@
 						<id>434</id>
 						<name>select_ln785_27</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18907,7 +18907,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -18941,14 +18941,14 @@
 						<id>435</id>
 						<name>select_ln340_377</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -18957,7 +18957,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -18991,14 +18991,14 @@
 						<id>436</id>
 						<name>sext_ln703_103</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19007,7 +19007,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -19039,14 +19039,14 @@
 						<id>437</id>
 						<name>inputs_0_9_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19055,7 +19055,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -19087,14 +19087,14 @@
 						<id>438</id>
 						<name>inputs_1_9_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19103,7 +19103,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -19135,14 +19135,14 @@
 						<id>439</id>
 						<name>inputs_2_9_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19151,7 +19151,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -19183,14 +19183,14 @@
 						<id>440</id>
 						<name>inputs_3_9_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19199,7 +19199,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -19231,14 +19231,14 @@
 						<id>441</id>
 						<name>tmp_329</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19247,7 +19247,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -19284,14 +19284,14 @@
 						<id>442</id>
 						<name>shl_ln728_100</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19300,7 +19300,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -19334,14 +19334,14 @@
 						<id>443</id>
 						<name>sext_ln728_98</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19350,7 +19350,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -19382,14 +19382,14 @@
 						<id>444</id>
 						<name>sext_ln1192_47</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19398,7 +19398,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -19430,14 +19430,14 @@
 						<id>445</id>
 						<name>add_ln1192_143</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19446,7 +19446,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -19479,14 +19479,14 @@
 						<id>446</id>
 						<name>tmp_1216</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19495,7 +19495,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -19529,14 +19529,14 @@
 						<id>447</id>
 						<name>tmp_9_V</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19545,7 +19545,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -19578,14 +19578,14 @@
 						<id>448</id>
 						<name>tmp_1217</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19594,7 +19594,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -19628,14 +19628,14 @@
 						<id>449</id>
 						<name>xor_ln785_281</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19644,7 +19644,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -19677,14 +19677,14 @@
 						<id>450</id>
 						<name>and_ln785_161</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19693,7 +19693,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -19726,14 +19726,14 @@
 						<id>451</id>
 						<name>xor_ln340_119</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19742,7 +19742,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -19775,14 +19775,14 @@
 						<id>452</id>
 						<name>select_ln785_28</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19791,7 +19791,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -19825,14 +19825,14 @@
 						<id>453</id>
 						<name>select_ln340_378</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19841,7 +19841,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -19875,14 +19875,14 @@
 						<id>454</id>
 						<name>sext_ln703_104</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19891,7 +19891,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -19923,14 +19923,14 @@
 						<id>455</id>
 						<name>inputs_0_10_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19939,7 +19939,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -19971,14 +19971,14 @@
 						<id>456</id>
 						<name>inputs_1_10_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -19987,7 +19987,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -20019,14 +20019,14 @@
 						<id>457</id>
 						<name>inputs_2_10_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20035,7 +20035,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -20067,14 +20067,14 @@
 						<id>458</id>
 						<name>inputs_3_10_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20083,7 +20083,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -20115,14 +20115,14 @@
 						<id>459</id>
 						<name>tmp_330</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20131,7 +20131,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -20168,14 +20168,14 @@
 						<id>460</id>
 						<name>shl_ln728_101</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20184,7 +20184,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -20218,14 +20218,14 @@
 						<id>461</id>
 						<name>sext_ln728_99</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20234,7 +20234,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -20266,14 +20266,14 @@
 						<id>462</id>
 						<name>sext_ln1192_48</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20282,7 +20282,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -20314,14 +20314,14 @@
 						<id>463</id>
 						<name>add_ln1192_144</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20330,7 +20330,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -20363,14 +20363,14 @@
 						<id>464</id>
 						<name>tmp_1218</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20379,7 +20379,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -20413,14 +20413,14 @@
 						<id>465</id>
 						<name>tmp_10_V</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20429,7 +20429,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -20462,14 +20462,14 @@
 						<id>466</id>
 						<name>tmp_1219</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20478,7 +20478,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -20512,14 +20512,14 @@
 						<id>467</id>
 						<name>xor_ln785_282</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20528,7 +20528,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -20561,14 +20561,14 @@
 						<id>468</id>
 						<name>and_ln785_162</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20577,7 +20577,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -20610,14 +20610,14 @@
 						<id>469</id>
 						<name>xor_ln340_120</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20626,7 +20626,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -20659,14 +20659,14 @@
 						<id>470</id>
 						<name>select_ln785_29</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20675,7 +20675,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -20709,14 +20709,14 @@
 						<id>471</id>
 						<name>select_ln340_379</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20725,7 +20725,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -20759,14 +20759,14 @@
 						<id>472</id>
 						<name>sext_ln703_105</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20775,7 +20775,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -20807,14 +20807,14 @@
 						<id>473</id>
 						<name>inputs_0_11_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20823,7 +20823,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -20855,14 +20855,14 @@
 						<id>474</id>
 						<name>inputs_1_11_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20871,7 +20871,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -20903,14 +20903,14 @@
 						<id>475</id>
 						<name>inputs_2_11_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20919,7 +20919,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -20951,14 +20951,14 @@
 						<id>476</id>
 						<name>inputs_3_11_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -20967,7 +20967,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -20999,14 +20999,14 @@
 						<id>477</id>
 						<name>tmp_331</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21015,7 +21015,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -21052,14 +21052,14 @@
 						<id>478</id>
 						<name>shl_ln728_102</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21068,7 +21068,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -21102,14 +21102,14 @@
 						<id>479</id>
 						<name>sext_ln728_100</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21118,7 +21118,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -21150,14 +21150,14 @@
 						<id>480</id>
 						<name>sext_ln1192_49</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21166,7 +21166,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -21198,14 +21198,14 @@
 						<id>481</id>
 						<name>add_ln1192_145</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21214,7 +21214,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -21247,14 +21247,14 @@
 						<id>482</id>
 						<name>tmp_1220</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21263,7 +21263,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -21297,14 +21297,14 @@
 						<id>483</id>
 						<name>tmp_11_V</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21313,7 +21313,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -21346,14 +21346,14 @@
 						<id>484</id>
 						<name>tmp_1221</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21362,7 +21362,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -21396,14 +21396,14 @@
 						<id>485</id>
 						<name>xor_ln785_283</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21412,7 +21412,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -21445,14 +21445,14 @@
 						<id>486</id>
 						<name>and_ln785_163</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21461,7 +21461,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -21494,14 +21494,14 @@
 						<id>487</id>
 						<name>xor_ln340_121</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21510,7 +21510,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -21543,14 +21543,14 @@
 						<id>488</id>
 						<name>select_ln785_30</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21559,7 +21559,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -21593,14 +21593,14 @@
 						<id>489</id>
 						<name>select_ln340_380</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21609,7 +21609,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -21643,14 +21643,14 @@
 						<id>490</id>
 						<name>sext_ln703_106</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21659,7 +21659,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -21691,14 +21691,14 @@
 						<id>491</id>
 						<name>inputs_0_12_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21707,7 +21707,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -21739,14 +21739,14 @@
 						<id>492</id>
 						<name>inputs_1_12_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21755,7 +21755,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -21787,14 +21787,14 @@
 						<id>493</id>
 						<name>inputs_2_12_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21803,7 +21803,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -21835,14 +21835,14 @@
 						<id>494</id>
 						<name>inputs_3_12_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21851,7 +21851,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -21883,14 +21883,14 @@
 						<id>495</id>
 						<name>tmp_332</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21899,7 +21899,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -21936,14 +21936,14 @@
 						<id>496</id>
 						<name>shl_ln728_103</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -21952,7 +21952,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -21986,14 +21986,14 @@
 						<id>497</id>
 						<name>sext_ln728_101</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22002,7 +22002,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -22034,14 +22034,14 @@
 						<id>498</id>
 						<name>sext_ln1192_50</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22050,7 +22050,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -22082,14 +22082,14 @@
 						<id>499</id>
 						<name>add_ln1192_146</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22098,7 +22098,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -22131,14 +22131,14 @@
 						<id>500</id>
 						<name>tmp_1222</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22147,7 +22147,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -22181,14 +22181,14 @@
 						<id>501</id>
 						<name>tmp_12_V</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22197,7 +22197,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -22230,14 +22230,14 @@
 						<id>502</id>
 						<name>tmp_1223</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22246,7 +22246,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -22280,14 +22280,14 @@
 						<id>503</id>
 						<name>xor_ln785_284</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22296,7 +22296,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -22329,14 +22329,14 @@
 						<id>504</id>
 						<name>and_ln785_164</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22345,7 +22345,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -22378,14 +22378,14 @@
 						<id>505</id>
 						<name>xor_ln340_122</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22394,7 +22394,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -22427,14 +22427,14 @@
 						<id>506</id>
 						<name>select_ln785_31</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22443,7 +22443,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -22477,14 +22477,14 @@
 						<id>507</id>
 						<name>select_ln340_381</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22493,7 +22493,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -22527,14 +22527,14 @@
 						<id>508</id>
 						<name>sext_ln703_107</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22543,7 +22543,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -22575,14 +22575,14 @@
 						<id>509</id>
 						<name>inputs_0_13_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22591,7 +22591,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -22623,14 +22623,14 @@
 						<id>510</id>
 						<name>inputs_1_13_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22639,7 +22639,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -22671,14 +22671,14 @@
 						<id>511</id>
 						<name>inputs_2_13_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22687,7 +22687,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -22719,14 +22719,14 @@
 						<id>512</id>
 						<name>inputs_3_13_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22735,7 +22735,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -22767,14 +22767,14 @@
 						<id>513</id>
 						<name>tmp_333</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22783,7 +22783,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -22820,14 +22820,14 @@
 						<id>514</id>
 						<name>shl_ln728_104</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22836,7 +22836,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -22870,14 +22870,14 @@
 						<id>515</id>
 						<name>sext_ln728_102</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22886,7 +22886,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -22918,14 +22918,14 @@
 						<id>516</id>
 						<name>sext_ln1192_51</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22934,7 +22934,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -22966,14 +22966,14 @@
 						<id>517</id>
 						<name>add_ln1192_147</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -22982,7 +22982,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -23015,14 +23015,14 @@
 						<id>518</id>
 						<name>tmp_1224</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23031,7 +23031,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -23065,14 +23065,14 @@
 						<id>519</id>
 						<name>tmp_13_V</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23081,7 +23081,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -23114,14 +23114,14 @@
 						<id>520</id>
 						<name>tmp_1225</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23130,7 +23130,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -23164,14 +23164,14 @@
 						<id>521</id>
 						<name>xor_ln785_285</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23180,7 +23180,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -23213,14 +23213,14 @@
 						<id>522</id>
 						<name>and_ln785_165</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23229,7 +23229,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -23262,14 +23262,14 @@
 						<id>523</id>
 						<name>xor_ln340_123</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23278,7 +23278,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -23311,14 +23311,14 @@
 						<id>524</id>
 						<name>select_ln785_32</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23327,7 +23327,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -23361,14 +23361,14 @@
 						<id>525</id>
 						<name>select_ln340_382</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23377,7 +23377,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -23411,14 +23411,14 @@
 						<id>526</id>
 						<name>sext_ln703_108</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23427,7 +23427,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -23459,14 +23459,14 @@
 						<id>527</id>
 						<name>inputs_0_14_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23475,7 +23475,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -23507,14 +23507,14 @@
 						<id>528</id>
 						<name>inputs_1_14_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23523,7 +23523,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -23555,14 +23555,14 @@
 						<id>529</id>
 						<name>inputs_2_14_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23571,7 +23571,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -23603,14 +23603,14 @@
 						<id>530</id>
 						<name>inputs_3_14_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23619,7 +23619,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -23651,14 +23651,14 @@
 						<id>531</id>
 						<name>tmp_334</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23667,7 +23667,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -23704,14 +23704,14 @@
 						<id>532</id>
 						<name>shl_ln728_105</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23720,7 +23720,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -23754,14 +23754,14 @@
 						<id>533</id>
 						<name>sext_ln728_103</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23770,7 +23770,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -23802,14 +23802,14 @@
 						<id>534</id>
 						<name>sext_ln1192_52</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23818,7 +23818,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -23850,14 +23850,14 @@
 						<id>535</id>
 						<name>add_ln1192_148</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23866,7 +23866,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -23899,14 +23899,14 @@
 						<id>536</id>
 						<name>tmp_1226</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23915,7 +23915,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -23949,14 +23949,14 @@
 						<id>537</id>
 						<name>tmp_14_V</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -23965,7 +23965,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -23998,14 +23998,14 @@
 						<id>538</id>
 						<name>tmp_1227</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24014,7 +24014,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -24048,14 +24048,14 @@
 						<id>539</id>
 						<name>xor_ln785_286</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24064,7 +24064,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -24097,14 +24097,14 @@
 						<id>540</id>
 						<name>and_ln785_166</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24113,7 +24113,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -24146,14 +24146,14 @@
 						<id>541</id>
 						<name>xor_ln340_124</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24162,7 +24162,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -24195,14 +24195,14 @@
 						<id>542</id>
 						<name>select_ln785_33</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24211,7 +24211,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -24245,14 +24245,14 @@
 						<id>543</id>
 						<name>select_ln340_383</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24261,7 +24261,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -24295,14 +24295,14 @@
 						<id>544</id>
 						<name>sext_ln703_109</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24311,7 +24311,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -24343,14 +24343,14 @@
 						<id>545</id>
 						<name>inputs_0_15_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24359,7 +24359,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -24391,14 +24391,14 @@
 						<id>546</id>
 						<name>inputs_1_15_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24407,7 +24407,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -24439,14 +24439,14 @@
 						<id>547</id>
 						<name>inputs_2_15_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24455,7 +24455,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -24487,14 +24487,14 @@
 						<id>548</id>
 						<name>inputs_3_15_V_load</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24503,7 +24503,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -24535,14 +24535,14 @@
 						<id>549</id>
 						<name>tmp_335</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24551,7 +24551,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -24588,14 +24588,14 @@
 						<id>550</id>
 						<name>shl_ln728_106</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24604,7 +24604,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -24638,14 +24638,14 @@
 						<id>551</id>
 						<name>sext_ln728_104</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24654,7 +24654,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -24686,14 +24686,14 @@
 						<id>552</id>
 						<name>sext_ln1192_53</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24702,7 +24702,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -24734,14 +24734,14 @@
 						<id>553</id>
 						<name>add_ln1192_149</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24750,7 +24750,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -24783,14 +24783,14 @@
 						<id>554</id>
 						<name>tmp_1228</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24799,7 +24799,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -24833,14 +24833,14 @@
 						<id>555</id>
 						<name>tmp_15_V</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24849,7 +24849,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -24882,14 +24882,14 @@
 						<id>556</id>
 						<name>tmp_1229</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24898,7 +24898,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -24932,14 +24932,14 @@
 						<id>557</id>
 						<name>xor_ln785_287</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24948,7 +24948,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -24981,14 +24981,14 @@
 						<id>558</id>
 						<name>and_ln785_167</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -24997,7 +24997,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -25030,14 +25030,14 @@
 						<id>559</id>
 						<name>xor_ln340_125</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25046,7 +25046,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -25079,14 +25079,14 @@
 						<id>560</id>
 						<name>select_ln785_34</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25095,7 +25095,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -25129,14 +25129,14 @@
 						<id>561</id>
 						<name>select_ln340_384</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>241</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>238</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25145,7 +25145,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>241</second>
+										<second>238</second>
 									</item>
 								</second>
 							</item>
@@ -25179,14 +25179,14 @@
 						<id>563</id>
 						<name>j</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>238</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>235</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25195,7 +25195,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>238</second>
+										<second>235</second>
 									</item>
 								</second>
 							</item>
@@ -25226,16 +25226,16 @@
 					<Obj>
 						<type>0</type>
 						<id>564</id>
-						<name>_ln238</name>
+						<name>_ln235</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>238</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>235</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25244,7 +25244,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>238</second>
+										<second>235</second>
 									</item>
 								</second>
 							</item>
@@ -25276,14 +25276,14 @@
 						<id>566</id>
 						<name>shl_ln</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>247</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>244</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25292,7 +25292,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>247</second>
+										<second>244</second>
 									</item>
 								</second>
 							</item>
@@ -25324,16 +25324,16 @@
 					<Obj>
 						<type>0</type>
 						<id>567</id>
-						<name>_ln245</name>
+						<name>_ln242</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>245</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>242</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25342,7 +25342,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>245</second>
+										<second>242</second>
 									</item>
 								</second>
 							</item>
@@ -25409,16 +25409,16 @@
 					<Obj>
 						<type>0</type>
 						<id>570</id>
-						<name>icmp_ln245</name>
+						<name>icmp_ln242</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>245</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>242</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25427,7 +25427,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>245</second>
+										<second>242</second>
 									</item>
 								</second>
 							</item>
@@ -25460,14 +25460,14 @@
 						<id>572</id>
 						<name>k_1</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>245</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>242</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25476,7 +25476,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>245</second>
+										<second>242</second>
 									</item>
 								</second>
 							</item>
@@ -25507,16 +25507,16 @@
 					<Obj>
 						<type>0</type>
 						<id>573</id>
-						<name>_ln245</name>
+						<name>_ln242</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>245</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>242</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25525,7 +25525,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>245</second>
+										<second>242</second>
 									</item>
 								</second>
 							</item>
@@ -25557,16 +25557,16 @@
 					<Obj>
 						<type>0</type>
 						<id>575</id>
-						<name>zext_ln245</name>
+						<name>zext_ln242</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>245</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>242</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25575,7 +25575,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>245</second>
+										<second>242</second>
 									</item>
 								</second>
 							</item>
@@ -25605,16 +25605,16 @@
 					<Obj>
 						<type>0</type>
 						<id>578</id>
-						<name>add_ln247</name>
+						<name>add_ln244</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>247</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>244</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25623,7 +25623,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>247</second>
+										<second>244</second>
 									</item>
 								</second>
 							</item>
@@ -25654,16 +25654,16 @@
 					<Obj>
 						<type>0</type>
 						<id>579</id>
-						<name>zext_ln247</name>
+						<name>zext_ln244</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>247</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>244</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25672,7 +25672,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>247</second>
+										<second>244</second>
 									</item>
 								</second>
 							</item>
@@ -25704,14 +25704,14 @@
 						<id>580</id>
 						<name>trunc_ln1265_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>247</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>244</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25720,7 +25720,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>247</second>
+										<second>244</second>
 									</item>
 								</second>
 							</item>
@@ -25752,14 +25752,14 @@
 						<id>581</id>
 						<name>p_Val2_s</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>247</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>244</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25768,7 +25768,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>247</second>
+										<second>244</second>
 									</item>
 								</second>
 							</item>
@@ -25817,14 +25817,14 @@
 						<id>582</id>
 						<name>t_V</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>247</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>244</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25833,7 +25833,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>247</second>
+										<second>244</second>
 									</item>
 								</second>
 							</item>
@@ -25867,14 +25867,14 @@
 						<id>583</id>
 						<name>tmp_1230</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>247</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>244</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25883,7 +25883,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>247</second>
+										<second>244</second>
 									</item>
 								</second>
 							</item>
@@ -25917,14 +25917,14 @@
 						<id>584</id>
 						<name>sub_ln1148</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>247</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>244</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25933,7 +25933,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>247</second>
+										<second>244</second>
 									</item>
 								</second>
 							</item>
@@ -25966,14 +25966,14 @@
 						<id>585</id>
 						<name>tmp_451</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>247</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>244</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -25982,7 +25982,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>247</second>
+										<second>244</second>
 									</item>
 								</second>
 							</item>
@@ -26017,14 +26017,14 @@
 						<id>586</id>
 						<name>zext_ln1148</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>247</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>244</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26033,7 +26033,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>247</second>
+										<second>244</second>
 									</item>
 								</second>
 							</item>
@@ -26065,14 +26065,14 @@
 						<id>587</id>
 						<name>sub_ln1148_32</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>247</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>244</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26081,7 +26081,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>247</second>
+										<second>244</second>
 									</item>
 								</second>
 							</item>
@@ -26114,14 +26114,14 @@
 						<id>588</id>
 						<name>tmp_452</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>247</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>244</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26130,7 +26130,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>247</second>
+										<second>244</second>
 									</item>
 								</second>
 							</item>
@@ -26165,14 +26165,14 @@
 						<id>589</id>
 						<name>zext_ln1148_32</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>247</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>244</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26181,7 +26181,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>247</second>
+										<second>244</second>
 									</item>
 								</second>
 							</item>
@@ -26213,14 +26213,14 @@
 						<id>590</id>
 						<name>select_ln1148</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>247</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>244</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26229,7 +26229,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>247</second>
+										<second>244</second>
 									</item>
 								</second>
 							</item>
@@ -26263,14 +26263,14 @@
 						<id>591</id>
 						<name>p_Result_s</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>247</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>244</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26279,7 +26279,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>247</second>
+										<second>244</second>
 									</item>
 								</second>
 							</item>
@@ -26312,14 +26312,14 @@
 						<id>592</id>
 						<name>p_Val2_9</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>247</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>244</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26328,7 +26328,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>247</second>
+										<second>244</second>
 									</item>
 								</second>
 							</item>
@@ -26360,14 +26360,14 @@
 						<id>593</id>
 						<name>p_Result_4</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>247</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>244</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26376,7 +26376,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>247</second>
+										<second>244</second>
 									</item>
 								</second>
 							</item>
@@ -26410,14 +26410,14 @@
 						<id>594</id>
 						<name>tmp_1232</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>247</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>244</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26426,7 +26426,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>247</second>
+										<second>244</second>
 									</item>
 								</second>
 							</item>
@@ -26460,14 +26460,14 @@
 						<id>595</id>
 						<name>or_ln785</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>247</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>244</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26476,7 +26476,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>247</second>
+										<second>244</second>
 									</item>
 								</second>
 							</item>
@@ -26509,14 +26509,14 @@
 						<id>596</id>
 						<name>xor_ln785</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>247</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>244</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26525,7 +26525,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>247</second>
+										<second>244</second>
 									</item>
 								</second>
 							</item>
@@ -26558,14 +26558,14 @@
 						<id>597</id>
 						<name>overflow</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>247</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>244</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26574,7 +26574,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>247</second>
+										<second>244</second>
 									</item>
 								</second>
 							</item>
@@ -26607,14 +26607,14 @@
 						<id>598</id>
 						<name>and_ln786</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>247</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>244</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26623,7 +26623,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>247</second>
+										<second>244</second>
 									</item>
 								</second>
 							</item>
@@ -26656,14 +26656,14 @@
 						<id>599</id>
 						<name>xor_ln786</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>247</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>244</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26672,7 +26672,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>247</second>
+										<second>244</second>
 									</item>
 								</second>
 							</item>
@@ -26705,14 +26705,14 @@
 						<id>600</id>
 						<name>underflow</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>247</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>244</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26721,7 +26721,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>247</second>
+										<second>244</second>
 									</item>
 								</second>
 							</item>
@@ -26754,14 +26754,14 @@
 						<id>601</id>
 						<name>or_ln340</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>247</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>244</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26770,7 +26770,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>247</second>
+										<second>244</second>
 									</item>
 								</second>
 							</item>
@@ -26803,14 +26803,14 @@
 						<id>602</id>
 						<name>or_ln340_442</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>247</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>244</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26819,7 +26819,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>247</second>
+										<second>244</second>
 									</item>
 								</second>
 							</item>
@@ -26852,14 +26852,14 @@
 						<id>603</id>
 						<name>select_ln340</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>247</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>244</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26868,7 +26868,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>247</second>
+										<second>244</second>
 									</item>
 								</second>
 							</item>
@@ -26902,14 +26902,14 @@
 						<id>604</id>
 						<name>select_ln388</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>247</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>244</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26918,7 +26918,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>247</second>
+										<second>244</second>
 									</item>
 								</second>
 							</item>
@@ -26952,14 +26952,14 @@
 						<id>605</id>
 						<name>select_ln340_368</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>247</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>244</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -26968,7 +26968,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>247</second>
+										<second>244</second>
 									</item>
 								</second>
 							</item>
@@ -27002,14 +27002,14 @@
 						<id>606</id>
 						<name>outputs_V_addr</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>247</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>244</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -27018,7 +27018,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>247</second>
+										<second>244</second>
 									</item>
 								</second>
 							</item>
@@ -27050,16 +27050,16 @@
 					<Obj>
 						<type>0</type>
 						<id>607</id>
-						<name>outputs_V_addr_write_ln247</name>
+						<name>outputs_V_addr_write_ln244</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>247</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>244</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -27068,7 +27068,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>247</second>
+										<second>244</second>
 									</item>
 								</second>
 							</item>
@@ -27099,16 +27099,16 @@
 					<Obj>
 						<type>0</type>
 						<id>609</id>
-						<name>_ln245</name>
+						<name>_ln242</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>245</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>242</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -27117,7 +27117,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>245</second>
+										<second>242</second>
 									</item>
 								</second>
 							</item>
@@ -27147,16 +27147,16 @@
 					<Obj>
 						<type>0</type>
 						<id>612</id>
-						<name>_ln232</name>
+						<name>_ln229</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>232</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>229</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -27165,7 +27165,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>232</second>
+										<second>229</second>
 									</item>
 								</second>
 							</item>
@@ -27195,16 +27195,16 @@
 					<Obj>
 						<type>0</type>
 						<id>614</id>
-						<name>_ln250</name>
+						<name>_ln247</name>
 						<fileName>./layer.h</fileName>
-						<fileDirectory>C:\FracBNN\xcel-cifar10\source</fileDirectory>
-						<lineNumber>250</lineNumber>
+						<fileDirectory>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</fileDirectory>
+						<lineNumber>247</lineNumber>
 						<contextFuncName>avgpool_8x8</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\FracBNN\xcel-cifar10\source</first>
+								<first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -27213,7 +27213,7 @@
 											<first>./layer.h</first>
 											<second>avgpool_8x8</second>
 										</first>
-										<second>250</second>
+										<second>247</second>
 									</item>
 								</second>
 							</item>
@@ -28322,7 +28322,7 @@
 				<Obj>
 					<type>3</type>
 					<id>120</id>
-					<name>hls_label_7_begin</name>
+					<name>hls_label_9_begin</name>
 					<fileName></fileName>
 					<fileDirectory></fileDirectory>
 					<lineNumber>0</lineNumber>
@@ -28691,7 +28691,7 @@
 				<Obj>
 					<type>3</type>
 					<id>169</id>
-					<name>hls_label_7_end</name>
+					<name>hls_label_9_end</name>
 					<fileName></fileName>
 					<fileDirectory></fileDirectory>
 					<lineNumber>0</lineNumber>
@@ -28798,7 +28798,7 @@
 				<Obj>
 					<type>3</type>
 					<id>565</id>
-					<name>hls_label_8</name>
+					<name>hls_label_10</name>
 					<fileName></fileName>
 					<fileDirectory></fileDirectory>
 					<lineNumber>0</lineNumber>
@@ -29235,7 +29235,7 @@
 				<Obj>
 					<type>3</type>
 					<id>610</id>
-					<name>hls_label_9</name>
+					<name>hls_label_11</name>
 					<fileName></fileName>
 					<fileDirectory></fileDirectory>
 					<lineNumber>0</lineNumber>

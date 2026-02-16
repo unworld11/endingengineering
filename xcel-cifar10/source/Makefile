@@ -11,7 +11,7 @@ csim: tb.cc
 	@echo "Compiling & simulating cnn on amdpool ..."
 	vivado_hls -f csim.tcl
 
-hls:
+syn:
 	@echo "Run Vivado csim and HLS"
 	vivado_hls -f syn.tcl
 

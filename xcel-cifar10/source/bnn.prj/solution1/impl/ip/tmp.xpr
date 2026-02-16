@@ -3,10 +3,10 @@
 <!--                                                         -->
 <!-- Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.   -->
 
-<Project Version="7" Minor="44" Path="C:/FracBNN/xcel-cifar10/source/bnn.prj/solution1/impl/ip/tmp.xpr">
+<Project Version="7" Minor="44" Path="C:/Users/gagan/Downloads/FracBNN_with_modes/xcel-cifar10/source/bnn.prj/solution1/impl/ip/tmp.xpr">
   <DefaultLaunch Dir="$PRUNDIR"/>
   <Configuration>
-    <Option Name="Id" Val="dc88e35b3ac04a7099a90edb1a377151"/>
+    <Option Name="Id" Val="6a50be816ff8448dae86491565dc0e08"/>
     <Option Name="Part" Val="xczu3eg-sbva484-1-e"/>
     <Option Name="CompiledLibDir" Val="$PCACHEDIR/compile_simlib"/>
     <Option Name="CompiledLibDirXSim" Val=""/>

@@ -14360,14 +14360,14 @@ eval "cg_default_interface_gen_dc { \
 if {${::AESL::PGuard_autoexp_gen}} {
 eval "cg_default_interface_gen_dc { \
     id 283 \
-    name switch_on \
+    name switch_on_0_read \
     type other \
     dir I \
     reset_level 1 \
     sync_rst true \
-    corename dc_switch_on \
+    corename dc_switch_on_0_read \
     op interface \
-    ports { switch_on { I 1 bit } } \
+    ports { switch_on_0_read { I 1 bit } } \
 } "
 }
 
@@ -14375,6 +14375,231 @@ eval "cg_default_interface_gen_dc { \
 if {${::AESL::PGuard_autoexp_gen}} {
 eval "cg_default_interface_gen_dc { \
     id 284 \
+    name switch_on_1_read \
+    type other \
+    dir I \
+    reset_level 1 \
+    sync_rst true \
+    corename dc_switch_on_1_read \
+    op interface \
+    ports { switch_on_1_read { I 1 bit } } \
+} "
+}
+
+# Direct connection:
+if {${::AESL::PGuard_autoexp_gen}} {
+eval "cg_default_interface_gen_dc { \
+    id 285 \
+    name switch_on_2_read \
+    type other \
+    dir I \
+    reset_level 1 \
+    sync_rst true \
+    corename dc_switch_on_2_read \
+    op interface \
+    ports { switch_on_2_read { I 1 bit } } \
+} "
+}
+
+# Direct connection:
+if {${::AESL::PGuard_autoexp_gen}} {
+eval "cg_default_interface_gen_dc { \
+    id 286 \
+    name switch_on_3_read \
+    type other \
+    dir I \
+    reset_level 1 \
+    sync_rst true \
+    corename dc_switch_on_3_read \
+    op interface \
+    ports { switch_on_3_read { I 1 bit } } \
+} "
+}
+
+# Direct connection:
+if {${::AESL::PGuard_autoexp_gen}} {
+eval "cg_default_interface_gen_dc { \
+    id 287 \
+    name switch_on_4_read \
+    type other \
+    dir I \
+    reset_level 1 \
+    sync_rst true \
+    corename dc_switch_on_4_read \
+    op interface \
+    ports { switch_on_4_read { I 1 bit } } \
+} "
+}
+
+# Direct connection:
+if {${::AESL::PGuard_autoexp_gen}} {
+eval "cg_default_interface_gen_dc { \
+    id 288 \
+    name switch_on_5_read \
+    type other \
+    dir I \
+    reset_level 1 \
+    sync_rst true \
+    corename dc_switch_on_5_read \
+    op interface \
+    ports { switch_on_5_read { I 1 bit } } \
+} "
+}
+
+# Direct connection:
+if {${::AESL::PGuard_autoexp_gen}} {
+eval "cg_default_interface_gen_dc { \
+    id 289 \
+    name switch_on_6_read \
+    type other \
+    dir I \
+    reset_level 1 \
+    sync_rst true \
+    corename dc_switch_on_6_read \
+    op interface \
+    ports { switch_on_6_read { I 1 bit } } \
+} "
+}
+
+# Direct connection:
+if {${::AESL::PGuard_autoexp_gen}} {
+eval "cg_default_interface_gen_dc { \
+    id 290 \
+    name switch_on_7_read \
+    type other \
+    dir I \
+    reset_level 1 \
+    sync_rst true \
+    corename dc_switch_on_7_read \
+    op interface \
+    ports { switch_on_7_read { I 1 bit } } \
+} "
+}
+
+# Direct connection:
+if {${::AESL::PGuard_autoexp_gen}} {
+eval "cg_default_interface_gen_dc { \
+    id 291 \
+    name switch_on_8_read \
+    type other \
+    dir I \
+    reset_level 1 \
+    sync_rst true \
+    corename dc_switch_on_8_read \
+    op interface \
+    ports { switch_on_8_read { I 1 bit } } \
+} "
+}
+
+# Direct connection:
+if {${::AESL::PGuard_autoexp_gen}} {
+eval "cg_default_interface_gen_dc { \
+    id 292 \
+    name switch_on_9_read \
+    type other \
+    dir I \
+    reset_level 1 \
+    sync_rst true \
+    corename dc_switch_on_9_read \
+    op interface \
+    ports { switch_on_9_read { I 1 bit } } \
+} "
+}
+
+# Direct connection:
+if {${::AESL::PGuard_autoexp_gen}} {
+eval "cg_default_interface_gen_dc { \
+    id 293 \
+    name switch_on_10_read \
+    type other \
+    dir I \
+    reset_level 1 \
+    sync_rst true \
+    corename dc_switch_on_10_read \
+    op interface \
+    ports { switch_on_10_read { I 1 bit } } \
+} "
+}
+
+# Direct connection:
+if {${::AESL::PGuard_autoexp_gen}} {
+eval "cg_default_interface_gen_dc { \
+    id 294 \
+    name switch_on_11_read \
+    type other \
+    dir I \
+    reset_level 1 \
+    sync_rst true \
+    corename dc_switch_on_11_read \
+    op interface \
+    ports { switch_on_11_read { I 1 bit } } \
+} "
+}
+
+# Direct connection:
+if {${::AESL::PGuard_autoexp_gen}} {
+eval "cg_default_interface_gen_dc { \
+    id 295 \
+    name switch_on_12_read \
+    type other \
+    dir I \
+    reset_level 1 \
+    sync_rst true \
+    corename dc_switch_on_12_read \
+    op interface \
+    ports { switch_on_12_read { I 1 bit } } \
+} "
+}
+
+# Direct connection:
+if {${::AESL::PGuard_autoexp_gen}} {
+eval "cg_default_interface_gen_dc { \
+    id 296 \
+    name switch_on_13_read \
+    type other \
+    dir I \
+    reset_level 1 \
+    sync_rst true \
+    corename dc_switch_on_13_read \
+    op interface \
+    ports { switch_on_13_read { I 1 bit } } \
+} "
+}
+
+# Direct connection:
+if {${::AESL::PGuard_autoexp_gen}} {
+eval "cg_default_interface_gen_dc { \
+    id 297 \
+    name switch_on_14_read \
+    type other \
+    dir I \
+    reset_level 1 \
+    sync_rst true \
+    corename dc_switch_on_14_read \
+    op interface \
+    ports { switch_on_14_read { I 1 bit } } \
+} "
+}
+
+# Direct connection:
+if {${::AESL::PGuard_autoexp_gen}} {
+eval "cg_default_interface_gen_dc { \
+    id 298 \
+    name switch_on_15_read \
+    type other \
+    dir I \
+    reset_level 1 \
+    sync_rst true \
+    corename dc_switch_on_15_read \
+    op interface \
+    ports { switch_on_15_read { I 1 bit } } \
+} "
+}
+
+# Direct connection:
+if {${::AESL::PGuard_autoexp_gen}} {
+eval "cg_default_interface_gen_dc { \
+    id 299 \
     name c_in \
     type other \
     dir I \
@@ -14389,7 +14614,7 @@ eval "cg_default_interface_gen_dc { \
 # Direct connection:
 if {${::AESL::PGuard_autoexp_gen}} {
 eval "cg_default_interface_gen_dc { \
-    id 285 \
+    id 300 \
     name in_channels \
     type other \
     dir I \
@@ -14404,7 +14629,7 @@ eval "cg_default_interface_gen_dc { \
 # Direct connection:
 if {${::AESL::PGuard_autoexp_gen}} {
 eval "cg_default_interface_gen_dc { \
-    id 286 \
+    id 301 \
     name H_fmap_out \
     type other \
     dir I \

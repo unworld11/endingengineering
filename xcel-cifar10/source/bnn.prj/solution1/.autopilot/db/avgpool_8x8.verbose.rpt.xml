@@ -1,7 +1,7 @@
 <profile>
 
 <section name = "Vivado HLS Report for 'avgpool_8x8'" level="0">
-<item name = "Date">Sat Jan 24 16:37:05 2026
+<item name = "Date">Thu Feb  5 03:33:41 2026
 </item>
 <item name = "Version">2019.2 (Build 2704478 on Wed Nov 06 22:10:23 MST 2019)</item>
 <item name = "Project">bnn.prj</item>
@@ -65,23 +65,23 @@
 <section name = "" level="1">
 <item name = "Instance"><table name="" hasTotal="1">
 <keys size="7">Instance, Module, BRAM_18K, DSP48E, FF, LUT, URAM</keys>
-<column name="FracNet_T_mux_164cXB_U1278">FracNet_T_mux_164cXB, 0, 0, 0, 55, 0</column>
-<column name="FracNet_T_mux_42_cyx_U1262">FracNet_T_mux_42_cyx, 0, 0, 0, 55, 0</column>
-<column name="FracNet_T_mux_42_cyx_U1263">FracNet_T_mux_42_cyx, 0, 0, 0, 55, 0</column>
-<column name="FracNet_T_mux_42_cyx_U1264">FracNet_T_mux_42_cyx, 0, 0, 0, 55, 0</column>
-<column name="FracNet_T_mux_42_cyx_U1265">FracNet_T_mux_42_cyx, 0, 0, 0, 55, 0</column>
-<column name="FracNet_T_mux_42_cyx_U1266">FracNet_T_mux_42_cyx, 0, 0, 0, 55, 0</column>
-<column name="FracNet_T_mux_42_cyx_U1267">FracNet_T_mux_42_cyx, 0, 0, 0, 55, 0</column>
-<column name="FracNet_T_mux_42_cyx_U1268">FracNet_T_mux_42_cyx, 0, 0, 0, 55, 0</column>
-<column name="FracNet_T_mux_42_cyx_U1269">FracNet_T_mux_42_cyx, 0, 0, 0, 55, 0</column>
-<column name="FracNet_T_mux_42_cyx_U1270">FracNet_T_mux_42_cyx, 0, 0, 0, 55, 0</column>
-<column name="FracNet_T_mux_42_cyx_U1271">FracNet_T_mux_42_cyx, 0, 0, 0, 55, 0</column>
-<column name="FracNet_T_mux_42_cyx_U1272">FracNet_T_mux_42_cyx, 0, 0, 0, 55, 0</column>
-<column name="FracNet_T_mux_42_cyx_U1273">FracNet_T_mux_42_cyx, 0, 0, 0, 55, 0</column>
-<column name="FracNet_T_mux_42_cyx_U1274">FracNet_T_mux_42_cyx, 0, 0, 0, 55, 0</column>
-<column name="FracNet_T_mux_42_cyx_U1275">FracNet_T_mux_42_cyx, 0, 0, 0, 55, 0</column>
-<column name="FracNet_T_mux_42_cyx_U1276">FracNet_T_mux_42_cyx, 0, 0, 0, 55, 0</column>
+<column name="FracNet_T_mux_164cXB_U1293">FracNet_T_mux_164cXB, 0, 0, 0, 55, 0</column>
 <column name="FracNet_T_mux_42_cyx_U1277">FracNet_T_mux_42_cyx, 0, 0, 0, 55, 0</column>
+<column name="FracNet_T_mux_42_cyx_U1278">FracNet_T_mux_42_cyx, 0, 0, 0, 55, 0</column>
+<column name="FracNet_T_mux_42_cyx_U1279">FracNet_T_mux_42_cyx, 0, 0, 0, 55, 0</column>
+<column name="FracNet_T_mux_42_cyx_U1280">FracNet_T_mux_42_cyx, 0, 0, 0, 55, 0</column>
+<column name="FracNet_T_mux_42_cyx_U1281">FracNet_T_mux_42_cyx, 0, 0, 0, 55, 0</column>
+<column name="FracNet_T_mux_42_cyx_U1282">FracNet_T_mux_42_cyx, 0, 0, 0, 55, 0</column>
+<column name="FracNet_T_mux_42_cyx_U1283">FracNet_T_mux_42_cyx, 0, 0, 0, 55, 0</column>
+<column name="FracNet_T_mux_42_cyx_U1284">FracNet_T_mux_42_cyx, 0, 0, 0, 55, 0</column>
+<column name="FracNet_T_mux_42_cyx_U1285">FracNet_T_mux_42_cyx, 0, 0, 0, 55, 0</column>
+<column name="FracNet_T_mux_42_cyx_U1286">FracNet_T_mux_42_cyx, 0, 0, 0, 55, 0</column>
+<column name="FracNet_T_mux_42_cyx_U1287">FracNet_T_mux_42_cyx, 0, 0, 0, 55, 0</column>
+<column name="FracNet_T_mux_42_cyx_U1288">FracNet_T_mux_42_cyx, 0, 0, 0, 55, 0</column>
+<column name="FracNet_T_mux_42_cyx_U1289">FracNet_T_mux_42_cyx, 0, 0, 0, 55, 0</column>
+<column name="FracNet_T_mux_42_cyx_U1290">FracNet_T_mux_42_cyx, 0, 0, 0, 55, 0</column>
+<column name="FracNet_T_mux_42_cyx_U1291">FracNet_T_mux_42_cyx, 0, 0, 0, 55, 0</column>
+<column name="FracNet_T_mux_42_cyx_U1292">FracNet_T_mux_42_cyx, 0, 0, 0, 55, 0</column>
 </table>
 </item>
 <item name = "DSP48E"><table name="" hasTotal="0">
@@ -116,8 +116,8 @@
 <column name="add_ln1192_fu_3018_p2">+, 0, 0, 40, 33, 33</column>
 <column name="add_ln1265_1_fu_2717_p2">+, 0, 0, 19, 10, 10</column>
 <column name="add_ln1265_fu_2708_p2">+, 0, 0, 19, 10, 10</column>
-<column name="add_ln237_fu_2654_p2">+, 0, 0, 15, 7, 1</column>
-<column name="add_ln247_fu_4318_p2">+, 0, 0, 15, 6, 6</column>
+<column name="add_ln234_fu_2654_p2">+, 0, 0, 15, 7, 1</column>
+<column name="add_ln244_fu_4318_p2">+, 0, 0, 15, 6, 6</column>
 <column name="i_fu_2660_p2">+, 0, 0, 12, 4, 1</column>
 <column name="j_fu_2688_p2">+, 0, 0, 12, 4, 1</column>
 <column name="k_1_fu_4308_p2">+, 0, 0, 15, 5, 1</column>
@@ -160,19 +160,19 @@
 <column name="and_ln786_fu_4473_p2">and, 0, 0, 2, 1, 1</column>
 <column name="overflow_fu_4467_p2">and, 0, 0, 2, 1, 1</column>
 <column name="underflow_fu_4483_p2">and, 0, 0, 2, 1, 1</column>
-<column name="icmp_ln232_fu_2616_p2">icmp, 0, 0, 9, 3, 4</column>
-<column name="icmp_ln233_fu_2628_p2">icmp, 0, 0, 11, 5, 6</column>
-<column name="icmp_ln237_fu_2648_p2">icmp, 0, 0, 11, 7, 8</column>
-<column name="icmp_ln238_fu_2666_p2">icmp, 0, 0, 11, 4, 5</column>
-<column name="icmp_ln245_fu_4302_p2">icmp, 0, 0, 11, 5, 6</column>
+<column name="icmp_ln229_fu_2616_p2">icmp, 0, 0, 9, 3, 4</column>
+<column name="icmp_ln230_fu_2628_p2">icmp, 0, 0, 11, 5, 6</column>
+<column name="icmp_ln234_fu_2648_p2">icmp, 0, 0, 11, 7, 8</column>
+<column name="icmp_ln235_fu_2666_p2">icmp, 0, 0, 11, 4, 5</column>
+<column name="icmp_ln242_fu_4302_p2">icmp, 0, 0, 11, 5, 6</column>
 <column name="p_Result_s_fu_4429_p2">icmp, 0, 0, 29, 54, 29</column>
 <column name="or_ln340_442_fu_4494_p2">or, 0, 0, 2, 1, 1</column>
 <column name="or_ln340_fu_4488_p2">or, 0, 0, 2, 1, 1</column>
 <column name="or_ln785_fu_4458_p2">or, 0, 0, 2, 1, 1</column>
 <column name="outputs_V_d0">select, 0, 0, 32, 1, 32</column>
 <column name="select_ln1148_fu_4421_p3">select, 0, 0, 27, 1, 27</column>
-<column name="select_ln241_1_fu_2680_p3">select, 0, 0, 4, 1, 4</column>
-<column name="select_ln241_fu_2672_p3">select, 0, 0, 4, 1, 1</column>
+<column name="select_ln238_1_fu_2680_p3">select, 0, 0, 4, 1, 4</column>
+<column name="select_ln238_fu_2672_p3">select, 0, 0, 4, 1, 1</column>
 <column name="select_ln340_369_fu_3072_p3">select, 0, 0, 32, 1, 32</column>
 <column name="select_ln340_370_fu_3153_p3">select, 0, 0, 32, 1, 32</column>
 <column name="select_ln340_371_fu_3234_p3">select, 0, 0, 32, 1, 32</column>
@@ -310,7 +310,7 @@
 </item>
 <item name = "Register"><table name="" hasTotal="1">
 <keys size="5">Name, FF, LUT, Bits, Const Bits</keys>
-<column name="add_ln247_reg_5086">6, 0, 6, 0</column>
+<column name="add_ln244_reg_5086">6, 0, 6, 0</column>
 <column name="ap_CS_fsm">8, 0, 8, 0</column>
 <column name="ap_enable_reg_pp1_iter0">1, 0, 1, 0</column>
 <column name="ap_enable_reg_pp1_iter1">1, 0, 1, 0</column>
@@ -319,8 +319,8 @@
 <column name="ap_enable_reg_pp2_iter0">1, 0, 1, 0</column>
 <column name="ap_enable_reg_pp2_iter1">1, 0, 1, 0</column>
 <column name="i_0_reg_2391">4, 0, 4, 0</column>
-<column name="icmp_ln237_reg_4566">1, 0, 1, 0</column>
-<column name="icmp_ln245_reg_5077">1, 0, 1, 0</column>
+<column name="icmp_ln234_reg_4566">1, 0, 1, 0</column>
+<column name="icmp_ln242_reg_5077">1, 0, 1, 0</column>
 <column name="indvar_flatten_reg_2380">7, 0, 7, 0</column>
 <column name="j_0_reg_2402">4, 0, 4, 0</column>
 <column name="k1_0_reg_2605">5, 0, 5, 0</column>
@@ -328,8 +328,8 @@
 <column name="p_Result_4_reg_5102">1, 0, 1, 0</column>
 <column name="p_Result_s_reg_5096">1, 0, 1, 0</column>
 <column name="select_ln1148_reg_5091">27, 0, 27, 0</column>
-<column name="select_ln241_1_reg_4580">4, 0, 4, 0</column>
-<column name="select_ln241_reg_4575">4, 0, 4, 0</column>
+<column name="select_ln238_1_reg_4580">4, 0, 4, 0</column>
+<column name="select_ln238_reg_4575">4, 0, 4, 0</column>
 <column name="shl_ln_reg_5072">2, 0, 6, 4</column>
 <column name="tile_0_reg_1301">3, 0, 3, 0</column>
 <column name="tile_reg_4529">3, 0, 3, 0</column>
@@ -399,7 +399,7 @@
 <column name="tmp_9_V_110_reg_1379">32, 0, 32, 0</column>
 <column name="tmp_9_V_4_reg_2485">32, 0, 32, 0</column>
 <column name="trunc_ln1265_reg_4545">2, 0, 2, 0</column>
-<column name="icmp_ln237_reg_4566">64, 32, 1, 0</column>
+<column name="icmp_ln234_reg_4566">64, 32, 1, 0</column>
 </table>
 </item>
 </section>

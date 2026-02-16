@@ -1,7 +1,7 @@
 <profile>
 
 <section name = "Vivado HLS Report for 'binary_conv3x3_tile'" level="0">
-<item name = "Date">Sat Jan 24 16:29:26 2026
+<item name = "Date">Thu Feb  5 03:29:15 2026
 </item>
 <item name = "Version">2019.2 (Build 2704478 on Wed Nov 06 22:10:23 MST 2019)</item>
 <item name = "Project">bnn.prj</item>
@@ -31,26 +31,6 @@
 <section name = "" level="1">
 <item name = "Instance"><table name="" hasTotal="0">
 <keys size="9">Instance, Module, min, max, min, max, min, max, Type</keys>
-<column name="grp_compute_engine_64_fu_5304">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
-<column name="grp_compute_engine_64_fu_5310">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
-<column name="grp_compute_engine_64_fu_5316">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
-<column name="grp_compute_engine_64_fu_5322">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
-<column name="grp_compute_engine_64_fu_5328">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
-<column name="grp_compute_engine_64_fu_5334">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
-<column name="grp_compute_engine_64_fu_5340">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
-<column name="grp_compute_engine_64_fu_5346">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
-<column name="grp_compute_engine_64_fu_5352">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
-<column name="grp_compute_engine_64_fu_5358">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
-<column name="grp_compute_engine_64_fu_5364">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
-<column name="grp_compute_engine_64_fu_5370">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
-<column name="grp_compute_engine_64_fu_5376">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
-<column name="grp_compute_engine_64_fu_5382">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
-<column name="grp_compute_engine_64_fu_5388">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
-<column name="grp_compute_engine_64_fu_5394">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
-<column name="grp_compute_engine_64_fu_5400">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
-<column name="grp_compute_engine_64_fu_5406">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
-<column name="grp_compute_engine_64_fu_5412">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
-<column name="grp_compute_engine_64_fu_5418">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
 <column name="grp_compute_engine_64_fu_5424">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
 <column name="grp_compute_engine_64_fu_5430">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
 <column name="grp_compute_engine_64_fu_5436">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
@@ -175,6 +155,26 @@
 <column name="grp_compute_engine_64_fu_6150">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
 <column name="grp_compute_engine_64_fu_6156">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
 <column name="grp_compute_engine_64_fu_6162">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6168">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6174">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6180">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6186">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6192">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6198">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6204">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6210">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6216">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6222">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6228">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6234">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6240">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6246">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6252">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6258">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6264">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6270">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6276">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
+<column name="grp_compute_engine_64_fu_6282">compute_engine_64, 1, 1, 4.346 ns, 4.346 ns, 1, 1, function</column>
 </table>
 </item>
 <item name = "Loop"><table name="" hasTotal="0">

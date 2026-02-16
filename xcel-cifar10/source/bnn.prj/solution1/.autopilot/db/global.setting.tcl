@@ -42,7 +42,7 @@ set SCTraceOption all
 set TargetInfo xczu3eg:-sbva484:-1-e
 set SourceFiles {sc {} c {../../bnn_tiled.cc ../../gate_mask.cc}}
 set SourceFlags {sc {} c {{} {}}}
-set DirectiveFile C:/FracBNN/xcel-cifar10/source/bnn.prj/solution1/solution1.directive
+set DirectiveFile C:/Users/gagan/Downloads/FracBNN_with_modes/xcel-cifar10/source/bnn.prj/solution1/solution1.directive
 set TBFiles {verilog {../../bin/conv1_input.bin ../../bin/labels.bin ../../tb.cc ../../weights_tb.h} bc {../../bin/conv1_input.bin ../../bin/labels.bin ../../tb.cc ../../weights_tb.h} sc {../../bin/conv1_input.bin ../../bin/labels.bin ../../tb.cc ../../weights_tb.h} vhdl {../../bin/conv1_input.bin ../../bin/labels.bin ../../tb.cc ../../weights_tb.h} c {} cas {../../bin/conv1_input.bin ../../bin/labels.bin ../../tb.cc ../../weights_tb.h}}
 set SpecLanguage C
 set TVInFiles {bc {} c {} sc {} cas {} vhdl {} verilog {}}

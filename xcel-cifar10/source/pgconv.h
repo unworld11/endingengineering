@@ -179,18 +179,81 @@ inline void pg_conv3x3_tile(
     // --------------------------------------------------
     for (int i = 0; i < OUT_CHANNEL_PARALLELISM; i++) {
 #pragma HLS UNROLL
+        bool pg_enable = false;
+
         if (use_gate_mask) {
-            bool pg_enable = (gate_mask[gate_idx] > 0.4f);
+            // Task A: Gating Ablation Logic
+            if (INFERENCE_MODE == MODE_BINARY) {
+                pg_enable = false;
+            } else if (INFERENCE_MODE == MODE_FRACTIONAL) {
+                 pg_enable = true;
+            } else { // MODE_ADAPTIVE
+                pg_enable = (gate_mask[gate_idx % 672] > 0.5f);
+            }
+            
+            // Increment gate index only for adaptive/fractional logic flow consistency
+            // In original code: gate_idx++ was called per channel when use_gate_mask is true.
+            // We maintain this behavior to keep the sequence aligned even if we ignore the value in non-Adaptive modes?
+            // User requirement: "Do not change convolution logic". 
+            // However, if we are in BINARY mode, we effectively ignore the mask. 
+            // BUT, if we want to toggle modes without "retraining" or "refactoring", we should probably 
+            // keep the gate_idx increment to keep the "virtual" pointers aligned if we ever switch back dynamically?
+            // Actually, for "All gates = 0" or "All gates = 1", the mask values don't matter.
+            // But let's keep the logging for debug.
+            
 #ifndef __SYNTHESIS__
-            std::cout << "gate[" << gate_idx << "] = " << gate_mask[gate_idx] << " -> " << pg_enable << std::endl;
+            // Task B: Gate Sparsity Instrumentation
+            layer_stats[current_layer_id].total_gates++;
+            if (pg_enable) {
+                layer_stats[current_layer_id].active_gates++;
+            }
+            
+             // Debug print (optional, guarding to reduce noise if needed)
+            // std::cout << "gate[" << gate_idx << "] = " << gate_mask[gate_idx] << " -> " << pg_enable << std::endl;
 #endif
+
             gate_idx++;
             if (pg_enable) enabled_gates_count++;
+            
             switch_on[i] = pg_enable ? 1 : 0;
+            
         } else {
-            switch_on[i] = 1; // Always ON for Conv1
+            switch_on[i] = 1; // Always ON for Conv1 (first layer usually plain binary or fixed full)
         }
     }
+    
+#ifndef __SYNTHESIS__
+    // Task C: BMAC Estimation
+    // Each call to binary_conv3x3_tile computes (H_fmap_out * H_fmap_out) * 9 (3x3) * OUT_CHANNEL_PARALLELISM * in_channels ops?
+    // Actually, let's look at binary_conv3x3_tile. 
+    // It loops row, col (H_fmap_out+1?). The convolution itself is 3x3.
+    // Each active channel_pt in switch_on contributes to ops.
+    // Ops per switch_on[i]: (H_fmap_out * H_fmap_out) * 9 * 1 (binary op is XNOR+popcount, counting as 1 BMAC per bit or per kernel?). 
+    // Standard BMAC usually means 1 Binary Multiply-Accumulate. 
+    // Here we have input (in_channels bits) x weight (in_channels bits). 
+    // Each convolution window op is `in_channels` wide.
+    // So 1 conv window = `in_channels` binary operations (XNORs) + accumulation.
+    // Total ops = pixels * kernel_size * channels.
+    
+    // We will approximate: 
+    // 1 tile call covers 1 tile of outputs.
+    // It processes `in_channels` input channels.
+    // It produces `OUT_CHANNEL_PARALLELISM` output channels.
+    
+    // MSB Phase (always on):
+    unsigned long long ops_per_channel = (unsigned long long)H_fmap_out * H_fmap_out * 3 * 3 * in_channels;
+    
+    // LayerStats accumulation
+    layer_stats[current_layer_id].msb_bmacs += (ops_per_channel * OUT_CHANNEL_PARALLELISM);
+    
+    // LSB Phase (depends on switch_on):
+    // We count how many in switch_on are true.
+    int active_lsb_channels = 0;
+    for(int i=0; i<OUT_CHANNEL_PARALLELISM; i++) {
+        if(switch_on[i]) active_lsb_channels++;
+    }
+    layer_stats[current_layer_id].lsb_bmacs += (ops_per_channel * active_lsb_channels);
+#endif
 
     binary_conv3x3_tile(
         lsb_inputs, weights, lsb_outputs,

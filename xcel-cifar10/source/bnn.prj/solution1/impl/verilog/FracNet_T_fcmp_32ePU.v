@@ -7,7 +7,7 @@
 
 module FracNet_T_fcmp_32ePU
 #(parameter
-    ID         = 1373,
+    ID         = 1388,
     NUM_STAGE  = 2,
     din0_WIDTH = 32,
     din1_WIDTH = 32,

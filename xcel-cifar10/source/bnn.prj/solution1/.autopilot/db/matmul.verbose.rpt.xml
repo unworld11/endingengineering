@@ -1,7 +1,7 @@
 <profile>
 
 <section name = "Vivado HLS Report for 'matmul'" level="0">
-<item name = "Date">Sat Jan 24 16:37:19 2026
+<item name = "Date">Thu Feb  5 03:33:48 2026
 </item>
 <item name = "Version">2019.2 (Build 2704478 on Wed Nov 06 22:10:23 MST 2019)</item>
 <item name = "Project">bnn.prj</item>
@@ -64,22 +64,22 @@
 <section name = "" level="1">
 <item name = "Instance"><table name="" hasTotal="1">
 <keys size="7">Instance, Module, BRAM_18K, DSP48E, FF, LUT, URAM</keys>
-<column name="FracNet_T_mux_104c9D_U1346">FracNet_T_mux_104c9D, 0, 0, 0, 55, 0</column>
-<column name="FracNet_T_mux_164c8D_U1345">FracNet_T_mux_164c8D, 0, 0, 0, 55, 0</column>
+<column name="FracNet_T_mux_104c9D_U1361">FracNet_T_mux_104c9D, 0, 0, 0, 55, 0</column>
+<column name="FracNet_T_mux_164c8D_U1360">FracNet_T_mux_164c8D, 0, 0, 0, 55, 0</column>
 </table>
 </item>
 <item name = "DSP48E"><table name="" hasTotal="0">
 <keys size="3">Instance, Module, Expression</keys>
-<column name="FracNet_T_mul_muldaE_U1347">FracNet_T_mul_muldaE, i0 * i1</column>
-<column name="FracNet_T_mul_muldaE_U1348">FracNet_T_mul_muldaE, i0 * i1</column>
-<column name="FracNet_T_mul_muldaE_U1349">FracNet_T_mul_muldaE, i0 * i1</column>
-<column name="FracNet_T_mul_muldaE_U1351">FracNet_T_mul_muldaE, i0 * i1</column>
-<column name="FracNet_T_mul_muldaE_U1352">FracNet_T_mul_muldaE, i0 * i1</column>
-<column name="FracNet_T_mul_muldaE_U1353">FracNet_T_mul_muldaE, i0 * i1</column>
-<column name="FracNet_T_mul_muldaE_U1354">FracNet_T_mul_muldaE, i0 * i1</column>
-<column name="FracNet_T_mul_muldaE_U1355">FracNet_T_mul_muldaE, i0 * i1</column>
-<column name="FracNet_T_mul_muldaE_U1356">FracNet_T_mul_muldaE, i0 * i1</column>
-<column name="FracNet_T_mul_muldbE_U1350">FracNet_T_mul_muldbE, i0 * i1</column>
+<column name="FracNet_T_mul_muldaE_U1362">FracNet_T_mul_muldaE, i0 * i1</column>
+<column name="FracNet_T_mul_muldaE_U1363">FracNet_T_mul_muldaE, i0 * i1</column>
+<column name="FracNet_T_mul_muldaE_U1364">FracNet_T_mul_muldaE, i0 * i1</column>
+<column name="FracNet_T_mul_muldaE_U1366">FracNet_T_mul_muldaE, i0 * i1</column>
+<column name="FracNet_T_mul_muldaE_U1367">FracNet_T_mul_muldaE, i0 * i1</column>
+<column name="FracNet_T_mul_muldaE_U1368">FracNet_T_mul_muldaE, i0 * i1</column>
+<column name="FracNet_T_mul_muldaE_U1369">FracNet_T_mul_muldaE, i0 * i1</column>
+<column name="FracNet_T_mul_muldaE_U1370">FracNet_T_mul_muldaE, i0 * i1</column>
+<column name="FracNet_T_mul_muldaE_U1371">FracNet_T_mul_muldaE, i0 * i1</column>
+<column name="FracNet_T_mul_muldbE_U1365">FracNet_T_mul_muldbE, i0 * i1</column>
 </table>
 </item>
 <item name = "Memory"><table name="" hasTotal="1">
@@ -211,9 +211,9 @@
 <column name="carry_2_fu_734_p2">and, 0, 0, 2, 1, 1</column>
 <column name="overflow_fu_768_p2">and, 0, 0, 2, 1, 1</column>
 <column name="underflow_fu_790_p2">and, 0, 0, 2, 1, 1</column>
-<column name="icmp_ln266_fu_527_p2">icmp, 0, 0, 9, 4, 4</column>
-<column name="icmp_ln271_fu_659_p2">icmp, 0, 0, 11, 7, 8</column>
-<column name="icmp_ln284_fu_3614_p2">icmp, 0, 0, 9, 4, 4</column>
+<column name="icmp_ln263_fu_527_p2">icmp, 0, 0, 9, 4, 4</column>
+<column name="icmp_ln268_fu_659_p2">icmp, 0, 0, 11, 7, 8</column>
+<column name="icmp_ln281_fu_3614_p2">icmp, 0, 0, 9, 4, 4</column>
 <column name="icmp_ln768_1_fu_1594_p2">icmp, 0, 0, 9, 4, 1</column>
 <column name="icmp_ln768_2_fu_1817_p2">icmp, 0, 0, 9, 4, 1</column>
 <column name="icmp_ln768_3_fu_2044_p2">icmp, 0, 0, 9, 4, 1</column>
@@ -484,7 +484,7 @@
 <column name="cii_0_reg_475">7, 0, 7, 0</column>
 <column name="coo4_0_reg_486">4, 0, 4, 0</column>
 <column name="coo_0_reg_364">4, 0, 4, 0</column>
-<column name="icmp_ln271_reg_3868">1, 0, 1, 0</column>
+<column name="icmp_ln268_reg_3868">1, 0, 1, 0</column>
 <column name="mul_ln1118_1_reg_4045">27, 0, 27, 0</column>
 <column name="mul_ln1118_2_reg_4060">27, 0, 27, 0</column>
 <column name="mul_ln1118_3_reg_4075">26, 0, 26, 0</column>
@@ -529,8 +529,8 @@
 <column name="trunc_ln1192_8_reg_4155">24, 0, 24, 0</column>
 <column name="trunc_ln1192_9_reg_4170">24, 0, 24, 0</column>
 <column name="trunc_ln1192_reg_4035">24, 0, 24, 0</column>
-<column name="zext_ln273_reg_3877">7, 0, 64, 57</column>
-<column name="icmp_ln271_reg_3868">64, 32, 1, 0</column>
+<column name="zext_ln270_reg_3877">7, 0, 64, 57</column>
+<column name="icmp_ln268_reg_3868">64, 32, 1, 0</column>
 </table>
 </item>
 </section>

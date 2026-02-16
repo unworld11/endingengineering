@@ -1,0 +1,42 @@
+INST binary_conv3x3_tile__GB9 PIN 188: INST FracNet_T__GCB3 PIN 401 TYPE 5
+INST binary_conv3x3_tile__GB17 PIN 93: INST FracNet_T__GCB3 PIN 401 TYPE 5
+INST binary_conv3x3_tile__GB10 PIN 182: INST FracNet_T__GCB3 PIN 401 TYPE 5
+INST binary_conv3x3_tile__GB7 PIN 29: INST FracNet_T__GCB3 PIN 401 TYPE 5
+INST binary_conv3x3_tile__GB14 PIN 43: INST FracNet_T__GCB3 PIN 401 TYPE 5
+INST binary_conv3x3_tile__GB4 PIN 42: INST FracNet_T__GCB3 PIN 401 TYPE 5
+INST binary_conv3x3_tile__GB16 PIN 93: INST FracNet_T__GCB3 PIN 401 TYPE 5
+INST binary_conv3x3_tile__GB1 PIN 35: INST FracNet_T__GCB3 PIN 401 TYPE 5
+INST binary_conv3x3_tile__GB13 PIN 36: INST FracNet_T__GCB3 PIN 401 TYPE 5
+INST binary_conv3x3_tile__GB12 PIN 93: INST FracNet_T__GCB3 PIN 401 TYPE 5
+INST bn_relu_shortcut__GB1 PIN 508: GENOME bn_relu_shortcut__GB1 PIN 508
+INST bn_relu_shortcut__GB1 PIN 519: GENOME bn_relu_shortcut__GB1 PIN 519
+INST bn_relu_shortcut__GB1 PIN 530: GENOME bn_relu_shortcut__GB1 PIN 530
+INST bn_relu_shortcut__GB1 PIN 541: GENOME bn_relu_shortcut__GB1 PIN 541
+INST bn_relu_shortcut__GB1 PIN 543: GENOME bn_relu_shortcut__GB1 PIN 543
+INST bn_relu_shortcut__GB1 PIN 583: GENOME bn_relu_shortcut__GB1 PIN 583
+INST bn_relu_shortcut__GB1 PIN 589: GENOME bn_relu_shortcut__GB1 PIN 589
+INST bn_relu_shortcut__GB1 PIN 600: GENOME bn_relu_shortcut__GB1 PIN 600
+INST bn_relu_shortcut__GB1 PIN 611: GENOME bn_relu_shortcut__GB1 PIN 611
+INST bn_relu_shortcut__GB1 PIN 613: GENOME bn_relu_shortcut__GB1 PIN 613
+INST bn_relu_shortcut__GB1 PIN 622: GENOME bn_relu_shortcut__GB1 PIN 622
+INST bn_relu_shortcut__GB1 PIN 624: GENOME bn_relu_shortcut__GB1 PIN 624
+INST bn_relu_shortcut__GB1 PIN 696: GENOME bn_relu_shortcut__GB1 PIN 696
+INST binary_conv3x3_tile__GB9 PIN 262: GENOME binary_conv3x3_tile__GB9 PIN 262
+INST binary_conv3x3_tile__GB9 PIN 266: GENOME binary_conv3x3_tile__GB9 PIN 266
+INST binary_conv3x3_tile__GB9 PIN 267: GENOME binary_conv3x3_tile__GB9 PIN 267
+INST binary_conv3x3_tile__GB9 PIN 268: GENOME binary_conv3x3_tile__GB9 PIN 268
+INST binary_conv3x3_tile__GB9 PIN 269: GENOME binary_conv3x3_tile__GB9 PIN 269
+INST binary_conv3x3_tile__GB9 PIN 270: GENOME binary_conv3x3_tile__GB9 PIN 270
+INST binary_conv3x3_tile__GB17 PIN 231: GENOME binary_conv3x3_tile__GB17 PIN 231
+INST binary_conv3x3_tile__GB17 PIN 232: GENOME binary_conv3x3_tile__GB17 PIN 232
+INST binary_conv3x3_tile__GB17 PIN 242: GENOME binary_conv3x3_tile__GB17 PIN 242
+INST binary_conv3x3_tile__GB17 PIN 243: GENOME binary_conv3x3_tile__GB17 PIN 243
+INST binary_conv3x3_tile__GB17 PIN 64: INST binary_conv3x3_tile__GB18 PIN 1430 TYPE 0 GENOME binary_conv3x3_tile__GB17 PIN 64
+INST binary_conv3x3_tile__GB17 PIN 65: INST binary_conv3x3_tile__GB18 PIN 1431 TYPE 1 GENOME binary_conv3x3_tile__GB17 PIN 65
+INST binary_conv3x3_tile__GB17 PIN 53: INST binary_conv3x3_tile__GB18 PIN 1477 TYPE 0 GENOME binary_conv3x3_tile__GB17 PIN 53
+INST binary_conv3x3_tile__GB17 PIN 54: INST binary_conv3x3_tile__GB18 PIN 1478 TYPE 1 GENOME binary_conv3x3_tile__GB17 PIN 54
+INST binary_conv3x3_tile__GB9 PIN 25: INST binary_conv3x3_tile__GB2 PIN 283 TYPE 0 GENOME binary_conv3x3_tile__GB9 PIN 25
+INST binary_conv3x3_tile__GB9 PIN 29: INST binary_conv3x3_tile__GB2 PIN 287 TYPE 0 GENOME binary_conv3x3_tile__GB9 PIN 29
+INST binary_conv3x3_tile__GB9 PIN 30: INST binary_conv3x3_tile__GB2 PIN 288 TYPE 0 GENOME binary_conv3x3_tile__GB9 PIN 30
+INST binary_conv3x3_tile__GB9 PIN 31: INST binary_conv3x3_tile__GB2 PIN 289 TYPE 0 GENOME binary_conv3x3_tile__GB9 PIN 31
+INST binary_conv3x3_tile__GB9 PIN 32: INST binary_conv3x3_tile__GB2 PIN 290 TYPE 0 GENOME binary_conv3x3_tile__GB9 PIN 32

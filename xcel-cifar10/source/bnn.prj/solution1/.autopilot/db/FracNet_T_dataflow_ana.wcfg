@@ -37,117 +37,117 @@
          <obj_property name="Render_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T//AESL_inst_FracNet_T_activity.dataflowTxWaveData.Cycles</obj_property>
          <obj_property name="Value_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T//AESL_inst_FracNet_T_activity.dataflowTxWaveData.OutStanding</obj_property>
          <obj_property name="Detail_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T//AESL_inst_FracNet_T_activity.dataflowTxTooltipData</obj_property>
-         <wvobject type="group" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_binary_conv3x3_tile_fu_5968/grp_binary_conv3x3_tile_fu_5968_activity">
-            <obj_property name="label">grp_binary_conv3x3_tile_fu_5968_activity</obj_property>
+         <wvobject type="group" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_binary_conv3x3_tile_fu_7618/grp_binary_conv3x3_tile_fu_7618_activity">
+            <obj_property name="label">grp_binary_conv3x3_tile_fu_7618_activity</obj_property>
             <obj_property name="DisplayName">label</obj_property>
             <obj_property name="UseFullPath">true</obj_property>
-            <obj_property name="ElementShortName">grp_binary_conv3x3_tile_fu_5968_activity</obj_property>
-            <obj_property name="ObjectShortName">grp_binary_conv3x3_tile_fu_5968_activity</obj_property>
+            <obj_property name="ElementShortName">grp_binary_conv3x3_tile_fu_7618_activity</obj_property>
+            <obj_property name="ObjectShortName">grp_binary_conv3x3_tile_fu_7618_activity</obj_property>
             <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
             <obj_property name="WaveformStyle">STYLE_ENUM_TRANSACTION</obj_property>
             <obj_property name="EnumTransactionColorTable">0=blank ffff=blank 0bad=#FF0000</obj_property>
             <obj_property name="UseCustomSignalColor">true</obj_property>
             <obj_property name="CustomSignalColor">turquoise</obj_property>
             <obj_property name="EnumTransactionValueTable">65535=blank</obj_property>
-            <obj_property name="Render_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_binary_conv3x3_tile_fu_5968/grp_binary_conv3x3_tile_fu_5968_activity.dataflowTxWaveData.Cycles</obj_property>
-            <obj_property name="Value_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_binary_conv3x3_tile_fu_5968/grp_binary_conv3x3_tile_fu_5968_activity.dataflowTxWaveData.OutStanding</obj_property>
-            <obj_property name="Detail_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_binary_conv3x3_tile_fu_5968/grp_binary_conv3x3_tile_fu_5968_activity.dataflowTxTooltipData</obj_property>
+            <obj_property name="Render_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_binary_conv3x3_tile_fu_7618/grp_binary_conv3x3_tile_fu_7618_activity.dataflowTxWaveData.Cycles</obj_property>
+            <obj_property name="Value_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_binary_conv3x3_tile_fu_7618/grp_binary_conv3x3_tile_fu_7618_activity.dataflowTxWaveData.OutStanding</obj_property>
+            <obj_property name="Detail_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_binary_conv3x3_tile_fu_7618/grp_binary_conv3x3_tile_fu_7618_activity.dataflowTxTooltipData</obj_property>
          </wvobject>
-         <wvobject type="group" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_quant_and_pack_fu_7897/grp_quant_and_pack_fu_7897_activity">
-            <obj_property name="label">grp_quant_and_pack_fu_7897_activity</obj_property>
+         <wvobject type="group" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_quant_and_pack_fu_9637/grp_quant_and_pack_fu_9637_activity">
+            <obj_property name="label">grp_quant_and_pack_fu_9637_activity</obj_property>
             <obj_property name="DisplayName">label</obj_property>
             <obj_property name="UseFullPath">true</obj_property>
-            <obj_property name="ElementShortName">grp_quant_and_pack_fu_7897_activity</obj_property>
-            <obj_property name="ObjectShortName">grp_quant_and_pack_fu_7897_activity</obj_property>
+            <obj_property name="ElementShortName">grp_quant_and_pack_fu_9637_activity</obj_property>
+            <obj_property name="ObjectShortName">grp_quant_and_pack_fu_9637_activity</obj_property>
             <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
             <obj_property name="WaveformStyle">STYLE_ENUM_TRANSACTION</obj_property>
             <obj_property name="EnumTransactionColorTable">0=blank ffff=blank 0bad=#FF0000</obj_property>
             <obj_property name="UseCustomSignalColor">true</obj_property>
             <obj_property name="CustomSignalColor">turquoise</obj_property>
             <obj_property name="EnumTransactionValueTable">65535=blank</obj_property>
-            <obj_property name="Render_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_quant_and_pack_fu_7897/grp_quant_and_pack_fu_7897_activity.dataflowTxWaveData.Cycles</obj_property>
-            <obj_property name="Value_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_quant_and_pack_fu_7897/grp_quant_and_pack_fu_7897_activity.dataflowTxWaveData.OutStanding</obj_property>
-            <obj_property name="Detail_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_quant_and_pack_fu_7897/grp_quant_and_pack_fu_7897_activity.dataflowTxTooltipData</obj_property>
+            <obj_property name="Render_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_quant_and_pack_fu_9637/grp_quant_and_pack_fu_9637_activity.dataflowTxWaveData.Cycles</obj_property>
+            <obj_property name="Value_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_quant_and_pack_fu_9637/grp_quant_and_pack_fu_9637_activity.dataflowTxWaveData.OutStanding</obj_property>
+            <obj_property name="Detail_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_quant_and_pack_fu_9637/grp_quant_and_pack_fu_9637_activity.dataflowTxTooltipData</obj_property>
          </wvobject>
-         <wvobject type="group" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn_relu_shortcut_fu_8106/grp_bn_relu_shortcut_fu_8106_activity">
-            <obj_property name="label">grp_bn_relu_shortcut_fu_8106_activity</obj_property>
+         <wvobject type="group" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn_relu_shortcut_fu_9846/grp_bn_relu_shortcut_fu_9846_activity">
+            <obj_property name="label">grp_bn_relu_shortcut_fu_9846_activity</obj_property>
             <obj_property name="DisplayName">label</obj_property>
             <obj_property name="UseFullPath">true</obj_property>
-            <obj_property name="ElementShortName">grp_bn_relu_shortcut_fu_8106_activity</obj_property>
-            <obj_property name="ObjectShortName">grp_bn_relu_shortcut_fu_8106_activity</obj_property>
+            <obj_property name="ElementShortName">grp_bn_relu_shortcut_fu_9846_activity</obj_property>
+            <obj_property name="ObjectShortName">grp_bn_relu_shortcut_fu_9846_activity</obj_property>
             <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
             <obj_property name="WaveformStyle">STYLE_ENUM_TRANSACTION</obj_property>
             <obj_property name="EnumTransactionColorTable">0=blank ffff=blank 0bad=#FF0000</obj_property>
             <obj_property name="UseCustomSignalColor">true</obj_property>
             <obj_property name="CustomSignalColor">turquoise</obj_property>
             <obj_property name="EnumTransactionValueTable">65535=blank</obj_property>
-            <obj_property name="Render_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn_relu_shortcut_fu_8106/grp_bn_relu_shortcut_fu_8106_activity.dataflowTxWaveData.Cycles</obj_property>
-            <obj_property name="Value_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn_relu_shortcut_fu_8106/grp_bn_relu_shortcut_fu_8106_activity.dataflowTxWaveData.OutStanding</obj_property>
-            <obj_property name="Detail_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn_relu_shortcut_fu_8106/grp_bn_relu_shortcut_fu_8106_activity.dataflowTxTooltipData</obj_property>
+            <obj_property name="Render_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn_relu_shortcut_fu_9846/grp_bn_relu_shortcut_fu_9846_activity.dataflowTxWaveData.Cycles</obj_property>
+            <obj_property name="Value_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn_relu_shortcut_fu_9846/grp_bn_relu_shortcut_fu_9846_activity.dataflowTxWaveData.OutStanding</obj_property>
+            <obj_property name="Detail_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn_relu_shortcut_fu_9846/grp_bn_relu_shortcut_fu_9846_activity.dataflowTxTooltipData</obj_property>
          </wvobject>
-         <wvobject type="group" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_concat_fu_18852/grp_avgpool_concat_fu_18852_activity">
-            <obj_property name="label">grp_avgpool_concat_fu_18852_activity</obj_property>
+         <wvobject type="group" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_concat_fu_20592/grp_avgpool_concat_fu_20592_activity">
+            <obj_property name="label">grp_avgpool_concat_fu_20592_activity</obj_property>
             <obj_property name="DisplayName">label</obj_property>
             <obj_property name="UseFullPath">true</obj_property>
-            <obj_property name="ElementShortName">grp_avgpool_concat_fu_18852_activity</obj_property>
-            <obj_property name="ObjectShortName">grp_avgpool_concat_fu_18852_activity</obj_property>
+            <obj_property name="ElementShortName">grp_avgpool_concat_fu_20592_activity</obj_property>
+            <obj_property name="ObjectShortName">grp_avgpool_concat_fu_20592_activity</obj_property>
             <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
             <obj_property name="WaveformStyle">STYLE_ENUM_TRANSACTION</obj_property>
             <obj_property name="EnumTransactionColorTable">0=blank ffff=blank 0bad=#FF0000</obj_property>
             <obj_property name="UseCustomSignalColor">true</obj_property>
             <obj_property name="CustomSignalColor">turquoise</obj_property>
             <obj_property name="EnumTransactionValueTable">65535=blank</obj_property>
-            <obj_property name="Render_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_concat_fu_18852/grp_avgpool_concat_fu_18852_activity.dataflowTxWaveData.Cycles</obj_property>
-            <obj_property name="Value_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_concat_fu_18852/grp_avgpool_concat_fu_18852_activity.dataflowTxWaveData.OutStanding</obj_property>
-            <obj_property name="Detail_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_concat_fu_18852/grp_avgpool_concat_fu_18852_activity.dataflowTxTooltipData</obj_property>
+            <obj_property name="Render_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_concat_fu_20592/grp_avgpool_concat_fu_20592_activity.dataflowTxWaveData.Cycles</obj_property>
+            <obj_property name="Value_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_concat_fu_20592/grp_avgpool_concat_fu_20592_activity.dataflowTxWaveData.OutStanding</obj_property>
+            <obj_property name="Detail_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_concat_fu_20592/grp_avgpool_concat_fu_20592_activity.dataflowTxTooltipData</obj_property>
          </wvobject>
-         <wvobject type="group" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_8x8_fu_18926/grp_avgpool_8x8_fu_18926_activity">
-            <obj_property name="label">grp_avgpool_8x8_fu_18926_activity</obj_property>
+         <wvobject type="group" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_8x8_fu_20666/grp_avgpool_8x8_fu_20666_activity">
+            <obj_property name="label">grp_avgpool_8x8_fu_20666_activity</obj_property>
             <obj_property name="DisplayName">label</obj_property>
             <obj_property name="UseFullPath">true</obj_property>
-            <obj_property name="ElementShortName">grp_avgpool_8x8_fu_18926_activity</obj_property>
-            <obj_property name="ObjectShortName">grp_avgpool_8x8_fu_18926_activity</obj_property>
+            <obj_property name="ElementShortName">grp_avgpool_8x8_fu_20666_activity</obj_property>
+            <obj_property name="ObjectShortName">grp_avgpool_8x8_fu_20666_activity</obj_property>
             <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
             <obj_property name="WaveformStyle">STYLE_ENUM_TRANSACTION</obj_property>
             <obj_property name="EnumTransactionColorTable">0=blank ffff=blank 0bad=#FF0000</obj_property>
             <obj_property name="UseCustomSignalColor">true</obj_property>
             <obj_property name="CustomSignalColor">turquoise</obj_property>
             <obj_property name="EnumTransactionValueTable">65535=blank</obj_property>
-            <obj_property name="Render_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_8x8_fu_18926/grp_avgpool_8x8_fu_18926_activity.dataflowTxWaveData.Cycles</obj_property>
-            <obj_property name="Value_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_8x8_fu_18926/grp_avgpool_8x8_fu_18926_activity.dataflowTxWaveData.OutStanding</obj_property>
-            <obj_property name="Detail_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_8x8_fu_18926/grp_avgpool_8x8_fu_18926_activity.dataflowTxTooltipData</obj_property>
+            <obj_property name="Render_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_8x8_fu_20666/grp_avgpool_8x8_fu_20666_activity.dataflowTxWaveData.Cycles</obj_property>
+            <obj_property name="Value_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_8x8_fu_20666/grp_avgpool_8x8_fu_20666_activity.dataflowTxWaveData.OutStanding</obj_property>
+            <obj_property name="Detail_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_8x8_fu_20666/grp_avgpool_8x8_fu_20666_activity.dataflowTxTooltipData</obj_property>
          </wvobject>
-         <wvobject type="group" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn1_fu_18996/grp_bn1_fu_18996_activity">
-            <obj_property name="label">grp_bn1_fu_18996_activity</obj_property>
+         <wvobject type="group" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn1_fu_20736/grp_bn1_fu_20736_activity">
+            <obj_property name="label">grp_bn1_fu_20736_activity</obj_property>
             <obj_property name="DisplayName">label</obj_property>
             <obj_property name="UseFullPath">true</obj_property>
-            <obj_property name="ElementShortName">grp_bn1_fu_18996_activity</obj_property>
-            <obj_property name="ObjectShortName">grp_bn1_fu_18996_activity</obj_property>
+            <obj_property name="ElementShortName">grp_bn1_fu_20736_activity</obj_property>
+            <obj_property name="ObjectShortName">grp_bn1_fu_20736_activity</obj_property>
             <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
             <obj_property name="WaveformStyle">STYLE_ENUM_TRANSACTION</obj_property>
             <obj_property name="EnumTransactionColorTable">0=blank ffff=blank 0bad=#FF0000</obj_property>
             <obj_property name="UseCustomSignalColor">true</obj_property>
             <obj_property name="CustomSignalColor">turquoise</obj_property>
             <obj_property name="EnumTransactionValueTable">65535=blank</obj_property>
-            <obj_property name="Render_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn1_fu_18996/grp_bn1_fu_18996_activity.dataflowTxWaveData.Cycles</obj_property>
-            <obj_property name="Value_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn1_fu_18996/grp_bn1_fu_18996_activity.dataflowTxWaveData.OutStanding</obj_property>
-            <obj_property name="Detail_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn1_fu_18996/grp_bn1_fu_18996_activity.dataflowTxTooltipData</obj_property>
+            <obj_property name="Render_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn1_fu_20736/grp_bn1_fu_20736_activity.dataflowTxWaveData.Cycles</obj_property>
+            <obj_property name="Value_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn1_fu_20736/grp_bn1_fu_20736_activity.dataflowTxWaveData.OutStanding</obj_property>
+            <obj_property name="Detail_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn1_fu_20736/grp_bn1_fu_20736_activity.dataflowTxTooltipData</obj_property>
          </wvobject>
-         <wvobject type="group" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_matmul_fu_19032/grp_matmul_fu_19032_activity">
-            <obj_property name="label">grp_matmul_fu_19032_activity</obj_property>
+         <wvobject type="group" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_matmul_fu_20772/grp_matmul_fu_20772_activity">
+            <obj_property name="label">grp_matmul_fu_20772_activity</obj_property>
             <obj_property name="DisplayName">label</obj_property>
             <obj_property name="UseFullPath">true</obj_property>
-            <obj_property name="ElementShortName">grp_matmul_fu_19032_activity</obj_property>
-            <obj_property name="ObjectShortName">grp_matmul_fu_19032_activity</obj_property>
+            <obj_property name="ElementShortName">grp_matmul_fu_20772_activity</obj_property>
+            <obj_property name="ObjectShortName">grp_matmul_fu_20772_activity</obj_property>
             <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
             <obj_property name="WaveformStyle">STYLE_ENUM_TRANSACTION</obj_property>
             <obj_property name="EnumTransactionColorTable">0=blank ffff=blank 0bad=#FF0000</obj_property>
             <obj_property name="UseCustomSignalColor">true</obj_property>
             <obj_property name="CustomSignalColor">turquoise</obj_property>
             <obj_property name="EnumTransactionValueTable">65535=blank</obj_property>
-            <obj_property name="Render_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_matmul_fu_19032/grp_matmul_fu_19032_activity.dataflowTxWaveData.Cycles</obj_property>
-            <obj_property name="Value_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_matmul_fu_19032/grp_matmul_fu_19032_activity.dataflowTxWaveData.OutStanding</obj_property>
-            <obj_property name="Detail_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_matmul_fu_19032/grp_matmul_fu_19032_activity.dataflowTxTooltipData</obj_property>
+            <obj_property name="Render_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_matmul_fu_20772/grp_matmul_fu_20772_activity.dataflowTxWaveData.Cycles</obj_property>
+            <obj_property name="Value_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_matmul_fu_20772/grp_matmul_fu_20772_activity.dataflowTxWaveData.OutStanding</obj_property>
+            <obj_property name="Detail_Data">/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_matmul_fu_20772/grp_matmul_fu_20772_activity.dataflowTxTooltipData</obj_property>
          </wvobject>
       </wvobject>
    </wvobject>
@@ -158,33 +158,33 @@
    <wvobject type="group" fp_name="AESL_inst_FracNet_T_group">
       <obj_property name="label">AESL_inst_FracNet_T</obj_property>
       <obj_property name="DisplayName">label</obj_property>
-      <wvobject type="protoinst" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_binary_conv3x3_tile_fu_5968/grp_binary_conv3x3_tile_fu_5968_activity">
-         <obj_property name="ElementShortName">grp_binary_conv3x3_tile_fu_5968_activity</obj_property>
-         <obj_property name="ObjectShortName">grp_binary_conv3x3_tile_fu_5968_activity</obj_property>
+      <wvobject type="protoinst" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_binary_conv3x3_tile_fu_7618/grp_binary_conv3x3_tile_fu_7618_activity">
+         <obj_property name="ElementShortName">grp_binary_conv3x3_tile_fu_7618_activity</obj_property>
+         <obj_property name="ObjectShortName">grp_binary_conv3x3_tile_fu_7618_activity</obj_property>
       </wvobject>
-      <wvobject type="protoinst" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_quant_and_pack_fu_7897/grp_quant_and_pack_fu_7897_activity">
-         <obj_property name="ElementShortName">grp_quant_and_pack_fu_7897_activity</obj_property>
-         <obj_property name="ObjectShortName">grp_quant_and_pack_fu_7897_activity</obj_property>
+      <wvobject type="protoinst" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_quant_and_pack_fu_9637/grp_quant_and_pack_fu_9637_activity">
+         <obj_property name="ElementShortName">grp_quant_and_pack_fu_9637_activity</obj_property>
+         <obj_property name="ObjectShortName">grp_quant_and_pack_fu_9637_activity</obj_property>
       </wvobject>
-      <wvobject type="protoinst" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn_relu_shortcut_fu_8106/grp_bn_relu_shortcut_fu_8106_activity">
-         <obj_property name="ElementShortName">grp_bn_relu_shortcut_fu_8106_activity</obj_property>
-         <obj_property name="ObjectShortName">grp_bn_relu_shortcut_fu_8106_activity</obj_property>
+      <wvobject type="protoinst" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn_relu_shortcut_fu_9846/grp_bn_relu_shortcut_fu_9846_activity">
+         <obj_property name="ElementShortName">grp_bn_relu_shortcut_fu_9846_activity</obj_property>
+         <obj_property name="ObjectShortName">grp_bn_relu_shortcut_fu_9846_activity</obj_property>
       </wvobject>
-      <wvobject type="protoinst" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_concat_fu_18852/grp_avgpool_concat_fu_18852_activity">
-         <obj_property name="ElementShortName">grp_avgpool_concat_fu_18852_activity</obj_property>
-         <obj_property name="ObjectShortName">grp_avgpool_concat_fu_18852_activity</obj_property>
+      <wvobject type="protoinst" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_concat_fu_20592/grp_avgpool_concat_fu_20592_activity">
+         <obj_property name="ElementShortName">grp_avgpool_concat_fu_20592_activity</obj_property>
+         <obj_property name="ObjectShortName">grp_avgpool_concat_fu_20592_activity</obj_property>
       </wvobject>
-      <wvobject type="protoinst" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_8x8_fu_18926/grp_avgpool_8x8_fu_18926_activity">
-         <obj_property name="ElementShortName">grp_avgpool_8x8_fu_18926_activity</obj_property>
-         <obj_property name="ObjectShortName">grp_avgpool_8x8_fu_18926_activity</obj_property>
+      <wvobject type="protoinst" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_8x8_fu_20666/grp_avgpool_8x8_fu_20666_activity">
+         <obj_property name="ElementShortName">grp_avgpool_8x8_fu_20666_activity</obj_property>
+         <obj_property name="ObjectShortName">grp_avgpool_8x8_fu_20666_activity</obj_property>
       </wvobject>
-      <wvobject type="protoinst" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn1_fu_18996/grp_bn1_fu_18996_activity">
-         <obj_property name="ElementShortName">grp_bn1_fu_18996_activity</obj_property>
-         <obj_property name="ObjectShortName">grp_bn1_fu_18996_activity</obj_property>
+      <wvobject type="protoinst" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn1_fu_20736/grp_bn1_fu_20736_activity">
+         <obj_property name="ElementShortName">grp_bn1_fu_20736_activity</obj_property>
+         <obj_property name="ObjectShortName">grp_bn1_fu_20736_activity</obj_property>
       </wvobject>
-      <wvobject type="protoinst" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_matmul_fu_19032/grp_matmul_fu_19032_activity">
-         <obj_property name="ElementShortName">grp_matmul_fu_19032_activity</obj_property>
-         <obj_property name="ObjectShortName">grp_matmul_fu_19032_activity</obj_property>
+      <wvobject type="protoinst" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_matmul_fu_20772/grp_matmul_fu_20772_activity">
+         <obj_property name="ElementShortName">grp_matmul_fu_20772_activity</obj_property>
+         <obj_property name="ObjectShortName">grp_matmul_fu_20772_activity</obj_property>
       </wvobject>
       <wvobject type="group" fp_name="AESL_inst_FracNet_T_Handshake_group">
          <obj_property name="label">Block-level handshake</obj_property>
@@ -202,141 +202,141 @@
             <obj_property name="ObjectShortName">ap_done</obj_property>
          </wvobject>
       </wvobject>
-      <wvobject type="group" fp_name="grp_binary_conv3x3_tile_fu_5968_group">
-         <obj_property name="label">grp_binary_conv3x3_tile_fu_5968</obj_property>
+      <wvobject type="group" fp_name="grp_binary_conv3x3_tile_fu_7618_group">
+         <obj_property name="label">grp_binary_conv3x3_tile_fu_7618</obj_property>
          <obj_property name="DisplayName">label</obj_property>
-         <wvobject type="group" fp_name="grp_binary_conv3x3_tile_fu_5968_Handshake_group">
+         <wvobject type="group" fp_name="grp_binary_conv3x3_tile_fu_7618_Handshake_group">
             <obj_property name="label">Block-level handshake</obj_property>
             <obj_property name="DisplayName">label</obj_property>
-            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_binary_conv3x3_tile_fu_5968/ap_start">
+            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_binary_conv3x3_tile_fu_7618/ap_start">
                <obj_property name="ElementShortName">ap_start</obj_property>
                <obj_property name="ObjectShortName">ap_start</obj_property>
             </wvobject>
-            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_binary_conv3x3_tile_fu_5968/ap_ready">
+            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_binary_conv3x3_tile_fu_7618/ap_ready">
                <obj_property name="ElementShortName">ap_ready</obj_property>
                <obj_property name="ObjectShortName">ap_ready</obj_property>
             </wvobject>
-            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_binary_conv3x3_tile_fu_5968/ap_done">
+            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_binary_conv3x3_tile_fu_7618/ap_done">
                <obj_property name="ElementShortName">ap_done</obj_property>
                <obj_property name="ObjectShortName">ap_done</obj_property>
             </wvobject>
          </wvobject>
       </wvobject>
-      <wvobject type="group" fp_name="grp_quant_and_pack_fu_7897_group">
-         <obj_property name="label">grp_quant_and_pack_fu_7897</obj_property>
+      <wvobject type="group" fp_name="grp_quant_and_pack_fu_9637_group">
+         <obj_property name="label">grp_quant_and_pack_fu_9637</obj_property>
          <obj_property name="DisplayName">label</obj_property>
-         <wvobject type="group" fp_name="grp_quant_and_pack_fu_7897_Handshake_group">
+         <wvobject type="group" fp_name="grp_quant_and_pack_fu_9637_Handshake_group">
             <obj_property name="label">Block-level handshake</obj_property>
             <obj_property name="DisplayName">label</obj_property>
-            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_quant_and_pack_fu_7897/ap_start">
+            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_quant_and_pack_fu_9637/ap_start">
                <obj_property name="ElementShortName">ap_start</obj_property>
                <obj_property name="ObjectShortName">ap_start</obj_property>
             </wvobject>
-            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_quant_and_pack_fu_7897/ap_ready">
+            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_quant_and_pack_fu_9637/ap_ready">
                <obj_property name="ElementShortName">ap_ready</obj_property>
                <obj_property name="ObjectShortName">ap_ready</obj_property>
             </wvobject>
-            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_quant_and_pack_fu_7897/ap_done">
+            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_quant_and_pack_fu_9637/ap_done">
                <obj_property name="ElementShortName">ap_done</obj_property>
                <obj_property name="ObjectShortName">ap_done</obj_property>
             </wvobject>
          </wvobject>
       </wvobject>
-      <wvobject type="group" fp_name="grp_bn_relu_shortcut_fu_8106_group">
-         <obj_property name="label">grp_bn_relu_shortcut_fu_8106</obj_property>
+      <wvobject type="group" fp_name="grp_bn_relu_shortcut_fu_9846_group">
+         <obj_property name="label">grp_bn_relu_shortcut_fu_9846</obj_property>
          <obj_property name="DisplayName">label</obj_property>
-         <wvobject type="group" fp_name="grp_bn_relu_shortcut_fu_8106_Handshake_group">
+         <wvobject type="group" fp_name="grp_bn_relu_shortcut_fu_9846_Handshake_group">
             <obj_property name="label">Block-level handshake</obj_property>
             <obj_property name="DisplayName">label</obj_property>
-            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn_relu_shortcut_fu_8106/ap_start">
+            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn_relu_shortcut_fu_9846/ap_start">
                <obj_property name="ElementShortName">ap_start</obj_property>
                <obj_property name="ObjectShortName">ap_start</obj_property>
             </wvobject>
-            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn_relu_shortcut_fu_8106/ap_ready">
+            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn_relu_shortcut_fu_9846/ap_ready">
                <obj_property name="ElementShortName">ap_ready</obj_property>
                <obj_property name="ObjectShortName">ap_ready</obj_property>
             </wvobject>
-            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn_relu_shortcut_fu_8106/ap_done">
+            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn_relu_shortcut_fu_9846/ap_done">
                <obj_property name="ElementShortName">ap_done</obj_property>
                <obj_property name="ObjectShortName">ap_done</obj_property>
             </wvobject>
          </wvobject>
       </wvobject>
-      <wvobject type="group" fp_name="grp_avgpool_concat_fu_18852_group">
-         <obj_property name="label">grp_avgpool_concat_fu_18852</obj_property>
+      <wvobject type="group" fp_name="grp_avgpool_concat_fu_20592_group">
+         <obj_property name="label">grp_avgpool_concat_fu_20592</obj_property>
          <obj_property name="DisplayName">label</obj_property>
-         <wvobject type="group" fp_name="grp_avgpool_concat_fu_18852_Handshake_group">
+         <wvobject type="group" fp_name="grp_avgpool_concat_fu_20592_Handshake_group">
             <obj_property name="label">Block-level handshake</obj_property>
             <obj_property name="DisplayName">label</obj_property>
-            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_concat_fu_18852/ap_start">
+            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_concat_fu_20592/ap_start">
                <obj_property name="ElementShortName">ap_start</obj_property>
                <obj_property name="ObjectShortName">ap_start</obj_property>
             </wvobject>
-            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_concat_fu_18852/ap_ready">
+            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_concat_fu_20592/ap_ready">
                <obj_property name="ElementShortName">ap_ready</obj_property>
                <obj_property name="ObjectShortName">ap_ready</obj_property>
             </wvobject>
-            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_concat_fu_18852/ap_done">
+            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_concat_fu_20592/ap_done">
                <obj_property name="ElementShortName">ap_done</obj_property>
                <obj_property name="ObjectShortName">ap_done</obj_property>
             </wvobject>
          </wvobject>
       </wvobject>
-      <wvobject type="group" fp_name="grp_avgpool_8x8_fu_18926_group">
-         <obj_property name="label">grp_avgpool_8x8_fu_18926</obj_property>
+      <wvobject type="group" fp_name="grp_avgpool_8x8_fu_20666_group">
+         <obj_property name="label">grp_avgpool_8x8_fu_20666</obj_property>
          <obj_property name="DisplayName">label</obj_property>
-         <wvobject type="group" fp_name="grp_avgpool_8x8_fu_18926_Handshake_group">
+         <wvobject type="group" fp_name="grp_avgpool_8x8_fu_20666_Handshake_group">
             <obj_property name="label">Block-level handshake</obj_property>
             <obj_property name="DisplayName">label</obj_property>
-            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_8x8_fu_18926/ap_start">
+            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_8x8_fu_20666/ap_start">
                <obj_property name="ElementShortName">ap_start</obj_property>
                <obj_property name="ObjectShortName">ap_start</obj_property>
             </wvobject>
-            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_8x8_fu_18926/ap_ready">
+            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_8x8_fu_20666/ap_ready">
                <obj_property name="ElementShortName">ap_ready</obj_property>
                <obj_property name="ObjectShortName">ap_ready</obj_property>
             </wvobject>
-            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_8x8_fu_18926/ap_done">
+            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_avgpool_8x8_fu_20666/ap_done">
                <obj_property name="ElementShortName">ap_done</obj_property>
                <obj_property name="ObjectShortName">ap_done</obj_property>
             </wvobject>
          </wvobject>
       </wvobject>
-      <wvobject type="group" fp_name="grp_bn1_fu_18996_group">
-         <obj_property name="label">grp_bn1_fu_18996</obj_property>
+      <wvobject type="group" fp_name="grp_bn1_fu_20736_group">
+         <obj_property name="label">grp_bn1_fu_20736</obj_property>
          <obj_property name="DisplayName">label</obj_property>
-         <wvobject type="group" fp_name="grp_bn1_fu_18996_Handshake_group">
+         <wvobject type="group" fp_name="grp_bn1_fu_20736_Handshake_group">
             <obj_property name="label">Block-level handshake</obj_property>
             <obj_property name="DisplayName">label</obj_property>
-            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn1_fu_18996/ap_start">
+            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn1_fu_20736/ap_start">
                <obj_property name="ElementShortName">ap_start</obj_property>
                <obj_property name="ObjectShortName">ap_start</obj_property>
             </wvobject>
-            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn1_fu_18996/ap_ready">
+            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn1_fu_20736/ap_ready">
                <obj_property name="ElementShortName">ap_ready</obj_property>
                <obj_property name="ObjectShortName">ap_ready</obj_property>
             </wvobject>
-            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn1_fu_18996/ap_done">
+            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_bn1_fu_20736/ap_done">
                <obj_property name="ElementShortName">ap_done</obj_property>
                <obj_property name="ObjectShortName">ap_done</obj_property>
             </wvobject>
          </wvobject>
       </wvobject>
-      <wvobject type="group" fp_name="grp_matmul_fu_19032_group">
-         <obj_property name="label">grp_matmul_fu_19032</obj_property>
+      <wvobject type="group" fp_name="grp_matmul_fu_20772_group">
+         <obj_property name="label">grp_matmul_fu_20772</obj_property>
          <obj_property name="DisplayName">label</obj_property>
-         <wvobject type="group" fp_name="grp_matmul_fu_19032_Handshake_group">
+         <wvobject type="group" fp_name="grp_matmul_fu_20772_Handshake_group">
             <obj_property name="label">Block-level handshake</obj_property>
             <obj_property name="DisplayName">label</obj_property>
-            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_matmul_fu_19032/ap_start">
+            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_matmul_fu_20772/ap_start">
                <obj_property name="ElementShortName">ap_start</obj_property>
                <obj_property name="ObjectShortName">ap_start</obj_property>
             </wvobject>
-            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_matmul_fu_19032/ap_ready">
+            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_matmul_fu_20772/ap_ready">
                <obj_property name="ElementShortName">ap_ready</obj_property>
                <obj_property name="ObjectShortName">ap_ready</obj_property>
             </wvobject>
-            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_matmul_fu_19032/ap_done">
+            <wvobject type="logic" fp_name="/apatb_FracNet_T_top/AESL_inst_FracNet_T/grp_matmul_fu_20772/ap_done">
                <obj_property name="ElementShortName">ap_done</obj_property>
                <obj_property name="ObjectShortName">ap_done</obj_property>
             </wvobject>

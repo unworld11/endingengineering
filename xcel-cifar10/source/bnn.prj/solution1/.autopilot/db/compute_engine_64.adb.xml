@@ -1396,7 +1396,7 @@ _ZrsILi64ELb0EEN11ap_int_baseIXT_EXT0_EE5RTypeIXT_EXT0_EE4arg1ERKS1_i.exit28:95 
 _ZrsILi64ELb0EEN11ap_int_baseIXT_EXT0_EE5RTypeIXT_EXT0_EE4arg1ERKS1_i.exit28:0  call void (...)* @_ssdm_op_SpecLatency(i32 0, i32 1, [1 x i8]* @p_str4) nounwind
 
 ]]></Node>
-<StgValue><ssdm name="speclatency_ln26"/></StgValue>
+<StgValue><ssdm name="speclatency_ln27"/></StgValue>
 </operation>
 
 <operation id="95" st_id="2" stage="1" lat="1">
@@ -1711,7 +1711,7 @@ _ZrsILi64ELb0EEN11ap_int_baseIXT_EXT0_EE5RTypeIXT_EXT0_EE4arg1ERKS1_i.exit28:111
 _ZrsILi64ELb0EEN11ap_int_baseIXT_EXT0_EE5RTypeIXT_EXT0_EE4arg1ERKS1_i.exit28:112  ret i7 %add_ln214
 
 ]]></Node>
-<StgValue><ssdm name="ret_ln35"/></StgValue>
+<StgValue><ssdm name="ret_ln36"/></StgValue>
 </operation>
 </state>
 </state_list>
@@ -2664,13 +2664,13 @@ _ZrsILi64ELb0EEN11ap_int_baseIXT_EXT0_EE5RTypeIXT_EXT0_EE4arg1ERKS1_i.exit28:112
 </dataflow>
 <dataflow id="662" from="add_ln209" to="trunc_ln209" fromId="85" toId="93">
 </dataflow>
-<dataflow id="664" from="_ssdm_op_SpecLatency" to="speclatency_ln26" fromId="663" toId="94">
+<dataflow id="664" from="_ssdm_op_SpecLatency" to="speclatency_ln27" fromId="663" toId="94">
 </dataflow>
-<dataflow id="666" from="StgValue_665" to="speclatency_ln26" fromId="665" toId="94">
+<dataflow id="666" from="StgValue_665" to="speclatency_ln27" fromId="665" toId="94">
 </dataflow>
-<dataflow id="667" from="StgValue_255" to="speclatency_ln26" fromId="255" toId="94">
+<dataflow id="667" from="StgValue_255" to="speclatency_ln27" fromId="255" toId="94">
 </dataflow>
-<dataflow id="669" from="p_str4" to="speclatency_ln26" fromId="668" toId="94">
+<dataflow id="669" from="p_str4" to="speclatency_ln27" fromId="668" toId="94">
 </dataflow>
 <dataflow id="670" from="trunc_ln1355_1" to="zext_ln209" fromId="59" toId="95">
 </dataflow>
@@ -2846,7 +2846,7 @@ _ZrsILi64ELb0EEN11ap_int_baseIXT_EXT0_EE5RTypeIXT_EXT0_EE4arg1ERKS1_i.exit28:112
 </dataflow>
 <dataflow id="765" from="add_ln214_1" to="add_ln214" fromId="112" toId="114">
 </dataflow>
-<dataflow id="766" from="add_ln214" to="ret_ln35" fromId="114" toId="115">
+<dataflow id="766" from="add_ln214" to="ret_ln36" fromId="114" toId="115">
 </dataflow>
 </dataflows>
 

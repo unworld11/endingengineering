@@ -1926,13 +1926,13 @@
               <name>in_channels_read</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>28</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item class_id="10" tracking_level="0" version="0">
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second class_id="11" tracking_level="0" version="0">
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1941,7 +1941,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>29</second>
+                      <second>28</second>
                     </item>
                   </second>
                 </item>
@@ -1975,13 +1975,13 @@
               <name>H_fmap_read</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>28</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1990,7 +1990,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>29</second>
+                      <second>28</second>
                     </item>
                   </second>
                 </item>
@@ -2024,13 +2024,13 @@
               <name>empty</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>28</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2039,7 +2039,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>29</second>
+                      <second>28</second>
                     </item>
                   </second>
                 </item>
@@ -2069,16 +2069,16 @@
             <Obj>
               <type>0</type>
               <id>72</id>
-              <name>zext_ln29</name>
+              <name>zext_ln28</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>28</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2087,13 +2087,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>29</second>
+                      <second>28</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>mul_ln29_fu_1479_p00</rtlName>
+              <rtlName>mul_ln28_fu_1479_p00</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>12</bitwidth>
@@ -2117,16 +2117,16 @@
             <Obj>
               <type>0</type>
               <id>73</id>
-              <name>zext_ln29_1</name>
+              <name>zext_ln28_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>28</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2135,13 +2135,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>29</second>
+                      <second>28</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>mul_ln29_fu_1479_p10</rtlName>
+              <rtlName>mul_ln28_fu_1479_p10</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>12</bitwidth>
@@ -2165,16 +2165,16 @@
             <Obj>
               <type>0</type>
               <id>74</id>
-              <name>mul_ln29</name>
+              <name>mul_ln28</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>28</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2183,13 +2183,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>29</second>
+                      <second>28</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>mul_ln29_fu_1479_p2</rtlName>
+              <rtlName>mul_ln28_fu_1479_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>12</bitwidth>
@@ -2217,13 +2217,13 @@
               <name>tmp_16</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>29</lineNumber>
+              <lineNumber>28</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2232,7 +2232,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>29</second>
+                      <second>28</second>
                     </item>
                   </second>
                 </item>
@@ -2264,16 +2264,16 @@
             <Obj>
               <type>0</type>
               <id>76</id>
-              <name>icmp_ln39</name>
+              <name>icmp_ln38</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>39</lineNumber>
+              <lineNumber>38</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2282,13 +2282,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>39</second>
+                      <second>38</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln39_fu_1493_p2</rtlName>
+              <rtlName>icmp_ln38_fu_1493_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -2313,16 +2313,16 @@
             <Obj>
               <type>0</type>
               <id>77</id>
-              <name>_ln37</name>
+              <name>_ln36</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2331,7 +2331,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
@@ -2364,13 +2364,13 @@
               <name>indvar_flatten16</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2379,7 +2379,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
@@ -2415,13 +2415,13 @@
               <name>ch_t_0</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2430,7 +2430,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
@@ -2466,13 +2466,13 @@
               <name>indvar_flatten</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>38</lineNumber>
+              <lineNumber>37</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2481,7 +2481,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>38</second>
+                      <second>37</second>
                     </item>
                   </second>
                 </item>
@@ -2517,13 +2517,13 @@
               <name>row_0</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>38</lineNumber>
+              <lineNumber>37</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2532,7 +2532,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>38</second>
+                      <second>37</second>
                     </item>
                   </second>
                 </item>
@@ -2602,16 +2602,16 @@
             <Obj>
               <type>0</type>
               <id>84</id>
-              <name>trunc_ln41</name>
+              <name>trunc_ln40</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>41</lineNumber>
+              <lineNumber>40</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2620,13 +2620,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>41</second>
+                      <second>40</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>trunc_ln41_fu_1499_p1</rtlName>
+              <rtlName>trunc_ln40_fu_1499_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>2</bitwidth>
@@ -2653,13 +2653,13 @@
               <name>channel_start</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>41</lineNumber>
+              <lineNumber>40</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2668,7 +2668,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>41</second>
+                      <second>40</second>
                     </item>
                   </second>
                 </item>
@@ -2700,16 +2700,16 @@
             <Obj>
               <type>0</type>
               <id>86</id>
-              <name>zext_ln41</name>
+              <name>zext_ln40</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>41</lineNumber>
+              <lineNumber>40</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2718,13 +2718,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>41</second>
+                      <second>40</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln41_fu_1511_p1</rtlName>
+              <rtlName>zext_ln40_fu_1511_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -2748,16 +2748,16 @@
             <Obj>
               <type>0</type>
               <id>87</id>
-              <name>icmp_ln45</name>
+              <name>icmp_ln44</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2766,13 +2766,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_fu_1515_p2</rtlName>
+              <rtlName>icmp_ln44_fu_1515_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -2797,16 +2797,16 @@
             <Obj>
               <type>0</type>
               <id>88</id>
-              <name>or_ln44</name>
+              <name>or_ln43</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2815,13 +2815,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>or_ln44_fu_1520_p2</rtlName>
+              <rtlName>or_ln43_fu_1520_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -2846,16 +2846,16 @@
             <Obj>
               <type>0</type>
               <id>89</id>
-              <name>zext_ln44</name>
+              <name>zext_ln43</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2864,13 +2864,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln44_fu_1526_p1</rtlName>
+              <rtlName>zext_ln43_fu_1526_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -2894,16 +2894,16 @@
             <Obj>
               <type>0</type>
               <id>90</id>
-              <name>icmp_ln45_1</name>
+              <name>icmp_ln44_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2912,13 +2912,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_1_fu_1530_p2</rtlName>
+              <rtlName>icmp_ln44_1_fu_1530_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -2943,16 +2943,16 @@
             <Obj>
               <type>0</type>
               <id>91</id>
-              <name>or_ln44_1</name>
+              <name>or_ln43_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2961,13 +2961,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>or_ln44_1_fu_1535_p2</rtlName>
+              <rtlName>or_ln43_1_fu_1535_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -2992,16 +2992,16 @@
             <Obj>
               <type>0</type>
               <id>92</id>
-              <name>zext_ln44_1</name>
+              <name>zext_ln43_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3010,13 +3010,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln44_1_fu_1541_p1</rtlName>
+              <rtlName>zext_ln43_1_fu_1541_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -3040,16 +3040,16 @@
             <Obj>
               <type>0</type>
               <id>93</id>
-              <name>icmp_ln45_2</name>
+              <name>icmp_ln44_2</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3058,13 +3058,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_2_fu_1545_p2</rtlName>
+              <rtlName>icmp_ln44_2_fu_1545_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -3089,16 +3089,16 @@
             <Obj>
               <type>0</type>
               <id>94</id>
-              <name>or_ln44_2</name>
+              <name>or_ln43_2</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3107,13 +3107,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>or_ln44_2_fu_1550_p2</rtlName>
+              <rtlName>or_ln43_2_fu_1550_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -3138,16 +3138,16 @@
             <Obj>
               <type>0</type>
               <id>95</id>
-              <name>zext_ln44_2</name>
+              <name>zext_ln43_2</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3156,13 +3156,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln44_2_fu_1556_p1</rtlName>
+              <rtlName>zext_ln43_2_fu_1556_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -3186,16 +3186,16 @@
             <Obj>
               <type>0</type>
               <id>96</id>
-              <name>icmp_ln45_3</name>
+              <name>icmp_ln44_3</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3204,13 +3204,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_3_fu_1560_p2</rtlName>
+              <rtlName>icmp_ln44_3_fu_1560_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -3235,16 +3235,16 @@
             <Obj>
               <type>0</type>
               <id>97</id>
-              <name>or_ln44_3</name>
+              <name>or_ln43_3</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3253,13 +3253,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>or_ln44_3_fu_1565_p2</rtlName>
+              <rtlName>or_ln43_3_fu_1565_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -3284,16 +3284,16 @@
             <Obj>
               <type>0</type>
               <id>98</id>
-              <name>zext_ln44_3</name>
+              <name>zext_ln43_3</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3302,13 +3302,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln44_3_fu_1571_p1</rtlName>
+              <rtlName>zext_ln43_3_fu_1571_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -3332,16 +3332,16 @@
             <Obj>
               <type>0</type>
               <id>99</id>
-              <name>icmp_ln45_4</name>
+              <name>icmp_ln44_4</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3350,13 +3350,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_4_fu_1575_p2</rtlName>
+              <rtlName>icmp_ln44_4_fu_1575_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -3381,16 +3381,16 @@
             <Obj>
               <type>0</type>
               <id>100</id>
-              <name>or_ln44_4</name>
+              <name>or_ln43_4</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3399,13 +3399,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>or_ln44_4_fu_1580_p2</rtlName>
+              <rtlName>or_ln43_4_fu_1580_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -3430,16 +3430,16 @@
             <Obj>
               <type>0</type>
               <id>101</id>
-              <name>zext_ln44_4</name>
+              <name>zext_ln43_4</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3448,13 +3448,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln44_4_fu_1586_p1</rtlName>
+              <rtlName>zext_ln43_4_fu_1586_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -3478,16 +3478,16 @@
             <Obj>
               <type>0</type>
               <id>102</id>
-              <name>icmp_ln45_5</name>
+              <name>icmp_ln44_5</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3496,13 +3496,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_5_fu_1590_p2</rtlName>
+              <rtlName>icmp_ln44_5_fu_1590_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -3527,16 +3527,16 @@
             <Obj>
               <type>0</type>
               <id>103</id>
-              <name>or_ln44_5</name>
+              <name>or_ln43_5</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3545,13 +3545,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>or_ln44_5_fu_1595_p2</rtlName>
+              <rtlName>or_ln43_5_fu_1595_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -3576,16 +3576,16 @@
             <Obj>
               <type>0</type>
               <id>104</id>
-              <name>zext_ln44_5</name>
+              <name>zext_ln43_5</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3594,13 +3594,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln44_5_fu_1601_p1</rtlName>
+              <rtlName>zext_ln43_5_fu_1601_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -3624,16 +3624,16 @@
             <Obj>
               <type>0</type>
               <id>105</id>
-              <name>icmp_ln45_6</name>
+              <name>icmp_ln44_6</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3642,13 +3642,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_6_fu_1605_p2</rtlName>
+              <rtlName>icmp_ln44_6_fu_1605_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -3673,16 +3673,16 @@
             <Obj>
               <type>0</type>
               <id>106</id>
-              <name>or_ln44_6</name>
+              <name>or_ln43_6</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3691,13 +3691,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>or_ln44_6_fu_1610_p2</rtlName>
+              <rtlName>or_ln43_6_fu_1610_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -3722,16 +3722,16 @@
             <Obj>
               <type>0</type>
               <id>107</id>
-              <name>zext_ln44_6</name>
+              <name>zext_ln43_6</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3740,13 +3740,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln44_6_fu_1616_p1</rtlName>
+              <rtlName>zext_ln43_6_fu_1616_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -3770,16 +3770,16 @@
             <Obj>
               <type>0</type>
               <id>108</id>
-              <name>icmp_ln45_7</name>
+              <name>icmp_ln44_7</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3788,13 +3788,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_7_fu_1620_p2</rtlName>
+              <rtlName>icmp_ln44_7_fu_1620_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -3819,16 +3819,16 @@
             <Obj>
               <type>0</type>
               <id>109</id>
-              <name>or_ln44_7</name>
+              <name>or_ln43_7</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3837,13 +3837,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>or_ln44_7_fu_1625_p2</rtlName>
+              <rtlName>or_ln43_7_fu_1625_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -3868,16 +3868,16 @@
             <Obj>
               <type>0</type>
               <id>110</id>
-              <name>zext_ln44_7</name>
+              <name>zext_ln43_7</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3886,13 +3886,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln44_7_fu_1631_p1</rtlName>
+              <rtlName>zext_ln43_7_fu_1631_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -3916,16 +3916,16 @@
             <Obj>
               <type>0</type>
               <id>111</id>
-              <name>icmp_ln45_8</name>
+              <name>icmp_ln44_8</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3934,13 +3934,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_8_fu_1635_p2</rtlName>
+              <rtlName>icmp_ln44_8_fu_1635_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -3965,16 +3965,16 @@
             <Obj>
               <type>0</type>
               <id>112</id>
-              <name>or_ln44_8</name>
+              <name>or_ln43_8</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3983,13 +3983,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>or_ln44_8_fu_1640_p2</rtlName>
+              <rtlName>or_ln43_8_fu_1640_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -4014,16 +4014,16 @@
             <Obj>
               <type>0</type>
               <id>113</id>
-              <name>zext_ln44_8</name>
+              <name>zext_ln43_8</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4032,13 +4032,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln44_8_fu_1646_p1</rtlName>
+              <rtlName>zext_ln43_8_fu_1646_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -4062,16 +4062,16 @@
             <Obj>
               <type>0</type>
               <id>114</id>
-              <name>icmp_ln45_9</name>
+              <name>icmp_ln44_9</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4080,13 +4080,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_9_fu_1650_p2</rtlName>
+              <rtlName>icmp_ln44_9_fu_1650_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -4111,16 +4111,16 @@
             <Obj>
               <type>0</type>
               <id>115</id>
-              <name>or_ln44_9</name>
+              <name>or_ln43_9</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4129,13 +4129,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>or_ln44_9_fu_1655_p2</rtlName>
+              <rtlName>or_ln43_9_fu_1655_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -4160,16 +4160,16 @@
             <Obj>
               <type>0</type>
               <id>116</id>
-              <name>zext_ln44_9</name>
+              <name>zext_ln43_9</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4178,13 +4178,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln44_9_fu_1661_p1</rtlName>
+              <rtlName>zext_ln43_9_fu_1661_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -4208,16 +4208,16 @@
             <Obj>
               <type>0</type>
               <id>117</id>
-              <name>icmp_ln45_10</name>
+              <name>icmp_ln44_10</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4226,13 +4226,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_10_fu_1665_p2</rtlName>
+              <rtlName>icmp_ln44_10_fu_1665_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -4257,16 +4257,16 @@
             <Obj>
               <type>0</type>
               <id>118</id>
-              <name>or_ln44_10</name>
+              <name>or_ln43_10</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4275,13 +4275,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>or_ln44_10_fu_1670_p2</rtlName>
+              <rtlName>or_ln43_10_fu_1670_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -4306,16 +4306,16 @@
             <Obj>
               <type>0</type>
               <id>119</id>
-              <name>zext_ln44_10</name>
+              <name>zext_ln43_10</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4324,13 +4324,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln44_10_fu_1676_p1</rtlName>
+              <rtlName>zext_ln43_10_fu_1676_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -4354,16 +4354,16 @@
             <Obj>
               <type>0</type>
               <id>120</id>
-              <name>icmp_ln45_11</name>
+              <name>icmp_ln44_11</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4372,13 +4372,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_11_fu_1680_p2</rtlName>
+              <rtlName>icmp_ln44_11_fu_1680_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -4403,16 +4403,16 @@
             <Obj>
               <type>0</type>
               <id>121</id>
-              <name>or_ln44_11</name>
+              <name>or_ln43_11</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4421,13 +4421,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>or_ln44_11_fu_1685_p2</rtlName>
+              <rtlName>or_ln43_11_fu_1685_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -4452,16 +4452,16 @@
             <Obj>
               <type>0</type>
               <id>122</id>
-              <name>zext_ln44_11</name>
+              <name>zext_ln43_11</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4470,13 +4470,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln44_11_fu_1691_p1</rtlName>
+              <rtlName>zext_ln43_11_fu_1691_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -4500,16 +4500,16 @@
             <Obj>
               <type>0</type>
               <id>123</id>
-              <name>icmp_ln45_12</name>
+              <name>icmp_ln44_12</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4518,13 +4518,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_12_fu_1695_p2</rtlName>
+              <rtlName>icmp_ln44_12_fu_1695_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -4549,16 +4549,16 @@
             <Obj>
               <type>0</type>
               <id>124</id>
-              <name>or_ln44_12</name>
+              <name>or_ln43_12</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4567,13 +4567,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>or_ln44_12_fu_1700_p2</rtlName>
+              <rtlName>or_ln43_12_fu_1700_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -4598,16 +4598,16 @@
             <Obj>
               <type>0</type>
               <id>125</id>
-              <name>zext_ln44_12</name>
+              <name>zext_ln43_12</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4616,13 +4616,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln44_12_fu_1706_p1</rtlName>
+              <rtlName>zext_ln43_12_fu_1706_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -4646,16 +4646,16 @@
             <Obj>
               <type>0</type>
               <id>126</id>
-              <name>icmp_ln45_13</name>
+              <name>icmp_ln44_13</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4664,13 +4664,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_13_fu_1710_p2</rtlName>
+              <rtlName>icmp_ln44_13_fu_1710_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -4695,16 +4695,16 @@
             <Obj>
               <type>0</type>
               <id>127</id>
-              <name>or_ln44_13</name>
+              <name>or_ln43_13</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4713,13 +4713,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>or_ln44_13_fu_1715_p2</rtlName>
+              <rtlName>or_ln43_13_fu_1715_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -4744,16 +4744,16 @@
             <Obj>
               <type>0</type>
               <id>128</id>
-              <name>zext_ln44_13</name>
+              <name>zext_ln43_13</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4762,13 +4762,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln44_13_fu_1721_p1</rtlName>
+              <rtlName>zext_ln43_13_fu_1721_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -4792,16 +4792,16 @@
             <Obj>
               <type>0</type>
               <id>129</id>
-              <name>icmp_ln45_14</name>
+              <name>icmp_ln44_14</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4810,13 +4810,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_14_fu_1725_p2</rtlName>
+              <rtlName>icmp_ln44_14_fu_1725_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -4841,16 +4841,16 @@
             <Obj>
               <type>0</type>
               <id>130</id>
-              <name>or_ln44_14</name>
+              <name>or_ln43_14</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4859,13 +4859,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>or_ln44_14_fu_1730_p2</rtlName>
+              <rtlName>or_ln43_14_fu_1730_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -4890,16 +4890,16 @@
             <Obj>
               <type>0</type>
               <id>131</id>
-              <name>zext_ln44_14</name>
+              <name>zext_ln43_14</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4908,13 +4908,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln44_14_fu_1736_p1</rtlName>
+              <rtlName>zext_ln43_14_fu_1736_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -4938,16 +4938,16 @@
             <Obj>
               <type>0</type>
               <id>132</id>
-              <name>icmp_ln45_15</name>
+              <name>icmp_ln44_15</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4956,13 +4956,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_15_fu_1740_p2</rtlName>
+              <rtlName>icmp_ln44_15_fu_1740_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -4987,16 +4987,16 @@
             <Obj>
               <type>0</type>
               <id>133</id>
-              <name>icmp_ln37</name>
+              <name>icmp_ln36</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5005,13 +5005,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln37_fu_1745_p2</rtlName>
+              <rtlName>icmp_ln36_fu_1745_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -5036,16 +5036,16 @@
             <Obj>
               <type>0</type>
               <id>134</id>
-              <name>add_ln37</name>
+              <name>add_ln36</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5054,13 +5054,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>add_ln37_fu_1750_p2</rtlName>
+              <rtlName>add_ln36_fu_1750_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>14</bitwidth>
@@ -5085,16 +5085,16 @@
             <Obj>
               <type>0</type>
               <id>135</id>
-              <name>_ln37</name>
+              <name>_ln36</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5103,7 +5103,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
@@ -5138,13 +5138,13 @@
               <name>ch_t</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5153,7 +5153,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
@@ -5184,16 +5184,16 @@
             <Obj>
               <type>0</type>
               <id>140</id>
-              <name>icmp_ln38</name>
+              <name>icmp_ln37</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>38</lineNumber>
+              <lineNumber>37</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5202,13 +5202,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>38</second>
+                      <second>37</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln38_fu_1762_p2</rtlName>
+              <rtlName>icmp_ln37_fu_1762_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -5233,16 +5233,16 @@
             <Obj>
               <type>0</type>
               <id>141</id>
-              <name>select_ln37</name>
+              <name>select_ln36</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5251,13 +5251,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>select_ln37_fu_1767_p3</rtlName>
+              <rtlName>select_ln36_fu_1767_p3</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -5283,16 +5283,16 @@
             <Obj>
               <type>0</type>
               <id>142</id>
-              <name>trunc_ln41_1</name>
+              <name>trunc_ln40_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>41</lineNumber>
+              <lineNumber>40</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5301,13 +5301,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>41</second>
+                      <second>40</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>trunc_ln41_1_fu_1775_p1</rtlName>
+              <rtlName>trunc_ln40_1_fu_1775_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>2</bitwidth>
@@ -5334,13 +5334,13 @@
               <name>channel_start_mid1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>41</lineNumber>
+              <lineNumber>40</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5349,7 +5349,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>41</second>
+                      <second>40</second>
                     </item>
                   </second>
                 </item>
@@ -5381,16 +5381,16 @@
             <Obj>
               <type>0</type>
               <id>144</id>
-              <name>zext_ln41_1</name>
+              <name>zext_ln40_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>41</lineNumber>
+              <lineNumber>40</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5399,13 +5399,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>41</second>
+                      <second>40</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln41_1_fu_1787_p1</rtlName>
+              <rtlName>zext_ln40_1_fu_1787_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -5429,16 +5429,16 @@
             <Obj>
               <type>0</type>
               <id>145</id>
-              <name>select_ln37_1</name>
+              <name>select_ln36_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5447,13 +5447,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>select_ln37_1_fu_1791_p3</rtlName>
+              <rtlName>select_ln36_1_fu_1791_p3</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>3</bitwidth>
@@ -5479,16 +5479,16 @@
             <Obj>
               <type>0</type>
               <id>146</id>
-              <name>trunc_ln37</name>
+              <name>trunc_ln36</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5497,13 +5497,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>trunc_ln37_fu_1799_p1</rtlName>
+              <rtlName>trunc_ln36_fu_1799_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>2</bitwidth>
@@ -5527,16 +5527,16 @@
             <Obj>
               <type>0</type>
               <id>147</id>
-              <name>icmp_ln45_16</name>
+              <name>icmp_ln44_16</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5545,13 +5545,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_16_fu_1803_p2</rtlName>
+              <rtlName>icmp_ln44_16_fu_1803_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -5576,16 +5576,16 @@
             <Obj>
               <type>0</type>
               <id>148</id>
-              <name>select_ln37_2</name>
+              <name>select_ln36_2</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5594,13 +5594,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>select_ln37_2_fu_1808_p3</rtlName>
+              <rtlName>select_ln36_2_fu_1808_p3</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -5626,16 +5626,16 @@
             <Obj>
               <type>0</type>
               <id>149</id>
-              <name>select_ln37_3</name>
+              <name>select_ln36_3</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5644,13 +5644,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>select_ln37_3_fu_1816_p3</rtlName>
+              <rtlName>select_ln36_3_fu_1816_p3</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -5676,16 +5676,16 @@
             <Obj>
               <type>0</type>
               <id>150</id>
-              <name>xor_ln37</name>
+              <name>xor_ln36</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5694,13 +5694,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>xor_ln37_fu_2536_p2</rtlName>
+              <rtlName>xor_ln36_fu_2536_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -5725,16 +5725,16 @@
             <Obj>
               <type>0</type>
               <id>151</id>
-              <name>zext_ln37</name>
+              <name>zext_ln36</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5743,13 +5743,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln37_fu_2541_p1</rtlName>
+              <rtlName>zext_ln36_fu_2541_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>32</bitwidth>
@@ -5773,16 +5773,16 @@
             <Obj>
               <type>0</type>
               <id>152</id>
-              <name>or_ln44_15</name>
+              <name>or_ln43_15</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5791,13 +5791,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>or_ln44_15_fu_1824_p2</rtlName>
+              <rtlName>or_ln43_15_fu_1824_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -5822,16 +5822,16 @@
             <Obj>
               <type>0</type>
               <id>153</id>
-              <name>zext_ln44_15</name>
+              <name>zext_ln43_15</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5840,13 +5840,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln44_15_fu_1830_p1</rtlName>
+              <rtlName>zext_ln43_15_fu_1830_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -5870,16 +5870,16 @@
             <Obj>
               <type>0</type>
               <id>154</id>
-              <name>icmp_ln45_17</name>
+              <name>icmp_ln44_17</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5888,13 +5888,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_17_fu_1834_p2</rtlName>
+              <rtlName>icmp_ln44_17_fu_1834_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -5919,16 +5919,16 @@
             <Obj>
               <type>0</type>
               <id>155</id>
-              <name>select_ln37_4</name>
+              <name>select_ln36_4</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5937,13 +5937,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>select_ln37_4_fu_1839_p3</rtlName>
+              <rtlName>select_ln36_4_fu_1839_p3</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -5969,16 +5969,16 @@
             <Obj>
               <type>0</type>
               <id>156</id>
-              <name>xor_ln37_1</name>
+              <name>xor_ln36_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -5987,13 +5987,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>xor_ln37_1_fu_2545_p2</rtlName>
+              <rtlName>xor_ln36_1_fu_2545_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -6018,16 +6018,16 @@
             <Obj>
               <type>0</type>
               <id>157</id>
-              <name>zext_ln37_1</name>
+              <name>zext_ln36_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -6036,13 +6036,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln37_1_fu_2550_p1</rtlName>
+              <rtlName>zext_ln36_1_fu_2550_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>32</bitwidth>
@@ -6066,16 +6066,16 @@
             <Obj>
               <type>0</type>
               <id>158</id>
-              <name>or_ln44_16</name>
+              <name>or_ln43_16</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -6084,13 +6084,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>or_ln44_16_fu_1847_p2</rtlName>
+              <rtlName>or_ln43_16_fu_1847_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -6115,16 +6115,16 @@
             <Obj>
               <type>0</type>
               <id>159</id>
-              <name>zext_ln44_16</name>
+              <name>zext_ln43_16</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -6133,13 +6133,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln44_16_fu_1853_p1</rtlName>
+              <rtlName>zext_ln43_16_fu_1853_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -6163,16 +6163,16 @@
             <Obj>
               <type>0</type>
               <id>160</id>
-              <name>icmp_ln45_18</name>
+              <name>icmp_ln44_18</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -6181,13 +6181,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_18_fu_1857_p2</rtlName>
+              <rtlName>icmp_ln44_18_fu_1857_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -6212,16 +6212,16 @@
             <Obj>
               <type>0</type>
               <id>161</id>
-              <name>select_ln37_5</name>
+              <name>select_ln36_5</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -6230,13 +6230,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>select_ln37_5_fu_1862_p3</rtlName>
+              <rtlName>select_ln36_5_fu_1862_p3</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -6262,16 +6262,16 @@
             <Obj>
               <type>0</type>
               <id>162</id>
-              <name>xor_ln37_2</name>
+              <name>xor_ln36_2</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -6280,13 +6280,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>xor_ln37_2_fu_2554_p2</rtlName>
+              <rtlName>xor_ln36_2_fu_2554_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -6311,16 +6311,16 @@
             <Obj>
               <type>0</type>
               <id>163</id>
-              <name>zext_ln37_2</name>
+              <name>zext_ln36_2</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -6329,13 +6329,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln37_2_fu_2559_p1</rtlName>
+              <rtlName>zext_ln36_2_fu_2559_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>32</bitwidth>
@@ -6359,16 +6359,16 @@
             <Obj>
               <type>0</type>
               <id>164</id>
-              <name>or_ln44_17</name>
+              <name>or_ln43_17</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -6377,13 +6377,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>or_ln44_17_fu_1870_p2</rtlName>
+              <rtlName>or_ln43_17_fu_1870_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -6408,16 +6408,16 @@
             <Obj>
               <type>0</type>
               <id>165</id>
-              <name>zext_ln44_17</name>
+              <name>zext_ln43_17</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -6426,13 +6426,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln44_17_fu_1876_p1</rtlName>
+              <rtlName>zext_ln43_17_fu_1876_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -6456,16 +6456,16 @@
             <Obj>
               <type>0</type>
               <id>166</id>
-              <name>icmp_ln45_19</name>
+              <name>icmp_ln44_19</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -6474,13 +6474,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_19_fu_1880_p2</rtlName>
+              <rtlName>icmp_ln44_19_fu_1880_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -6505,16 +6505,16 @@
             <Obj>
               <type>0</type>
               <id>167</id>
-              <name>select_ln37_6</name>
+              <name>select_ln36_6</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -6523,13 +6523,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>select_ln37_6_fu_1885_p3</rtlName>
+              <rtlName>select_ln36_6_fu_1885_p3</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -6555,16 +6555,16 @@
             <Obj>
               <type>0</type>
               <id>168</id>
-              <name>xor_ln37_3</name>
+              <name>xor_ln36_3</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -6573,13 +6573,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>xor_ln37_3_fu_2563_p2</rtlName>
+              <rtlName>xor_ln36_3_fu_2563_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -6604,16 +6604,16 @@
             <Obj>
               <type>0</type>
               <id>169</id>
-              <name>zext_ln37_3</name>
+              <name>zext_ln36_3</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -6622,13 +6622,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln37_3_fu_2568_p1</rtlName>
+              <rtlName>zext_ln36_3_fu_2568_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>32</bitwidth>
@@ -6652,16 +6652,16 @@
             <Obj>
               <type>0</type>
               <id>170</id>
-              <name>or_ln44_18</name>
+              <name>or_ln43_18</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -6670,13 +6670,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>or_ln44_18_fu_1893_p2</rtlName>
+              <rtlName>or_ln43_18_fu_1893_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -6701,16 +6701,16 @@
             <Obj>
               <type>0</type>
               <id>171</id>
-              <name>zext_ln44_18</name>
+              <name>zext_ln43_18</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -6719,13 +6719,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln44_18_fu_1899_p1</rtlName>
+              <rtlName>zext_ln43_18_fu_1899_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -6749,16 +6749,16 @@
             <Obj>
               <type>0</type>
               <id>172</id>
-              <name>icmp_ln45_20</name>
+              <name>icmp_ln44_20</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -6767,13 +6767,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_20_fu_1903_p2</rtlName>
+              <rtlName>icmp_ln44_20_fu_1903_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -6798,16 +6798,16 @@
             <Obj>
               <type>0</type>
               <id>173</id>
-              <name>select_ln37_7</name>
+              <name>select_ln36_7</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -6816,13 +6816,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>select_ln37_7_fu_1908_p3</rtlName>
+              <rtlName>select_ln36_7_fu_1908_p3</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -6848,16 +6848,16 @@
             <Obj>
               <type>0</type>
               <id>174</id>
-              <name>xor_ln37_4</name>
+              <name>xor_ln36_4</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -6866,13 +6866,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>xor_ln37_4_fu_2572_p2</rtlName>
+              <rtlName>xor_ln36_4_fu_2572_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -6897,16 +6897,16 @@
             <Obj>
               <type>0</type>
               <id>175</id>
-              <name>zext_ln37_4</name>
+              <name>zext_ln36_4</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -6915,13 +6915,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln37_4_fu_2577_p1</rtlName>
+              <rtlName>zext_ln36_4_fu_2577_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>32</bitwidth>
@@ -6945,16 +6945,16 @@
             <Obj>
               <type>0</type>
               <id>176</id>
-              <name>or_ln44_19</name>
+              <name>or_ln43_19</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -6963,13 +6963,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>or_ln44_19_fu_1916_p2</rtlName>
+              <rtlName>or_ln43_19_fu_1916_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -6994,16 +6994,16 @@
             <Obj>
               <type>0</type>
               <id>177</id>
-              <name>zext_ln44_19</name>
+              <name>zext_ln43_19</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -7012,13 +7012,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln44_19_fu_1922_p1</rtlName>
+              <rtlName>zext_ln43_19_fu_1922_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -7042,16 +7042,16 @@
             <Obj>
               <type>0</type>
               <id>178</id>
-              <name>icmp_ln45_21</name>
+              <name>icmp_ln44_21</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -7060,13 +7060,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_21_fu_1926_p2</rtlName>
+              <rtlName>icmp_ln44_21_fu_1926_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -7091,16 +7091,16 @@
             <Obj>
               <type>0</type>
               <id>179</id>
-              <name>select_ln37_8</name>
+              <name>select_ln36_8</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -7109,13 +7109,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>select_ln37_8_fu_1931_p3</rtlName>
+              <rtlName>select_ln36_8_fu_1931_p3</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -7141,16 +7141,16 @@
             <Obj>
               <type>0</type>
               <id>180</id>
-              <name>xor_ln37_5</name>
+              <name>xor_ln36_5</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -7159,13 +7159,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>xor_ln37_5_fu_2581_p2</rtlName>
+              <rtlName>xor_ln36_5_fu_2581_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -7190,16 +7190,16 @@
             <Obj>
               <type>0</type>
               <id>181</id>
-              <name>zext_ln37_5</name>
+              <name>zext_ln36_5</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -7208,13 +7208,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln37_5_fu_2586_p1</rtlName>
+              <rtlName>zext_ln36_5_fu_2586_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>32</bitwidth>
@@ -7238,16 +7238,16 @@
             <Obj>
               <type>0</type>
               <id>182</id>
-              <name>or_ln44_20</name>
+              <name>or_ln43_20</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -7256,13 +7256,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>or_ln44_20_fu_1939_p2</rtlName>
+              <rtlName>or_ln43_20_fu_1939_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -7287,16 +7287,16 @@
             <Obj>
               <type>0</type>
               <id>183</id>
-              <name>zext_ln44_20</name>
+              <name>zext_ln43_20</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -7305,13 +7305,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln44_20_fu_1945_p1</rtlName>
+              <rtlName>zext_ln43_20_fu_1945_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -7335,16 +7335,16 @@
             <Obj>
               <type>0</type>
               <id>184</id>
-              <name>icmp_ln45_22</name>
+              <name>icmp_ln44_22</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -7353,13 +7353,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_22_fu_1949_p2</rtlName>
+              <rtlName>icmp_ln44_22_fu_1949_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -7384,16 +7384,16 @@
             <Obj>
               <type>0</type>
               <id>185</id>
-              <name>select_ln37_9</name>
+              <name>select_ln36_9</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -7402,13 +7402,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>select_ln37_9_fu_1954_p3</rtlName>
+              <rtlName>select_ln36_9_fu_1954_p3</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -7434,16 +7434,16 @@
             <Obj>
               <type>0</type>
               <id>186</id>
-              <name>xor_ln37_6</name>
+              <name>xor_ln36_6</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -7452,13 +7452,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>xor_ln37_6_fu_2590_p2</rtlName>
+              <rtlName>xor_ln36_6_fu_2590_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -7483,16 +7483,16 @@
             <Obj>
               <type>0</type>
               <id>187</id>
-              <name>zext_ln37_6</name>
+              <name>zext_ln36_6</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -7501,13 +7501,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln37_6_fu_2595_p1</rtlName>
+              <rtlName>zext_ln36_6_fu_2595_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>32</bitwidth>
@@ -7531,16 +7531,16 @@
             <Obj>
               <type>0</type>
               <id>188</id>
-              <name>or_ln44_21</name>
+              <name>or_ln43_21</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -7549,13 +7549,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>or_ln44_21_fu_1962_p2</rtlName>
+              <rtlName>or_ln43_21_fu_1962_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -7580,16 +7580,16 @@
             <Obj>
               <type>0</type>
               <id>189</id>
-              <name>zext_ln44_21</name>
+              <name>zext_ln43_21</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -7598,13 +7598,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln44_21_fu_1968_p1</rtlName>
+              <rtlName>zext_ln43_21_fu_1968_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -7628,16 +7628,16 @@
             <Obj>
               <type>0</type>
               <id>190</id>
-              <name>icmp_ln45_23</name>
+              <name>icmp_ln44_23</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -7646,13 +7646,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_23_fu_1972_p2</rtlName>
+              <rtlName>icmp_ln44_23_fu_1972_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -7677,16 +7677,16 @@
             <Obj>
               <type>0</type>
               <id>191</id>
-              <name>select_ln37_10</name>
+              <name>select_ln36_10</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -7695,13 +7695,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>select_ln37_10_fu_1977_p3</rtlName>
+              <rtlName>select_ln36_10_fu_1977_p3</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -7727,16 +7727,16 @@
             <Obj>
               <type>0</type>
               <id>192</id>
-              <name>xor_ln37_7</name>
+              <name>xor_ln36_7</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -7745,13 +7745,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>xor_ln37_7_fu_2599_p2</rtlName>
+              <rtlName>xor_ln36_7_fu_2599_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -7776,16 +7776,16 @@
             <Obj>
               <type>0</type>
               <id>193</id>
-              <name>zext_ln37_7</name>
+              <name>zext_ln36_7</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -7794,13 +7794,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln37_7_fu_2604_p1</rtlName>
+              <rtlName>zext_ln36_7_fu_2604_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>32</bitwidth>
@@ -7824,16 +7824,16 @@
             <Obj>
               <type>0</type>
               <id>194</id>
-              <name>or_ln44_22</name>
+              <name>or_ln43_22</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -7842,13 +7842,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>or_ln44_22_fu_1985_p2</rtlName>
+              <rtlName>or_ln43_22_fu_1985_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -7873,16 +7873,16 @@
             <Obj>
               <type>0</type>
               <id>195</id>
-              <name>zext_ln44_22</name>
+              <name>zext_ln43_22</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -7891,13 +7891,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln44_22_fu_1991_p1</rtlName>
+              <rtlName>zext_ln43_22_fu_1991_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -7921,16 +7921,16 @@
             <Obj>
               <type>0</type>
               <id>196</id>
-              <name>icmp_ln45_24</name>
+              <name>icmp_ln44_24</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -7939,13 +7939,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_24_fu_1995_p2</rtlName>
+              <rtlName>icmp_ln44_24_fu_1995_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -7970,16 +7970,16 @@
             <Obj>
               <type>0</type>
               <id>197</id>
-              <name>select_ln37_11</name>
+              <name>select_ln36_11</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -7988,13 +7988,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>select_ln37_11_fu_2000_p3</rtlName>
+              <rtlName>select_ln36_11_fu_2000_p3</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -8020,16 +8020,16 @@
             <Obj>
               <type>0</type>
               <id>198</id>
-              <name>xor_ln37_8</name>
+              <name>xor_ln36_8</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -8038,13 +8038,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>xor_ln37_8_fu_2608_p2</rtlName>
+              <rtlName>xor_ln36_8_fu_2608_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -8069,16 +8069,16 @@
             <Obj>
               <type>0</type>
               <id>199</id>
-              <name>zext_ln37_8</name>
+              <name>zext_ln36_8</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -8087,13 +8087,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln37_8_fu_2613_p1</rtlName>
+              <rtlName>zext_ln36_8_fu_2613_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>32</bitwidth>
@@ -8117,16 +8117,16 @@
             <Obj>
               <type>0</type>
               <id>200</id>
-              <name>or_ln44_23</name>
+              <name>or_ln43_23</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -8135,13 +8135,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>or_ln44_23_fu_2008_p2</rtlName>
+              <rtlName>or_ln43_23_fu_2008_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -8166,16 +8166,16 @@
             <Obj>
               <type>0</type>
               <id>201</id>
-              <name>zext_ln44_23</name>
+              <name>zext_ln43_23</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -8184,13 +8184,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln44_23_fu_2014_p1</rtlName>
+              <rtlName>zext_ln43_23_fu_2014_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -8214,16 +8214,16 @@
             <Obj>
               <type>0</type>
               <id>202</id>
-              <name>icmp_ln45_25</name>
+              <name>icmp_ln44_25</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -8232,13 +8232,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_25_fu_2018_p2</rtlName>
+              <rtlName>icmp_ln44_25_fu_2018_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -8263,16 +8263,16 @@
             <Obj>
               <type>0</type>
               <id>203</id>
-              <name>select_ln37_12</name>
+              <name>select_ln36_12</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -8281,13 +8281,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>select_ln37_12_fu_2023_p3</rtlName>
+              <rtlName>select_ln36_12_fu_2023_p3</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -8313,16 +8313,16 @@
             <Obj>
               <type>0</type>
               <id>204</id>
-              <name>xor_ln37_9</name>
+              <name>xor_ln36_9</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -8331,13 +8331,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>xor_ln37_9_fu_2617_p2</rtlName>
+              <rtlName>xor_ln36_9_fu_2617_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -8362,16 +8362,16 @@
             <Obj>
               <type>0</type>
               <id>205</id>
-              <name>zext_ln37_9</name>
+              <name>zext_ln36_9</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -8380,13 +8380,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln37_9_fu_2622_p1</rtlName>
+              <rtlName>zext_ln36_9_fu_2622_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>32</bitwidth>
@@ -8410,16 +8410,16 @@
             <Obj>
               <type>0</type>
               <id>206</id>
-              <name>or_ln44_24</name>
+              <name>or_ln43_24</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -8428,13 +8428,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>or_ln44_24_fu_2031_p2</rtlName>
+              <rtlName>or_ln43_24_fu_2031_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -8459,16 +8459,16 @@
             <Obj>
               <type>0</type>
               <id>207</id>
-              <name>zext_ln44_24</name>
+              <name>zext_ln43_24</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -8477,13 +8477,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln44_24_fu_2037_p1</rtlName>
+              <rtlName>zext_ln43_24_fu_2037_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -8507,16 +8507,16 @@
             <Obj>
               <type>0</type>
               <id>208</id>
-              <name>icmp_ln45_26</name>
+              <name>icmp_ln44_26</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -8525,13 +8525,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_26_fu_2041_p2</rtlName>
+              <rtlName>icmp_ln44_26_fu_2041_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -8556,16 +8556,16 @@
             <Obj>
               <type>0</type>
               <id>209</id>
-              <name>select_ln37_13</name>
+              <name>select_ln36_13</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -8574,13 +8574,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>select_ln37_13_fu_2046_p3</rtlName>
+              <rtlName>select_ln36_13_fu_2046_p3</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -8606,16 +8606,16 @@
             <Obj>
               <type>0</type>
               <id>210</id>
-              <name>xor_ln37_10</name>
+              <name>xor_ln36_10</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -8624,13 +8624,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>xor_ln37_10_fu_2626_p2</rtlName>
+              <rtlName>xor_ln36_10_fu_2626_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -8655,16 +8655,16 @@
             <Obj>
               <type>0</type>
               <id>211</id>
-              <name>zext_ln37_10</name>
+              <name>zext_ln36_10</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -8673,13 +8673,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln37_10_fu_2631_p1</rtlName>
+              <rtlName>zext_ln36_10_fu_2631_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>32</bitwidth>
@@ -8703,16 +8703,16 @@
             <Obj>
               <type>0</type>
               <id>212</id>
-              <name>or_ln44_25</name>
+              <name>or_ln43_25</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -8721,13 +8721,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>or_ln44_25_fu_2054_p2</rtlName>
+              <rtlName>or_ln43_25_fu_2054_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -8752,16 +8752,16 @@
             <Obj>
               <type>0</type>
               <id>213</id>
-              <name>zext_ln44_25</name>
+              <name>zext_ln43_25</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -8770,13 +8770,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln44_25_fu_2060_p1</rtlName>
+              <rtlName>zext_ln43_25_fu_2060_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -8800,16 +8800,16 @@
             <Obj>
               <type>0</type>
               <id>214</id>
-              <name>icmp_ln45_27</name>
+              <name>icmp_ln44_27</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -8818,13 +8818,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_27_fu_2064_p2</rtlName>
+              <rtlName>icmp_ln44_27_fu_2064_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -8849,16 +8849,16 @@
             <Obj>
               <type>0</type>
               <id>215</id>
-              <name>select_ln37_14</name>
+              <name>select_ln36_14</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -8867,13 +8867,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>select_ln37_14_fu_2069_p3</rtlName>
+              <rtlName>select_ln36_14_fu_2069_p3</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -8899,16 +8899,16 @@
             <Obj>
               <type>0</type>
               <id>216</id>
-              <name>xor_ln37_11</name>
+              <name>xor_ln36_11</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -8917,13 +8917,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>xor_ln37_11_fu_2635_p2</rtlName>
+              <rtlName>xor_ln36_11_fu_2635_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -8948,16 +8948,16 @@
             <Obj>
               <type>0</type>
               <id>217</id>
-              <name>zext_ln37_11</name>
+              <name>zext_ln36_11</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -8966,13 +8966,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln37_11_fu_2640_p1</rtlName>
+              <rtlName>zext_ln36_11_fu_2640_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>32</bitwidth>
@@ -8996,16 +8996,16 @@
             <Obj>
               <type>0</type>
               <id>218</id>
-              <name>or_ln44_26</name>
+              <name>or_ln43_26</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -9014,13 +9014,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>or_ln44_26_fu_2077_p2</rtlName>
+              <rtlName>or_ln43_26_fu_2077_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -9045,16 +9045,16 @@
             <Obj>
               <type>0</type>
               <id>219</id>
-              <name>zext_ln44_26</name>
+              <name>zext_ln43_26</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -9063,13 +9063,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln44_26_fu_2083_p1</rtlName>
+              <rtlName>zext_ln43_26_fu_2083_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -9093,16 +9093,16 @@
             <Obj>
               <type>0</type>
               <id>220</id>
-              <name>icmp_ln45_28</name>
+              <name>icmp_ln44_28</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -9111,13 +9111,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_28_fu_2087_p2</rtlName>
+              <rtlName>icmp_ln44_28_fu_2087_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -9142,16 +9142,16 @@
             <Obj>
               <type>0</type>
               <id>221</id>
-              <name>select_ln37_15</name>
+              <name>select_ln36_15</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -9160,13 +9160,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>select_ln37_15_fu_2092_p3</rtlName>
+              <rtlName>select_ln36_15_fu_2092_p3</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -9192,16 +9192,16 @@
             <Obj>
               <type>0</type>
               <id>222</id>
-              <name>xor_ln37_12</name>
+              <name>xor_ln36_12</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -9210,13 +9210,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>xor_ln37_12_fu_2644_p2</rtlName>
+              <rtlName>xor_ln36_12_fu_2644_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -9241,16 +9241,16 @@
             <Obj>
               <type>0</type>
               <id>223</id>
-              <name>zext_ln37_12</name>
+              <name>zext_ln36_12</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -9259,13 +9259,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln37_12_fu_2649_p1</rtlName>
+              <rtlName>zext_ln36_12_fu_2649_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>32</bitwidth>
@@ -9289,16 +9289,16 @@
             <Obj>
               <type>0</type>
               <id>224</id>
-              <name>or_ln44_27</name>
+              <name>or_ln43_27</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -9307,13 +9307,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>or_ln44_27_fu_2100_p2</rtlName>
+              <rtlName>or_ln43_27_fu_2100_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -9338,16 +9338,16 @@
             <Obj>
               <type>0</type>
               <id>225</id>
-              <name>zext_ln44_27</name>
+              <name>zext_ln43_27</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -9356,13 +9356,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln44_27_fu_2106_p1</rtlName>
+              <rtlName>zext_ln43_27_fu_2106_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -9386,16 +9386,16 @@
             <Obj>
               <type>0</type>
               <id>226</id>
-              <name>icmp_ln45_29</name>
+              <name>icmp_ln44_29</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -9404,13 +9404,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_29_fu_2110_p2</rtlName>
+              <rtlName>icmp_ln44_29_fu_2110_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -9435,16 +9435,16 @@
             <Obj>
               <type>0</type>
               <id>227</id>
-              <name>select_ln37_16</name>
+              <name>select_ln36_16</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -9453,13 +9453,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>select_ln37_16_fu_2115_p3</rtlName>
+              <rtlName>select_ln36_16_fu_2115_p3</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -9485,16 +9485,16 @@
             <Obj>
               <type>0</type>
               <id>228</id>
-              <name>xor_ln37_13</name>
+              <name>xor_ln36_13</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -9503,13 +9503,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>xor_ln37_13_fu_2653_p2</rtlName>
+              <rtlName>xor_ln36_13_fu_2653_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -9534,16 +9534,16 @@
             <Obj>
               <type>0</type>
               <id>229</id>
-              <name>zext_ln37_13</name>
+              <name>zext_ln36_13</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -9552,13 +9552,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln37_13_fu_2658_p1</rtlName>
+              <rtlName>zext_ln36_13_fu_2658_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>32</bitwidth>
@@ -9582,16 +9582,16 @@
             <Obj>
               <type>0</type>
               <id>230</id>
-              <name>or_ln44_28</name>
+              <name>or_ln43_28</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -9600,13 +9600,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>or_ln44_28_fu_2123_p2</rtlName>
+              <rtlName>or_ln43_28_fu_2123_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -9631,16 +9631,16 @@
             <Obj>
               <type>0</type>
               <id>231</id>
-              <name>zext_ln44_28</name>
+              <name>zext_ln43_28</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -9649,13 +9649,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln44_28_fu_2129_p1</rtlName>
+              <rtlName>zext_ln43_28_fu_2129_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -9679,16 +9679,16 @@
             <Obj>
               <type>0</type>
               <id>232</id>
-              <name>icmp_ln45_30</name>
+              <name>icmp_ln44_30</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -9697,13 +9697,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_30_fu_2133_p2</rtlName>
+              <rtlName>icmp_ln44_30_fu_2133_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -9728,16 +9728,16 @@
             <Obj>
               <type>0</type>
               <id>233</id>
-              <name>select_ln37_17</name>
+              <name>select_ln36_17</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -9746,13 +9746,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>select_ln37_17_fu_2138_p3</rtlName>
+              <rtlName>select_ln36_17_fu_2138_p3</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -9778,16 +9778,16 @@
             <Obj>
               <type>0</type>
               <id>234</id>
-              <name>xor_ln37_14</name>
+              <name>xor_ln36_14</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -9796,13 +9796,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>xor_ln37_14_fu_2662_p2</rtlName>
+              <rtlName>xor_ln36_14_fu_2662_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -9827,16 +9827,16 @@
             <Obj>
               <type>0</type>
               <id>235</id>
-              <name>zext_ln37_14</name>
+              <name>zext_ln36_14</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -9845,13 +9845,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln37_14_fu_2667_p1</rtlName>
+              <rtlName>zext_ln36_14_fu_2667_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>32</bitwidth>
@@ -9875,16 +9875,16 @@
             <Obj>
               <type>0</type>
               <id>236</id>
-              <name>or_ln44_29</name>
+              <name>or_ln43_29</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -9893,13 +9893,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>or_ln44_29_fu_2146_p2</rtlName>
+              <rtlName>or_ln43_29_fu_2146_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -9924,16 +9924,16 @@
             <Obj>
               <type>0</type>
               <id>237</id>
-              <name>zext_ln44_29</name>
+              <name>zext_ln43_29</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>43</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -9942,13 +9942,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>44</second>
+                      <second>43</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln44_29_fu_2152_p1</rtlName>
+              <rtlName>zext_ln43_29_fu_2152_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>8</bitwidth>
@@ -9972,16 +9972,16 @@
             <Obj>
               <type>0</type>
               <id>238</id>
-              <name>icmp_ln45_31</name>
+              <name>icmp_ln44_31</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -9990,13 +9990,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln45_31_fu_2156_p2</rtlName>
+              <rtlName>icmp_ln44_31_fu_2156_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -10021,16 +10021,16 @@
             <Obj>
               <type>0</type>
               <id>239</id>
-              <name>select_ln37_18</name>
+              <name>select_ln36_18</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -10039,13 +10039,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>select_ln37_18_fu_2161_p3</rtlName>
+              <rtlName>select_ln36_18_fu_2161_p3</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -10071,16 +10071,16 @@
             <Obj>
               <type>0</type>
               <id>240</id>
-              <name>xor_ln37_15</name>
+              <name>xor_ln36_15</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -10089,13 +10089,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>xor_ln37_15_fu_2671_p2</rtlName>
+              <rtlName>xor_ln36_15_fu_2671_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -10120,16 +10120,16 @@
             <Obj>
               <type>0</type>
               <id>241</id>
-              <name>zext_ln37_15</name>
+              <name>zext_ln36_15</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -10138,13 +10138,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln37_15_fu_2676_p1</rtlName>
+              <rtlName>zext_ln36_15_fu_2676_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>32</bitwidth>
@@ -10168,16 +10168,16 @@
             <Obj>
               <type>0</type>
               <id>242</id>
-              <name>icmp_ln39_1</name>
+              <name>icmp_ln38_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>39</lineNumber>
+              <lineNumber>38</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -10186,13 +10186,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>39</second>
+                      <second>38</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln39_1_fu_2169_p2</rtlName>
+              <rtlName>icmp_ln38_1_fu_2169_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -10217,16 +10217,16 @@
             <Obj>
               <type>0</type>
               <id>243</id>
-              <name>select_ln37_19</name>
+              <name>select_ln36_19</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>36</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -10235,13 +10235,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>37</second>
+                      <second>36</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>select_ln37_19_fu_2174_p3</rtlName>
+              <rtlName>select_ln36_19_fu_2174_p3</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -10270,13 +10270,13 @@
               <name>row</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>38</lineNumber>
+              <lineNumber>37</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -10285,7 +10285,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>38</second>
+                      <second>37</second>
                     </item>
                   </second>
                 </item>
@@ -10316,16 +10316,16 @@
             <Obj>
               <type>0</type>
               <id>245</id>
-              <name>or_ln38</name>
+              <name>or_ln37</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>38</lineNumber>
+              <lineNumber>37</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -10334,13 +10334,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>38</second>
+                      <second>37</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>or_ln38_fu_2187_p2</rtlName>
+              <rtlName>or_ln37_fu_2187_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -10365,16 +10365,16 @@
             <Obj>
               <type>0</type>
               <id>246</id>
-              <name>select_ln38</name>
+              <name>select_ln37</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>38</lineNumber>
+              <lineNumber>37</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -10383,13 +10383,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>38</second>
+                      <second>37</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>select_ln38_fu_2193_p3</rtlName>
+              <rtlName>select_ln37_fu_2193_p3</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -10415,16 +10415,16 @@
             <Obj>
               <type>0</type>
               <id>247</id>
-              <name>select_ln38_1</name>
+              <name>select_ln37_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>38</lineNumber>
+              <lineNumber>37</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -10433,13 +10433,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>38</second>
+                      <second>37</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>select_ln38_1_fu_2201_p3</rtlName>
+              <rtlName>select_ln37_1_fu_2201_p3</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>6</bitwidth>
@@ -10465,16 +10465,16 @@
             <Obj>
               <type>0</type>
               <id>248</id>
-              <name>zext_ln38</name>
+              <name>zext_ln37</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>38</lineNumber>
+              <lineNumber>37</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -10483,13 +10483,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>38</second>
+                      <second>37</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln38_fu_2229_p1</rtlName>
+              <rtlName>zext_ln37_fu_2229_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>12</bitwidth>
@@ -10516,13 +10516,13 @@
               <name>tmp_17</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -10531,7 +10531,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -10563,16 +10563,16 @@
             <Obj>
               <type>0</type>
               <id>250</id>
-              <name>zext_ln43</name>
+              <name>zext_ln42</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -10581,13 +10581,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln43_fu_2239_p1</rtlName>
+              <rtlName>zext_ln42_fu_2239_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>12</bitwidth>
@@ -10611,16 +10611,16 @@
             <Obj>
               <type>0</type>
               <id>251</id>
-              <name>add_ln43</name>
+              <name>add_ln42</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -10629,13 +10629,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>add_ln43_fu_2243_p2</rtlName>
+              <rtlName>add_ln42_fu_2243_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>12</bitwidth>
@@ -10660,16 +10660,16 @@
             <Obj>
               <type>0</type>
               <id>254</id>
-              <name>zext_ln43_1</name>
+              <name>zext_ln42_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -10678,13 +10678,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln43_1_fu_2249_p1</rtlName>
+              <rtlName>zext_ln42_1_fu_2249_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>12</bitwidth>
@@ -10708,16 +10708,16 @@
             <Obj>
               <type>0</type>
               <id>255</id>
-              <name>add_ln43_1</name>
+              <name>add_ln42_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -10726,13 +10726,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>add_ln43_1_fu_2252_p2</rtlName>
+              <rtlName>add_ln42_1_fu_2252_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>12</bitwidth>
@@ -10757,16 +10757,16 @@
             <Obj>
               <type>0</type>
               <id>256</id>
-              <name>zext_ln43_2</name>
+              <name>zext_ln42_2</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -10775,13 +10775,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln43_2_fu_2258_p1</rtlName>
+              <rtlName>zext_ln42_2_fu_2258_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>64</bitwidth>
@@ -10808,13 +10808,13 @@
               <name>prior_outputs_0_0_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -10823,7 +10823,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -10858,13 +10858,13 @@
               <name>prior_outputs_0_1_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -10873,7 +10873,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -10908,13 +10908,13 @@
               <name>prior_outputs_0_2_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -10923,7 +10923,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -10958,13 +10958,13 @@
               <name>prior_outputs_0_3_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -10973,7 +10973,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -11008,13 +11008,13 @@
               <name>prior_outputs_0_4_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -11023,7 +11023,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -11058,13 +11058,13 @@
               <name>prior_outputs_0_5_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -11073,7 +11073,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -11108,13 +11108,13 @@
               <name>prior_outputs_0_6_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -11123,7 +11123,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -11158,13 +11158,13 @@
               <name>prior_outputs_0_7_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -11173,7 +11173,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -11208,13 +11208,13 @@
               <name>prior_outputs_0_8_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -11223,7 +11223,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -11258,13 +11258,13 @@
               <name>prior_outputs_0_9_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -11273,7 +11273,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -11308,13 +11308,13 @@
               <name>prior_outputs_0_10_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -11323,7 +11323,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -11358,13 +11358,13 @@
               <name>prior_outputs_0_11_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -11373,7 +11373,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -11408,13 +11408,13 @@
               <name>prior_outputs_0_12_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -11423,7 +11423,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -11458,13 +11458,13 @@
               <name>prior_outputs_0_13_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -11473,7 +11473,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -11508,13 +11508,13 @@
               <name>prior_outputs_0_14_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -11523,7 +11523,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -11558,13 +11558,13 @@
               <name>prior_outputs_0_15_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -11573,7 +11573,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -11608,13 +11608,13 @@
               <name>prior_outputs_1_0_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -11623,7 +11623,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -11658,13 +11658,13 @@
               <name>prior_outputs_1_1_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -11673,7 +11673,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -11708,13 +11708,13 @@
               <name>prior_outputs_1_2_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -11723,7 +11723,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -11758,13 +11758,13 @@
               <name>prior_outputs_1_3_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -11773,7 +11773,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -11808,13 +11808,13 @@
               <name>prior_outputs_1_4_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -11823,7 +11823,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -11858,13 +11858,13 @@
               <name>prior_outputs_1_5_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -11873,7 +11873,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -11908,13 +11908,13 @@
               <name>prior_outputs_1_6_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -11923,7 +11923,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -11958,13 +11958,13 @@
               <name>prior_outputs_1_7_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -11973,7 +11973,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -12008,13 +12008,13 @@
               <name>prior_outputs_1_8_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -12023,7 +12023,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -12058,13 +12058,13 @@
               <name>prior_outputs_1_9_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -12073,7 +12073,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -12108,13 +12108,13 @@
               <name>prior_outputs_1_10_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -12123,7 +12123,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -12158,13 +12158,13 @@
               <name>prior_outputs_1_11_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -12173,7 +12173,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -12208,13 +12208,13 @@
               <name>prior_outputs_1_12_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -12223,7 +12223,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -12258,13 +12258,13 @@
               <name>prior_outputs_1_13_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -12273,7 +12273,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -12308,13 +12308,13 @@
               <name>prior_outputs_1_14_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -12323,7 +12323,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -12358,13 +12358,13 @@
               <name>prior_outputs_1_15_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -12373,7 +12373,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -12408,13 +12408,13 @@
               <name>prior_outputs_2_0_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -12423,7 +12423,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -12458,13 +12458,13 @@
               <name>prior_outputs_2_1_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -12473,7 +12473,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -12508,13 +12508,13 @@
               <name>prior_outputs_2_2_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -12523,7 +12523,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -12558,13 +12558,13 @@
               <name>prior_outputs_2_3_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -12573,7 +12573,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -12608,13 +12608,13 @@
               <name>prior_outputs_2_4_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -12623,7 +12623,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -12658,13 +12658,13 @@
               <name>prior_outputs_2_5_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -12673,7 +12673,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -12708,13 +12708,13 @@
               <name>prior_outputs_2_6_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -12723,7 +12723,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -12758,13 +12758,13 @@
               <name>prior_outputs_2_7_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -12773,7 +12773,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -12808,13 +12808,13 @@
               <name>prior_outputs_2_8_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -12823,7 +12823,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -12858,13 +12858,13 @@
               <name>prior_outputs_2_9_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -12873,7 +12873,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -12908,13 +12908,13 @@
               <name>prior_outputs_2_10_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -12923,7 +12923,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -12958,13 +12958,13 @@
               <name>prior_outputs_2_11_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -12973,7 +12973,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -13008,13 +13008,13 @@
               <name>prior_outputs_2_12_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -13023,7 +13023,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -13058,13 +13058,13 @@
               <name>prior_outputs_2_13_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -13073,7 +13073,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -13108,13 +13108,13 @@
               <name>prior_outputs_2_14_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -13123,7 +13123,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -13158,13 +13158,13 @@
               <name>prior_outputs_2_15_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -13173,7 +13173,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -13208,13 +13208,13 @@
               <name>prior_outputs_3_0_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -13223,7 +13223,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -13258,13 +13258,13 @@
               <name>prior_outputs_3_1_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -13273,7 +13273,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -13308,13 +13308,13 @@
               <name>prior_outputs_3_2_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -13323,7 +13323,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -13358,13 +13358,13 @@
               <name>prior_outputs_3_3_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -13373,7 +13373,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -13408,13 +13408,13 @@
               <name>prior_outputs_3_4_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -13423,7 +13423,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -13458,13 +13458,13 @@
               <name>prior_outputs_3_5_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -13473,7 +13473,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -13508,13 +13508,13 @@
               <name>prior_outputs_3_6_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -13523,7 +13523,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -13558,13 +13558,13 @@
               <name>prior_outputs_3_7_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -13573,7 +13573,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -13608,13 +13608,13 @@
               <name>prior_outputs_3_8_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -13623,7 +13623,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -13658,13 +13658,13 @@
               <name>prior_outputs_3_9_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -13673,7 +13673,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -13708,13 +13708,13 @@
               <name>prior_outputs_3_10_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -13723,7 +13723,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -13758,13 +13758,13 @@
               <name>prior_outputs_3_11_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -13773,7 +13773,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -13808,13 +13808,13 @@
               <name>prior_outputs_3_12_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -13823,7 +13823,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -13858,13 +13858,13 @@
               <name>prior_outputs_3_13_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -13873,7 +13873,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -13908,13 +13908,13 @@
               <name>prior_outputs_3_14_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -13923,7 +13923,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -13958,13 +13958,13 @@
               <name>prior_outputs_3_15_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -13973,7 +13973,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -14008,13 +14008,13 @@
               <name>msb_buffer_0_V_addr</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -14023,7 +14023,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -14058,13 +14058,13 @@
               <name>msb_buffer_1_V_addr</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -14073,7 +14073,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -14108,13 +14108,13 @@
               <name>prior_outputs_0_0_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -14123,7 +14123,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -14156,13 +14156,13 @@
               <name>prior_outputs_1_0_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -14171,7 +14171,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -14204,13 +14204,13 @@
               <name>prior_outputs_2_0_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -14219,7 +14219,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -14252,13 +14252,13 @@
               <name>prior_outputs_3_0_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -14267,7 +14267,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -14300,13 +14300,13 @@
               <name>tmp_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -14315,13 +14315,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>FracNet_T_mux_42_cyx_U320</rtlName>
+              <rtlName>FracNet_T_mux_42_cyx_U335</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>16</bitwidth>
@@ -14350,16 +14350,16 @@
             <Obj>
               <type>0</type>
               <id>328</id>
-              <name>_ln45</name>
+              <name>_ln44</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -14368,7 +14368,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
@@ -14403,13 +14403,13 @@
               <name>op2_V_assign</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -14418,7 +14418,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -14449,16 +14449,16 @@
             <Obj>
               <type>0</type>
               <id>331</id>
-              <name>_ln47</name>
+              <name>_ln46</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>47</lineNumber>
+              <lineNumber>46</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -14467,7 +14467,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>47</second>
+                      <second>46</second>
                     </item>
                   </second>
                 </item>
@@ -14500,13 +14500,13 @@
               <name>p_Val2_0</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -14515,7 +14515,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -14551,13 +14551,13 @@
               <name>trunc_ln821</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -14566,7 +14566,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -14599,13 +14599,13 @@
               <name>msb_buffer_0_V_load</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -14614,7 +14614,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -14647,13 +14647,13 @@
               <name>tmp_18</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -14662,7 +14662,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -14697,13 +14697,13 @@
               <name>zext_ln821</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -14712,7 +14712,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -14745,13 +14745,13 @@
               <name>tmp_19</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -14760,7 +14760,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -14796,13 +14796,13 @@
               <name>msb_buffer_1_V_load</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -14811,7 +14811,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -14844,13 +14844,13 @@
               <name>zext_ln821_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -14859,7 +14859,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -14892,13 +14892,13 @@
               <name>tmp_20</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -14907,7 +14907,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -14943,13 +14943,13 @@
               <name>prior_outputs_0_1_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -14958,7 +14958,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -14991,13 +14991,13 @@
               <name>prior_outputs_1_1_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -15006,7 +15006,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -15039,13 +15039,13 @@
               <name>prior_outputs_2_1_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -15054,7 +15054,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -15087,13 +15087,13 @@
               <name>prior_outputs_3_1_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -15102,7 +15102,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -15135,13 +15135,13 @@
               <name>tmp_2</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -15150,13 +15150,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>FracNet_T_mux_42_cyx_U321</rtlName>
+              <rtlName>FracNet_T_mux_42_cyx_U336</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>16</bitwidth>
@@ -15185,16 +15185,16 @@
             <Obj>
               <type>0</type>
               <id>347</id>
-              <name>_ln45</name>
+              <name>_ln44</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -15203,7 +15203,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
@@ -15238,13 +15238,13 @@
               <name>op2_V_assign_0_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -15253,7 +15253,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -15284,16 +15284,16 @@
             <Obj>
               <type>0</type>
               <id>350</id>
-              <name>_ln47</name>
+              <name>_ln46</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>47</lineNumber>
+              <lineNumber>46</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -15302,7 +15302,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>47</second>
+                      <second>46</second>
                     </item>
                   </second>
                 </item>
@@ -15335,13 +15335,13 @@
               <name>p_Val2_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -15350,7 +15350,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -15386,13 +15386,13 @@
               <name>trunc_ln821_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -15401,7 +15401,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -15434,13 +15434,13 @@
               <name>tmp_21</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -15449,7 +15449,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -15484,13 +15484,13 @@
               <name>zext_ln821_2</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -15499,7 +15499,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -15532,13 +15532,13 @@
               <name>tmp_22</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -15547,7 +15547,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -15583,13 +15583,13 @@
               <name>zext_ln821_3</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -15598,7 +15598,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -15631,13 +15631,13 @@
               <name>tmp_23</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -15646,7 +15646,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -15682,13 +15682,13 @@
               <name>prior_outputs_0_2_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -15697,7 +15697,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -15730,13 +15730,13 @@
               <name>prior_outputs_1_2_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -15745,7 +15745,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -15778,13 +15778,13 @@
               <name>prior_outputs_2_2_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -15793,7 +15793,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -15826,13 +15826,13 @@
               <name>prior_outputs_3_2_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -15841,7 +15841,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -15874,13 +15874,13 @@
               <name>tmp_3</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -15889,13 +15889,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>FracNet_T_mux_42_cyx_U322</rtlName>
+              <rtlName>FracNet_T_mux_42_cyx_U337</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>16</bitwidth>
@@ -15924,16 +15924,16 @@
             <Obj>
               <type>0</type>
               <id>364</id>
-              <name>_ln45</name>
+              <name>_ln44</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -15942,7 +15942,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
@@ -15977,13 +15977,13 @@
               <name>op2_V_assign_0_2</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -15992,7 +15992,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -16023,16 +16023,16 @@
             <Obj>
               <type>0</type>
               <id>367</id>
-              <name>_ln47</name>
+              <name>_ln46</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>47</lineNumber>
+              <lineNumber>46</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -16041,7 +16041,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>47</second>
+                      <second>46</second>
                     </item>
                   </second>
                 </item>
@@ -16074,13 +16074,13 @@
               <name>p_Val2_2</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -16089,7 +16089,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -16125,13 +16125,13 @@
               <name>trunc_ln821_2</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -16140,7 +16140,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -16173,13 +16173,13 @@
               <name>tmp_24</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -16188,7 +16188,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -16223,13 +16223,13 @@
               <name>zext_ln821_4</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -16238,7 +16238,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -16271,13 +16271,13 @@
               <name>tmp_25</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -16286,7 +16286,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -16322,13 +16322,13 @@
               <name>zext_ln821_5</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -16337,7 +16337,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -16370,13 +16370,13 @@
               <name>tmp_26</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -16385,7 +16385,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -16421,13 +16421,13 @@
               <name>prior_outputs_0_3_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -16436,7 +16436,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -16469,13 +16469,13 @@
               <name>prior_outputs_1_3_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -16484,7 +16484,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -16517,13 +16517,13 @@
               <name>prior_outputs_2_3_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -16532,7 +16532,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -16565,13 +16565,13 @@
               <name>prior_outputs_3_3_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -16580,7 +16580,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -16613,13 +16613,13 @@
               <name>tmp_4</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -16628,13 +16628,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>FracNet_T_mux_42_cyx_U323</rtlName>
+              <rtlName>FracNet_T_mux_42_cyx_U338</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>16</bitwidth>
@@ -16663,16 +16663,16 @@
             <Obj>
               <type>0</type>
               <id>381</id>
-              <name>_ln45</name>
+              <name>_ln44</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -16681,7 +16681,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
@@ -16716,13 +16716,13 @@
               <name>op2_V_assign_0_3</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -16731,7 +16731,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -16762,16 +16762,16 @@
             <Obj>
               <type>0</type>
               <id>384</id>
-              <name>_ln47</name>
+              <name>_ln46</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>47</lineNumber>
+              <lineNumber>46</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -16780,7 +16780,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>47</second>
+                      <second>46</second>
                     </item>
                   </second>
                 </item>
@@ -16813,13 +16813,13 @@
               <name>p_Val2_3</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -16828,7 +16828,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -16864,13 +16864,13 @@
               <name>trunc_ln821_3</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -16879,7 +16879,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -16912,13 +16912,13 @@
               <name>tmp_27</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -16927,7 +16927,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -16962,13 +16962,13 @@
               <name>zext_ln821_6</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -16977,7 +16977,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -17010,13 +17010,13 @@
               <name>tmp_28</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -17025,7 +17025,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -17061,13 +17061,13 @@
               <name>zext_ln821_7</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -17076,7 +17076,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -17109,13 +17109,13 @@
               <name>tmp_29</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -17124,7 +17124,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -17160,13 +17160,13 @@
               <name>prior_outputs_0_4_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -17175,7 +17175,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -17208,13 +17208,13 @@
               <name>prior_outputs_1_4_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -17223,7 +17223,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -17256,13 +17256,13 @@
               <name>prior_outputs_2_4_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -17271,7 +17271,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -17304,13 +17304,13 @@
               <name>prior_outputs_3_4_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -17319,7 +17319,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -17352,13 +17352,13 @@
               <name>tmp_5</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -17367,13 +17367,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>FracNet_T_mux_42_cyx_U324</rtlName>
+              <rtlName>FracNet_T_mux_42_cyx_U339</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>16</bitwidth>
@@ -17402,16 +17402,16 @@
             <Obj>
               <type>0</type>
               <id>398</id>
-              <name>_ln45</name>
+              <name>_ln44</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -17420,7 +17420,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
@@ -17455,13 +17455,13 @@
               <name>op2_V_assign_0_4</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -17470,7 +17470,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -17501,16 +17501,16 @@
             <Obj>
               <type>0</type>
               <id>401</id>
-              <name>_ln47</name>
+              <name>_ln46</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>47</lineNumber>
+              <lineNumber>46</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -17519,7 +17519,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>47</second>
+                      <second>46</second>
                     </item>
                   </second>
                 </item>
@@ -17552,13 +17552,13 @@
               <name>p_Val2_4</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -17567,7 +17567,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -17603,13 +17603,13 @@
               <name>trunc_ln821_4</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -17618,7 +17618,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -17651,13 +17651,13 @@
               <name>tmp_30</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -17666,7 +17666,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -17701,13 +17701,13 @@
               <name>zext_ln821_8</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -17716,7 +17716,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -17749,13 +17749,13 @@
               <name>tmp_31</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -17764,7 +17764,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -17800,13 +17800,13 @@
               <name>zext_ln821_9</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -17815,7 +17815,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -17848,13 +17848,13 @@
               <name>tmp_32</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -17863,7 +17863,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -17899,13 +17899,13 @@
               <name>prior_outputs_0_5_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -17914,7 +17914,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -17947,13 +17947,13 @@
               <name>prior_outputs_1_5_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -17962,7 +17962,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -17995,13 +17995,13 @@
               <name>prior_outputs_2_5_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -18010,7 +18010,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -18043,13 +18043,13 @@
               <name>prior_outputs_3_5_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -18058,7 +18058,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -18091,13 +18091,13 @@
               <name>tmp_6</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -18106,13 +18106,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>FracNet_T_mux_42_cyx_U325</rtlName>
+              <rtlName>FracNet_T_mux_42_cyx_U340</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>16</bitwidth>
@@ -18141,16 +18141,16 @@
             <Obj>
               <type>0</type>
               <id>415</id>
-              <name>_ln45</name>
+              <name>_ln44</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -18159,7 +18159,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
@@ -18194,13 +18194,13 @@
               <name>op2_V_assign_0_5</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -18209,7 +18209,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -18240,16 +18240,16 @@
             <Obj>
               <type>0</type>
               <id>418</id>
-              <name>_ln47</name>
+              <name>_ln46</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>47</lineNumber>
+              <lineNumber>46</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -18258,7 +18258,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>47</second>
+                      <second>46</second>
                     </item>
                   </second>
                 </item>
@@ -18291,13 +18291,13 @@
               <name>p_Val2_58</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -18306,7 +18306,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -18342,13 +18342,13 @@
               <name>trunc_ln821_5</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -18357,7 +18357,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -18390,13 +18390,13 @@
               <name>tmp_33</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -18405,7 +18405,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -18440,13 +18440,13 @@
               <name>zext_ln821_10</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -18455,7 +18455,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -18488,13 +18488,13 @@
               <name>tmp_34</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -18503,7 +18503,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -18539,13 +18539,13 @@
               <name>zext_ln821_11</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -18554,7 +18554,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -18587,13 +18587,13 @@
               <name>tmp_35</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -18602,7 +18602,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -18638,13 +18638,13 @@
               <name>prior_outputs_0_6_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -18653,7 +18653,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -18686,13 +18686,13 @@
               <name>prior_outputs_1_6_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -18701,7 +18701,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -18734,13 +18734,13 @@
               <name>prior_outputs_2_6_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -18749,7 +18749,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -18782,13 +18782,13 @@
               <name>prior_outputs_3_6_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -18797,7 +18797,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -18830,13 +18830,13 @@
               <name>tmp_7</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -18845,13 +18845,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>FracNet_T_mux_42_cyx_U326</rtlName>
+              <rtlName>FracNet_T_mux_42_cyx_U341</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>16</bitwidth>
@@ -18880,16 +18880,16 @@
             <Obj>
               <type>0</type>
               <id>432</id>
-              <name>_ln45</name>
+              <name>_ln44</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -18898,7 +18898,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
@@ -18933,13 +18933,13 @@
               <name>op2_V_assign_0_6</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -18948,7 +18948,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -18979,16 +18979,16 @@
             <Obj>
               <type>0</type>
               <id>435</id>
-              <name>_ln47</name>
+              <name>_ln46</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>47</lineNumber>
+              <lineNumber>46</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -18997,7 +18997,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>47</second>
+                      <second>46</second>
                     </item>
                   </second>
                 </item>
@@ -19030,13 +19030,13 @@
               <name>p_Val2_69</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -19045,7 +19045,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -19081,13 +19081,13 @@
               <name>trunc_ln821_6</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -19096,7 +19096,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -19129,13 +19129,13 @@
               <name>tmp_36</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -19144,7 +19144,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -19179,13 +19179,13 @@
               <name>zext_ln821_12</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -19194,7 +19194,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -19227,13 +19227,13 @@
               <name>tmp_37</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -19242,7 +19242,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -19278,13 +19278,13 @@
               <name>zext_ln821_13</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -19293,7 +19293,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -19326,13 +19326,13 @@
               <name>tmp_38</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -19341,7 +19341,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -19377,13 +19377,13 @@
               <name>prior_outputs_0_7_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -19392,7 +19392,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -19425,13 +19425,13 @@
               <name>prior_outputs_1_7_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -19440,7 +19440,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -19473,13 +19473,13 @@
               <name>prior_outputs_2_7_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -19488,7 +19488,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -19521,13 +19521,13 @@
               <name>prior_outputs_3_7_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -19536,7 +19536,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -19569,13 +19569,13 @@
               <name>tmp_8</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -19584,13 +19584,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>FracNet_T_mux_42_cyx_U327</rtlName>
+              <rtlName>FracNet_T_mux_42_cyx_U342</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>16</bitwidth>
@@ -19619,16 +19619,16 @@
             <Obj>
               <type>0</type>
               <id>449</id>
-              <name>_ln45</name>
+              <name>_ln44</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -19637,7 +19637,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
@@ -19672,13 +19672,13 @@
               <name>op2_V_assign_0_7</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -19687,7 +19687,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -19718,16 +19718,16 @@
             <Obj>
               <type>0</type>
               <id>452</id>
-              <name>_ln47</name>
+              <name>_ln46</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>47</lineNumber>
+              <lineNumber>46</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -19736,7 +19736,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>47</second>
+                      <second>46</second>
                     </item>
                   </second>
                 </item>
@@ -19769,13 +19769,13 @@
               <name>p_Val2_7</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -19784,7 +19784,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -19820,13 +19820,13 @@
               <name>trunc_ln821_7</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -19835,7 +19835,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -19868,13 +19868,13 @@
               <name>tmp_39</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -19883,7 +19883,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -19918,13 +19918,13 @@
               <name>zext_ln821_14</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -19933,7 +19933,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -19966,13 +19966,13 @@
               <name>tmp_40</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -19981,7 +19981,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -20017,13 +20017,13 @@
               <name>zext_ln821_15</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -20032,7 +20032,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -20065,13 +20065,13 @@
               <name>tmp_41</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -20080,7 +20080,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -20116,13 +20116,13 @@
               <name>prior_outputs_0_8_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -20131,7 +20131,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -20164,13 +20164,13 @@
               <name>prior_outputs_1_8_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -20179,7 +20179,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -20212,13 +20212,13 @@
               <name>prior_outputs_2_8_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -20227,7 +20227,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -20260,13 +20260,13 @@
               <name>prior_outputs_3_8_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -20275,7 +20275,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -20308,13 +20308,13 @@
               <name>tmp_9</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -20323,13 +20323,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>FracNet_T_mux_42_cyx_U328</rtlName>
+              <rtlName>FracNet_T_mux_42_cyx_U343</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>16</bitwidth>
@@ -20358,16 +20358,16 @@
             <Obj>
               <type>0</type>
               <id>466</id>
-              <name>_ln45</name>
+              <name>_ln44</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -20376,7 +20376,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
@@ -20411,13 +20411,13 @@
               <name>op2_V_assign_0_8</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -20426,7 +20426,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -20457,16 +20457,16 @@
             <Obj>
               <type>0</type>
               <id>469</id>
-              <name>_ln47</name>
+              <name>_ln46</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>47</lineNumber>
+              <lineNumber>46</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -20475,7 +20475,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>47</second>
+                      <second>46</second>
                     </item>
                   </second>
                 </item>
@@ -20508,13 +20508,13 @@
               <name>p_Val2_8</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -20523,7 +20523,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -20559,13 +20559,13 @@
               <name>trunc_ln821_8</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -20574,7 +20574,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -20607,13 +20607,13 @@
               <name>tmp_42</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -20622,7 +20622,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -20657,13 +20657,13 @@
               <name>zext_ln821_16</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -20672,7 +20672,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -20705,13 +20705,13 @@
               <name>tmp_43</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -20720,7 +20720,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -20756,13 +20756,13 @@
               <name>zext_ln821_17</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -20771,7 +20771,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -20804,13 +20804,13 @@
               <name>tmp_44</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -20819,7 +20819,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -20855,13 +20855,13 @@
               <name>prior_outputs_0_9_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -20870,7 +20870,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -20903,13 +20903,13 @@
               <name>prior_outputs_1_9_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -20918,7 +20918,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -20951,13 +20951,13 @@
               <name>prior_outputs_2_9_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -20966,7 +20966,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -20999,13 +20999,13 @@
               <name>prior_outputs_3_9_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -21014,7 +21014,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -21047,13 +21047,13 @@
               <name>tmp_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -21062,13 +21062,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>FracNet_T_mux_42_cyx_U329</rtlName>
+              <rtlName>FracNet_T_mux_42_cyx_U344</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>16</bitwidth>
@@ -21097,16 +21097,16 @@
             <Obj>
               <type>0</type>
               <id>483</id>
-              <name>_ln45</name>
+              <name>_ln44</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -21115,7 +21115,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
@@ -21150,13 +21150,13 @@
               <name>op2_V_assign_0_9</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -21165,7 +21165,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -21196,16 +21196,16 @@
             <Obj>
               <type>0</type>
               <id>486</id>
-              <name>_ln47</name>
+              <name>_ln46</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>47</lineNumber>
+              <lineNumber>46</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -21214,7 +21214,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>47</second>
+                      <second>46</second>
                     </item>
                   </second>
                 </item>
@@ -21247,13 +21247,13 @@
               <name>p_Val2_9</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -21262,7 +21262,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -21298,13 +21298,13 @@
               <name>trunc_ln821_9</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -21313,7 +21313,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -21346,13 +21346,13 @@
               <name>tmp_45</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -21361,7 +21361,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -21396,13 +21396,13 @@
               <name>zext_ln821_18</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -21411,7 +21411,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -21444,13 +21444,13 @@
               <name>tmp_46</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -21459,7 +21459,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -21495,13 +21495,13 @@
               <name>zext_ln821_19</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -21510,7 +21510,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -21543,13 +21543,13 @@
               <name>tmp_47</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -21558,7 +21558,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -21594,13 +21594,13 @@
               <name>prior_outputs_0_10</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -21609,7 +21609,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -21642,13 +21642,13 @@
               <name>prior_outputs_1_10</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -21657,7 +21657,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -21690,13 +21690,13 @@
               <name>prior_outputs_2_10</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -21705,7 +21705,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -21738,13 +21738,13 @@
               <name>prior_outputs_3_10</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -21753,7 +21753,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -21786,13 +21786,13 @@
               <name>tmp_10</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -21801,13 +21801,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>FracNet_T_mux_42_cyx_U330</rtlName>
+              <rtlName>FracNet_T_mux_42_cyx_U345</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>16</bitwidth>
@@ -21836,16 +21836,16 @@
             <Obj>
               <type>0</type>
               <id>500</id>
-              <name>_ln45</name>
+              <name>_ln44</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -21854,7 +21854,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
@@ -21889,13 +21889,13 @@
               <name>op2_V_assign_0_s</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -21904,7 +21904,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -21935,16 +21935,16 @@
             <Obj>
               <type>0</type>
               <id>503</id>
-              <name>_ln47</name>
+              <name>_ln46</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>47</lineNumber>
+              <lineNumber>46</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -21953,7 +21953,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>47</second>
+                      <second>46</second>
                     </item>
                   </second>
                 </item>
@@ -21986,13 +21986,13 @@
               <name>p_Val2_10</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -22001,7 +22001,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -22037,13 +22037,13 @@
               <name>trunc_ln821_10</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -22052,7 +22052,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -22085,13 +22085,13 @@
               <name>tmp_48</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -22100,7 +22100,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -22135,13 +22135,13 @@
               <name>zext_ln821_20</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -22150,7 +22150,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -22183,13 +22183,13 @@
               <name>tmp_49</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -22198,7 +22198,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -22234,13 +22234,13 @@
               <name>zext_ln821_21</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -22249,7 +22249,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -22282,13 +22282,13 @@
               <name>tmp_50</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -22297,7 +22297,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -22333,13 +22333,13 @@
               <name>prior_outputs_0_11</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -22348,7 +22348,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -22381,13 +22381,13 @@
               <name>prior_outputs_1_11</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -22396,7 +22396,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -22429,13 +22429,13 @@
               <name>prior_outputs_2_11</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -22444,7 +22444,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -22477,13 +22477,13 @@
               <name>prior_outputs_3_11</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -22492,7 +22492,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -22525,13 +22525,13 @@
               <name>tmp_11</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -22540,13 +22540,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>FracNet_T_mux_42_cyx_U331</rtlName>
+              <rtlName>FracNet_T_mux_42_cyx_U346</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>16</bitwidth>
@@ -22575,16 +22575,16 @@
             <Obj>
               <type>0</type>
               <id>517</id>
-              <name>_ln45</name>
+              <name>_ln44</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -22593,7 +22593,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
@@ -22628,13 +22628,13 @@
               <name>op2_V_assign_0_10</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -22643,7 +22643,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -22674,16 +22674,16 @@
             <Obj>
               <type>0</type>
               <id>520</id>
-              <name>_ln47</name>
+              <name>_ln46</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>47</lineNumber>
+              <lineNumber>46</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -22692,7 +22692,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>47</second>
+                      <second>46</second>
                     </item>
                   </second>
                 </item>
@@ -22725,13 +22725,13 @@
               <name>p_Val2_11</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -22740,7 +22740,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -22776,13 +22776,13 @@
               <name>trunc_ln821_11</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -22791,7 +22791,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -22824,13 +22824,13 @@
               <name>tmp_51</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -22839,7 +22839,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -22874,13 +22874,13 @@
               <name>zext_ln821_22</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -22889,7 +22889,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -22922,13 +22922,13 @@
               <name>tmp_52</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -22937,7 +22937,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -22973,13 +22973,13 @@
               <name>zext_ln821_23</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -22988,7 +22988,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -23021,13 +23021,13 @@
               <name>tmp_53</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -23036,7 +23036,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -23072,13 +23072,13 @@
               <name>prior_outputs_0_12</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -23087,7 +23087,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -23120,13 +23120,13 @@
               <name>prior_outputs_1_12</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -23135,7 +23135,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -23168,13 +23168,13 @@
               <name>prior_outputs_2_12</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -23183,7 +23183,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -23216,13 +23216,13 @@
               <name>prior_outputs_3_12</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -23231,7 +23231,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -23264,13 +23264,13 @@
               <name>tmp_12</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -23279,13 +23279,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>FracNet_T_mux_42_cyx_U332</rtlName>
+              <rtlName>FracNet_T_mux_42_cyx_U347</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>16</bitwidth>
@@ -23314,16 +23314,16 @@
             <Obj>
               <type>0</type>
               <id>534</id>
-              <name>_ln45</name>
+              <name>_ln44</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -23332,7 +23332,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
@@ -23367,13 +23367,13 @@
               <name>op2_V_assign_0_11</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -23382,7 +23382,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -23413,16 +23413,16 @@
             <Obj>
               <type>0</type>
               <id>537</id>
-              <name>_ln47</name>
+              <name>_ln46</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>47</lineNumber>
+              <lineNumber>46</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -23431,7 +23431,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>47</second>
+                      <second>46</second>
                     </item>
                   </second>
                 </item>
@@ -23464,13 +23464,13 @@
               <name>p_Val2_12</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -23479,7 +23479,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -23515,13 +23515,13 @@
               <name>trunc_ln821_12</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -23530,7 +23530,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -23563,13 +23563,13 @@
               <name>tmp_54</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -23578,7 +23578,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -23613,13 +23613,13 @@
               <name>zext_ln821_24</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -23628,7 +23628,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -23661,13 +23661,13 @@
               <name>tmp_55</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -23676,7 +23676,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -23712,13 +23712,13 @@
               <name>zext_ln821_25</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -23727,7 +23727,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -23760,13 +23760,13 @@
               <name>tmp_56</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -23775,7 +23775,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -23811,13 +23811,13 @@
               <name>prior_outputs_0_13</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -23826,7 +23826,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -23859,13 +23859,13 @@
               <name>prior_outputs_1_13</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -23874,7 +23874,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -23907,13 +23907,13 @@
               <name>prior_outputs_2_13</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -23922,7 +23922,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -23955,13 +23955,13 @@
               <name>prior_outputs_3_13</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -23970,7 +23970,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -24003,13 +24003,13 @@
               <name>tmp_13</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -24018,13 +24018,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>FracNet_T_mux_42_cyx_U333</rtlName>
+              <rtlName>FracNet_T_mux_42_cyx_U348</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>16</bitwidth>
@@ -24053,16 +24053,16 @@
             <Obj>
               <type>0</type>
               <id>551</id>
-              <name>_ln45</name>
+              <name>_ln44</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -24071,7 +24071,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
@@ -24106,13 +24106,13 @@
               <name>op2_V_assign_0_12</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -24121,7 +24121,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -24152,16 +24152,16 @@
             <Obj>
               <type>0</type>
               <id>554</id>
-              <name>_ln47</name>
+              <name>_ln46</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>47</lineNumber>
+              <lineNumber>46</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -24170,7 +24170,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>47</second>
+                      <second>46</second>
                     </item>
                   </second>
                 </item>
@@ -24203,13 +24203,13 @@
               <name>p_Val2_13</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -24218,7 +24218,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -24254,13 +24254,13 @@
               <name>trunc_ln821_13</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -24269,7 +24269,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -24302,13 +24302,13 @@
               <name>tmp_57</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -24317,7 +24317,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -24352,13 +24352,13 @@
               <name>zext_ln821_26</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -24367,7 +24367,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -24400,13 +24400,13 @@
               <name>tmp_58</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -24415,7 +24415,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -24451,13 +24451,13 @@
               <name>zext_ln821_27</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -24466,7 +24466,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -24499,13 +24499,13 @@
               <name>tmp_59</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -24514,7 +24514,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -24550,13 +24550,13 @@
               <name>prior_outputs_0_14</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -24565,7 +24565,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -24598,13 +24598,13 @@
               <name>prior_outputs_1_14</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -24613,7 +24613,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -24646,13 +24646,13 @@
               <name>prior_outputs_2_14</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -24661,7 +24661,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -24694,13 +24694,13 @@
               <name>prior_outputs_3_14</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -24709,7 +24709,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -24742,13 +24742,13 @@
               <name>tmp_14</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -24757,13 +24757,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>FracNet_T_mux_42_cyx_U334</rtlName>
+              <rtlName>FracNet_T_mux_42_cyx_U349</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>16</bitwidth>
@@ -24792,16 +24792,16 @@
             <Obj>
               <type>0</type>
               <id>568</id>
-              <name>_ln45</name>
+              <name>_ln44</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -24810,7 +24810,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
@@ -24845,13 +24845,13 @@
               <name>op2_V_assign_0_13</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -24860,7 +24860,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -24891,16 +24891,16 @@
             <Obj>
               <type>0</type>
               <id>571</id>
-              <name>_ln47</name>
+              <name>_ln46</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>47</lineNumber>
+              <lineNumber>46</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -24909,7 +24909,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>47</second>
+                      <second>46</second>
                     </item>
                   </second>
                 </item>
@@ -24942,13 +24942,13 @@
               <name>p_Val2_14</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -24957,7 +24957,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -24993,13 +24993,13 @@
               <name>trunc_ln821_14</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -25008,7 +25008,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -25041,13 +25041,13 @@
               <name>tmp_60</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -25056,7 +25056,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -25091,13 +25091,13 @@
               <name>zext_ln821_28</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -25106,7 +25106,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -25139,13 +25139,13 @@
               <name>tmp_61</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -25154,7 +25154,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -25190,13 +25190,13 @@
               <name>zext_ln821_29</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -25205,7 +25205,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -25238,13 +25238,13 @@
               <name>tmp_62</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -25253,7 +25253,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -25289,13 +25289,13 @@
               <name>prior_outputs_0_15</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -25304,7 +25304,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -25337,13 +25337,13 @@
               <name>prior_outputs_1_15</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -25352,7 +25352,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -25385,13 +25385,13 @@
               <name>prior_outputs_2_15</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -25400,7 +25400,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -25433,13 +25433,13 @@
               <name>prior_outputs_3_15</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -25448,7 +25448,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -25481,13 +25481,13 @@
               <name>tmp_15</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -25496,13 +25496,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>43</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>FracNet_T_mux_42_cyx_U335</rtlName>
+              <rtlName>FracNet_T_mux_42_cyx_U350</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>16</bitwidth>
@@ -25531,16 +25531,16 @@
             <Obj>
               <type>0</type>
               <id>585</id>
-              <name>_ln45</name>
+              <name>_ln44</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>45</lineNumber>
+              <lineNumber>44</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -25549,7 +25549,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>45</second>
+                      <second>44</second>
                     </item>
                   </second>
                 </item>
@@ -25584,13 +25584,13 @@
               <name>op2_V_assign_0_14</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -25599,7 +25599,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -25630,16 +25630,16 @@
             <Obj>
               <type>0</type>
               <id>588</id>
-              <name>_ln47</name>
+              <name>_ln46</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>47</lineNumber>
+              <lineNumber>46</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -25648,7 +25648,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>47</second>
+                      <second>46</second>
                     </item>
                   </second>
                 </item>
@@ -25681,13 +25681,13 @@
               <name>p_Val2_15</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -25696,7 +25696,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>46</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -25732,13 +25732,13 @@
               <name>trunc_ln821_15</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -25747,7 +25747,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -25780,13 +25780,13 @@
               <name>tmp_63</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -25795,7 +25795,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -25830,13 +25830,13 @@
               <name>zext_ln821_30</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -25845,7 +25845,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -25878,13 +25878,13 @@
               <name>tmp_64</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -25893,7 +25893,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -25926,16 +25926,16 @@
             <Obj>
               <type>0</type>
               <id>595</id>
-              <name>msb_buffer_0_V_addr_write_ln50</name>
+              <name>msb_buffer_0_V_addr_write_ln49</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>50</lineNumber>
+              <lineNumber>49</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -25944,7 +25944,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>50</second>
+                      <second>49</second>
                     </item>
                   </second>
                 </item>
@@ -25979,13 +25979,13 @@
               <name>zext_ln821_31</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -25994,7 +25994,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -26027,13 +26027,13 @@
               <name>tmp_65</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -26042,7 +26042,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -26075,16 +26075,16 @@
             <Obj>
               <type>0</type>
               <id>598</id>
-              <name>msb_buffer_1_V_addr_write_ln51</name>
+              <name>msb_buffer_1_V_addr_write_ln50</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -26093,7 +26093,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>51</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -26128,13 +26128,13 @@
               <name>col</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>39</lineNumber>
+              <lineNumber>38</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -26143,7 +26143,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>39</second>
+                      <second>38</second>
                     </item>
                   </second>
                 </item>
@@ -26174,16 +26174,16 @@
             <Obj>
               <type>0</type>
               <id>601</id>
-              <name>add_ln38_1</name>
+              <name>add_ln37_1</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>38</lineNumber>
+              <lineNumber>37</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -26192,13 +26192,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>38</second>
+                      <second>37</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>add_ln38_1_fu_2215_p2</rtlName>
+              <rtlName>add_ln37_1_fu_2215_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>12</bitwidth>
@@ -26223,16 +26223,16 @@
             <Obj>
               <type>0</type>
               <id>602</id>
-              <name>select_ln38_2</name>
+              <name>select_ln37_2</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>38</lineNumber>
+              <lineNumber>37</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -26241,13 +26241,13 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>38</second>
+                      <second>37</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>select_ln38_2_fu_2221_p3</rtlName>
+              <rtlName>select_ln37_2_fu_2221_p3</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>12</bitwidth>
@@ -26273,16 +26273,16 @@
             <Obj>
               <type>0</type>
               <id>603</id>
-              <name>_ln39</name>
+              <name>_ln38</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>39</lineNumber>
+              <lineNumber>38</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -26291,7 +26291,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>39</second>
+                      <second>38</second>
                     </item>
                   </second>
                 </item>
@@ -26321,16 +26321,16 @@
             <Obj>
               <type>0</type>
               <id>605</id>
-              <name>_ln56</name>
+              <name>_ln55</name>
               <fileName>./layer.h</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>56</lineNumber>
+              <lineNumber>55</lineNumber>
               <contextFuncName>quant_and_pack</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\FracBNN\xcel-cifar10\source</first>
+                  <first>C:\Users\gagan\Downloads\FracBNN_with_modes\xcel-cifar10\source</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -26339,7 +26339,7 @@
                         <first>./layer.h</first>
                         <second>quant_and_pack</second>
                       </first>
-                      <second>56</second>
+                      <second>55</second>
                     </item>
                   </second>
                 </item>
@@ -27497,7 +27497,7 @@
           <Obj>
             <type>3</type>
             <id>329</id>
-            <name>hls_label_1_begin</name>
+            <name>hls_label_3_begin</name>
             <fileName/>
             <fileDirectory/>
             <lineNumber>0</lineNumber>
@@ -28618,7 +28618,7 @@
           <Obj>
             <type>3</type>
             <id>604</id>
-            <name>hls_label_1_end</name>
+            <name>hls_label_3_end</name>
             <fileName/>
             <fileDirectory/>
             <lineNumber>0</lineNumber>
@@ -39482,7 +39482,7 @@
         <count>32</count>
         <item_version>0</item_version>
         <item class_id="38" tracking_level="0" version="0">
-          <first>FracNet_T_mux_42_cyx_U320 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U335 (FracNet_T_mux_42_cyx)</first>
           <second class_id="39" tracking_level="0" version="0">
             <count>2</count>
             <item_version>0</item_version>
@@ -39497,7 +39497,7 @@
           </second>
         </item>
         <item>
-          <first>FracNet_T_mux_42_cyx_U321 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U336 (FracNet_T_mux_42_cyx)</first>
           <second>
             <count>2</count>
             <item_version>0</item_version>
@@ -39512,7 +39512,7 @@
           </second>
         </item>
         <item>
-          <first>FracNet_T_mux_42_cyx_U322 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U337 (FracNet_T_mux_42_cyx)</first>
           <second>
             <count>2</count>
             <item_version>0</item_version>
@@ -39527,7 +39527,7 @@
           </second>
         </item>
         <item>
-          <first>FracNet_T_mux_42_cyx_U323 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U338 (FracNet_T_mux_42_cyx)</first>
           <second>
             <count>2</count>
             <item_version>0</item_version>
@@ -39542,7 +39542,7 @@
           </second>
         </item>
         <item>
-          <first>FracNet_T_mux_42_cyx_U324 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U339 (FracNet_T_mux_42_cyx)</first>
           <second>
             <count>2</count>
             <item_version>0</item_version>
@@ -39557,7 +39557,7 @@
           </second>
         </item>
         <item>
-          <first>FracNet_T_mux_42_cyx_U325 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U340 (FracNet_T_mux_42_cyx)</first>
           <second>
             <count>2</count>
             <item_version>0</item_version>
@@ -39572,7 +39572,7 @@
           </second>
         </item>
         <item>
-          <first>FracNet_T_mux_42_cyx_U326 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U341 (FracNet_T_mux_42_cyx)</first>
           <second>
             <count>2</count>
             <item_version>0</item_version>
@@ -39587,7 +39587,7 @@
           </second>
         </item>
         <item>
-          <first>FracNet_T_mux_42_cyx_U327 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U342 (FracNet_T_mux_42_cyx)</first>
           <second>
             <count>2</count>
             <item_version>0</item_version>
@@ -39602,7 +39602,7 @@
           </second>
         </item>
         <item>
-          <first>FracNet_T_mux_42_cyx_U328 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U343 (FracNet_T_mux_42_cyx)</first>
           <second>
             <count>2</count>
             <item_version>0</item_version>
@@ -39617,7 +39617,7 @@
           </second>
         </item>
         <item>
-          <first>FracNet_T_mux_42_cyx_U329 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U344 (FracNet_T_mux_42_cyx)</first>
           <second>
             <count>2</count>
             <item_version>0</item_version>
@@ -39632,7 +39632,7 @@
           </second>
         </item>
         <item>
-          <first>FracNet_T_mux_42_cyx_U330 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U345 (FracNet_T_mux_42_cyx)</first>
           <second>
             <count>2</count>
             <item_version>0</item_version>
@@ -39647,7 +39647,7 @@
           </second>
         </item>
         <item>
-          <first>FracNet_T_mux_42_cyx_U331 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U346 (FracNet_T_mux_42_cyx)</first>
           <second>
             <count>2</count>
             <item_version>0</item_version>
@@ -39662,7 +39662,7 @@
           </second>
         </item>
         <item>
-          <first>FracNet_T_mux_42_cyx_U332 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U347 (FracNet_T_mux_42_cyx)</first>
           <second>
             <count>2</count>
             <item_version>0</item_version>
@@ -39677,7 +39677,7 @@
           </second>
         </item>
         <item>
-          <first>FracNet_T_mux_42_cyx_U333 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U348 (FracNet_T_mux_42_cyx)</first>
           <second>
             <count>2</count>
             <item_version>0</item_version>
@@ -39692,7 +39692,7 @@
           </second>
         </item>
         <item>
-          <first>FracNet_T_mux_42_cyx_U334 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U349 (FracNet_T_mux_42_cyx)</first>
           <second>
             <count>2</count>
             <item_version>0</item_version>
@@ -39707,7 +39707,7 @@
           </second>
         </item>
         <item>
-          <first>FracNet_T_mux_42_cyx_U335 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U350 (FracNet_T_mux_42_cyx)</first>
           <second>
             <count>2</count>
             <item_version>0</item_version>
@@ -39966,7 +39966,7 @@
         <count>117</count>
         <item_version>0</item_version>
         <item>
-          <first>add_ln37_fu_1750_p2 ( + ) </first>
+          <first>add_ln36_fu_1750_p2 ( + ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -39989,7 +39989,7 @@
           </second>
         </item>
         <item>
-          <first>add_ln38_1_fu_2215_p2 ( + ) </first>
+          <first>add_ln37_1_fu_2215_p2 ( + ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40012,7 +40012,7 @@
           </second>
         </item>
         <item>
-          <first>add_ln43_1_fu_2252_p2 ( + ) </first>
+          <first>add_ln42_1_fu_2252_p2 ( + ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40035,7 +40035,7 @@
           </second>
         </item>
         <item>
-          <first>add_ln43_fu_2243_p2 ( + ) </first>
+          <first>add_ln42_fu_2243_p2 ( + ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40173,7 +40173,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln37_fu_1745_p2 ( icmp ) </first>
+          <first>icmp_ln36_fu_1745_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40196,7 +40196,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln38_fu_1762_p2 ( icmp ) </first>
+          <first>icmp_ln37_fu_1762_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40219,7 +40219,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln39_1_fu_2169_p2 ( icmp ) </first>
+          <first>icmp_ln38_1_fu_2169_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40242,7 +40242,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln39_fu_1493_p2 ( icmp ) </first>
+          <first>icmp_ln38_fu_1493_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40265,7 +40265,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_10_fu_1665_p2 ( icmp ) </first>
+          <first>icmp_ln44_10_fu_1665_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40288,7 +40288,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_11_fu_1680_p2 ( icmp ) </first>
+          <first>icmp_ln44_11_fu_1680_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40311,7 +40311,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_12_fu_1695_p2 ( icmp ) </first>
+          <first>icmp_ln44_12_fu_1695_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40334,7 +40334,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_13_fu_1710_p2 ( icmp ) </first>
+          <first>icmp_ln44_13_fu_1710_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40357,7 +40357,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_14_fu_1725_p2 ( icmp ) </first>
+          <first>icmp_ln44_14_fu_1725_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40380,7 +40380,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_15_fu_1740_p2 ( icmp ) </first>
+          <first>icmp_ln44_15_fu_1740_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40403,7 +40403,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_16_fu_1803_p2 ( icmp ) </first>
+          <first>icmp_ln44_16_fu_1803_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40426,7 +40426,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_17_fu_1834_p2 ( icmp ) </first>
+          <first>icmp_ln44_17_fu_1834_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40449,7 +40449,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_18_fu_1857_p2 ( icmp ) </first>
+          <first>icmp_ln44_18_fu_1857_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40472,7 +40472,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_19_fu_1880_p2 ( icmp ) </first>
+          <first>icmp_ln44_19_fu_1880_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40495,7 +40495,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_1_fu_1530_p2 ( icmp ) </first>
+          <first>icmp_ln44_1_fu_1530_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40518,7 +40518,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_20_fu_1903_p2 ( icmp ) </first>
+          <first>icmp_ln44_20_fu_1903_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40541,7 +40541,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_21_fu_1926_p2 ( icmp ) </first>
+          <first>icmp_ln44_21_fu_1926_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40564,7 +40564,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_22_fu_1949_p2 ( icmp ) </first>
+          <first>icmp_ln44_22_fu_1949_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40587,7 +40587,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_23_fu_1972_p2 ( icmp ) </first>
+          <first>icmp_ln44_23_fu_1972_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40610,7 +40610,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_24_fu_1995_p2 ( icmp ) </first>
+          <first>icmp_ln44_24_fu_1995_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40633,7 +40633,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_25_fu_2018_p2 ( icmp ) </first>
+          <first>icmp_ln44_25_fu_2018_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40656,7 +40656,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_26_fu_2041_p2 ( icmp ) </first>
+          <first>icmp_ln44_26_fu_2041_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40679,7 +40679,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_27_fu_2064_p2 ( icmp ) </first>
+          <first>icmp_ln44_27_fu_2064_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40702,7 +40702,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_28_fu_2087_p2 ( icmp ) </first>
+          <first>icmp_ln44_28_fu_2087_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40725,7 +40725,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_29_fu_2110_p2 ( icmp ) </first>
+          <first>icmp_ln44_29_fu_2110_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40748,7 +40748,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_2_fu_1545_p2 ( icmp ) </first>
+          <first>icmp_ln44_2_fu_1545_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40771,7 +40771,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_30_fu_2133_p2 ( icmp ) </first>
+          <first>icmp_ln44_30_fu_2133_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40794,7 +40794,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_31_fu_2156_p2 ( icmp ) </first>
+          <first>icmp_ln44_31_fu_2156_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40817,7 +40817,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_3_fu_1560_p2 ( icmp ) </first>
+          <first>icmp_ln44_3_fu_1560_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40840,7 +40840,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_4_fu_1575_p2 ( icmp ) </first>
+          <first>icmp_ln44_4_fu_1575_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40863,7 +40863,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_5_fu_1590_p2 ( icmp ) </first>
+          <first>icmp_ln44_5_fu_1590_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40886,7 +40886,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_6_fu_1605_p2 ( icmp ) </first>
+          <first>icmp_ln44_6_fu_1605_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40909,7 +40909,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_7_fu_1620_p2 ( icmp ) </first>
+          <first>icmp_ln44_7_fu_1620_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40932,7 +40932,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_8_fu_1635_p2 ( icmp ) </first>
+          <first>icmp_ln44_8_fu_1635_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40955,7 +40955,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_9_fu_1650_p2 ( icmp ) </first>
+          <first>icmp_ln44_9_fu_1650_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -40978,7 +40978,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_fu_1515_p2 ( icmp ) </first>
+          <first>icmp_ln44_fu_1515_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41001,7 +41001,7 @@
           </second>
         </item>
         <item>
-          <first>mul_ln29_fu_1479_p2 ( * ) </first>
+          <first>mul_ln28_fu_1479_p2 ( * ) </first>
           <second>
             <count>5</count>
             <item_version>0</item_version>
@@ -41028,7 +41028,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln38_fu_2187_p2 ( or ) </first>
+          <first>or_ln37_fu_2187_p2 ( or ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41051,7 +41051,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_10_fu_1670_p2 ( or ) </first>
+          <first>or_ln43_10_fu_1670_p2 ( or ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41074,7 +41074,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_11_fu_1685_p2 ( or ) </first>
+          <first>or_ln43_11_fu_1685_p2 ( or ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41097,7 +41097,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_12_fu_1700_p2 ( or ) </first>
+          <first>or_ln43_12_fu_1700_p2 ( or ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41120,7 +41120,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_13_fu_1715_p2 ( or ) </first>
+          <first>or_ln43_13_fu_1715_p2 ( or ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41143,7 +41143,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_14_fu_1730_p2 ( or ) </first>
+          <first>or_ln43_14_fu_1730_p2 ( or ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41166,7 +41166,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_15_fu_1824_p2 ( or ) </first>
+          <first>or_ln43_15_fu_1824_p2 ( or ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41189,7 +41189,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_16_fu_1847_p2 ( or ) </first>
+          <first>or_ln43_16_fu_1847_p2 ( or ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41212,7 +41212,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_17_fu_1870_p2 ( or ) </first>
+          <first>or_ln43_17_fu_1870_p2 ( or ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41235,7 +41235,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_18_fu_1893_p2 ( or ) </first>
+          <first>or_ln43_18_fu_1893_p2 ( or ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41258,7 +41258,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_19_fu_1916_p2 ( or ) </first>
+          <first>or_ln43_19_fu_1916_p2 ( or ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41281,7 +41281,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_1_fu_1535_p2 ( or ) </first>
+          <first>or_ln43_1_fu_1535_p2 ( or ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41304,7 +41304,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_20_fu_1939_p2 ( or ) </first>
+          <first>or_ln43_20_fu_1939_p2 ( or ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41327,7 +41327,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_21_fu_1962_p2 ( or ) </first>
+          <first>or_ln43_21_fu_1962_p2 ( or ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41350,7 +41350,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_22_fu_1985_p2 ( or ) </first>
+          <first>or_ln43_22_fu_1985_p2 ( or ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41373,7 +41373,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_23_fu_2008_p2 ( or ) </first>
+          <first>or_ln43_23_fu_2008_p2 ( or ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41396,7 +41396,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_24_fu_2031_p2 ( or ) </first>
+          <first>or_ln43_24_fu_2031_p2 ( or ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41419,7 +41419,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_25_fu_2054_p2 ( or ) </first>
+          <first>or_ln43_25_fu_2054_p2 ( or ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41442,7 +41442,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_26_fu_2077_p2 ( or ) </first>
+          <first>or_ln43_26_fu_2077_p2 ( or ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41465,7 +41465,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_27_fu_2100_p2 ( or ) </first>
+          <first>or_ln43_27_fu_2100_p2 ( or ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41488,7 +41488,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_28_fu_2123_p2 ( or ) </first>
+          <first>or_ln43_28_fu_2123_p2 ( or ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41511,7 +41511,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_29_fu_2146_p2 ( or ) </first>
+          <first>or_ln43_29_fu_2146_p2 ( or ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41534,7 +41534,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_2_fu_1550_p2 ( or ) </first>
+          <first>or_ln43_2_fu_1550_p2 ( or ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41557,7 +41557,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_3_fu_1565_p2 ( or ) </first>
+          <first>or_ln43_3_fu_1565_p2 ( or ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41580,7 +41580,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_4_fu_1580_p2 ( or ) </first>
+          <first>or_ln43_4_fu_1580_p2 ( or ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41603,7 +41603,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_5_fu_1595_p2 ( or ) </first>
+          <first>or_ln43_5_fu_1595_p2 ( or ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41626,7 +41626,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_6_fu_1610_p2 ( or ) </first>
+          <first>or_ln43_6_fu_1610_p2 ( or ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41649,7 +41649,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_7_fu_1625_p2 ( or ) </first>
+          <first>or_ln43_7_fu_1625_p2 ( or ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41672,7 +41672,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_8_fu_1640_p2 ( or ) </first>
+          <first>or_ln43_8_fu_1640_p2 ( or ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41695,7 +41695,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_9_fu_1655_p2 ( or ) </first>
+          <first>or_ln43_9_fu_1655_p2 ( or ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41718,7 +41718,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_fu_1520_p2 ( or ) </first>
+          <first>or_ln43_fu_1520_p2 ( or ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -41764,7 +41764,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_10_fu_1977_p3 ( select ) </first>
+          <first>select_ln36_10_fu_1977_p3 ( select ) </first>
           <second>
             <count>5</count>
             <item_version>0</item_version>
@@ -41791,7 +41791,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_11_fu_2000_p3 ( select ) </first>
+          <first>select_ln36_11_fu_2000_p3 ( select ) </first>
           <second>
             <count>5</count>
             <item_version>0</item_version>
@@ -41818,7 +41818,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_12_fu_2023_p3 ( select ) </first>
+          <first>select_ln36_12_fu_2023_p3 ( select ) </first>
           <second>
             <count>5</count>
             <item_version>0</item_version>
@@ -41845,7 +41845,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_13_fu_2046_p3 ( select ) </first>
+          <first>select_ln36_13_fu_2046_p3 ( select ) </first>
           <second>
             <count>5</count>
             <item_version>0</item_version>
@@ -41872,7 +41872,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_14_fu_2069_p3 ( select ) </first>
+          <first>select_ln36_14_fu_2069_p3 ( select ) </first>
           <second>
             <count>5</count>
             <item_version>0</item_version>
@@ -41899,7 +41899,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_15_fu_2092_p3 ( select ) </first>
+          <first>select_ln36_15_fu_2092_p3 ( select ) </first>
           <second>
             <count>5</count>
             <item_version>0</item_version>
@@ -41926,7 +41926,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_16_fu_2115_p3 ( select ) </first>
+          <first>select_ln36_16_fu_2115_p3 ( select ) </first>
           <second>
             <count>5</count>
             <item_version>0</item_version>
@@ -41953,7 +41953,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_17_fu_2138_p3 ( select ) </first>
+          <first>select_ln36_17_fu_2138_p3 ( select ) </first>
           <second>
             <count>5</count>
             <item_version>0</item_version>
@@ -41980,7 +41980,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_18_fu_2161_p3 ( select ) </first>
+          <first>select_ln36_18_fu_2161_p3 ( select ) </first>
           <second>
             <count>5</count>
             <item_version>0</item_version>
@@ -42007,7 +42007,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_19_fu_2174_p3 ( select ) </first>
+          <first>select_ln36_19_fu_2174_p3 ( select ) </first>
           <second>
             <count>5</count>
             <item_version>0</item_version>
@@ -42034,7 +42034,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_1_fu_1791_p3 ( select ) </first>
+          <first>select_ln36_1_fu_1791_p3 ( select ) </first>
           <second>
             <count>5</count>
             <item_version>0</item_version>
@@ -42061,7 +42061,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_2_fu_1808_p3 ( select ) </first>
+          <first>select_ln36_2_fu_1808_p3 ( select ) </first>
           <second>
             <count>5</count>
             <item_version>0</item_version>
@@ -42088,7 +42088,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_3_fu_1816_p3 ( select ) </first>
+          <first>select_ln36_3_fu_1816_p3 ( select ) </first>
           <second>
             <count>5</count>
             <item_version>0</item_version>
@@ -42115,7 +42115,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_4_fu_1839_p3 ( select ) </first>
+          <first>select_ln36_4_fu_1839_p3 ( select ) </first>
           <second>
             <count>5</count>
             <item_version>0</item_version>
@@ -42142,7 +42142,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_5_fu_1862_p3 ( select ) </first>
+          <first>select_ln36_5_fu_1862_p3 ( select ) </first>
           <second>
             <count>5</count>
             <item_version>0</item_version>
@@ -42169,7 +42169,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_6_fu_1885_p3 ( select ) </first>
+          <first>select_ln36_6_fu_1885_p3 ( select ) </first>
           <second>
             <count>5</count>
             <item_version>0</item_version>
@@ -42196,7 +42196,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_7_fu_1908_p3 ( select ) </first>
+          <first>select_ln36_7_fu_1908_p3 ( select ) </first>
           <second>
             <count>5</count>
             <item_version>0</item_version>
@@ -42223,7 +42223,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_8_fu_1931_p3 ( select ) </first>
+          <first>select_ln36_8_fu_1931_p3 ( select ) </first>
           <second>
             <count>5</count>
             <item_version>0</item_version>
@@ -42250,7 +42250,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_9_fu_1954_p3 ( select ) </first>
+          <first>select_ln36_9_fu_1954_p3 ( select ) </first>
           <second>
             <count>5</count>
             <item_version>0</item_version>
@@ -42277,7 +42277,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_fu_1767_p3 ( select ) </first>
+          <first>select_ln36_fu_1767_p3 ( select ) </first>
           <second>
             <count>5</count>
             <item_version>0</item_version>
@@ -42304,7 +42304,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln38_1_fu_2201_p3 ( select ) </first>
+          <first>select_ln37_1_fu_2201_p3 ( select ) </first>
           <second>
             <count>5</count>
             <item_version>0</item_version>
@@ -42331,7 +42331,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln38_2_fu_2221_p3 ( select ) </first>
+          <first>select_ln37_2_fu_2221_p3 ( select ) </first>
           <second>
             <count>5</count>
             <item_version>0</item_version>
@@ -42358,7 +42358,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln38_fu_2193_p3 ( select ) </first>
+          <first>select_ln37_fu_2193_p3 ( select ) </first>
           <second>
             <count>5</count>
             <item_version>0</item_version>
@@ -42385,7 +42385,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_10_fu_2626_p2 ( xor ) </first>
+          <first>xor_ln36_10_fu_2626_p2 ( xor ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -42408,7 +42408,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_11_fu_2635_p2 ( xor ) </first>
+          <first>xor_ln36_11_fu_2635_p2 ( xor ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -42431,7 +42431,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_12_fu_2644_p2 ( xor ) </first>
+          <first>xor_ln36_12_fu_2644_p2 ( xor ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -42454,7 +42454,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_13_fu_2653_p2 ( xor ) </first>
+          <first>xor_ln36_13_fu_2653_p2 ( xor ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -42477,7 +42477,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_14_fu_2662_p2 ( xor ) </first>
+          <first>xor_ln36_14_fu_2662_p2 ( xor ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -42500,7 +42500,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_15_fu_2671_p2 ( xor ) </first>
+          <first>xor_ln36_15_fu_2671_p2 ( xor ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -42523,7 +42523,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_1_fu_2545_p2 ( xor ) </first>
+          <first>xor_ln36_1_fu_2545_p2 ( xor ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -42546,7 +42546,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_2_fu_2554_p2 ( xor ) </first>
+          <first>xor_ln36_2_fu_2554_p2 ( xor ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -42569,7 +42569,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_3_fu_2563_p2 ( xor ) </first>
+          <first>xor_ln36_3_fu_2563_p2 ( xor ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -42592,7 +42592,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_4_fu_2572_p2 ( xor ) </first>
+          <first>xor_ln36_4_fu_2572_p2 ( xor ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -42615,7 +42615,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_5_fu_2581_p2 ( xor ) </first>
+          <first>xor_ln36_5_fu_2581_p2 ( xor ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -42638,7 +42638,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_6_fu_2590_p2 ( xor ) </first>
+          <first>xor_ln36_6_fu_2590_p2 ( xor ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -42661,7 +42661,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_7_fu_2599_p2 ( xor ) </first>
+          <first>xor_ln36_7_fu_2599_p2 ( xor ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -42684,7 +42684,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_8_fu_2608_p2 ( xor ) </first>
+          <first>xor_ln36_8_fu_2608_p2 ( xor ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -42707,7 +42707,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_9_fu_2617_p2 ( xor ) </first>
+          <first>xor_ln36_9_fu_2617_p2 ( xor ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -42730,7 +42730,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_fu_2536_p2 ( xor ) </first>
+          <first>xor_ln36_fu_2536_p2 ( xor ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -45122,7 +45122,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln37_reg_3378</first>
+          <first>icmp_ln36_reg_3378</first>
           <second>
             <count>3</count>
             <item_version>0</item_version>
@@ -45141,7 +45141,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln39_reg_3373</first>
+          <first>icmp_ln38_reg_3373</first>
           <second>
             <count>3</count>
             <item_version>0</item_version>
@@ -45236,7 +45236,7 @@
           </second>
         </item>
         <item>
-          <first>mul_ln29_reg_3363</first>
+          <first>mul_ln28_reg_3363</first>
           <second>
             <count>3</count>
             <item_version>0</item_version>
@@ -45274,7 +45274,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_10_reg_3460</first>
+          <first>select_ln36_10_reg_3460</first>
           <second>
             <count>3</count>
             <item_version>0</item_version>
@@ -45293,7 +45293,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_11_reg_3464</first>
+          <first>select_ln36_11_reg_3464</first>
           <second>
             <count>3</count>
             <item_version>0</item_version>
@@ -45312,7 +45312,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_12_reg_3468</first>
+          <first>select_ln36_12_reg_3468</first>
           <second>
             <count>3</count>
             <item_version>0</item_version>
@@ -45331,7 +45331,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_13_reg_3472</first>
+          <first>select_ln36_13_reg_3472</first>
           <second>
             <count>3</count>
             <item_version>0</item_version>
@@ -45350,7 +45350,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_14_reg_3476</first>
+          <first>select_ln36_14_reg_3476</first>
           <second>
             <count>3</count>
             <item_version>0</item_version>
@@ -45369,7 +45369,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_15_reg_3480</first>
+          <first>select_ln36_15_reg_3480</first>
           <second>
             <count>3</count>
             <item_version>0</item_version>
@@ -45388,7 +45388,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_16_reg_3484</first>
+          <first>select_ln36_16_reg_3484</first>
           <second>
             <count>3</count>
             <item_version>0</item_version>
@@ -45407,7 +45407,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_17_reg_3488</first>
+          <first>select_ln36_17_reg_3488</first>
           <second>
             <count>3</count>
             <item_version>0</item_version>
@@ -45426,7 +45426,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_18_reg_3492</first>
+          <first>select_ln36_18_reg_3492</first>
           <second>
             <count>3</count>
             <item_version>0</item_version>
@@ -45445,7 +45445,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_1_reg_3387</first>
+          <first>select_ln36_1_reg_3387</first>
           <second>
             <count>3</count>
             <item_version>0</item_version>
@@ -45464,7 +45464,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_2_reg_3412</first>
+          <first>select_ln36_2_reg_3412</first>
           <second>
             <count>3</count>
             <item_version>0</item_version>
@@ -45483,7 +45483,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_3_reg_3416</first>
+          <first>select_ln36_3_reg_3416</first>
           <second>
             <count>3</count>
             <item_version>0</item_version>
@@ -45502,7 +45502,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_4_reg_3436</first>
+          <first>select_ln36_4_reg_3436</first>
           <second>
             <count>3</count>
             <item_version>0</item_version>
@@ -45521,7 +45521,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_5_reg_3440</first>
+          <first>select_ln36_5_reg_3440</first>
           <second>
             <count>3</count>
             <item_version>0</item_version>
@@ -45540,7 +45540,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_6_reg_3444</first>
+          <first>select_ln36_6_reg_3444</first>
           <second>
             <count>3</count>
             <item_version>0</item_version>
@@ -45559,7 +45559,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_7_reg_3448</first>
+          <first>select_ln36_7_reg_3448</first>
           <second>
             <count>3</count>
             <item_version>0</item_version>
@@ -45578,7 +45578,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_8_reg_3452</first>
+          <first>select_ln36_8_reg_3452</first>
           <second>
             <count>3</count>
             <item_version>0</item_version>
@@ -45597,7 +45597,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_9_reg_3456</first>
+          <first>select_ln36_9_reg_3456</first>
           <second>
             <count>3</count>
             <item_version>0</item_version>
@@ -45616,7 +45616,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln38_1_reg_3501</first>
+          <first>select_ln37_1_reg_3501</first>
           <second>
             <count>3</count>
             <item_version>0</item_version>
@@ -45635,7 +45635,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln38_reg_3496</first>
+          <first>select_ln37_reg_3496</first>
           <second>
             <count>3</count>
             <item_version>0</item_version>
@@ -45977,7 +45977,7 @@
           </second>
         </item>
         <item>
-          <first>trunc_ln37_reg_3392</first>
+          <first>trunc_ln36_reg_3392</first>
           <second>
             <count>3</count>
             <item_version>0</item_version>
@@ -45996,7 +45996,7 @@
           </second>
         </item>
         <item>
-          <first>trunc_ln37_reg_3392_pp0_iter1_reg</first>
+          <first>trunc_ln36_reg_3392_pp0_iter1_reg</first>
           <second>
             <count>3</count>
             <item_version>0</item_version>
@@ -46019,112 +46019,112 @@
         <count>32</count>
         <item_version>0</item_version>
         <item>
-          <first>FracNet_T_mux_42_cyx_U320</first>
-          <second>
-            <count>0</count>
-            <item_version>0</item_version>
-          </second>
-        </item>
-        <item>
-          <first>FracNet_T_mux_42_cyx_U321</first>
-          <second>
-            <count>0</count>
-            <item_version>0</item_version>
-          </second>
-        </item>
-        <item>
-          <first>FracNet_T_mux_42_cyx_U322</first>
-          <second>
-            <count>0</count>
-            <item_version>0</item_version>
-          </second>
-        </item>
-        <item>
-          <first>FracNet_T_mux_42_cyx_U323</first>
-          <second>
-            <count>0</count>
-            <item_version>0</item_version>
-          </second>
-        </item>
-        <item>
-          <first>FracNet_T_mux_42_cyx_U324</first>
-          <second>
-            <count>0</count>
-            <item_version>0</item_version>
-          </second>
-        </item>
-        <item>
-          <first>FracNet_T_mux_42_cyx_U325</first>
-          <second>
-            <count>0</count>
-            <item_version>0</item_version>
-          </second>
-        </item>
-        <item>
-          <first>FracNet_T_mux_42_cyx_U326</first>
-          <second>
-            <count>0</count>
-            <item_version>0</item_version>
-          </second>
-        </item>
-        <item>
-          <first>FracNet_T_mux_42_cyx_U327</first>
-          <second>
-            <count>0</count>
-            <item_version>0</item_version>
-          </second>
-        </item>
-        <item>
-          <first>FracNet_T_mux_42_cyx_U328</first>
-          <second>
-            <count>0</count>
-            <item_version>0</item_version>
-          </second>
-        </item>
-        <item>
-          <first>FracNet_T_mux_42_cyx_U329</first>
-          <second>
-            <count>0</count>
-            <item_version>0</item_version>
-          </second>
-        </item>
-        <item>
-          <first>FracNet_T_mux_42_cyx_U330</first>
-          <second>
-            <count>0</count>
-            <item_version>0</item_version>
-          </second>
-        </item>
-        <item>
-          <first>FracNet_T_mux_42_cyx_U331</first>
-          <second>
-            <count>0</count>
-            <item_version>0</item_version>
-          </second>
-        </item>
-        <item>
-          <first>FracNet_T_mux_42_cyx_U332</first>
-          <second>
-            <count>0</count>
-            <item_version>0</item_version>
-          </second>
-        </item>
-        <item>
-          <first>FracNet_T_mux_42_cyx_U333</first>
-          <second>
-            <count>0</count>
-            <item_version>0</item_version>
-          </second>
-        </item>
-        <item>
-          <first>FracNet_T_mux_42_cyx_U334</first>
-          <second>
-            <count>0</count>
-            <item_version>0</item_version>
-          </second>
-        </item>
-        <item>
           <first>FracNet_T_mux_42_cyx_U335</first>
+          <second>
+            <count>0</count>
+            <item_version>0</item_version>
+          </second>
+        </item>
+        <item>
+          <first>FracNet_T_mux_42_cyx_U336</first>
+          <second>
+            <count>0</count>
+            <item_version>0</item_version>
+          </second>
+        </item>
+        <item>
+          <first>FracNet_T_mux_42_cyx_U337</first>
+          <second>
+            <count>0</count>
+            <item_version>0</item_version>
+          </second>
+        </item>
+        <item>
+          <first>FracNet_T_mux_42_cyx_U338</first>
+          <second>
+            <count>0</count>
+            <item_version>0</item_version>
+          </second>
+        </item>
+        <item>
+          <first>FracNet_T_mux_42_cyx_U339</first>
+          <second>
+            <count>0</count>
+            <item_version>0</item_version>
+          </second>
+        </item>
+        <item>
+          <first>FracNet_T_mux_42_cyx_U340</first>
+          <second>
+            <count>0</count>
+            <item_version>0</item_version>
+          </second>
+        </item>
+        <item>
+          <first>FracNet_T_mux_42_cyx_U341</first>
+          <second>
+            <count>0</count>
+            <item_version>0</item_version>
+          </second>
+        </item>
+        <item>
+          <first>FracNet_T_mux_42_cyx_U342</first>
+          <second>
+            <count>0</count>
+            <item_version>0</item_version>
+          </second>
+        </item>
+        <item>
+          <first>FracNet_T_mux_42_cyx_U343</first>
+          <second>
+            <count>0</count>
+            <item_version>0</item_version>
+          </second>
+        </item>
+        <item>
+          <first>FracNet_T_mux_42_cyx_U344</first>
+          <second>
+            <count>0</count>
+            <item_version>0</item_version>
+          </second>
+        </item>
+        <item>
+          <first>FracNet_T_mux_42_cyx_U345</first>
+          <second>
+            <count>0</count>
+            <item_version>0</item_version>
+          </second>
+        </item>
+        <item>
+          <first>FracNet_T_mux_42_cyx_U346</first>
+          <second>
+            <count>0</count>
+            <item_version>0</item_version>
+          </second>
+        </item>
+        <item>
+          <first>FracNet_T_mux_42_cyx_U347</first>
+          <second>
+            <count>0</count>
+            <item_version>0</item_version>
+          </second>
+        </item>
+        <item>
+          <first>FracNet_T_mux_42_cyx_U348</first>
+          <second>
+            <count>0</count>
+            <item_version>0</item_version>
+          </second>
+        </item>
+        <item>
+          <first>FracNet_T_mux_42_cyx_U349</first>
+          <second>
+            <count>0</count>
+            <item_version>0</item_version>
+          </second>
+        </item>
+        <item>
+          <first>FracNet_T_mux_42_cyx_U350</first>
           <second>
             <count>0</count>
             <item_version>0</item_version>
@@ -46247,7 +46247,7 @@
         <count>32</count>
         <item_version>0</item_version>
         <item class_id="42" tracking_level="0" version="0">
-          <first>FracNet_T_mux_42_cyx_U320 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U335 (FracNet_T_mux_42_cyx)</first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46255,7 +46255,7 @@
           </second>
         </item>
         <item>
-          <first>FracNet_T_mux_42_cyx_U321 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U336 (FracNet_T_mux_42_cyx)</first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46263,7 +46263,7 @@
           </second>
         </item>
         <item>
-          <first>FracNet_T_mux_42_cyx_U322 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U337 (FracNet_T_mux_42_cyx)</first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46271,7 +46271,7 @@
           </second>
         </item>
         <item>
-          <first>FracNet_T_mux_42_cyx_U323 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U338 (FracNet_T_mux_42_cyx)</first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46279,7 +46279,7 @@
           </second>
         </item>
         <item>
-          <first>FracNet_T_mux_42_cyx_U324 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U339 (FracNet_T_mux_42_cyx)</first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46287,7 +46287,7 @@
           </second>
         </item>
         <item>
-          <first>FracNet_T_mux_42_cyx_U325 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U340 (FracNet_T_mux_42_cyx)</first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46295,7 +46295,7 @@
           </second>
         </item>
         <item>
-          <first>FracNet_T_mux_42_cyx_U326 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U341 (FracNet_T_mux_42_cyx)</first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46303,7 +46303,7 @@
           </second>
         </item>
         <item>
-          <first>FracNet_T_mux_42_cyx_U327 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U342 (FracNet_T_mux_42_cyx)</first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46311,7 +46311,7 @@
           </second>
         </item>
         <item>
-          <first>FracNet_T_mux_42_cyx_U328 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U343 (FracNet_T_mux_42_cyx)</first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46319,7 +46319,7 @@
           </second>
         </item>
         <item>
-          <first>FracNet_T_mux_42_cyx_U329 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U344 (FracNet_T_mux_42_cyx)</first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46327,7 +46327,7 @@
           </second>
         </item>
         <item>
-          <first>FracNet_T_mux_42_cyx_U330 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U345 (FracNet_T_mux_42_cyx)</first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46335,7 +46335,7 @@
           </second>
         </item>
         <item>
-          <first>FracNet_T_mux_42_cyx_U331 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U346 (FracNet_T_mux_42_cyx)</first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46343,7 +46343,7 @@
           </second>
         </item>
         <item>
-          <first>FracNet_T_mux_42_cyx_U332 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U347 (FracNet_T_mux_42_cyx)</first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46351,7 +46351,7 @@
           </second>
         </item>
         <item>
-          <first>FracNet_T_mux_42_cyx_U333 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U348 (FracNet_T_mux_42_cyx)</first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46359,7 +46359,7 @@
           </second>
         </item>
         <item>
-          <first>FracNet_T_mux_42_cyx_U334 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U349 (FracNet_T_mux_42_cyx)</first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46367,7 +46367,7 @@
           </second>
         </item>
         <item>
-          <first>FracNet_T_mux_42_cyx_U335 (FracNet_T_mux_42_cyx)</first>
+          <first>FracNet_T_mux_42_cyx_U350 (FracNet_T_mux_42_cyx)</first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46507,7 +46507,7 @@
         <count>114</count>
         <item_version>0</item_version>
         <item>
-          <first>add_ln37_fu_1750_p2 ( + ) </first>
+          <first>add_ln36_fu_1750_p2 ( + ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46515,7 +46515,7 @@
           </second>
         </item>
         <item>
-          <first>add_ln38_1_fu_2215_p2 ( + ) </first>
+          <first>add_ln37_1_fu_2215_p2 ( + ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46523,7 +46523,7 @@
           </second>
         </item>
         <item>
-          <first>add_ln43_1_fu_2252_p2 ( + ) </first>
+          <first>add_ln42_1_fu_2252_p2 ( + ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46531,7 +46531,7 @@
           </second>
         </item>
         <item>
-          <first>add_ln43_fu_2243_p2 ( + ) </first>
+          <first>add_ln42_fu_2243_p2 ( + ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46555,7 +46555,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln37_fu_1745_p2 ( icmp ) </first>
+          <first>icmp_ln36_fu_1745_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46563,7 +46563,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln38_fu_1762_p2 ( icmp ) </first>
+          <first>icmp_ln37_fu_1762_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46571,7 +46571,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln39_1_fu_2169_p2 ( icmp ) </first>
+          <first>icmp_ln38_1_fu_2169_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46579,7 +46579,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln39_fu_1493_p2 ( icmp ) </first>
+          <first>icmp_ln38_fu_1493_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46587,7 +46587,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_10_fu_1665_p2 ( icmp ) </first>
+          <first>icmp_ln44_10_fu_1665_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46595,7 +46595,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_11_fu_1680_p2 ( icmp ) </first>
+          <first>icmp_ln44_11_fu_1680_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46603,7 +46603,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_12_fu_1695_p2 ( icmp ) </first>
+          <first>icmp_ln44_12_fu_1695_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46611,7 +46611,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_13_fu_1710_p2 ( icmp ) </first>
+          <first>icmp_ln44_13_fu_1710_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46619,7 +46619,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_14_fu_1725_p2 ( icmp ) </first>
+          <first>icmp_ln44_14_fu_1725_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46627,7 +46627,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_15_fu_1740_p2 ( icmp ) </first>
+          <first>icmp_ln44_15_fu_1740_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46635,7 +46635,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_16_fu_1803_p2 ( icmp ) </first>
+          <first>icmp_ln44_16_fu_1803_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46643,7 +46643,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_17_fu_1834_p2 ( icmp ) </first>
+          <first>icmp_ln44_17_fu_1834_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46651,7 +46651,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_18_fu_1857_p2 ( icmp ) </first>
+          <first>icmp_ln44_18_fu_1857_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46659,7 +46659,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_19_fu_1880_p2 ( icmp ) </first>
+          <first>icmp_ln44_19_fu_1880_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46667,7 +46667,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_1_fu_1530_p2 ( icmp ) </first>
+          <first>icmp_ln44_1_fu_1530_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46675,7 +46675,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_20_fu_1903_p2 ( icmp ) </first>
+          <first>icmp_ln44_20_fu_1903_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46683,7 +46683,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_21_fu_1926_p2 ( icmp ) </first>
+          <first>icmp_ln44_21_fu_1926_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46691,7 +46691,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_22_fu_1949_p2 ( icmp ) </first>
+          <first>icmp_ln44_22_fu_1949_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46699,7 +46699,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_23_fu_1972_p2 ( icmp ) </first>
+          <first>icmp_ln44_23_fu_1972_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46707,7 +46707,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_24_fu_1995_p2 ( icmp ) </first>
+          <first>icmp_ln44_24_fu_1995_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46715,7 +46715,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_25_fu_2018_p2 ( icmp ) </first>
+          <first>icmp_ln44_25_fu_2018_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46723,7 +46723,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_26_fu_2041_p2 ( icmp ) </first>
+          <first>icmp_ln44_26_fu_2041_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46731,7 +46731,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_27_fu_2064_p2 ( icmp ) </first>
+          <first>icmp_ln44_27_fu_2064_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46739,7 +46739,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_28_fu_2087_p2 ( icmp ) </first>
+          <first>icmp_ln44_28_fu_2087_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46747,7 +46747,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_29_fu_2110_p2 ( icmp ) </first>
+          <first>icmp_ln44_29_fu_2110_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46755,7 +46755,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_2_fu_1545_p2 ( icmp ) </first>
+          <first>icmp_ln44_2_fu_1545_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46763,7 +46763,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_30_fu_2133_p2 ( icmp ) </first>
+          <first>icmp_ln44_30_fu_2133_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46771,7 +46771,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_31_fu_2156_p2 ( icmp ) </first>
+          <first>icmp_ln44_31_fu_2156_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46779,7 +46779,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_3_fu_1560_p2 ( icmp ) </first>
+          <first>icmp_ln44_3_fu_1560_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46787,7 +46787,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_4_fu_1575_p2 ( icmp ) </first>
+          <first>icmp_ln44_4_fu_1575_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46795,7 +46795,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_5_fu_1590_p2 ( icmp ) </first>
+          <first>icmp_ln44_5_fu_1590_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46803,7 +46803,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_6_fu_1605_p2 ( icmp ) </first>
+          <first>icmp_ln44_6_fu_1605_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46811,7 +46811,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_7_fu_1620_p2 ( icmp ) </first>
+          <first>icmp_ln44_7_fu_1620_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46819,7 +46819,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_8_fu_1635_p2 ( icmp ) </first>
+          <first>icmp_ln44_8_fu_1635_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46827,7 +46827,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_9_fu_1650_p2 ( icmp ) </first>
+          <first>icmp_ln44_9_fu_1650_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46835,7 +46835,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln45_fu_1515_p2 ( icmp ) </first>
+          <first>icmp_ln44_fu_1515_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46843,7 +46843,7 @@
           </second>
         </item>
         <item>
-          <first>mul_ln29_fu_1479_p2 ( * ) </first>
+          <first>mul_ln28_fu_1479_p2 ( * ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46851,7 +46851,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln38_fu_2187_p2 ( or ) </first>
+          <first>or_ln37_fu_2187_p2 ( or ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46859,7 +46859,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_10_fu_1670_p2 ( or ) </first>
+          <first>or_ln43_10_fu_1670_p2 ( or ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46867,7 +46867,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_11_fu_1685_p2 ( or ) </first>
+          <first>or_ln43_11_fu_1685_p2 ( or ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46875,7 +46875,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_12_fu_1700_p2 ( or ) </first>
+          <first>or_ln43_12_fu_1700_p2 ( or ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46883,7 +46883,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_13_fu_1715_p2 ( or ) </first>
+          <first>or_ln43_13_fu_1715_p2 ( or ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46891,7 +46891,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_14_fu_1730_p2 ( or ) </first>
+          <first>or_ln43_14_fu_1730_p2 ( or ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46899,7 +46899,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_15_fu_1824_p2 ( or ) </first>
+          <first>or_ln43_15_fu_1824_p2 ( or ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46907,7 +46907,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_16_fu_1847_p2 ( or ) </first>
+          <first>or_ln43_16_fu_1847_p2 ( or ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46915,7 +46915,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_17_fu_1870_p2 ( or ) </first>
+          <first>or_ln43_17_fu_1870_p2 ( or ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46923,7 +46923,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_18_fu_1893_p2 ( or ) </first>
+          <first>or_ln43_18_fu_1893_p2 ( or ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46931,7 +46931,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_19_fu_1916_p2 ( or ) </first>
+          <first>or_ln43_19_fu_1916_p2 ( or ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46939,7 +46939,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_1_fu_1535_p2 ( or ) </first>
+          <first>or_ln43_1_fu_1535_p2 ( or ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46947,7 +46947,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_20_fu_1939_p2 ( or ) </first>
+          <first>or_ln43_20_fu_1939_p2 ( or ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46955,7 +46955,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_21_fu_1962_p2 ( or ) </first>
+          <first>or_ln43_21_fu_1962_p2 ( or ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46963,7 +46963,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_22_fu_1985_p2 ( or ) </first>
+          <first>or_ln43_22_fu_1985_p2 ( or ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46971,7 +46971,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_23_fu_2008_p2 ( or ) </first>
+          <first>or_ln43_23_fu_2008_p2 ( or ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46979,7 +46979,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_24_fu_2031_p2 ( or ) </first>
+          <first>or_ln43_24_fu_2031_p2 ( or ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46987,7 +46987,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_25_fu_2054_p2 ( or ) </first>
+          <first>or_ln43_25_fu_2054_p2 ( or ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -46995,7 +46995,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_26_fu_2077_p2 ( or ) </first>
+          <first>or_ln43_26_fu_2077_p2 ( or ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47003,7 +47003,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_27_fu_2100_p2 ( or ) </first>
+          <first>or_ln43_27_fu_2100_p2 ( or ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47011,7 +47011,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_28_fu_2123_p2 ( or ) </first>
+          <first>or_ln43_28_fu_2123_p2 ( or ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47019,7 +47019,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_29_fu_2146_p2 ( or ) </first>
+          <first>or_ln43_29_fu_2146_p2 ( or ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47027,7 +47027,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_2_fu_1550_p2 ( or ) </first>
+          <first>or_ln43_2_fu_1550_p2 ( or ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47035,7 +47035,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_3_fu_1565_p2 ( or ) </first>
+          <first>or_ln43_3_fu_1565_p2 ( or ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47043,7 +47043,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_4_fu_1580_p2 ( or ) </first>
+          <first>or_ln43_4_fu_1580_p2 ( or ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47051,7 +47051,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_5_fu_1595_p2 ( or ) </first>
+          <first>or_ln43_5_fu_1595_p2 ( or ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47059,7 +47059,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_6_fu_1610_p2 ( or ) </first>
+          <first>or_ln43_6_fu_1610_p2 ( or ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47067,7 +47067,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_7_fu_1625_p2 ( or ) </first>
+          <first>or_ln43_7_fu_1625_p2 ( or ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47075,7 +47075,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_8_fu_1640_p2 ( or ) </first>
+          <first>or_ln43_8_fu_1640_p2 ( or ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47083,7 +47083,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_9_fu_1655_p2 ( or ) </first>
+          <first>or_ln43_9_fu_1655_p2 ( or ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47091,7 +47091,7 @@
           </second>
         </item>
         <item>
-          <first>or_ln44_fu_1520_p2 ( or ) </first>
+          <first>or_ln43_fu_1520_p2 ( or ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47107,7 +47107,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_10_fu_1977_p3 ( select ) </first>
+          <first>select_ln36_10_fu_1977_p3 ( select ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47115,7 +47115,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_11_fu_2000_p3 ( select ) </first>
+          <first>select_ln36_11_fu_2000_p3 ( select ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47123,7 +47123,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_12_fu_2023_p3 ( select ) </first>
+          <first>select_ln36_12_fu_2023_p3 ( select ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47131,7 +47131,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_13_fu_2046_p3 ( select ) </first>
+          <first>select_ln36_13_fu_2046_p3 ( select ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47139,7 +47139,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_14_fu_2069_p3 ( select ) </first>
+          <first>select_ln36_14_fu_2069_p3 ( select ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47147,7 +47147,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_15_fu_2092_p3 ( select ) </first>
+          <first>select_ln36_15_fu_2092_p3 ( select ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47155,7 +47155,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_16_fu_2115_p3 ( select ) </first>
+          <first>select_ln36_16_fu_2115_p3 ( select ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47163,7 +47163,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_17_fu_2138_p3 ( select ) </first>
+          <first>select_ln36_17_fu_2138_p3 ( select ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47171,7 +47171,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_18_fu_2161_p3 ( select ) </first>
+          <first>select_ln36_18_fu_2161_p3 ( select ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47179,7 +47179,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_19_fu_2174_p3 ( select ) </first>
+          <first>select_ln36_19_fu_2174_p3 ( select ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47187,7 +47187,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_1_fu_1791_p3 ( select ) </first>
+          <first>select_ln36_1_fu_1791_p3 ( select ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47195,7 +47195,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_2_fu_1808_p3 ( select ) </first>
+          <first>select_ln36_2_fu_1808_p3 ( select ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47203,7 +47203,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_3_fu_1816_p3 ( select ) </first>
+          <first>select_ln36_3_fu_1816_p3 ( select ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47211,7 +47211,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_4_fu_1839_p3 ( select ) </first>
+          <first>select_ln36_4_fu_1839_p3 ( select ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47219,7 +47219,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_5_fu_1862_p3 ( select ) </first>
+          <first>select_ln36_5_fu_1862_p3 ( select ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47227,7 +47227,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_6_fu_1885_p3 ( select ) </first>
+          <first>select_ln36_6_fu_1885_p3 ( select ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47235,7 +47235,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_7_fu_1908_p3 ( select ) </first>
+          <first>select_ln36_7_fu_1908_p3 ( select ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47243,7 +47243,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_8_fu_1931_p3 ( select ) </first>
+          <first>select_ln36_8_fu_1931_p3 ( select ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47251,7 +47251,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_9_fu_1954_p3 ( select ) </first>
+          <first>select_ln36_9_fu_1954_p3 ( select ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47259,7 +47259,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln37_fu_1767_p3 ( select ) </first>
+          <first>select_ln36_fu_1767_p3 ( select ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47267,7 +47267,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln38_1_fu_2201_p3 ( select ) </first>
+          <first>select_ln37_1_fu_2201_p3 ( select ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47275,7 +47275,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln38_2_fu_2221_p3 ( select ) </first>
+          <first>select_ln37_2_fu_2221_p3 ( select ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47283,7 +47283,7 @@
           </second>
         </item>
         <item>
-          <first>select_ln38_fu_2193_p3 ( select ) </first>
+          <first>select_ln37_fu_2193_p3 ( select ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47291,7 +47291,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_10_fu_2626_p2 ( xor ) </first>
+          <first>xor_ln36_10_fu_2626_p2 ( xor ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47299,7 +47299,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_11_fu_2635_p2 ( xor ) </first>
+          <first>xor_ln36_11_fu_2635_p2 ( xor ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47307,7 +47307,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_12_fu_2644_p2 ( xor ) </first>
+          <first>xor_ln36_12_fu_2644_p2 ( xor ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47315,7 +47315,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_13_fu_2653_p2 ( xor ) </first>
+          <first>xor_ln36_13_fu_2653_p2 ( xor ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47323,7 +47323,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_14_fu_2662_p2 ( xor ) </first>
+          <first>xor_ln36_14_fu_2662_p2 ( xor ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47331,7 +47331,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_15_fu_2671_p2 ( xor ) </first>
+          <first>xor_ln36_15_fu_2671_p2 ( xor ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47339,7 +47339,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_1_fu_2545_p2 ( xor ) </first>
+          <first>xor_ln36_1_fu_2545_p2 ( xor ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47347,7 +47347,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_2_fu_2554_p2 ( xor ) </first>
+          <first>xor_ln36_2_fu_2554_p2 ( xor ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47355,7 +47355,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_3_fu_2563_p2 ( xor ) </first>
+          <first>xor_ln36_3_fu_2563_p2 ( xor ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47363,7 +47363,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_4_fu_2572_p2 ( xor ) </first>
+          <first>xor_ln36_4_fu_2572_p2 ( xor ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47371,7 +47371,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_5_fu_2581_p2 ( xor ) </first>
+          <first>xor_ln36_5_fu_2581_p2 ( xor ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47379,7 +47379,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_6_fu_2590_p2 ( xor ) </first>
+          <first>xor_ln36_6_fu_2590_p2 ( xor ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47387,7 +47387,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_7_fu_2599_p2 ( xor ) </first>
+          <first>xor_ln36_7_fu_2599_p2 ( xor ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47395,7 +47395,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_8_fu_2608_p2 ( xor ) </first>
+          <first>xor_ln36_8_fu_2608_p2 ( xor ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47403,7 +47403,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_9_fu_2617_p2 ( xor ) </first>
+          <first>xor_ln36_9_fu_2617_p2 ( xor ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -47411,7 +47411,7 @@
           </second>
         </item>
         <item>
-          <first>xor_ln37_fu_2536_p2 ( xor ) </first>
+          <first>xor_ln36_fu_2536_p2 ( xor ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -54984,7 +54984,7 @@
       <count>375</count>
       <item_version>0</item_version>
       <item class_id="55" tracking_level="0" version="0">
-        <first>add_ln37_fu_1750</first>
+        <first>add_ln36_fu_1750</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -54992,7 +54992,7 @@
         </second>
       </item>
       <item>
-        <first>add_ln38_1_fu_2215</first>
+        <first>add_ln37_1_fu_2215</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55000,7 +55000,7 @@
         </second>
       </item>
       <item>
-        <first>add_ln43_1_fu_2252</first>
+        <first>add_ln42_1_fu_2252</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55008,7 +55008,7 @@
         </second>
       </item>
       <item>
-        <first>add_ln43_fu_2243</first>
+        <first>add_ln42_fu_2243</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55072,7 +55072,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln37_fu_1745</first>
+        <first>icmp_ln36_fu_1745</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55080,7 +55080,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln38_fu_1762</first>
+        <first>icmp_ln37_fu_1762</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55088,7 +55088,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln39_1_fu_2169</first>
+        <first>icmp_ln38_1_fu_2169</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55096,7 +55096,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln39_fu_1493</first>
+        <first>icmp_ln38_fu_1493</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55104,7 +55104,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_10_fu_1665</first>
+        <first>icmp_ln44_10_fu_1665</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55112,7 +55112,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_11_fu_1680</first>
+        <first>icmp_ln44_11_fu_1680</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55120,7 +55120,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_12_fu_1695</first>
+        <first>icmp_ln44_12_fu_1695</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55128,7 +55128,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_13_fu_1710</first>
+        <first>icmp_ln44_13_fu_1710</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55136,7 +55136,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_14_fu_1725</first>
+        <first>icmp_ln44_14_fu_1725</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55144,7 +55144,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_15_fu_1740</first>
+        <first>icmp_ln44_15_fu_1740</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55152,7 +55152,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_16_fu_1803</first>
+        <first>icmp_ln44_16_fu_1803</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55160,7 +55160,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_17_fu_1834</first>
+        <first>icmp_ln44_17_fu_1834</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55168,7 +55168,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_18_fu_1857</first>
+        <first>icmp_ln44_18_fu_1857</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55176,7 +55176,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_19_fu_1880</first>
+        <first>icmp_ln44_19_fu_1880</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55184,7 +55184,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_1_fu_1530</first>
+        <first>icmp_ln44_1_fu_1530</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55192,7 +55192,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_20_fu_1903</first>
+        <first>icmp_ln44_20_fu_1903</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55200,7 +55200,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_21_fu_1926</first>
+        <first>icmp_ln44_21_fu_1926</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55208,7 +55208,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_22_fu_1949</first>
+        <first>icmp_ln44_22_fu_1949</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55216,7 +55216,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_23_fu_1972</first>
+        <first>icmp_ln44_23_fu_1972</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55224,7 +55224,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_24_fu_1995</first>
+        <first>icmp_ln44_24_fu_1995</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55232,7 +55232,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_25_fu_2018</first>
+        <first>icmp_ln44_25_fu_2018</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55240,7 +55240,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_26_fu_2041</first>
+        <first>icmp_ln44_26_fu_2041</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55248,7 +55248,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_27_fu_2064</first>
+        <first>icmp_ln44_27_fu_2064</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55256,7 +55256,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_28_fu_2087</first>
+        <first>icmp_ln44_28_fu_2087</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55264,7 +55264,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_29_fu_2110</first>
+        <first>icmp_ln44_29_fu_2110</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55272,7 +55272,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_2_fu_1545</first>
+        <first>icmp_ln44_2_fu_1545</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55280,7 +55280,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_30_fu_2133</first>
+        <first>icmp_ln44_30_fu_2133</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55288,7 +55288,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_31_fu_2156</first>
+        <first>icmp_ln44_31_fu_2156</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55296,7 +55296,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_3_fu_1560</first>
+        <first>icmp_ln44_3_fu_1560</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55304,7 +55304,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_4_fu_1575</first>
+        <first>icmp_ln44_4_fu_1575</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55312,7 +55312,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_5_fu_1590</first>
+        <first>icmp_ln44_5_fu_1590</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55320,7 +55320,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_6_fu_1605</first>
+        <first>icmp_ln44_6_fu_1605</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55328,7 +55328,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_7_fu_1620</first>
+        <first>icmp_ln44_7_fu_1620</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55336,7 +55336,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_8_fu_1635</first>
+        <first>icmp_ln44_8_fu_1635</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55344,7 +55344,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_9_fu_1650</first>
+        <first>icmp_ln44_9_fu_1650</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55352,7 +55352,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln45_fu_1515</first>
+        <first>icmp_ln44_fu_1515</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55392,7 +55392,7 @@
         </second>
       </item>
       <item>
-        <first>mul_ln29_fu_1479</first>
+        <first>mul_ln28_fu_1479</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55400,7 +55400,7 @@
         </second>
       </item>
       <item>
-        <first>or_ln38_fu_2187</first>
+        <first>or_ln37_fu_2187</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55408,7 +55408,7 @@
         </second>
       </item>
       <item>
-        <first>or_ln44_10_fu_1670</first>
+        <first>or_ln43_10_fu_1670</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55416,7 +55416,7 @@
         </second>
       </item>
       <item>
-        <first>or_ln44_11_fu_1685</first>
+        <first>or_ln43_11_fu_1685</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55424,7 +55424,7 @@
         </second>
       </item>
       <item>
-        <first>or_ln44_12_fu_1700</first>
+        <first>or_ln43_12_fu_1700</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55432,7 +55432,7 @@
         </second>
       </item>
       <item>
-        <first>or_ln44_13_fu_1715</first>
+        <first>or_ln43_13_fu_1715</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55440,7 +55440,7 @@
         </second>
       </item>
       <item>
-        <first>or_ln44_14_fu_1730</first>
+        <first>or_ln43_14_fu_1730</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55448,7 +55448,7 @@
         </second>
       </item>
       <item>
-        <first>or_ln44_15_fu_1824</first>
+        <first>or_ln43_15_fu_1824</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55456,7 +55456,7 @@
         </second>
       </item>
       <item>
-        <first>or_ln44_16_fu_1847</first>
+        <first>or_ln43_16_fu_1847</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55464,7 +55464,7 @@
         </second>
       </item>
       <item>
-        <first>or_ln44_17_fu_1870</first>
+        <first>or_ln43_17_fu_1870</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55472,7 +55472,7 @@
         </second>
       </item>
       <item>
-        <first>or_ln44_18_fu_1893</first>
+        <first>or_ln43_18_fu_1893</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55480,7 +55480,7 @@
         </second>
       </item>
       <item>
-        <first>or_ln44_19_fu_1916</first>
+        <first>or_ln43_19_fu_1916</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55488,7 +55488,7 @@
         </second>
       </item>
       <item>
-        <first>or_ln44_1_fu_1535</first>
+        <first>or_ln43_1_fu_1535</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55496,7 +55496,7 @@
         </second>
       </item>
       <item>
-        <first>or_ln44_20_fu_1939</first>
+        <first>or_ln43_20_fu_1939</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55504,7 +55504,7 @@
         </second>
       </item>
       <item>
-        <first>or_ln44_21_fu_1962</first>
+        <first>or_ln43_21_fu_1962</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55512,7 +55512,7 @@
         </second>
       </item>
       <item>
-        <first>or_ln44_22_fu_1985</first>
+        <first>or_ln43_22_fu_1985</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55520,7 +55520,7 @@
         </second>
       </item>
       <item>
-        <first>or_ln44_23_fu_2008</first>
+        <first>or_ln43_23_fu_2008</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55528,7 +55528,7 @@
         </second>
       </item>
       <item>
-        <first>or_ln44_24_fu_2031</first>
+        <first>or_ln43_24_fu_2031</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55536,7 +55536,7 @@
         </second>
       </item>
       <item>
-        <first>or_ln44_25_fu_2054</first>
+        <first>or_ln43_25_fu_2054</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55544,7 +55544,7 @@
         </second>
       </item>
       <item>
-        <first>or_ln44_26_fu_2077</first>
+        <first>or_ln43_26_fu_2077</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55552,7 +55552,7 @@
         </second>
       </item>
       <item>
-        <first>or_ln44_27_fu_2100</first>
+        <first>or_ln43_27_fu_2100</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55560,7 +55560,7 @@
         </second>
       </item>
       <item>
-        <first>or_ln44_28_fu_2123</first>
+        <first>or_ln43_28_fu_2123</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55568,7 +55568,7 @@
         </second>
       </item>
       <item>
-        <first>or_ln44_29_fu_2146</first>
+        <first>or_ln43_29_fu_2146</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55576,7 +55576,7 @@
         </second>
       </item>
       <item>
-        <first>or_ln44_2_fu_1550</first>
+        <first>or_ln43_2_fu_1550</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55584,7 +55584,7 @@
         </second>
       </item>
       <item>
-        <first>or_ln44_3_fu_1565</first>
+        <first>or_ln43_3_fu_1565</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55592,7 +55592,7 @@
         </second>
       </item>
       <item>
-        <first>or_ln44_4_fu_1580</first>
+        <first>or_ln43_4_fu_1580</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55600,7 +55600,7 @@
         </second>
       </item>
       <item>
-        <first>or_ln44_5_fu_1595</first>
+        <first>or_ln43_5_fu_1595</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55608,7 +55608,7 @@
         </second>
       </item>
       <item>
-        <first>or_ln44_6_fu_1610</first>
+        <first>or_ln43_6_fu_1610</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55616,7 +55616,7 @@
         </second>
       </item>
       <item>
-        <first>or_ln44_7_fu_1625</first>
+        <first>or_ln43_7_fu_1625</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55624,7 +55624,7 @@
         </second>
       </item>
       <item>
-        <first>or_ln44_8_fu_1640</first>
+        <first>or_ln43_8_fu_1640</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55632,7 +55632,7 @@
         </second>
       </item>
       <item>
-        <first>or_ln44_9_fu_1655</first>
+        <first>or_ln43_9_fu_1655</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -55640,7 +55640,7 @@
         </second>
       </item>
       <item>
-        <first>or_ln44_fu_1520</first>
+        <first>or_ln43_fu_1520</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -56304,7 +56304,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_10_fu_1977</first>
+        <first>select_ln36_10_fu_1977</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -56312,7 +56312,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_11_fu_2000</first>
+        <first>select_ln36_11_fu_2000</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -56320,7 +56320,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_12_fu_2023</first>
+        <first>select_ln36_12_fu_2023</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -56328,7 +56328,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_13_fu_2046</first>
+        <first>select_ln36_13_fu_2046</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -56336,7 +56336,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_14_fu_2069</first>
+        <first>select_ln36_14_fu_2069</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -56344,7 +56344,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_15_fu_2092</first>
+        <first>select_ln36_15_fu_2092</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -56352,7 +56352,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_16_fu_2115</first>
+        <first>select_ln36_16_fu_2115</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -56360,7 +56360,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_17_fu_2138</first>
+        <first>select_ln36_17_fu_2138</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -56368,7 +56368,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_18_fu_2161</first>
+        <first>select_ln36_18_fu_2161</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -56376,7 +56376,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_19_fu_2174</first>
+        <first>select_ln36_19_fu_2174</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -56384,7 +56384,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_1_fu_1791</first>
+        <first>select_ln36_1_fu_1791</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -56392,7 +56392,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_2_fu_1808</first>
+        <first>select_ln36_2_fu_1808</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -56400,7 +56400,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_3_fu_1816</first>
+        <first>select_ln36_3_fu_1816</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -56408,7 +56408,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_4_fu_1839</first>
+        <first>select_ln36_4_fu_1839</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -56416,7 +56416,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_5_fu_1862</first>
+        <first>select_ln36_5_fu_1862</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -56424,7 +56424,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_6_fu_1885</first>
+        <first>select_ln36_6_fu_1885</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -56432,7 +56432,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_7_fu_1908</first>
+        <first>select_ln36_7_fu_1908</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -56440,7 +56440,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_8_fu_1931</first>
+        <first>select_ln36_8_fu_1931</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -56448,7 +56448,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_9_fu_1954</first>
+        <first>select_ln36_9_fu_1954</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -56456,7 +56456,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_fu_1767</first>
+        <first>select_ln36_fu_1767</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -56464,7 +56464,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln38_1_fu_2201</first>
+        <first>select_ln37_1_fu_2201</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -56472,7 +56472,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln38_2_fu_2221</first>
+        <first>select_ln37_2_fu_2221</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -56480,7 +56480,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln38_fu_2193</first>
+        <first>select_ln37_fu_2193</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57016,7 +57016,7 @@
         </second>
       </item>
       <item>
-        <first>trunc_ln37_fu_1799</first>
+        <first>trunc_ln36_fu_1799</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57024,7 +57024,7 @@
         </second>
       </item>
       <item>
-        <first>trunc_ln41_1_fu_1775</first>
+        <first>trunc_ln40_1_fu_1775</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57032,7 +57032,7 @@
         </second>
       </item>
       <item>
-        <first>trunc_ln41_fu_1499</first>
+        <first>trunc_ln40_fu_1499</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57168,7 +57168,7 @@
         </second>
       </item>
       <item>
-        <first>xor_ln37_10_fu_2626</first>
+        <first>xor_ln36_10_fu_2626</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57176,7 +57176,7 @@
         </second>
       </item>
       <item>
-        <first>xor_ln37_11_fu_2635</first>
+        <first>xor_ln36_11_fu_2635</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57184,7 +57184,7 @@
         </second>
       </item>
       <item>
-        <first>xor_ln37_12_fu_2644</first>
+        <first>xor_ln36_12_fu_2644</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57192,7 +57192,7 @@
         </second>
       </item>
       <item>
-        <first>xor_ln37_13_fu_2653</first>
+        <first>xor_ln36_13_fu_2653</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57200,7 +57200,7 @@
         </second>
       </item>
       <item>
-        <first>xor_ln37_14_fu_2662</first>
+        <first>xor_ln36_14_fu_2662</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57208,7 +57208,7 @@
         </second>
       </item>
       <item>
-        <first>xor_ln37_15_fu_2671</first>
+        <first>xor_ln36_15_fu_2671</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57216,7 +57216,7 @@
         </second>
       </item>
       <item>
-        <first>xor_ln37_1_fu_2545</first>
+        <first>xor_ln36_1_fu_2545</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57224,7 +57224,7 @@
         </second>
       </item>
       <item>
-        <first>xor_ln37_2_fu_2554</first>
+        <first>xor_ln36_2_fu_2554</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57232,7 +57232,7 @@
         </second>
       </item>
       <item>
-        <first>xor_ln37_3_fu_2563</first>
+        <first>xor_ln36_3_fu_2563</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57240,7 +57240,7 @@
         </second>
       </item>
       <item>
-        <first>xor_ln37_4_fu_2572</first>
+        <first>xor_ln36_4_fu_2572</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57248,7 +57248,7 @@
         </second>
       </item>
       <item>
-        <first>xor_ln37_5_fu_2581</first>
+        <first>xor_ln36_5_fu_2581</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57256,7 +57256,7 @@
         </second>
       </item>
       <item>
-        <first>xor_ln37_6_fu_2590</first>
+        <first>xor_ln36_6_fu_2590</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57264,7 +57264,7 @@
         </second>
       </item>
       <item>
-        <first>xor_ln37_7_fu_2599</first>
+        <first>xor_ln36_7_fu_2599</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57272,7 +57272,7 @@
         </second>
       </item>
       <item>
-        <first>xor_ln37_8_fu_2608</first>
+        <first>xor_ln36_8_fu_2608</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57280,7 +57280,7 @@
         </second>
       </item>
       <item>
-        <first>xor_ln37_9_fu_2617</first>
+        <first>xor_ln36_9_fu_2617</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57288,7 +57288,7 @@
         </second>
       </item>
       <item>
-        <first>xor_ln37_fu_2536</first>
+        <first>xor_ln36_fu_2536</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57296,7 +57296,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln29_1_fu_1475</first>
+        <first>zext_ln28_1_fu_1475</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57304,7 +57304,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln29_fu_1471</first>
+        <first>zext_ln28_fu_1471</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57312,7 +57312,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln37_10_fu_2631</first>
+        <first>zext_ln36_10_fu_2631</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57320,7 +57320,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln37_11_fu_2640</first>
+        <first>zext_ln36_11_fu_2640</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57328,7 +57328,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln37_12_fu_2649</first>
+        <first>zext_ln36_12_fu_2649</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57336,7 +57336,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln37_13_fu_2658</first>
+        <first>zext_ln36_13_fu_2658</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57344,7 +57344,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln37_14_fu_2667</first>
+        <first>zext_ln36_14_fu_2667</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57352,7 +57352,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln37_15_fu_2676</first>
+        <first>zext_ln36_15_fu_2676</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57360,7 +57360,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln37_1_fu_2550</first>
+        <first>zext_ln36_1_fu_2550</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57368,7 +57368,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln37_2_fu_2559</first>
+        <first>zext_ln36_2_fu_2559</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57376,7 +57376,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln37_3_fu_2568</first>
+        <first>zext_ln36_3_fu_2568</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57384,7 +57384,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln37_4_fu_2577</first>
+        <first>zext_ln36_4_fu_2577</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57392,7 +57392,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln37_5_fu_2586</first>
+        <first>zext_ln36_5_fu_2586</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57400,7 +57400,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln37_6_fu_2595</first>
+        <first>zext_ln36_6_fu_2595</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57408,7 +57408,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln37_7_fu_2604</first>
+        <first>zext_ln36_7_fu_2604</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57416,7 +57416,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln37_8_fu_2613</first>
+        <first>zext_ln36_8_fu_2613</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57424,7 +57424,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln37_9_fu_2622</first>
+        <first>zext_ln36_9_fu_2622</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57432,7 +57432,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln37_fu_2541</first>
+        <first>zext_ln36_fu_2541</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57440,7 +57440,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln38_fu_2229</first>
+        <first>zext_ln37_fu_2229</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57448,7 +57448,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln41_1_fu_1787</first>
+        <first>zext_ln40_1_fu_1787</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57456,7 +57456,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln41_fu_1511</first>
+        <first>zext_ln40_fu_1511</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57464,7 +57464,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln43_1_fu_2249</first>
+        <first>zext_ln42_1_fu_2249</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57472,7 +57472,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln43_2_fu_2258</first>
+        <first>zext_ln42_2_fu_2258</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57480,7 +57480,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln43_fu_2239</first>
+        <first>zext_ln42_fu_2239</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57488,7 +57488,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_10_fu_1676</first>
+        <first>zext_ln43_10_fu_1676</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57496,7 +57496,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_11_fu_1691</first>
+        <first>zext_ln43_11_fu_1691</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57504,7 +57504,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_12_fu_1706</first>
+        <first>zext_ln43_12_fu_1706</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57512,7 +57512,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_13_fu_1721</first>
+        <first>zext_ln43_13_fu_1721</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57520,7 +57520,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_14_fu_1736</first>
+        <first>zext_ln43_14_fu_1736</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57528,7 +57528,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_15_fu_1830</first>
+        <first>zext_ln43_15_fu_1830</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57536,7 +57536,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_16_fu_1853</first>
+        <first>zext_ln43_16_fu_1853</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57544,7 +57544,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_17_fu_1876</first>
+        <first>zext_ln43_17_fu_1876</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57552,7 +57552,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_18_fu_1899</first>
+        <first>zext_ln43_18_fu_1899</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57560,7 +57560,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_19_fu_1922</first>
+        <first>zext_ln43_19_fu_1922</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57568,7 +57568,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_1_fu_1541</first>
+        <first>zext_ln43_1_fu_1541</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57576,7 +57576,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_20_fu_1945</first>
+        <first>zext_ln43_20_fu_1945</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57584,7 +57584,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_21_fu_1968</first>
+        <first>zext_ln43_21_fu_1968</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57592,7 +57592,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_22_fu_1991</first>
+        <first>zext_ln43_22_fu_1991</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57600,7 +57600,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_23_fu_2014</first>
+        <first>zext_ln43_23_fu_2014</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57608,7 +57608,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_24_fu_2037</first>
+        <first>zext_ln43_24_fu_2037</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57616,7 +57616,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_25_fu_2060</first>
+        <first>zext_ln43_25_fu_2060</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57624,7 +57624,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_26_fu_2083</first>
+        <first>zext_ln43_26_fu_2083</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57632,7 +57632,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_27_fu_2106</first>
+        <first>zext_ln43_27_fu_2106</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57640,7 +57640,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_28_fu_2129</first>
+        <first>zext_ln43_28_fu_2129</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57648,7 +57648,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_29_fu_2152</first>
+        <first>zext_ln43_29_fu_2152</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57656,7 +57656,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_2_fu_1556</first>
+        <first>zext_ln43_2_fu_1556</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57664,7 +57664,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_3_fu_1571</first>
+        <first>zext_ln43_3_fu_1571</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57672,7 +57672,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_4_fu_1586</first>
+        <first>zext_ln43_4_fu_1586</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57680,7 +57680,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_5_fu_1601</first>
+        <first>zext_ln43_5_fu_1601</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57688,7 +57688,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_6_fu_1616</first>
+        <first>zext_ln43_6_fu_1616</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57696,7 +57696,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_7_fu_1631</first>
+        <first>zext_ln43_7_fu_1631</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57704,7 +57704,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_8_fu_1646</first>
+        <first>zext_ln43_8_fu_1646</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57712,7 +57712,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_9_fu_1661</first>
+        <first>zext_ln43_9_fu_1661</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -57720,7 +57720,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_fu_1526</first>
+        <first>zext_ln43_fu_1526</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -60046,7 +60046,7 @@
       <count>133</count>
       <item_version>0</item_version>
       <item>
-        <first>add_ln37_reg_3382</first>
+        <first>add_ln36_reg_3382</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -60086,7 +60086,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln37_reg_3378</first>
+        <first>icmp_ln36_reg_3378</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -60094,7 +60094,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln39_reg_3373</first>
+        <first>icmp_ln38_reg_3373</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -60142,7 +60142,7 @@
         </second>
       </item>
       <item>
-        <first>mul_ln29_reg_3363</first>
+        <first>mul_ln28_reg_3363</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -60798,7 +60798,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_10_reg_3460</first>
+        <first>select_ln36_10_reg_3460</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -60806,7 +60806,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_11_reg_3464</first>
+        <first>select_ln36_11_reg_3464</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -60814,7 +60814,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_12_reg_3468</first>
+        <first>select_ln36_12_reg_3468</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -60822,7 +60822,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_13_reg_3472</first>
+        <first>select_ln36_13_reg_3472</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -60830,7 +60830,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_14_reg_3476</first>
+        <first>select_ln36_14_reg_3476</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -60838,7 +60838,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_15_reg_3480</first>
+        <first>select_ln36_15_reg_3480</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -60846,7 +60846,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_16_reg_3484</first>
+        <first>select_ln36_16_reg_3484</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -60854,7 +60854,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_17_reg_3488</first>
+        <first>select_ln36_17_reg_3488</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -60862,7 +60862,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_18_reg_3492</first>
+        <first>select_ln36_18_reg_3492</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -60870,7 +60870,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_1_reg_3387</first>
+        <first>select_ln36_1_reg_3387</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -60878,7 +60878,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_2_reg_3412</first>
+        <first>select_ln36_2_reg_3412</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -60886,7 +60886,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_3_reg_3416</first>
+        <first>select_ln36_3_reg_3416</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -60894,7 +60894,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_4_reg_3436</first>
+        <first>select_ln36_4_reg_3436</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -60902,7 +60902,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_5_reg_3440</first>
+        <first>select_ln36_5_reg_3440</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -60910,7 +60910,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_6_reg_3444</first>
+        <first>select_ln36_6_reg_3444</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -60918,7 +60918,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_7_reg_3448</first>
+        <first>select_ln36_7_reg_3448</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -60926,7 +60926,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_8_reg_3452</first>
+        <first>select_ln36_8_reg_3452</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -60934,7 +60934,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln37_9_reg_3456</first>
+        <first>select_ln36_9_reg_3456</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -60942,7 +60942,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln38_1_reg_3501</first>
+        <first>select_ln37_1_reg_3501</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -60950,7 +60950,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln38_2_reg_3513</first>
+        <first>select_ln37_2_reg_3513</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -60958,7 +60958,7 @@
         </second>
       </item>
       <item>
-        <first>select_ln38_reg_3496</first>
+        <first>select_ln37_reg_3496</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -61102,7 +61102,7 @@
         </second>
       </item>
       <item>
-        <first>trunc_ln37_reg_3392</first>
+        <first>trunc_ln36_reg_3392</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>

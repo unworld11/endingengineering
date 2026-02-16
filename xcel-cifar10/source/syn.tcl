@@ -28,5 +28,5 @@ set_clock_uncertainty 12.5%
 #csim_design -clean -O
 csynth_design
 #cosim_design -O -trace_level all
-export_design -rtl verilog -format ip_catalog
+export_design -rtl verilog -format ip_catalog -version "1.0.1"
 exit
