@@ -72,6 +72,12 @@ parser.add_argument('--scheduler', type=str, default='cosine',
                     help='learning rate scheduler for training')
 parser.add_argument('--warmup_epochs', type=int, default=5,
                     help='warmup epochs used by cosine scheduler')
+parser.add_argument('--num_workers', type=int, default=None,
+                    help='dataloader workers; default chooses a sensible value for the host')
+parser.add_argument('--eval_interval', type=int, default=5,
+                    help='run validation every N epochs (final epoch always runs)')
+parser.add_argument('--sparsity_interval', type=int, default=10,
+                    help='report sparsity every N epochs when validating (final epoch always runs)')
 
 args = parser.parse_args()
 
@@ -87,6 +93,13 @@ drop_last = False
 
 def unwrap_model(model):
     return model.module if isinstance(model, nn.DataParallel) else model
+
+
+def resolve_num_workers():
+    if args.num_workers is not None:
+        return max(0, args.num_workers)
+    cpu_count = os.cpu_count() or 2
+    return max(2, min(8, cpu_count))
 
 
 def resolve_mixup_alpha():
@@ -132,6 +145,22 @@ def apply_mixup(inputs, labels, num_classes=10):
     return mixed_inputs, labels, mixed_targets
 
 
+def should_run_interval(epoch_idx, interval):
+    epoch_num = epoch_idx + 1
+    if epoch_num == args.num_epoch:
+        return True
+    if interval <= 0:
+        return False
+    return (epoch_num % interval) == 0
+
+
+def should_run_eval(epoch_idx):
+    if should_run_interval(epoch_idx, args.eval_interval):
+        return True
+    tail_epochs = min(20, args.num_epoch)
+    return (epoch_idx + 1) > (args.num_epoch - tail_epochs)
+
+
 #----------------------------
 # Load the CIFAR-10 dataset.
 #----------------------------
@@ -155,22 +184,30 @@ def load_cifar10():
 
     transform_train = transforms.Compose(transform_train_list)
     transform_test = transforms.Compose(transform_test_list)
+    num_workers = resolve_num_workers()
+    loader_kwargs = {
+        'batch_size': args.batch_size,
+        'num_workers': num_workers,
+        'pin_memory': torch.cuda.is_available(),
+        'drop_last': drop_last,
+        'persistent_workers': num_workers > 0,
+    }
+    if num_workers > 0:
+        loader_kwargs['prefetch_factor'] = 4
 
     # pin_memory=True makes transferring data from host to GPU faster
     trainset = torchvision.datasets.CIFAR10(root=args.data_dir, train=True,
                                             download=True, transform=transform_train)
-    trainloader = torch.utils.data.DataLoader(trainset, batch_size=args.batch_size,
-                                              shuffle=True, num_workers=2,
-                                              pin_memory=True, drop_last=drop_last)
+    trainloader = torch.utils.data.DataLoader(trainset, shuffle=True, **loader_kwargs)
 
     testset = torchvision.datasets.CIFAR10(root=args.data_dir, train=False,
                                            download=True, transform=transform_test)
-    testloader = torch.utils.data.DataLoader(testset, batch_size=args.batch_size,
-                                             shuffle=False, num_workers=2,
-                                             pin_memory=True, drop_last=drop_last)
+    testloader = torch.utils.data.DataLoader(testset, shuffle=False, **loader_kwargs)
 
     classes = ('plane', 'car', 'bird', 'cat',
                'deer', 'dog', 'frog', 'horse', 'ship', 'truck')
+
+    print(f"Using {num_workers} dataloader workers")
 
     return trainloader, testloader, classes
 
@@ -276,8 +313,15 @@ def train_model(trainloader, testloader, net,
 
     best_acc = 0.0
     best_model = copy.deepcopy(unwrap_model(net).state_dict())
+    best_epoch = 0
 
     for epoch in range(start_epoch, args.num_epoch):  # loop over the dataset multiple times
+        model_ref = unwrap_model(net)
+        if 'adaptive-pg' in _ARCH and hasattr(model_ref, 'set_temperature'):
+            # Anneal temperature from 5.0 to 1.0 over training, starting at epoch 1.
+            progress = epoch / max(1, args.num_epoch - 1)
+            temp = 5.0 - 4.0 * progress
+            model_ref.set_temperature(max(temp, 1.0))
 
         # set printing functions
         batch_time = util.AverageMeter('Time/batch', ':.2f')
@@ -300,11 +344,12 @@ def train_model(trainloader, testloader, net,
             # get the inputs; data is a list of [inputs, labels]
             student_feats.clear()
             teacher_feats.clear()
-            inputs, labels = data[0].to(device), data[1].to(device)
+            inputs = data[0].to(device, non_blocking=True)
+            labels = data[1].to(device, non_blocking=True)
             inputs, hard_labels, soft_targets = apply_mixup(inputs, labels, num_classes=10)
 
             # zero the parameter gradients
-            optimizer.zero_grad()
+            optimizer.zero_grad(set_to_none=True)
 
             # forward + backward + optimize
             outputs = net(inputs)
@@ -391,20 +436,12 @@ def train_model(trainloader, testloader, net,
         # update the learning rate
         scheduler.step()
 
-        # Temperature annealing for adaptive PG
-        model_ref = unwrap_model(net)
-        if 'adaptive-pg' in _ARCH and hasattr(model_ref, 'set_temperature'):
-            # Anneal temperature from 5.0 to 1.0 over training
-            temp = 5.0 - 4.0 * (epoch / args.num_epoch)
-            temp = max(temp, 1.0)
-            model_ref.set_temperature(temp)
-        
-        # print test accuracy every few epochs
-        if epoch % 1 == 0:
+        should_eval = should_run_eval(epoch)
+        if should_eval:
             print('epoch {}'.format(epoch + 1))
             eval_model = ema_model.ema if ema_model is not None else net
             epoch_acc = test_accu(testloader, net, device, model_for_eval=eval_model)
-            if 'pg' in _ARCH:
+            if 'pg' in _ARCH and should_run_interval(epoch, args.sparsity_interval):
                 sparsity(testloader, eval_model, device)
             
             # Report adaptive PG gate statistics
@@ -415,25 +452,23 @@ def train_model(trainloader, testloader, net,
                     avg_active = np.mean([s['active_fraction'] for s in gate_stats])
                     print(f'Average 2-bit fraction: {avg_active:.3f} (target: {args.target_sparsity:.3f})')
             
-            if epoch_acc >= best_acc:
+            if epoch_acc > best_acc:
                 best_acc = epoch_acc
+                best_epoch = epoch + 1
                 best_source = unwrap_model(eval_model) if hasattr(eval_model, 'state_dict') else model_ref
                 best_model = copy.deepcopy(best_source.state_dict())
-            print("The best test accuracy so far: {:.1f}".format(best_acc))
-
-            # save the model if required
-            if args.save:
-                print("Saving the trained model and states.")
-                this_file_path = os.path.dirname(os.path.abspath(__file__))
-                save_folder = os.path.join(this_file_path, 'save_CIFAR10_model')
-                util.save_models(best_model, save_folder,
-                                 suffix=_ARCH + '-finetune' if args.finetune else _ARCH)
-                """
-                states = {'epoch':epoch+1, 
-                          'optimizer':optimizer.state_dict(), 
-                          'scheduler':scheduler.state_dict()}
-                util.save_states(states, save_folder, suffix=_ARCH)
-                """
+                print("New best model found.")
+                if args.save:
+                    print("Saving checkpoint.")
+                    this_file_path = os.path.dirname(os.path.abspath(__file__))
+                    save_folder = os.path.join(this_file_path, 'save_CIFAR10_model')
+                    suffix = _ARCH + '-finetune' if args.finetune else _ARCH
+                    util.save_models(best_model, save_folder, suffix=suffix)
+                    states = {'epoch': epoch + 1,
+                              'optimizer': optimizer.state_dict(),
+                              'scheduler': scheduler.state_dict()}
+                    util.save_states(states, save_folder, suffix=suffix)
+            print("The best test accuracy so far: {:.1f} (epoch {})".format(best_acc, best_epoch))
 
     for handle in student_handles + teacher_handles:
         handle.remove()
@@ -450,11 +485,12 @@ def test_accu(testloader, net, device, model_for_eval=None):
     # switch the model to the evaluation mode
     eval_model = model_for_eval if model_for_eval is not None else net
     eval_model.eval()
-    with torch.no_grad():
+    with torch.inference_mode():
         for data in testloader:
-            images, labels = data[0].to(device), data[1].to(device)
+            images = data[0].to(device, non_blocking=True)
+            labels = data[1].to(device, non_blocking=True)
             outputs = eval_model(images)
-            _, predicted = torch.max(outputs.data, 1)
+            predicted = outputs.argmax(dim=1)
             total += labels.size(0)
             correct += (predicted == labels).sum().item()
 
@@ -483,17 +519,25 @@ def sparsity(testloader, net, device):
         return outs, highs
 
     net.eval()
+    adaptive_only = any(
+        isinstance(module, q.PGBinaryConv2d) and getattr(module, 'adaptive_pg', False)
+        for module in net.modules()
+    )
     total_out = 0.0
     total_high = 0.0
-    with torch.no_grad():
-        for data in testloader:
-            images, labels = data[0].to(device), data[1].to(device)
+    with torch.inference_mode():
+        for batch_idx, data in enumerate(testloader):
+            images = data[0].to(device, non_blocking=True)
             _ = net(images)  # forward to populate counters
             outs, highs = collect_pg_counters()
             if outs:
                 total_out += float(np.sum(outs))
             if highs:
                 total_high += float(np.sum(highs))
+            if adaptive_only:
+                break
+            if batch_idx >= 49:
+                break
 
     sparsity_pct = 100.0 - (total_high / total_out) * 100.0 if total_out > 0 else 0.0
     print('Sparsity of the update phase: %.1f %%' % sparsity_pct)
@@ -571,6 +615,11 @@ def analyze_adaptive_pg_metrics(net, testloader, device):
 def main():
     os.environ["CUDA_VISIBLE_DEVICES"] = args.which_gpus
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+    if torch.cuda.is_available():
+        torch.backends.cudnn.benchmark = True
+        torch.backends.cuda.matmul.allow_tf32 = True
+        if hasattr(torch, 'set_float32_matmul_precision'):
+            torch.set_float32_matmul_precision('high')
     print("Available GPUs: {}".format(torch.cuda.device_count()))
 
     print("Create {} model.".format(_ARCH))

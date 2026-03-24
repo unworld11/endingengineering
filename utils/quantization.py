@@ -241,8 +241,16 @@ class PGBinaryConv2d(nn.Conv2d):
         self.adaptive_pg = adaptive_pg
         self.target_sparsity = target_sparsity
         if adaptive_pg:
-            # Learnable gate vector g ∈ [0,1]^Cout (sigmoid)
-            self.gate_logits = nn.Parameter(torch.randn(out_channels) * 0.1)
+            # Initialize a fraction of channels as active so the hard routing
+            # starts close to the requested compute budget.
+            clipped_target = float(np.clip(target_sparsity, 1e-4, 1.0 - 1e-4))
+            init_logits = torch.full((out_channels,), -4.0)
+            num_active = int(round(out_channels * clipped_target))
+            if num_active > 0:
+                active_idx = torch.randperm(out_channels)[:num_active]
+                init_logits[active_idx] = 4.0
+            init_logits = init_logits + torch.randn(out_channels) * 0.01
+            self.gate_logits = nn.Parameter(init_logits)
             # Temperature for annealing
             self.register_buffer('temperature', torch.tensor(1.0))
             # Threshold for hard decisions
@@ -253,6 +261,12 @@ class PGBinaryConv2d(nn.Conv2d):
         ''' number of output features computed at high precision '''
         self.num_high = torch.zeros(1)
 
+    def _gate_probs(self):
+        return torch.sigmoid(self.gate_logits)
+
+    def _soft_gates(self):
+        return torch.sigmoid(self.gate_logits / self.temperature)
+
     def forward(self, input):
         ''' MSB convolution '''
         out_msb = F.conv2d(self.binarize(input),
@@ -261,28 +275,54 @@ class PGBinaryConv2d(nn.Conv2d):
                            self.dilation, self.groups) * 2.0 / 3.0
         
         if self.adaptive_pg:
-            # Adaptive PG: use learnable gates to determine which channels get 2-bit
-            gates = torch.sigmoid(self.gate_logits / self.temperature)  # [out_channels]
-            
-            # Straight-through estimator for hard threshold
-            hard_gates = (gates > self.hard_threshold).float()
-            gates_ste = hard_gates.detach() + gates - gates.detach()
-            
-            # Expand gates to match output dimensions [1, out_channels, 1, 1]
-            channel_mask = gates_ste.view(1, -1, 1, 1)
-            
-            ''' update report '''
-            self.num_out.fill_( out_msb.numel() )
-            self.num_high.fill_( (channel_mask > 0).sum().item() * out_msb.shape[2] * out_msb.shape[3] * out_msb.shape[0] )
-            
-            ''' full convolution only for selected channels '''
-            out_full = F.conv2d(input,
-                               self.binarize(self.weight),
-                               self.bias, self.stride, self.padding,
-                               self.dilation, self.groups)
-            
-            ''' combine outputs: channels with gate>threshold get full precision '''
-            return (1-channel_mask) * out_msb + channel_mask * out_full
+            # Use the untempered probabilities for hard routing semantics and
+            # the tempered variant only for smoother gradients during annealing.
+            gate_probs = self._gate_probs()
+            hard_gates = (gate_probs > self.hard_threshold)
+
+            self.num_out.fill_(out_msb.numel())
+            self.num_high.fill_(
+                hard_gates.sum().item() * out_msb.shape[2] * out_msb.shape[3] * out_msb.shape[0]
+            )
+
+            if self.training:
+                soft_gates = self._soft_gates()
+                hard_gates = hard_gates.float()
+
+                # Straight-through estimator for hard threshold
+                gates_ste = hard_gates.detach() + soft_gates - soft_gates.detach()
+
+                # Expand gates to match output dimensions [1, out_channels, 1, 1]
+                channel_mask = gates_ste.view(1, -1, 1, 1)
+
+                ''' full convolution '''
+                out_full = F.conv2d(input,
+                                   self.binarize(self.weight),
+                                   self.bias, self.stride, self.padding,
+                                   self.dilation, self.groups)
+
+                ''' combine outputs: channels with gate>threshold get full precision '''
+                return (1-channel_mask) * out_msb + channel_mask * out_full
+
+            if not torch.any(hard_gates):
+                return out_msb
+
+            if torch.all(hard_gates):
+                return F.conv2d(input,
+                                self.binarize(self.weight),
+                                self.bias, self.stride, self.padding,
+                                self.dilation, self.groups)
+
+            active_idx = torch.nonzero(hard_gates, as_tuple=False).flatten()
+            active_weight = self.binarize(self.weight[active_idx])
+            active_bias = self.bias[active_idx] if self.bias is not None else None
+            active_out = F.conv2d(input,
+                                  active_weight,
+                                  active_bias, self.stride, self.padding,
+                                  self.dilation, self.groups)
+            out = out_msb.clone()
+            out[:, active_idx, :, :] = active_out
+            return out
         else:
             # Original PG logic
             ''' Calculate the mask '''
@@ -299,11 +339,11 @@ class PGBinaryConv2d(nn.Conv2d):
             return (1-mask) * out_msb + mask * out_full
     
     def get_sparsity_loss(self):
-        """Match the learned 2-bit fraction to the requested target."""
+        """Match the average learned 2-bit fraction to the requested target."""
         if self.adaptive_pg:
-            gates = torch.sigmoid(self.gate_logits)
+            gates = self._gate_probs()
             target = gates.new_tensor(float(self.target_sparsity))
-            return torch.mean((gates - target) ** 2)
+            return (torch.mean(gates) - target) ** 2
         return 0.0
     
     def get_entropy_loss(self):
@@ -311,7 +351,7 @@ class PGBinaryConv2d(nn.Conv2d):
         Minimizing this term encourages crisper 0/1 gates.
         """
         if self.adaptive_pg:
-            gates = torch.sigmoid(self.gate_logits)
+            gates = self._gate_probs()
             eps = 1e-8
             entropy = -(gates * torch.log(gates + eps) + (1.0 - gates) * torch.log(1.0 - gates + eps))
             return torch.mean(entropy)
@@ -325,7 +365,7 @@ class PGBinaryConv2d(nn.Conv2d):
     def get_gate_stats(self):
         """Get statistics about gate activations"""
         if self.adaptive_pg:
-            gates = torch.sigmoid(self.gate_logits)
+            gates = self._gate_probs()
             active_fraction = (gates > self.hard_threshold).float().mean().item()
             return {
                 'active_fraction': active_fraction,
@@ -337,7 +377,7 @@ class PGBinaryConv2d(nn.Conv2d):
     def get_hard_gates(self):
         """Return hard 0/1 gates per output channel based on current logits."""
         if self.adaptive_pg:
-            gates = torch.sigmoid(self.gate_logits)
+            gates = self._gate_probs()
             return (gates > self.hard_threshold).float()
         return None
 
