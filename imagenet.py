@@ -180,9 +180,10 @@ def generate_model(model_arch):
     import model.fracbnn_imagenet as m
 
     adaptive_pg = 'adaptive-pg' in model_arch
+    num_gpus = max(1, torch.cuda.device_count())
     return m.ReActNet(
         batch_size=args.batch_size,
-        num_gpus=torch.cuda.device_count(),
+        num_gpus=num_gpus,
         adaptive_pg=adaptive_pg,
         target_sparsity=args.target_sparsity,
     )

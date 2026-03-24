@@ -6,7 +6,7 @@ import torch
 import torchvision
 import torchvision.transforms as transforms
 import torch.nn as nn
-# import torch.nn.functional as F
+import torch.nn.functional as F
 import torch.optim as optim
 import utils.utils as util
 import utils.quantization as q
@@ -59,10 +59,19 @@ parser.add_argument('--entropy_weight', '-ew', type=float, default=0.0,
                     help='weight for gate entropy regularization (encourage 0/1 gates)')
 parser.add_argument('--pg_kd', action='store_true',
                     help='enable PG-only feature KD on upgraded channels')
-parser.add_argument('--pg_kd_weight', type=float, default=0.5,
+parser.add_argument('--pg_kd_weight', type=float, default=0.1,
                     help='weight for PG-only feature KD loss (feature MSE)')
 parser.add_argument('--label_smoothing', type=float, default=0.05,
                     help='label smoothing for hard-label supervision')
+parser.add_argument('--mixup_alpha', type=float, default=None,
+                    help='mixup alpha; default is 0.2 for adaptive models and 0.0 otherwise')
+parser.add_argument('--ema_decay', type=float, default=0.999,
+                    help='EMA decay for validation/save model tracking; set <=0 to disable')
+parser.add_argument('--scheduler', type=str, default='cosine',
+                    choices=['linear', 'cosine'],
+                    help='learning rate scheduler for training')
+parser.add_argument('--warmup_epochs', type=int, default=5,
+                    help='warmup epochs used by cosine scheduler')
 
 args = parser.parse_args()
 
@@ -78,6 +87,49 @@ drop_last = False
 
 def unwrap_model(model):
     return model.module if isinstance(model, nn.DataParallel) else model
+
+
+def resolve_mixup_alpha():
+    if args.mixup_alpha is not None:
+        return max(0.0, args.mixup_alpha)
+    return 0.2 if 'adaptive-pg' in _ARCH else 0.0
+
+
+def build_scheduler(optimizer):
+    if args.scheduler == 'linear':
+        print("Use linear learning rate decay.")
+        lambda1 = lambda epoch: (1.0 - epoch / args.num_epoch)
+    else:
+        print(f"Use cosine learning rate decay with {args.warmup_epochs} warmup epochs.")
+
+        def lambda1(epoch):
+            current_epoch = epoch + 1
+            if args.warmup_epochs > 0 and current_epoch <= args.warmup_epochs:
+                return current_epoch / float(max(1, args.warmup_epochs))
+
+            progress = (current_epoch - args.warmup_epochs) / float(max(1, args.num_epoch - args.warmup_epochs))
+            progress = min(max(progress, 0.0), 1.0)
+            return 0.5 * (1.0 + np.cos(np.pi * progress))
+
+    return optim.lr_scheduler.LambdaLR(
+        optimizer,
+        lr_lambda=lambda1,
+        last_epoch=args.last_epoch,
+    )
+
+
+def apply_mixup(inputs, labels, num_classes=10):
+    alpha = resolve_mixup_alpha()
+    if alpha <= 0.0:
+        return inputs, labels, None
+
+    lam = np.random.beta(alpha, alpha)
+    lam = max(lam, 1.0 - lam)
+    index = torch.randperm(inputs.size(0), device=inputs.device)
+    soft_targets = F.one_hot(labels, num_classes=num_classes).float()
+    mixed_targets = lam * soft_targets + (1.0 - lam) * soft_targets[index]
+    mixed_inputs = lam * inputs + (1.0 - lam) * inputs[index]
+    return mixed_inputs, labels, mixed_targets
 
 
 #----------------------------
@@ -128,11 +180,12 @@ def load_cifar10():
 #----------------------------
 def generate_model(model_arch):
     import model.fracbnn_cifar10 as m
+    num_gpus = max(1, torch.cuda.device_count())
     
     if 'binput-pg' == model_arch:
-        return m.resnet20(batch_size=args.batch_size, num_gpus=torch.cuda.device_count())
+        return m.resnet20(batch_size=args.batch_size, num_gpus=num_gpus)
     elif 'adaptive-pg' in model_arch:
-        return m.resnet20(batch_size=args.batch_size, num_gpus=torch.cuda.device_count(),
+        return m.resnet20(batch_size=args.batch_size, num_gpus=num_gpus,
                          adaptive_pg=True, target_sparsity=args.target_sparsity)
     else:
         raise NotImplementedError("Model architecture is not supported.")
@@ -157,7 +210,6 @@ def train_model(trainloader, testloader, net,
     use_kd = teacher_net is not None and 'kd' in _ARCH
     normalize_teacher_inputs = False
     if use_kd:
-        import utils.quantization as q
         kd_criterion = q.KnowledgeDistillationLoss(
             temperature=args.kd_temperature, 
             alpha=args.kd_alpha,
@@ -174,33 +226,56 @@ def train_model(trainloader, testloader, net,
             print("Teacher will receive normalized inputs, student receives raw [0,1] inputs")
 
     # PG-only KD feature hooks (student and teacher) when enabled
-    use_pg_kd = bool(args.pg_kd)
+    use_pg_kd = bool(args.pg_kd) and use_kd
     student_feats = {}
     teacher_feats = {}
     student_handles = []
     teacher_handles = []
+    student_pg_blocks = []
+    teacher_pg_blocks = []
 
-    def register_pg_feature_hooks(model, is_teacher=False):
-        feats = teacher_feats if is_teacher else student_feats
-        handles = teacher_handles if is_teacher else student_handles
+    def register_pg_feature_hooks(student_model, teacher_model):
+        student_blocks = [
+            module for _, module in student_model.named_modules()
+            if module.__class__.__name__ == 'BasicBlock'
+        ]
+        teacher_blocks = [
+            module for _, module in teacher_model.named_modules()
+            if module.__class__.__name__ == 'FPBasicBlock'
+        ]
+        if len(student_blocks) != len(teacher_blocks) or len(student_blocks) == 0:
+            print("Skipping PG-only feature KD: incompatible student/teacher block layouts.")
+            return [], []
 
-        def make_hook(name):
+        def make_hook(store, key, detach=False):
             def hook(module, inp, out):
-                feats[name] = out.detach() if is_teacher else out
+                store[key] = out.detach() if detach else out
             return hook
 
-        for name, module in model.named_modules():
-            if isinstance(module, q.PGBinaryConv2d) and getattr(module, 'adaptive_pg', False):
-                handles.append(module.register_forward_hook(make_hook(name)))
+        for idx, (student_block, teacher_block) in enumerate(zip(student_blocks, teacher_blocks)):
+            key = f'block_{idx}'
+            student_handles.append(student_block.register_forward_hook(
+                make_hook(student_feats, key, detach=False)
+            ))
+            teacher_handles.append(teacher_block.register_forward_hook(
+                make_hook(teacher_feats, key, detach=True)
+            ))
+        return student_blocks, teacher_blocks
 
-    if use_pg_kd and teacher_net is not None:
-        import utils.quantization as q
-        register_pg_feature_hooks(net, is_teacher=False)
-        register_pg_feature_hooks(teacher_net, is_teacher=True)
-        print("Enabled PG-only feature KD with hooks on adaptive PG layers.")
+    if use_pg_kd:
+        student_pg_blocks, teacher_pg_blocks = register_pg_feature_hooks(
+            unwrap_model(net), unwrap_model(teacher_net)
+        )
+        if student_pg_blocks:
+            print("Enabled PG-only feature KD with residual block feature alignment.")
+
+    ema_model = None
+    if args.ema_decay > 0.0:
+        ema_model = util.ModelEma(unwrap_model(net), decay=args.ema_decay)
+        print(f"Using EMA for evaluation with decay={args.ema_decay}")
 
     best_acc = 0.0
-    best_model = copy.deepcopy(net.state_dict())
+    best_model = copy.deepcopy(unwrap_model(net).state_dict())
 
     for epoch in range(start_epoch, args.num_epoch):  # loop over the dataset multiple times
 
@@ -223,7 +298,10 @@ def train_model(trainloader, testloader, net,
         end = time.time()
         for i, data in enumerate(trainloader, 0):
             # get the inputs; data is a list of [inputs, labels]
+            student_feats.clear()
+            teacher_feats.clear()
             inputs, labels = data[0].to(device), data[1].to(device)
+            inputs, hard_labels, soft_targets = apply_mixup(inputs, labels, num_classes=10)
 
             # zero the parameter gradients
             optimizer.zero_grad()
@@ -241,10 +319,12 @@ def train_model(trainloader, testloader, net,
                     else:
                         teacher_inputs = inputs
                     teacher_outputs = teacher_net(teacher_inputs)
-                loss = kd_criterion(outputs, teacher_outputs, labels)
+                target_for_loss = soft_targets if soft_targets is not None else hard_labels
+                loss = kd_criterion(outputs, teacher_outputs, target_for_loss)
             else:
                 # Standard cross-entropy loss
-                loss = criterion(outputs, labels)
+                target_for_loss = soft_targets if soft_targets is not None else hard_labels
+                loss = criterion(outputs, target_for_loss)
             
             # Add regularization losses
             if 'pg' in _ARCH:
@@ -267,38 +347,38 @@ def train_model(trainloader, testloader, net,
                     loss += args.entropy_weight * entropy_loss
 
                 # PG-only feature KD (feature MSE on upgraded channels only)
-                if use_pg_kd and teacher_net is not None and student_feats and teacher_feats:
+                if use_pg_kd and student_feats and teacher_feats and student_pg_blocks:
                     pg_kd_loss = 0.0
                     count = 0
-                    for name, s_feat in student_feats.items():
-                        if name in teacher_feats:
-                            t_feat = teacher_feats[name]
-                            # Resize teacher feats if DataParallel wraps
-                            if t_feat.size() != s_feat.size():
-                                # Best-effort: center crop or interpolate spatial dims
-                                _, _, h, w = s_feat.size()
-                                t_feat = torch.nn.functional.interpolate(t_feat, size=(h, w), mode='bilinear', align_corners=False)
-                            # Build channel mask from current module's hard gates
-                            module = dict(net.named_modules())[name]
-                            if hasattr(module, 'get_hard_gates'):
-                                hard = module.get_hard_gates()
-                                if hard is not None:
-                                    mask = hard.view(1, -1, 1, 1).to(s_feat.device)
-                                    # MSE only on upgraded channels
-                                    diff = (s_feat - t_feat) * mask
-                                    pg_kd_loss = pg_kd_loss + torch.mean(diff * diff)
-                                    count += 1
+                    for idx, student_block in enumerate(student_pg_blocks):
+                        key = f'block_{idx}'
+                        if key not in teacher_feats or key not in student_feats:
+                            continue
+                        s_feat = student_feats[key]
+                        t_feat = teacher_feats[key]
+                        if t_feat.size() != s_feat.size():
+                            _, _, h, w = s_feat.size()
+                            t_feat = F.interpolate(t_feat, size=(h, w), mode='bilinear', align_corners=False)
+                        hard = student_block.conv2.get_hard_gates()
+                        if hard is None:
+                            continue
+                        mask = hard.view(1, -1, 1, 1).to(s_feat.device)
+                        diff = (s_feat - t_feat) * mask
+                        pg_kd_loss = pg_kd_loss + torch.mean(diff * diff)
+                        count += 1
                     if count > 0:
                         loss += args.pg_kd_weight * (pg_kd_loss / count)
             
             loss.backward()
             optimizer.step()
+            if ema_model is not None:
+                ema_model.update(unwrap_model(net))
 
             # measure accuracy and record loss
             _, batch_predicted = torch.max(outputs.data, 1)
-            batch_accu = 100.0 * (batch_predicted == labels).sum().item() / labels.size(0)
-            losses.update(loss.item(), labels.size(0))
-            top1.update(batch_accu, labels.size(0))
+            batch_accu = 100.0 * (batch_predicted == hard_labels).sum().item() / hard_labels.size(0)
+            losses.update(loss.item(), hard_labels.size(0))
+            top1.update(batch_accu, hard_labels.size(0))
 
             # measure elapsed time
             batch_time.update(time.time() - end)
@@ -322,20 +402,23 @@ def train_model(trainloader, testloader, net,
         # print test accuracy every few epochs
         if epoch % 1 == 0:
             print('epoch {}'.format(epoch + 1))
-            epoch_acc = test_accu(testloader, net, device)
+            eval_model = ema_model.ema if ema_model is not None else net
+            epoch_acc = test_accu(testloader, net, device, model_for_eval=eval_model)
             if 'pg' in _ARCH:
-                sparsity(testloader, net, device)
+                sparsity(testloader, eval_model, device)
             
             # Report adaptive PG gate statistics
-            if 'adaptive-pg' in _ARCH and hasattr(model_ref, 'get_gate_statistics'):
-                gate_stats = model_ref.get_gate_statistics()
+            stats_model = eval_model if hasattr(eval_model, 'get_gate_statistics') else model_ref
+            if 'adaptive-pg' in _ARCH and hasattr(stats_model, 'get_gate_statistics'):
+                gate_stats = stats_model.get_gate_statistics()
                 if gate_stats:
                     avg_active = np.mean([s['active_fraction'] for s in gate_stats])
                     print(f'Average 2-bit fraction: {avg_active:.3f} (target: {args.target_sparsity:.3f})')
             
             if epoch_acc >= best_acc:
                 best_acc = epoch_acc
-                best_model = copy.deepcopy(model_ref.state_dict())
+                best_source = unwrap_model(eval_model) if hasattr(eval_model, 'state_dict') else model_ref
+                best_model = copy.deepcopy(best_source.state_dict())
             print("The best test accuracy so far: {:.1f}".format(best_acc))
 
             # save the model if required
@@ -352,21 +435,25 @@ def train_model(trainloader, testloader, net,
                 util.save_states(states, save_folder, suffix=_ARCH)
                 """
 
+    for handle in student_handles + teacher_handles:
+        handle.remove()
+
     print('Finished Training')
 
 
 #----------------------------
 # Test accuracy.
 #----------------------------
-def test_accu(testloader, net, device):
+def test_accu(testloader, net, device, model_for_eval=None):
     correct = 0
     total = 0
     # switch the model to the evaluation mode
-    net.eval()
+    eval_model = model_for_eval if model_for_eval is not None else net
+    eval_model.eval()
     with torch.no_grad():
         for data in testloader:
             images, labels = data[0].to(device), data[1].to(device)
-            outputs = net(images)
+            outputs = eval_model(images)
             _, predicted = torch.max(outputs.data, 1)
             total += labels.size(0)
             correct += (predicted == labels).sum().item()
@@ -556,13 +643,7 @@ def main():
         optimizer = optim.Adam(net.parameters(),
                                lr=initial_lr,
                                weight_decay=0.)
-        lr_decay_milestones = [100, 150, 200]
-        print("milestones = {}".format(lr_decay_milestones))
-        scheduler = optim.lr_scheduler.MultiStepLR(
-            optimizer,
-            milestones=lr_decay_milestones,
-            gamma=0.1,
-            last_epoch=args.last_epoch)
+        scheduler = build_scheduler(optimizer)
         start_epoch = 0
         print("Start finetuning.")
         train_model(trainloader, testloader, net,
@@ -585,13 +666,7 @@ def main():
         #-----------
         # Scheduler
         #-----------
-        print("Use linear learning rate decay.")
-        lambda1 = lambda epoch: (1.0 - epoch / args.num_epoch)  # linear decay
-        # lambda1 = lambda epoch : (0.7**epoch) # exponential decay
-        scheduler = optim.lr_scheduler.LambdaLR(
-            optimizer,
-            lr_lambda=lambda1,
-            last_epoch=args.last_epoch)
+        scheduler = build_scheduler(optimizer)
 
         start_epoch = 0
         print("Start training.")

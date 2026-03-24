@@ -8,13 +8,29 @@ import numpy as np
 ##  Knowledge Distillation
 ##########
 
+class SoftTargetCrossEntropy(nn.Module):
+    """Cross entropy for soft probability targets."""
+    def __init__(self):
+        super(SoftTargetCrossEntropy, self).__init__()
+
+    def forward(self, logits, targets):
+        log_probs = F.log_softmax(logits, dim=1)
+        return -(targets * log_probs).sum(dim=1).mean()
+
 class LabelSmoothingCrossEntropy(nn.Module):
     """Cross entropy with optional label smoothing for index targets."""
     def __init__(self, label_smoothing=0.0):
         super(LabelSmoothingCrossEntropy, self).__init__()
         self.label_smoothing = float(label_smoothing)
+        self.soft_ce = SoftTargetCrossEntropy()
 
     def forward(self, logits, targets):
+        if torch.is_floating_point(targets) or targets.ndim == logits.ndim:
+            if self.label_smoothing > 0.0:
+                num_classes = targets.size(1)
+                targets = targets * (1.0 - self.label_smoothing) + self.label_smoothing / num_classes
+            return self.soft_ce(logits, targets)
+
         if self.label_smoothing <= 0.0:
             return F.cross_entropy(logits, targets)
 

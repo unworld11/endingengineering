@@ -2,6 +2,7 @@ from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
 
+import copy
 import os
 import torch
 import numpy as np
@@ -46,6 +47,33 @@ class ProgressMeter(object):
         num_digits = len(str(num_batches // 1))
         fmt = '{:' + str(num_digits) + 'd}'
         return '[' + fmt + '/' + fmt.format(num_batches) + ']'
+
+
+class ModelEma(object):
+    """Simple EMA tracker for model weights and buffers."""
+    def __init__(self, model, decay):
+        self.decay = float(decay)
+        self.ema = copy.deepcopy(model)
+        self.ema.eval()
+        for param in self.ema.parameters():
+            param.requires_grad_(False)
+
+    def update(self, model):
+        with torch.no_grad():
+            model_params = dict(model.named_parameters())
+            ema_params = dict(self.ema.named_parameters())
+            for name, ema_param in ema_params.items():
+                model_param = model_params[name]
+                ema_param.mul_(self.decay).add_(model_param.detach(), alpha=1.0 - self.decay)
+
+            model_buffers = dict(model.named_buffers())
+            ema_buffers = dict(self.ema.named_buffers())
+            for name, ema_buffer in ema_buffers.items():
+                model_buffer = model_buffers[name]
+                if torch.is_floating_point(ema_buffer):
+                    ema_buffer.mul_(self.decay).add_(model_buffer.detach(), alpha=1.0 - self.decay)
+                else:
+                    ema_buffer.copy_(model_buffer.detach())
 
 def save_models(model, path, suffix=''):
     """Save model to given path
@@ -111,4 +139,3 @@ class Lighting(object):
 
     def __repr__(self):
         return self.__class__.__name__ + '()'
-
