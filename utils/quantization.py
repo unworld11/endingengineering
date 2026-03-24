@@ -8,14 +8,30 @@ import numpy as np
 ##  Knowledge Distillation
 ##########
 
+class LabelSmoothingCrossEntropy(nn.Module):
+    """Cross entropy with optional label smoothing for index targets."""
+    def __init__(self, label_smoothing=0.0):
+        super(LabelSmoothingCrossEntropy, self).__init__()
+        self.label_smoothing = float(label_smoothing)
+
+    def forward(self, logits, targets):
+        if self.label_smoothing <= 0.0:
+            return F.cross_entropy(logits, targets)
+
+        log_probs = F.log_softmax(logits, dim=1)
+        nll = -log_probs.gather(dim=1, index=targets.unsqueeze(1)).squeeze(1)
+        smooth = -log_probs.mean(dim=1)
+        confidence = 1.0 - self.label_smoothing
+        return (confidence * nll + self.label_smoothing * smooth).mean()
+
 class KnowledgeDistillationLoss(nn.Module):
     """Knowledge Distillation Loss with temperature scaling"""
-    def __init__(self, temperature=4.0, alpha=0.7):
+    def __init__(self, temperature=4.0, alpha=0.7, label_smoothing=0.0):
         super(KnowledgeDistillationLoss, self).__init__()
         self.temperature = temperature
         self.alpha = alpha
         self.kl_div = nn.KLDivLoss(reduction='batchmean')
-        self.ce_loss = nn.CrossEntropyLoss()
+        self.ce_loss = LabelSmoothingCrossEntropy(label_smoothing=label_smoothing)
     
     def forward(self, student_logits, teacher_logits, labels):
         # Soft targets from teacher
@@ -31,9 +47,14 @@ class KnowledgeDistillationLoss(nn.Module):
         # Combined loss
         return self.alpha * kd_loss + (1 - self.alpha) * ce_loss
 
-def distillation_loss(student_output, teacher_output, labels, temperature=4.0, alpha=0.7):
+def distillation_loss(student_output, teacher_output, labels,
+                      temperature=4.0, alpha=0.7, label_smoothing=0.0):
     """Standalone knowledge distillation loss function"""
-    kd_criterion = KnowledgeDistillationLoss(temperature=temperature, alpha=alpha)
+    kd_criterion = KnowledgeDistillationLoss(
+        temperature=temperature,
+        alpha=alpha,
+        label_smoothing=label_smoothing,
+    )
     return kd_criterion(student_output, teacher_output, labels)
 
 
@@ -262,10 +283,11 @@ class PGBinaryConv2d(nn.Conv2d):
             return (1-mask) * out_msb + mask * out_full
     
     def get_sparsity_loss(self):
-        """Return L1 penalty on gate vector for sparsity regularization"""
+        """Match the learned 2-bit fraction to the requested target."""
         if self.adaptive_pg:
             gates = torch.sigmoid(self.gate_logits)
-            return torch.mean(gates)
+            target = gates.new_tensor(float(self.target_sparsity))
+            return torch.mean((gates - target) ** 2)
         return 0.0
     
     def get_entropy_loss(self):
@@ -334,4 +356,3 @@ class InputEncoder(nn.Module):
         output *= 2.0
         output -= 1.0
         return output.view(batch_size, self.b*self.c, self.h, self.w).detach()
-

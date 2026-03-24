@@ -8,7 +8,7 @@ import sys
 import os
 
 # Add the project path
-sys.path.append('/Users/vedantasp/endingengineering')
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 from utils.quantization import InputEncoder
 

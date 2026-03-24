@@ -9,8 +9,9 @@ import torch.optim as optim
 import torchvision
 import torchvision.transforms as transforms
 import sys
+import os
 
-sys.path.append('/Users/vedantasp/endingengineering')
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 import model.fracbnn_cifar10 as m
 from utils.quantization import KnowledgeDistillationLoss
@@ -235,4 +236,3 @@ def main():
 
 if __name__ == "__main__":
     exit(main())
-

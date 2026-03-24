@@ -61,6 +61,8 @@ parser.add_argument('--pg_kd', action='store_true',
                     help='enable PG-only feature KD on upgraded channels')
 parser.add_argument('--pg_kd_weight', type=float, default=0.5,
                     help='weight for PG-only feature KD loss (feature MSE)')
+parser.add_argument('--label_smoothing', type=float, default=0.05,
+                    help='label smoothing for hard-label supervision')
 
 args = parser.parse_args()
 
@@ -70,8 +72,12 @@ if args.model_id < 0 or args.model_id >= len(candidates):
                      f"Available models: {', '.join([f'{i}={c}' for i, c in enumerate(candidates)])}")
 
 _ARCH = candidates[args.model_id]
-# All our models use binary input encoder, so need drop_last=True
-drop_last = True if ('binput' in _ARCH or 'adaptive' in _ARCH) else False
+# InputEncoder now supports dynamic batch sizes, so keep all samples.
+drop_last = False
+
+
+def unwrap_model(model):
+    return model.module if isinstance(model, nn.DataParallel) else model
 
 
 #----------------------------
@@ -143,8 +149,9 @@ def generate_teacher_model():
 def train_model(trainloader, testloader, net,
                 optimizer, scheduler, start_epoch, device, teacher_net=None):
     # define the loss function
-    criterion = (nn.CrossEntropyLoss().cuda()
-                 if torch.cuda.is_available() else nn.CrossEntropyLoss())
+    criterion = q.LabelSmoothingCrossEntropy(
+        label_smoothing=args.label_smoothing
+    ).to(device)
     
     # Knowledge distillation setup
     use_kd = teacher_net is not None and 'kd' in _ARCH
@@ -153,7 +160,8 @@ def train_model(trainloader, testloader, net,
         import utils.quantization as q
         kd_criterion = q.KnowledgeDistillationLoss(
             temperature=args.kd_temperature, 
-            alpha=args.kd_alpha
+            alpha=args.kd_alpha,
+            label_smoothing=args.label_smoothing,
         ).to(device)
         teacher_net.eval()  # Teacher always in eval mode
         print(f"Using Knowledge Distillation with T={args.kd_temperature}, alpha={args.kd_alpha}")
@@ -240,21 +248,22 @@ def train_model(trainloader, testloader, net,
             
             # Add regularization losses
             if 'pg' in _ARCH:
-                # Original PG regularization
-                for name, param in net.named_parameters():
-                    if 'threshold' in name:
-                        loss += (0.00001 * 0.5 *
-                                 torch.norm(param - args.gtarget) *
-                                 torch.norm(param - args.gtarget))
+                model_ref = unwrap_model(net)
+                if 'adaptive-pg' not in _ARCH:
+                    for name, param in model_ref.named_parameters():
+                        if 'threshold' in name:
+                            loss += (0.00001 * 0.5 *
+                                     torch.norm(param - args.gtarget) *
+                                     torch.norm(param - args.gtarget))
                 
                 # Adaptive PG sparsity regularization
-                if 'adaptive-pg' in _ARCH and hasattr(net, 'get_sparsity_loss'):
-                    sparsity_loss = net.get_sparsity_loss()
+                if 'adaptive-pg' in _ARCH and hasattr(model_ref, 'get_sparsity_loss'):
+                    sparsity_loss = model_ref.get_sparsity_loss()
                     loss += args.sparsity_weight * sparsity_loss
 
                 # Gate entropy regularizer (encourage crisper 0/1 gates)
-                if 'adaptive-pg' in _ARCH and hasattr(net, 'get_entropy_loss') and args.entropy_weight > 0.0:
-                    entropy_loss = net.get_entropy_loss()
+                if 'adaptive-pg' in _ARCH and hasattr(model_ref, 'get_entropy_loss') and args.entropy_weight > 0.0:
+                    entropy_loss = model_ref.get_entropy_loss()
                     loss += args.entropy_weight * entropy_loss
 
                 # PG-only feature KD (feature MSE on upgraded channels only)
@@ -303,11 +312,12 @@ def train_model(trainloader, testloader, net,
         scheduler.step()
 
         # Temperature annealing for adaptive PG
-        if 'adaptive-pg' in _ARCH and hasattr(net, 'set_temperature'):
+        model_ref = unwrap_model(net)
+        if 'adaptive-pg' in _ARCH and hasattr(model_ref, 'set_temperature'):
             # Anneal temperature from 5.0 to 1.0 over training
             temp = 5.0 - 4.0 * (epoch / args.num_epoch)
             temp = max(temp, 1.0)
-            net.set_temperature(temp)
+            model_ref.set_temperature(temp)
         
         # print test accuracy every few epochs
         if epoch % 1 == 0:
@@ -317,15 +327,15 @@ def train_model(trainloader, testloader, net,
                 sparsity(testloader, net, device)
             
             # Report adaptive PG gate statistics
-            if 'adaptive-pg' in _ARCH and hasattr(net, 'get_gate_statistics'):
-                gate_stats = net.get_gate_statistics()
+            if 'adaptive-pg' in _ARCH and hasattr(model_ref, 'get_gate_statistics'):
+                gate_stats = model_ref.get_gate_statistics()
                 if gate_stats:
                     avg_active = np.mean([s['active_fraction'] for s in gate_stats])
                     print(f'Average 2-bit fraction: {avg_active:.3f} (target: {args.target_sparsity:.3f})')
             
             if epoch_acc >= best_acc:
                 best_acc = epoch_acc
-                best_model = copy.deepcopy(net.state_dict())
+                best_model = copy.deepcopy(model_ref.state_dict())
             print("The best test accuracy so far: {:.1f}".format(best_acc))
 
             # save the model if required
@@ -421,7 +431,8 @@ def remove_placeholder(state_dict):
 #----------------------------
 def analyze_adaptive_pg_metrics(net, testloader, device):
     """Analyze and report metrics for Adaptive PG model"""
-    if not ('adaptive-pg' in _ARCH and hasattr(net, 'get_gate_statistics')):
+    model_ref = unwrap_model(net)
+    if not ('adaptive-pg' in _ARCH and hasattr(model_ref, 'get_gate_statistics')):
         return
     
     print("\n" + "="*50)
@@ -429,7 +440,7 @@ def analyze_adaptive_pg_metrics(net, testloader, device):
     print("="*50)
     
     # Gate statistics
-    gate_stats = net.get_gate_statistics()
+    gate_stats = model_ref.get_gate_statistics()
     if gate_stats:
         print("\nGate Statistics per Layer:")
         total_active = 0
@@ -491,7 +502,9 @@ def main():
         teacher_net = generate_teacher_model()
         if args.teacher_path and os.path.exists(args.teacher_path):
             print(f"Loading pretrained teacher from {args.teacher_path}")
-            teacher_state = torch.load(args.teacher_path)
+            teacher_state = torch.load(args.teacher_path, map_location=device)
+            if isinstance(teacher_state, dict) and 'state_dict' in teacher_state:
+                teacher_state = teacher_state['state_dict']
             teacher_net.load_state_dict(teacher_state, strict=False)
             print("✓ Successfully loaded pretrained teacher weights")
         else:
@@ -512,7 +525,7 @@ def main():
         model_path = args.resume
         if os.path.exists(model_path):
             print("@ Load trained model from {}.".format(model_path))
-            state_dict = torch.load(model_path)
+            state_dict = torch.load(model_path, map_location=device)
             state_dict = remove_placeholder(state_dict)
             net.load_state_dict(state_dict, strict=False)
         else:
