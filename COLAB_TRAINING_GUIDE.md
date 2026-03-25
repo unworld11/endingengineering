@@ -65,11 +65,18 @@ if torch.cuda.is_available():
 
 #### Step 3.1: Train Teacher Model (Full Precision ResNet-20)
 
-**Option A: Train from scratch** (Recommended for best KD results)
+**Option A: Train teacher from scratch** (Recommended for best KD results)
 ```bash
-# You need to create a separate script for teacher training
-# Or train a full-precision ResNet-20 elsewhere and upload teacher.pth
+# Train full-precision ResNet-20 teacher (250 epochs, ~8-10 hours)
+!python train_teacher.py -e 250 -b 128 -lr 0.1 -s
+
+# Or quick test (10 epochs, ~30 min)
+!python train_teacher.py -e 10 -b 128 -lr 0.1 -s
 ```
+
+**Expected Result:** ~93-94% accuracy for full-precision teacher
+
+The teacher model will be saved to `save_teacher_model/model_teacher.pt`
 
 **Option B: Use randomly initialized teacher** (Not recommended, but works)
 ```bash
@@ -80,13 +87,13 @@ if torch.cuda.is_available():
 
 #### Step 3.2: Train with Knowledge Distillation
 ```bash
-# With pretrained teacher
+# With pretrained teacher (full training)
 !python cifar10.py -id 2 -e 250 -b 128 -ts 0.15 -sw 0.01 \
-    -temp 4.0 -alpha 0.7 -tp teacher.pth -s
+    -temp 4.0 -alpha 0.7 -tp save_teacher_model/model_teacher.pt -s
 
 # OR shorter test (10 epochs)
 !python cifar10.py -id 2 -e 10 -b 128 -ts 0.15 -sw 0.01 \
-    -temp 4.0 -alpha 0.7 -tp teacher.pth -s
+    -temp 4.0 -alpha 0.7 -tp save_teacher_model/model_teacher.pt -s
 ```
 
 **KD Parameters:**
@@ -222,7 +229,9 @@ drive.mount('/content/drive')
 
 ---
 
-## 📋 Complete Example Workflow
+## 📋 Complete Example Workflows
+
+### Workflow 1: Basic Ada-FracBNN Training
 
 ```python
 # === SETUP ===
@@ -251,6 +260,60 @@ print(f"GPU: {torch.cuda.get_device_name(0) if torch.cuda.is_available() else 'N
 
 # 7. Test the model
 !python cifar10.py -id 1 -t -r save_CIFAR10_model/model_adaptive-pg.pt -b 128
+```
+
+### Workflow 2: Complete KD Pipeline (Teacher → Student)
+
+```python
+# === SETUP ===
+from google.colab import drive
+drive.mount('/content/drive')
+
+!git clone https://github.com/YOUR_USERNAME/endingengineering.git
+%cd endingengineering
+
+import torch
+print(f"GPU: {torch.cuda.get_device_name(0) if torch.cuda.is_available() else 'None'}")
+
+# === STEP 1: Train Teacher (Full Precision) ===
+print("\n" + "="*80)
+print("STEP 1: Training Full Precision Teacher Model")
+print("="*80)
+!python train_teacher.py -e 250 -b 128 -lr 0.1 -s
+
+# Verify teacher was saved
+!ls -lh save_teacher_model/
+
+# === STEP 2: Train Student with KD ===
+print("\n" + "="*80)
+print("STEP 2: Training Ada-FracBNN Student with Knowledge Distillation")
+print("="*80)
+!python cifar10.py -id 2 -e 250 -b 128 -ts 0.15 -sw 0.01 \
+    -temp 4.0 -alpha 0.7 -tp save_teacher_model/model_teacher.pt -s
+
+# === STEP 3: Compare Results ===
+print("\n" + "="*80)
+print("STEP 3: Comparing Models")
+print("="*80)
+
+# Test teacher
+print("Teacher Model:")
+!python train_teacher.py -t -r save_teacher_model/model_teacher.pt -b 128
+
+# Test student
+print("\nStudent Model (with KD):")
+!python cifar10.py -id 2 -t -r save_CIFAR10_model/model_adaptive-pg-kd.pt -b 128
+
+# === STEP 4: Save to Drive ===
+print("\n" + "="*80)
+print("STEP 4: Saving to Google Drive")
+print("="*80)
+!mkdir -p /content/drive/MyDrive/ada_fracbnn_models
+!cp save_teacher_model/* /content/drive/MyDrive/ada_fracbnn_models/
+!cp save_CIFAR10_model/* /content/drive/MyDrive/ada_fracbnn_models/
+
+print("\n✓ All models saved to Google Drive!")
+print("Location: /content/drive/MyDrive/ada_fracbnn_models/")
 ```
 
 ---
