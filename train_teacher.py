@@ -169,15 +169,13 @@ def train_model(trainloader, testloader, net, optimizer, scheduler, device):
             if epoch_acc >= best_acc:
                 best_acc = epoch_acc
                 best_model = copy.deepcopy(net.state_dict())
+                
+                if args.save:
+                    this_file_path = os.path.dirname(os.path.abspath(__file__))
+                    save_folder = os.path.join(this_file_path, 'save_teacher_model')
+                    util.save_models(best_model, save_folder, suffix=args.model_name)
             
             print(f"Best test accuracy so far: {best_acc:.1f}%")
-            
-            # Save model
-            if args.save:
-                print("Saving the trained model...")
-                this_file_path = os.path.dirname(os.path.abspath(__file__))
-                save_folder = os.path.join(this_file_path, 'save_teacher_model')
-                util.save_models(best_model, save_folder, suffix=args.model_name)
     
     print('\n' + "="*80)
     print('Finished Training Teacher Model')
