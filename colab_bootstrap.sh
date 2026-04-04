@@ -20,6 +20,9 @@ Options:
                            cifar_baseline
                            cifar_adaptive
                            cifar_kd
+                           imagenet_baseline
+                           imagenet_adaptive
+                           imagenet_kd
                            custom
                            Default: smoke
   --epochs N               Epoch count for training modes. Default: 5
@@ -28,6 +31,11 @@ Options:
   --drive-sync-dir PATH    Where to copy saved artifacts. Default:
                            /content/drive/MyDrive/endingengineering
   --teacher-path PATH      Teacher checkpoint for cifar_kd mode.
+  --imagenet-data-dir PATH ImageNet data directory.
+                           Default: /content/imagenet
+  --teacher-arch NAME      Teacher architecture (resnet18|resnet34|resnet50).
+                           Default: resnet50
+  --teacher-pretrained     Use torchvision pretrained ImageNet weights for teacher.
   --skip-install           Skip pip installs.
   --help                   Show this help.
 
@@ -45,6 +53,15 @@ Examples:
     --batch-size 256 \
     --mount-drive \
     -- -ew 0.001
+
+  bash colab_bootstrap.sh \
+    --repo-url https://github.com/YOUR_USERNAME/endingengineering.git \
+    --mode imagenet_kd \
+    --epochs 120 \
+    --batch-size 64 \
+    --imagenet-data-dir /content/imagenet \
+    --teacher-pretrained \
+    --mount-drive
 EOF
 }
 
@@ -63,7 +80,10 @@ KD_TEMPERATURE="${KD_TEMPERATURE:-4.0}"
 KD_ALPHA="${KD_ALPHA:-0.7}"
 LABEL_SMOOTHING="${LABEL_SMOOTHING:-0.05}"
 CIFAR_DATA_DIR="${CIFAR_DATA_DIR:-/content/data/cifar10}"
+IMAGENET_DATA_DIR="${IMAGENET_DATA_DIR:-/content/imagenet}"
 TEACHER_PATH="${TEACHER_PATH:-}"
+TEACHER_ARCH="${TEACHER_ARCH:-resnet50}"
+TEACHER_PRETRAINED="${TEACHER_PRETRAINED:-0}"
 EXTRA_ARGS=()
 
 while [[ $# -gt 0 ]]; do
@@ -103,6 +123,18 @@ while [[ $# -gt 0 ]]; do
     --teacher-path)
       TEACHER_PATH="$2"
       shift 2
+      ;;
+    --imagenet-data-dir)
+      IMAGENET_DATA_DIR="$2"
+      shift 2
+      ;;
+    --teacher-arch)
+      TEACHER_ARCH="$2"
+      shift 2
+      ;;
+    --teacher-pretrained)
+      TEACHER_PRETRAINED=1
+      shift
       ;;
     --skip-install)
       INSTALL_EXTRAS=0
@@ -293,6 +325,67 @@ run_mode() {
         -alpha "$KD_ALPHA"
         --label_smoothing "$LABEL_SMOOTHING"
         -tp "$TEACHER_PATH"
+        -s
+      )
+      cmd+=("${EXTRA_ARGS[@]}")
+      log "Running: ${cmd[*]}"
+      "${cmd[@]}"
+      ;;
+    imagenet_baseline)
+      cmd=(
+        python3 imagenet.py
+        -id 0
+        -e "$EPOCHS"
+        -b "$BATCH_SIZE"
+        -d "$IMAGENET_DATA_DIR"
+        --label_smoothing "$LABEL_SMOOTHING"
+        -s
+      )
+      cmd+=("${EXTRA_ARGS[@]}")
+      log "Running: ${cmd[*]}"
+      "${cmd[@]}"
+      ;;
+    imagenet_adaptive)
+      cmd=(
+        python3 imagenet.py
+        -id 1
+        -e "$EPOCHS"
+        -b "$BATCH_SIZE"
+        -d "$IMAGENET_DATA_DIR"
+        -ts "$TARGET_SPARSITY"
+        -sw "$SPARSITY_WEIGHT"
+        --label_smoothing "$LABEL_SMOOTHING"
+        -s
+      )
+      cmd+=("${EXTRA_ARGS[@]}")
+      log "Running: ${cmd[*]}"
+      "${cmd[@]}"
+      ;;
+    imagenet_kd)
+      local -a teacher_flags=()
+      if [[ -n "$TEACHER_PATH" ]]; then
+        teacher_flags+=(-tp "$TEACHER_PATH")
+      fi
+      if [[ "$TEACHER_PRETRAINED" == "1" ]]; then
+        teacher_flags+=(--teacher_pretrained)
+      fi
+      if [[ ${#teacher_flags[@]} -eq 0 ]]; then
+        teacher_flags+=(--teacher_pretrained)
+        log "No --teacher-path given; using torchvision pretrained ${TEACHER_ARCH}"
+      fi
+      cmd=(
+        python3 imagenet.py
+        -id 2
+        -e "$EPOCHS"
+        -b "$BATCH_SIZE"
+        -d "$IMAGENET_DATA_DIR"
+        -ts "$TARGET_SPARSITY"
+        -sw "$SPARSITY_WEIGHT"
+        -temp "$KD_TEMPERATURE"
+        -alpha "$KD_ALPHA"
+        --teacher_arch "$TEACHER_ARCH"
+        "${teacher_flags[@]}"
+        --label_smoothing "$LABEL_SMOOTHING"
         -s
       )
       cmd+=("${EXTRA_ARGS[@]}")
