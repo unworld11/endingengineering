@@ -24,7 +24,7 @@ def make_normalized_input(batch_size, device):
     return (raw - IMAGENET_MEAN.to(device)) / IMAGENET_STD.to(device)
 
 
-def test_forward_paths():
+def test_forward_paths(num_classes=1000):
     print("=" * 80)
     print("Testing ImageNet Model Forward Paths")
     print("=" * 80)
@@ -42,6 +42,7 @@ def test_forward_paths():
                 num_gpus=1,
                 adaptive_pg=adaptive_pg,
                 target_sparsity=0.15,
+                num_classes=num_classes,
             ).to(device)
             model.eval()
 
@@ -49,7 +50,7 @@ def test_forward_paths():
             with torch.no_grad():
                 out = model(x)
 
-            assert out.shape == (2, 1000), f"Expected (2, 1000), got {out.shape}"
+            assert out.shape == (2, num_classes), f"Expected (2, {num_classes}), got {out.shape}"
 
             if adaptive_pg:
                 stats = model.get_gate_statistics()
@@ -67,7 +68,7 @@ def test_forward_paths():
     return all_passed
 
 
-def test_single_kd_step():
+def test_single_kd_step(num_classes=1000):
     print("\n" + "=" * 80)
     print("Testing Single ImageNet KD Training Step")
     print("=" * 80)
@@ -80,8 +81,9 @@ def test_single_kd_step():
             num_gpus=1,
             adaptive_pg=True,
             target_sparsity=0.15,
+            num_classes=num_classes,
         ).to(device)
-        teacher = torchvision.models.resnet18(weights=None).to(device)
+        teacher = torchvision.models.resnet18(weights=None, num_classes=num_classes).to(device)
         teacher.eval()
 
         optimizer = torch.optim.Adam(student.parameters(), lr=1e-3)
@@ -92,7 +94,7 @@ def test_single_kd_step():
         ).to(device)
 
         x = make_normalized_input(1, device)
-        labels = torch.randint(0, 1000, (1,), device=device)
+        labels = torch.randint(0, num_classes, (1,), device=device)
 
         student.train()
         optimizer.zero_grad()
@@ -116,8 +118,10 @@ def test_single_kd_step():
 
 def main():
     results = {
-        'Forward Paths': test_forward_paths(),
-        'Single KD Step': test_single_kd_step(),
+        'Forward Paths (1000 classes)': test_forward_paths(num_classes=1000),
+        'Forward Paths (200 classes)': test_forward_paths(num_classes=200),
+        'Single KD Step (1000 classes)': test_single_kd_step(num_classes=1000),
+        'Single KD Step (200 classes)': test_single_kd_step(num_classes=200),
     }
 
     print("\n" + "=" * 80)

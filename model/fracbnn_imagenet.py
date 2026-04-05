@@ -85,10 +85,12 @@ class BuildingBlock(nn.Module):
 
 
 class ReActNet(nn.Module):
-    def __init__(self, batch_size, num_gpus, adaptive_pg=False, target_sparsity=0.15):
+    def __init__(self, batch_size, num_gpus, adaptive_pg=False,
+                 target_sparsity=0.15, num_classes=1000):
         super(ReActNet, self).__init__()
         self.adaptive_pg = adaptive_pg
         self.target_sparsity = target_sparsity
+        self.num_classes = num_classes
 
         print("* FracBNN model.")
         print("* Precision gated activations.")
@@ -129,7 +131,7 @@ class ReActNet(nn.Module):
             conv_dw(1024, 1024, 1),
             nn.AvgPool2d(7),
         )
-        self.fc = nn.Linear(1024, 1000)
+        self.fc = nn.Linear(1024, num_classes)
 
         assert batch_size % num_gpus == 0, \
             "Given batch size cannot evenly distributed to available gpus."

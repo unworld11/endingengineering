@@ -78,6 +78,8 @@ parser.add_argument('--teacher_pretrained', action='store_true',
                     help='load torchvision ImageNet weights for the teacher')
 parser.add_argument('--label_smoothing', type=float, default=0.1,
                     help='label smoothing for hard-label supervision')
+parser.add_argument('--num_classes', type=int, default=None,
+                    help='override the dataset class count (defaults to classes found in train split)')
 
 args = parser.parse_args()
 
@@ -101,13 +103,20 @@ def resolve_num_workers():
     return max(4, 2 * max(1, torch.cuda.device_count()))
 
 
-def create_torchvision_model(model_name, pretrained=False):
+def create_torchvision_model(model_name, pretrained=False, num_classes=1000):
     model_fn = getattr(torchvision.models, model_name)
     if not pretrained:
         try:
-            return model_fn(weights=None)
+            return model_fn(weights=None, num_classes=num_classes)
         except TypeError:
-            return model_fn(pretrained=False)
+            return model_fn(pretrained=False, num_classes=num_classes)
+
+    if num_classes != 1000:
+        raise ValueError(
+            "torchvision pretrained teachers are only available for 1000-class ImageNet. "
+            "For Tiny-ImageNet or other custom class counts, provide --teacher_path for a "
+            "teacher checkpoint trained on the same classes."
+        )
 
     weights_attr = f"{model_name.replace('resnet', 'ResNet')}_Weights"
     weights_enum = getattr(torchvision.models, weights_attr, None)
@@ -170,7 +179,8 @@ def load_dataset():
         **loader_kwargs,
     )
 
-    return trainloader, valloader
+    class_count = len(train_dataset.classes)
+    return trainloader, valloader, class_count
 
 
 #----------------------------
@@ -186,6 +196,7 @@ def generate_model(model_arch):
         num_gpus=num_gpus,
         adaptive_pg=adaptive_pg,
         target_sparsity=args.target_sparsity,
+        num_classes=args.num_classes,
     )
 
 
@@ -193,6 +204,7 @@ def generate_teacher_model():
     teacher = create_torchvision_model(
         args.teacher_arch,
         pretrained=args.teacher_pretrained,
+        num_classes=args.num_classes,
     )
     return teacher
 
@@ -428,6 +440,16 @@ def main():
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
     print("Available GPUs: {}".format(torch.cuda.device_count()))
 
+    print("Loading the data.")
+    trainloader, testloader, inferred_num_classes = load_dataset()
+    if args.num_classes is None:
+        args.num_classes = inferred_num_classes
+    elif args.num_classes != inferred_num_classes:
+        raise ValueError(
+            f"--num_classes={args.num_classes} does not match dataset classes={inferred_num_classes}."
+        )
+    print("Detected {} classes.".format(args.num_classes))
+
     print("Create {} model.".format(_ARCH))
     net = generate_model(_ARCH)
     if torch.cuda.device_count() > 1:
@@ -466,9 +488,6 @@ def main():
             net.load_state_dict(state_dict, strict=False)
         else:
             raise ValueError("Model not found.")
-
-    print("Loading the data.")
-    trainloader, testloader = load_dataset()
 
     if args.test:
         print("Mode: Test only.")

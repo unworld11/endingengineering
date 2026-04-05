@@ -29,7 +29,10 @@ import argparse
 #----------------------------
 # Argument parser
 #----------------------------
-parser = argparse.ArgumentParser(description='Train Full Precision ResNet-20 Teacher for CIFAR-10')
+parser = argparse.ArgumentParser(description='Train Full Precision ResNet-20 Teacher for CIFAR-10/100')
+parser.add_argument('--dataset', type=str, default='cifar10',
+                    choices=['cifar10', 'cifar100'],
+                    help='dataset to train on (default: cifar10)')
 parser.add_argument('--init_lr', '-lr', type=float, default=0.1,
                     help='initial learning rate (default: 0.1)')
 parser.add_argument('--batch_size', '-b', type=int, default=128,
@@ -56,8 +59,11 @@ args = parser.parse_args()
 #----------------------------
 # Load CIFAR-10 dataset
 #----------------------------
+NUM_CLASSES = 100 if args.dataset == 'cifar100' else 10
+
+
 def load_cifar10():
-    """Load CIFAR-10 with ImageNet normalization (standard for full precision models)"""
+    """Load CIFAR-10/100 with ImageNet normalization (standard for full precision models)"""
     normalize = transforms.Normalize(mean=[0.485, 0.456, 0.406],
                                      std=[0.229, 0.224, 0.225])
     
@@ -73,14 +79,16 @@ def load_cifar10():
         normalize,
     ])
     
-    trainset = torchvision.datasets.CIFAR10(root=args.data_dir, train=True,
-                                            download=True, transform=transform_train)
+    dataset_cls = torchvision.datasets.CIFAR100 if args.dataset == 'cifar100' else torchvision.datasets.CIFAR10
+    print(f"Loading {args.dataset.upper()} ({NUM_CLASSES} classes)")
+    trainset = dataset_cls(root=args.data_dir, train=True,
+                           download=True, transform=transform_train)
     trainloader = torch.utils.data.DataLoader(trainset, batch_size=args.batch_size,
                                               shuffle=True, num_workers=2,
                                               pin_memory=True)
     
-    testset = torchvision.datasets.CIFAR10(root=args.data_dir, train=False,
-                                           download=True, transform=transform_test)
+    testset = dataset_cls(root=args.data_dir, train=False,
+                          download=True, transform=transform_test)
     testloader = torch.utils.data.DataLoader(testset, batch_size=args.batch_size,
                                              shuffle=False, num_workers=2,
                                              pin_memory=True)
@@ -96,7 +104,7 @@ def load_cifar10():
 def generate_teacher_model():
     """Generate full precision ResNet-20 teacher model"""
     import model.fracbnn_cifar10 as m
-    return m.fp_resnet20(num_classes=10)
+    return m.fp_resnet20(num_classes=NUM_CLASSES)
 
 #----------------------------
 # Train the teacher model

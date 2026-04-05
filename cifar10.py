@@ -29,7 +29,10 @@ candidates = [
 #----------------------------
 # Argument parser.
 #----------------------------
-parser = argparse.ArgumentParser(description='PyTorch CIFAR-10 Training')
+parser = argparse.ArgumentParser(description='PyTorch CIFAR-10/100 Training')
+parser.add_argument('--dataset', type=str, default='cifar10',
+                    choices=['cifar10', 'cifar100'],
+                    help='dataset to train on (default: cifar10)')
 parser.add_argument('--model_id', '-id', type=int, default=0)
 parser.add_argument('--gtarget', '-g', type=float, default=0.0)
 parser.add_argument('--init_lr', '-lr', type=float, default=1e-3)
@@ -87,6 +90,7 @@ if args.model_id < 0 or args.model_id >= len(candidates):
                      f"Available models: {', '.join([f'{i}={c}' for i, c in enumerate(candidates)])}")
 
 _ARCH = candidates[args.model_id]
+NUM_CLASSES = 100 if args.dataset == 'cifar100' else 10
 # InputEncoder now supports dynamic batch sizes, so keep all samples.
 drop_last = False
 
@@ -131,7 +135,7 @@ def build_scheduler(optimizer):
     )
 
 
-def apply_mixup(inputs, labels, num_classes=10):
+def apply_mixup(inputs, labels, num_classes=NUM_CLASSES):
     alpha = resolve_mixup_alpha()
     if alpha <= 0.0:
         return inputs, labels, None
@@ -162,9 +166,9 @@ def should_run_eval(epoch_idx):
 
 
 #----------------------------
-# Load the CIFAR-10 dataset.
+# Load the CIFAR dataset.
 #----------------------------
-def load_cifar10():
+def load_dataset():
     normalize = transforms.Normalize(mean=[0.485, 0.456, 0.406],
                                      std=[0.229, 0.224, 0.225])
     transform_train_list = [
@@ -174,7 +178,6 @@ def load_cifar10():
     ]
     transform_test_list = [transforms.ToTensor()]
 
-    # Don't normalize for models with binary input encoder (binput and adaptive-pg)
     if 'binput' not in _ARCH and 'adaptive' not in _ARCH:
         transform_train_list.append(normalize)
         transform_test_list.append(normalize)
@@ -195,21 +198,20 @@ def load_cifar10():
     if num_workers > 0:
         loader_kwargs['prefetch_factor'] = 4
 
-    # pin_memory=True makes transferring data from host to GPU faster
-    trainset = torchvision.datasets.CIFAR10(root=args.data_dir, train=True,
-                                            download=True, transform=transform_train)
+    dataset_cls = torchvision.datasets.CIFAR100 if args.dataset == 'cifar100' else torchvision.datasets.CIFAR10
+    print(f"Loading {args.dataset.upper()} ({NUM_CLASSES} classes)")
+
+    trainset = dataset_cls(root=args.data_dir, train=True,
+                           download=True, transform=transform_train)
     trainloader = torch.utils.data.DataLoader(trainset, shuffle=True, **loader_kwargs)
 
-    testset = torchvision.datasets.CIFAR10(root=args.data_dir, train=False,
-                                           download=True, transform=transform_test)
+    testset = dataset_cls(root=args.data_dir, train=False,
+                          download=True, transform=transform_test)
     testloader = torch.utils.data.DataLoader(testset, shuffle=False, **loader_kwargs)
-
-    classes = ('plane', 'car', 'bird', 'cat',
-               'deer', 'dog', 'frog', 'horse', 'ship', 'truck')
 
     print(f"Using {num_workers} dataloader workers")
 
-    return trainloader, testloader, classes
+    return trainloader, testloader
 
 
 #----------------------------
@@ -220,9 +222,9 @@ def generate_model(model_arch):
     num_gpus = max(1, torch.cuda.device_count())
     
     if 'binput-pg' == model_arch:
-        return m.resnet20(batch_size=args.batch_size, num_gpus=num_gpus)
+        return m.resnet20(num_classes=NUM_CLASSES, batch_size=args.batch_size, num_gpus=num_gpus)
     elif 'adaptive-pg' in model_arch:
-        return m.resnet20(batch_size=args.batch_size, num_gpus=num_gpus,
+        return m.resnet20(num_classes=NUM_CLASSES, batch_size=args.batch_size, num_gpus=num_gpus,
                          adaptive_pg=True, target_sparsity=args.target_sparsity)
     else:
         raise NotImplementedError("Model architecture is not supported.")
@@ -230,7 +232,7 @@ def generate_model(model_arch):
 def generate_teacher_model():
     """Generate teacher model for knowledge distillation"""
     import model.fracbnn_cifar10 as m
-    return m.fp_resnet20(num_classes=10)
+    return m.fp_resnet20(num_classes=NUM_CLASSES)
 
 
 #----------------------------
@@ -346,7 +348,7 @@ def train_model(trainloader, testloader, net,
             teacher_feats.clear()
             inputs = data[0].to(device, non_blocking=True)
             labels = data[1].to(device, non_blocking=True)
-            inputs, hard_labels, soft_targets = apply_mixup(inputs, labels, num_classes=10)
+            inputs, hard_labels, soft_targets = apply_mixup(inputs, labels)
 
             # zero the parameter gradients
             optimizer.zero_grad(set_to_none=True)
@@ -461,7 +463,7 @@ def train_model(trainloader, testloader, net,
                 if args.save:
                     print("Saving checkpoint.")
                     this_file_path = os.path.dirname(os.path.abspath(__file__))
-                    save_folder = os.path.join(this_file_path, 'save_CIFAR10_model')
+                    save_folder = os.path.join(this_file_path, f'save_{args.dataset.upper()}_model')
                     suffix = _ARCH + '-finetune' if args.finetune else _ARCH
                     util.save_models(best_model, save_folder, suffix=suffix)
                     states = {'epoch': epoch + 1,
@@ -495,7 +497,7 @@ def test_accu(testloader, net, device, model_for_eval=None):
             correct += (predicted == labels).sum().item()
 
     accuracy = 100.0 * correct / total
-    print('Accuracy of the network on the 10000 test images: %.1f %%' % accuracy)
+    print('Accuracy of the network on the %d test images: %.1f %%' % (total, accuracy))
     return accuracy
 
 
@@ -671,7 +673,7 @@ def main():
     # Prepare Data
     #-----------------
     print("Loading the data.")
-    trainloader, testloader, classes = load_cifar10()
+    trainloader, testloader = load_dataset()
 
     #-----------------
     # Test
